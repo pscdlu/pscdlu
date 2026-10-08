@@ -1,0 +1,40 @@
+- S1-Q38: DATED: cites UGC CBCS guidelines of 2015; guide should note later CCFUP 2022/NEP frameworks — verify current framing.
+- S1-Q41: DATED: names ShodhShuddhi as plagiarism-detection service; verify current status/tool of INFLIBNET's scheme.
+- S3-Q18: DOUBT: attribution variously given as Hunt, Bigge, or Bigge and Hunt; guide should present both names.
+- S4-Q22: DATED: certification fee and credit-transfer rules (UGC SWAYAM regulations) change; verify current position.
+- S4-Q23: DATED: credit-hour equivalence stated per CBCS 2015; UGC CCFUP 2022/NCrF express credits as 15 contact hours (30 for practicals) per semester — guide should present current norm.
+- S5-Q28: DOUBT: tripolar process is often given as teacher-learner-curriculum (Bloom's tripolar: objectives, learning experiences, evaluation is a different triad); guide should distinguish the two tripolar notions.
+- S6-Q40: DOUBT: classic maxims list 'known to unknown' as a maxim; guide must distinguish the analytic method (unknown to known) from the maxim known-to-unknown to avoid confusing students. Outline has no clear home for analytic/synthetic methods (placed in 1.6).
+- S7-Q45: DATED: reflects UGC CBCS 2015 guidelines; CCFUP 2022 renames categories (AEC, SEC, VAC) - guide should present 2015 scheme as the CBCS answer and note the newer framework.
+- S8-Q16: WRONG?: explanation says 'the first statement interprets a score' but the key (C) is the third option; wording of the explanation is inconsistent with the key and should read 'option (C)'.
+- S8-Q23: DOUBT: outline lists personalised system of instruction in 4.2 but Keller Plan in 4.4; guide should treat PSI and Keller Plan in one place.
+- S8-Q36: DATED: list of SWAYAM national coordinators (count and roles) changes over time - verify current list on swayam.gov.in.
+- S9-Q6: DOUBT: explanation says RCEM specifies seventeen mental processes; sources vary on the count - verify before the guide states a number.
+- S10-Q13: DOUBT: the 15-20 minute attention-span claim is widely taught but its research basis is contested (e.g. Wilson & Korn 2007; Bradbury 2016); guide may present it as conventional advice.
+- S11-Q8: DATED: grade scale per UGC CBCS guidelines (2015); universities may vary minimum pass grade — verify current UGC/NEP wording
+- S11-Q34: DATED: terminology from UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations 2016/2021 — verify current regulation wording
+- S12-Q15: DOUBT: autonomous development level is a lesser-known Bigge category (Bigge & Shermis); verify description before teaching it
+- S12-Q33: DOUBT: UGC CBCS formula uses all courses taken; university practice on counting failed courses varies — verify wording in UGC guidelines
+- S12-Q43: DATED: classification per UGC CBCS guidelines (2015); CCFUP 2022 uses different course categories — verify which framework the guide presents
+- S13-Q39: DATED: per UGC CBCS guidelines 2015 — verify still current
+- S13-Q46: DATED: says SWAYAM PRABHA has 48 channels citing MoE PIB note on PM e-Vidya, March 2026 (launched 2017 with 32; later 40) — verify current figure and source
+- S14-Q29: DATED: ONOS operational from 2025 and replacing e-ShodhSindhu — verify current status
+- S15-Q16: DOUBT: attributes reflective level to Hunt; attribution varies across texts (Hunt, Bigge, Hunt and Bigge) — guide should present consistently
+- S15-Q24: DATED: credit-transfer limit (40% under 2021 Regulations, 20% under 2016) — verify no later amendment (e.g. NEP/ABC-related changes)
+- S16-Q27: NEW?: NAD and ABC fit across 4.6 and 6.7; ensure guide names NAD (currently not in outline). Verify current NAD-DigiLocker arrangement.
+- S16-Q39: NEW?: analytic-synthetic method not explicitly in 4.4 list; add to 4.4 or 1.6 (maxim analysis to synthesis).
+- S16-Q45: DATED: says ten National Coordinators citing MoE March 2026 note on PM e-Vidya (older sources list nine; INI addition) — verify current list and count.
+- S16-Q49: DOUBT: claim that F/Ab credits still count in SGPA calculation follows the UGC illustration but practice varies by university — verify wording.
+- S17-Q6: NEW?: outcome-based education (CO/PO attainment, direct/indirect tools) not in outline; consider adding to 6.3 or 6.9.
+- S17-Q40: DATED: uses 2015 UGC CBCS course categories (AECC/SEC/DSE/GE); CCFUP 2022 renamed/reshaped these (AEC, SEC, VAC, MDC) — guide should present both and note which framework the question assumes.
+- S18-Q2: DATED: credit-transfer ceiling (20%/40%) depends on UGC regulations version (2016, 2021) — guide should give the current limit with date.
+- S18-Q36: NEW?: NEP 2020 teacher-education provisions not explicit in outline; place in 1.10 or 1.8.
+- S18-Q37: NEW?: OBE attainment calculation not in outline; add under 6.3 or 6.9.
+- S19-Q7: DOUBT: some sources (and HOTS lists) treat Apply as higher-order; question defines the convention in its stem, so answer is safe, but guide should note the varying convention.
+- S19-Q37: NEW?: open and distance learning self-learning materials not in outline; add to 4.5 or 5.4.
+- S19-Q50: SCOPE: research/publication ethics is Unit II material; 1.10 must explicitly cover authorship ethics if this item stays in Unit I.
+- S20-Q8: NEW?: action research not in outline; could sit in 1.2 (post-active) or 4.4.
+- S20-Q19: SCOPE: research-design content (Unit II); map to 1.2 teaching variables only if guide covers experimental control briefly.
+- S20-Q23: DOUBT: assumes the cleared grade replaces F in the same semester's SGPA; universities differ on whether supplementary results revise the original SGPA — verify convention.
+- S20-Q26: DOUBT: explanation places master's at 6.5 only; NHEQF also places some master's (e.g. after 4-year UG / M.Tech) at level 7 — verify level table before teaching.
+- S20-Q28: NEW?: programme evaluation models (CIPP) not in outline; add to 6.1 or 6.3.
