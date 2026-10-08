@@ -1,0 +1,25 @@
+::front How to use this guide
+Dear student, this guide teaches Unit I of Paper 1, Teaching Aptitude (शिक्षण अभिवृत्ति). It is written for you if you are studying alone, without coaching, and perhaps in a second language. Read it slowly. Every paragraph is here because a question can be asked on it.
+This guide has a partner: the **MCQ booklet** for Unit I, with 1,000 questions in 20 sets. The guide teaches; the booklet tests. You will move between the two many times.
+::h How each section is built
+Every section of the guide has the same parts, always in the same order, so that you always know where to look.
+- **Exam footprint.** One line on how often the topic is asked and in what form. It tells you how much effort the topic deserves.
+- **Core.** The explanation in plain words, with a table where things are compared, and an example from an Indian college or university classroom. A key term is followed, the first time it appears, by its Hindi equivalent in brackets, so that you can connect it with Hindi books and with the Hindi version of the question paper.
+- **Often confused.** The pairs that examiners use to trap candidates, with the one difference that decides between them.
+- **Fact watch.** Dates, figures and official positions that change with time. Each one says when it was checked. Not every section has one.
+- **Going Further.** The finer points, the less familiar names and the calculations that the harder booklet sets (11 to 20) need. Leave this layer for your second reading.
+- **Check yourself.** Five to eight new questions in the formats of the real paper. The answers, with a short reason, are at the end of each chapter.
+::h When you get a booklet question wrong
+At the back of this guide is the **Booklet Index**. For each of the 20 sets it gives, against every question number, the section of this guide that teaches the answer. If you get Question 23 of Set 6 wrong, look up Set 6, find 23, and read that section again. Do this every time. It is the fastest way to close a gap.
+::h A word about facts
+Students memorise what a guide says, so every name, date and figure in this guide has been checked against official or standard sources. Where a fact has changed, the guide gives the present position, says when it was checked, and names the older figure that you may still find in other books. If an older book disagrees with this guide on such a point, this guide is the more recent. Before your examination, look at the page "Facts to recheck before your examination" at the end.
+None of the questions in this guide is copied from a question paper, a book or coaching material. All are written afresh for practice, in the same formats as the real paper.
+::front Your study route
+Follow these seven steps in order. Tick each one when it is done.
+1. Read the Core layer of every chapter, answering each "Check yourself" as you go.
+2. Attempt booklet Sets 1 to 6. After each set, use the booklet index to reread the section behind every wrong answer.
+3. Attempt Sets 7 to 10. These sit at the level of the real paper.
+4. Read the Going Further layer of every chapter.
+5. Attempt Sets 11 to 14, rereading by the index as before.
+6. Revise from the confusable-pairs table and the revision sheets, then attempt Sets 15 to 17.
+7. Treat Sets 18 to 20 as stretch practice. A modest score there is no sign of being unready.
