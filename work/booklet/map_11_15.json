@@ -1,0 +1,2252 @@
+[
+ {
+  "id": "S11-Q1",
+  "section": "3.6",
+  "concept": "Learning environment has distinct physical and psychological components",
+  "must_teach": "A threatening (psychological) climate lowers participation because students fear ridicule or punishment. Physical conditions such as lighting and ventilation also affect attention, but they are a separate component of the environment.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q2",
+  "section": "2.8",
+  "concept": "Gardner's multiple intelligences: independence, eight intelligences, critique of single IQ",
+  "must_teach": "Gardner (1983) proposed seven relatively independent intelligences and later added the naturalistic. He criticised schools for favouring linguistic and logical-mathematical intelligence, and his theory rejects describing a learner by a single IQ score.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q3",
+  "section": "1.5",
+  "concept": "Memory-level (rote) learning is poorly retained and transferred",
+  "must_teach": "Memory-level teaching alone produces rote learning that is soon forgotten and seldom transferred, because material learnt without relationships has few anchors in cognitive structure (Ausubel's point). Understanding links new ideas to existing ones.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q4",
+  "section": "6.3",
+  "concept": "Formative vs summative evaluation: purpose, informality, stakes, use of results",
+  "must_teach": "Formative evaluation gives feedback during learning and may be informal (questioning, observation); summative evaluation is high-stakes and used for grading and certification. The same instrument can be formative or summative depending on how results are used.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q5",
+  "section": "1.3",
+  "concept": "Outcome-based education designs down from intended outcomes",
+  "must_teach": "In outcome-based education curriculum design begins with intended learning outcomes; content, teaching activities and assessment are then derived and aligned with them. Content-first, staff-first or time-first planning is the traditional practice OBE replaced.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q6",
+  "section": "1.5",
+  "concept": "Indicators distinguishing memory-level from understanding-level outcomes",
+  "must_teach": "Reproducing a statement without being able to give an own example shows memory level only. Restating in own words, relating to earlier ideas and applying to problems show understanding; explaining limits of a law goes further, towards reflection.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q7",
+  "section": "2.9",
+  "concept": "Tomlinson's differentiated instruction: content, process, product, environment",
+  "must_teach": "Tomlinson's differentiated instruction varies content (what is learnt), process (how learners make sense of it), product (how they show learning) and learning environment. Letting students show learning by essay, concept map or presentation differentiates the product.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q8",
+  "section": "6.7",
+  "concept": "UGC CBCS ten-point letter grades and grade points",
+  "must_teach": "UGC CBCS ten-point scale: O=10, A+=9, A=8, B+=7, B=6, C=5, P=4, F=0 (Ab=0). P (Pass) is the lowest passing grade with 4 points; C (Average) carries 5 and B (Above Average) 6.",
+  "format": "single",
+  "layer": "Core",
+  "flag": "DATED: grade scale per UGC CBCS guidelines (2015); universities may vary minimum pass grade — verify current UGC/NEP wording"
+ },
+ {
+  "id": "S11-Q9",
+  "section": "1.5",
+  "concept": "Teacher's role at reflective level: democratic guide sharpening inquiry",
+  "must_teach": "At the reflective level the teacher is neither authority supplying answers nor passive bystander; she keeps inquiry rigorous by asking for evidence and counter-examples so students revise conclusions themselves.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q10",
+  "section": "4.3",
+  "concept": "Panel discussion vs symposium",
+  "must_teach": "In a panel discussion a few experts converse informally without prepared speeches under a moderator, then take audience questions. In a symposium each speaker delivers a prepared talk on one aspect in turn, without conversing.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q11",
+  "section": "4.6",
+  "concept": "Agencies behind e-PG Pathshala, Shodhganga, NPTEL, DIKSHA",
+  "must_teach": "e-PG Pathshala is a UGC initiative under NME-ICT for PG e-content; Shodhganga is INFLIBNET's thesis repository; NPTEL was started (2003) by the IITs and IISc, not NCERT; DIKSHA serves school education.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q12",
+  "section": "1.8",
+  "concept": "Basic requirements of teaching: knowing entry behaviour; subject mastery",
+  "must_teach": "A teacher must assess learners' entry behaviour so new learning begins where learners are; subject mastery is a separate basic requirement and does not explain the need to study learners.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q13",
+  "section": "4.3",
+  "concept": "Osborn's rules of brainstorming: defer judgement, seek quantity",
+  "must_teach": "Osborn's brainstorming rules: defer judgement/criticism until generation is over, aim for quantity of ideas, welcome unusual ideas, and combine/build on others' ideas. Evaluation and quality sorting come afterwards.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q14",
+  "section": "6.8",
+  "concept": "Computer adaptive testing item banks calibrated using item response theory",
+  "must_teach": "CAT needs item parameters (difficulty, discrimination) on a sample-independent scale so candidates answering different items can be compared; item response theory provides this. Classical test theory statistics are sample-dependent.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q15",
+  "section": "1.4",
+  "concept": "Revised taxonomy table: cognitive process × knowledge dimension",
+  "must_teach": "In Anderson and Krathwohl's taxonomy table the verb gives the cognitive process and the noun the knowledge type (factual, conceptual, procedural, metacognitive). Knowledge of how to carry out a procedure is procedural; 'apply the procedure' sits at Apply × procedural.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q16",
+  "section": "1.9",
+  "concept": "Joyce and Weil families and representative models",
+  "must_teach": "Information-processing family includes Suchman's inquiry training; social family includes Thelen's group investigation; personal family includes Rogers's non-directive teaching; behavioural family includes contingency management (Skinner).",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q17",
+  "section": "2.4",
+  "concept": "VARK by Fleming; weak evidence for learning-style meshing",
+  "must_teach": "Neil Fleming developed VARK (1987). Research reviews (e.g. Pashler et al. 2008) find little sound evidence that matching teaching to a diagnosed style raises achievement; varying methods for all is the defensible practice.",
+  "format": "two-statement",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q18",
+  "section": "5.2",
+  "concept": "Chalkboard advantage: developing material step by step at class pace",
+  "must_teach": "The chalkboard suits content that unfolds during the lesson (derivations, step-by-step working) at students' pace and can be altered in response to questions. Photographs, recordings and large prepared tables are better shown with projected or digital aids.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q19",
+  "section": "1.8",
+  "concept": "TPACK framework (Mishra and Koehler) vs SAMR, ADDIE, ASSURE",
+  "must_teach": "TPACK (Mishra and Koehler, 2006) describes teacher knowledge at the intersection of technology, pedagogy and content, extending Shulman's PCK. SAMR classifies levels of technology use; ADDIE and ASSURE are instructional design models.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q20",
+  "section": "1.4",
+  "concept": "Order of Simpson's psychomotor taxonomy levels",
+  "must_teach": "Simpson's psychomotor levels in order: perception, set, guided response, mechanism, complex overt response, adaptation, origination. Set (readiness) precedes guided response; mechanism (habit) follows it.",
+  "format": "sequence",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q21",
+  "section": "4.4",
+  "concept": "In-basket exercise as simulation technique for decision-making",
+  "must_teach": "The in-basket (in-tray) exercise is a simulation in which a trainee handles realistic letters and memos under time pressure, then decisions are discussed. Sociodrama enacts a group social problem; role reversal has two persons exchange roles; buzz sessions are small quick group discussions.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q22",
+  "section": "2.6",
+  "concept": "Dweck's fixed vs growth mindset (entity vs incremental theory)",
+  "must_teach": "Carol Dweck: fixed mindset (entity theory) holds ability is unchangeable, so learners avoid challenge and read failure as low ability; growth mindset (incremental theory) holds ability grows with effort. Praising effort and strategy fosters growth mindset.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q23",
+  "section": "1.4",
+  "concept": "Classifying objectives into revised Bloom levels by verb",
+  "must_teach": "Listing features is Remember; using a learnt procedure on a new case is Apply; distinguishing categories (differentiating) is Analyse; drafting something new is Create.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q24",
+  "section": "6.4",
+  "concept": "MCQ flaw: longer, qualified correct option cues test-wise examinees",
+  "must_teach": "When the key is longer or more qualified than distractors, test-wise examinees pick it, so the item rewards test-wiseness, lowering validity and discrimination. Options should be similar in length, grammar and detail.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q25",
+  "section": "1.1",
+  "concept": "Training is narrower than teaching; their respective aims",
+  "must_teach": "Training builds specific skills through practice and is narrower; teaching includes skill but also aims at understanding, attitudes and critical judgement.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q26",
+  "section": "1.8",
+  "concept": "Skill of explaining: explaining links",
+  "must_teach": "Components of the skill of explaining include explaining links (because, therefore, hence, as a result), clarity, fluency, beginning and concluding statements, and testing understanding. Planned repetition and stimulus variation and set induction are other skills/components serving different purposes.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q27",
+  "section": "4.1",
+  "concept": "Group size and control in lecture, tutorial, programmed instruction, brainstorming",
+  "must_teach": "Lecture is large-group and teacher-centred; tutorial is small-group and remedial with a tutor; programmed instruction is individualised and self-paced; brainstorming is group generation of ideas.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q28",
+  "section": "4.5",
+  "concept": "Synchronous vs asynchronous online learning",
+  "must_teach": "Synchronous learning requires participants online at the same time (live classes, webinars). Asynchronous learning frees learners from a common timetable, using recorded lectures, forums and email at each learner's convenience.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q29",
+  "section": "6.2",
+  "concept": "Methods of estimating reliability; Kuder-Richardson for dichotomous items",
+  "must_teach": "Kuder-Richardson formulas (KR-20, KR-21) estimate internal consistency from one administration of a test with items scored 1/0. Test-retest needs two administrations; parallel forms needs two versions; inter-rater compares scorers; split-half also uses one administration.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q30",
+  "section": "4.4",
+  "concept": "Project method correlates subjects, departs from fixed subject periods",
+  "must_teach": "The project method (Kilpatrick) centres on a purposeful real-life activity that draws on several subjects together, so it promotes correlation; it does not follow a timetable of separate fixed subject periods.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q31",
+  "section": "1.6",
+  "concept": "Maxim from empirical to rational",
+  "must_teach": "'Empirical to rational' moves from knowledge based on observation and experience to reasoned explanation and proof. 'Particular to general' builds a rule from several cases; 'whole to part' and 'analysis to synthesis' are separate maxims.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q32",
+  "section": "1.8",
+  "concept": "Three phases of micro-teaching: knowledge acquisition, skill acquisition, transfer",
+  "must_teach": "Micro-teaching phases: knowledge acquisition (reading, discussion, observing a model lesson), skill acquisition (plan, teach, feedback, re-plan, re-teach), and transfer (using the skill in real classroom teaching).",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q33",
+  "section": "2.3",
+  "concept": "Shaping: reinforcing successive approximations (Skinner)",
+  "must_teach": "Shaping reinforces successive approximations to a target behaviour, raising the requirement gradually. Chaining links separate responses into a sequence; modelling is learning by imitation; fading gradually withdraws prompts.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q34",
+  "section": "4.6",
+  "concept": "SWAYAM credit transfer: parent institution vs host institution",
+  "must_teach": "Under UGC's SWAYAM credit framework regulations, the parent institution is where the student is enrolled and incorporates the credits; the host institution is the one whose faculty offers the course.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": "DATED: terminology from UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations 2016/2021 — verify current regulation wording"
+ },
+ {
+  "id": "S11-Q35",
+  "section": "2.2",
+  "concept": "Ausubel's subsumption and subsumers",
+  "must_teach": "Ausubel saw cognitive structure as hierarchical; meaningful learning occurs when new specific material is subsumed under an existing inclusive concept (subsumer); advance organisers supply or activate subsumers. Accommodation is Piaget's term for modifying a schema.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q36",
+  "section": "2.2",
+  "concept": "Piaget's formal operations: approximate age, uneven attainment",
+  "must_teach": "Formal operational thought (from about 11-12) involves abstract and hypothetical reasoning. Piaget's ages are approximate, and he later accepted that many adolescents and adults use formal reasoning only in familiar fields, not uniformly.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q37",
+  "section": "1.3",
+  "concept": "Mager's behavioural objective: performance, condition, criterion",
+  "must_teach": "A behavioural objective states the learner's observable performance, not the teacher's activity. Mager's three parts are performance, condition and criterion (e.g. label parts / on a given diagram / with not more than one error).",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q38",
+  "section": "3.7",
+  "concept": "Institution-related factors vs teacher-related factors",
+  "must_teach": "Institution-related factors include class size (admission and sectioning policies), evaluation policy, timetable, resources and administration. Subject mastery is a teacher-related factor, though the institution can support it.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q39",
+  "section": "6.5",
+  "concept": "Scales of measurement: ranks are ordinal",
+  "must_teach": "Nominal scales label categories; ordinal scales show order without equal differences (ranks); interval scales have equal units; ratio scales have equal units and a true zero.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q40",
+  "section": "6.9",
+  "concept": "Authentic (performance-based) assessment",
+  "must_teach": "Authentic assessment uses tasks reproducing real-world conditions (real product, audience, deadline). Portfolio assessment collects work over time; ipsative assessment compares a learner with his or her own earlier performance; objective assessment uses fixed-answer items.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q41",
+  "section": "4.3",
+  "concept": "Team teaching: shared planning, teaching and evaluation",
+  "must_teach": "Team teaching means a group of teachers jointly plan, teach and evaluate the same students, typically combining large-group lectures, small-group discussion and independent study. A tutorial system merely supplements one teacher's lectures; peer tutoring uses students as tutors.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q42",
+  "section": "6.4",
+  "concept": "Computing facility value and discrimination index in item analysis",
+  "must_teach": "Facility (difficulty) value = (RU + RL) / (NU + NL), e.g. 30/50 = 0.60. Discrimination index = (RU - RL) / N of one group, e.g. 10/25 = 0.40.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q43",
+  "section": "2.3",
+  "concept": "Bandura's vicarious reinforcement",
+  "must_teach": "Vicarious reinforcement: an observer's behaviour increases after seeing a model rewarded. Direct reinforcement rewards the learner herself; self-reinforcement is rewarding oneself for meeting one's own standard; negative reinforcement removes an aversive stimulus.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q44",
+  "section": "3.5",
+  "concept": "Instructional facilities distinct from support material",
+  "must_teach": "Instructional facilities are infrastructure provided by the institution (networks, terminals, labs, libraries); support material is the learning content and aids (e.g. e-journals). Availability of material is useless without facilities to access it.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q45",
+  "section": "6.3",
+  "concept": "Norm-referenced vs criterion-referenced use of tests",
+  "must_teach": "Selecting a fixed number of top scorers is norm-referenced (cut-off floats with rank); passing all who reach a fixed standard is criterion-referenced (number passing floats).",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q46",
+  "section": "2.2",
+  "concept": "Vygotsky's ZPD and the more capable peer",
+  "must_teach": "Vygotsky defined the zone of proximal development as the gap between what a learner can do alone and with help from adults or more capable peers; a slightly more advanced peer tutor can scaffold within this zone, aiding the tutee's cognitive development.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q47",
+  "section": "3.2",
+  "concept": "Golem effect vs Pygmalion, halo, Hawthorne effects",
+  "must_teach": "The Golem effect: low teacher expectations lead to treatment (less wait time, fewer hints) that lowers performance. The Pygmalion effect is the positive version (high expectations raise performance). Halo effect is a rating bias from one trait; Hawthorne effect is change due to being observed.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q48",
+  "section": "1.1",
+  "concept": "Relationship between teaching and learning",
+  "must_teach": "Teaching is a means and learning the end; teaching is judged by the learning it produces; learning is both process and product. Not all learning results from teaching, since much is learnt through experience.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q49",
+  "section": "2.7",
+  "concept": "Knowles's andragogical assumptions and teaching implications",
+  "must_teach": "Self-concept (self-directing) implies involving adults in planning; experience implies discussion and case methods drawing on it; readiness to learn follows social-role demands so timing matters; orientation to learning is problem-centred so content is organised around problems.",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S11-Q50",
+  "section": "1.5",
+  "concept": "Morrison's unit and five steps of understanding-level teaching",
+  "must_teach": "Morrison organised content into units (significant wholes) taught through exploration, presentation, assimilation (supervised study; teacher supervisory), organisation (pupils write an unaided outline) and recitation (last step).",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q1",
+  "section": "4.6",
+  "concept": "Purpose of e-PG Pathshala, Shodhganga, Shodhgangotri, DIKSHA, Virtual Labs",
+  "must_teach": "e-PG Pathshala: curriculum-based PG e-content. Shodhganga: repository of submitted theses. Shodhgangotri: synopses of approved/ongoing research. DIKSHA: school education. Virtual Labs: simulated science and engineering experiments.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q2",
+  "section": "1.7",
+  "concept": "Good teaching is diagnostic and remedial because learners differ",
+  "must_teach": "Good teaching locates learners' difficulties (diagnostic) and helps overcome them (remedial), precisely because learners differ in pace, style and background; it does not assume all learn alike.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q3",
+  "section": "6.9",
+  "concept": "Learning benefit of peer assessment against a rubric",
+  "must_teach": "Assessing a peer's work against a rubric makes the assessor apply the criteria, clarifying standards of good work and improving his or her own later work; reduced marking load is a benefit to the teacher, not the learner.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q4",
+  "section": "4.4",
+  "concept": "Polya's four steps of problem solving",
+  "must_teach": "Polya (How to Solve It): understand the problem, devise a plan, carry out the plan, look back (check and reflect).",
+  "format": "sequence",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q5",
+  "section": "2.3",
+  "concept": "Lewin's field theory: B = f(P, E), life space",
+  "must_teach": "Lewin's field theory: behaviour is a function of the person and the psychological environment as perceived (together the life space); learning is change in cognitive structure of the life space. Practice and effect belong to Thorndike's connectionism.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q6",
+  "section": "2.9",
+  "concept": "Characteristics of gifted, slow learners, SLD, underachievers",
+  "must_teach": "Gifted learners need enrichment or acceleration; slow learners have somewhat below-average general ability; specific learning disabilities (e.g. dyslexia) occur despite average or above-average intelligence; underachievers perform below measured potential.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q7",
+  "section": "1.2",
+  "concept": "Teaching variables: independent (teacher), dependent (learner), intervening",
+  "must_teach": "The teacher is the independent variable, the learner the dependent variable acting per the teacher's planning, and content, methods and strategies are intervening variables through which the learner's behaviour is changed.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q8",
+  "section": "4.3",
+  "concept": "Tutorial's remedial function",
+  "must_teach": "Tutorials deal with individual and small-group difficulties lectures cannot reach; diagnosing a shared misconception and giving targeted exercises is remedial. Summative grades, placement assigns position, prognostic predicts future performance.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q9",
+  "section": "2.3",
+  "concept": "Operant consequences: negative punishment (response cost)",
+  "must_teach": "Punishment reduces behaviour: positive punishment adds something unpleasant; negative punishment (response cost) removes something pleasant. Reinforcement increases behaviour; negative reinforcement removes something unpleasant. Extinction withholds reinforcement.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q10",
+  "section": "6.3",
+  "concept": "Diagnostic evaluation vs formative 'first aid' (Gronlund)",
+  "must_teach": "Gronlund: formative evaluation gives quick feedback and correction ('first aid'); diagnostic evaluation probes persistent difficulties for underlying causes with specially designed tests to plan remediation. Prognostic evaluation forecasts future success; placement assigns starting position.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q11",
+  "section": "1.6",
+  "concept": "Inductive then deductive approach",
+  "must_teach": "Inferring a rule from examples is induction; applying the rule to new cases is deduction. Good teaching usually combines them, induction first for understanding then deduction for practice.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q12",
+  "section": "2.7",
+  "concept": "Mezirow's transformative learning",
+  "must_teach": "Mezirow's transformative learning begins with a disorienting dilemma, proceeds by critical reflection on assumptions and ends in a changed frame of reference. Kolb's cycle explains learning from experience generally; Knowles's andragogy concerns adult learner assumptions; Lave and Wenger's situated learning concerns communities of practice.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q13",
+  "section": "1.4",
+  "concept": "Bloom's comprehension sub-categories: translation, interpretation, extrapolation",
+  "must_teach": "In Bloom's original taxonomy, Comprehension comprises translation (changing form), interpretation (explaining/summarising) and extrapolation (extending trends beyond data to predict). Predicting from a graph's trend is extrapolation.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q14",
+  "section": "6.4",
+  "concept": "Distractor analysis: distractor attracting high scorers",
+  "must_teach": "A good distractor attracts more low scorers than high scorers. If a distractor attracts more high scorers, it may be ambiguous/defensible or the item miskeyed, and the item must be reviewed.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q15",
+  "section": "1.5",
+  "concept": "Bigge's levels including autonomous development level",
+  "must_teach": "Memory level: committing facts to memory; understanding: grasping relationships explained by teacher; reflective: critical exploration of problems; Bigge also described an autonomous development level, permissive, with learners following their own feelings under little direction.",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": "DOUBT: autonomous development level is a lesser-known Bigge category (Bigge & Shermis); verify description before teaching it"
+ },
+ {
+  "id": "S12-Q16",
+  "section": "2.3",
+  "concept": "Gagné's five categories of learning outcomes",
+  "must_teach": "Gagné's learned capabilities: verbal information (stating facts), intellectual skills (using rules and concepts), cognitive strategies (managing own learning/thinking), motor skills, attitudes (choices of personal action).",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q17",
+  "section": "1.4",
+  "concept": "Difficulty of evaluating affective objectives; Krathwohl five levels",
+  "must_teach": "Affective outcomes are hard to evaluate because attitudes and values are internal, develop slowly and can be faked. Krathwohl's affective taxonomy has five levels (receiving, responding, valuing, organisation, characterisation), but this does not explain the difficulty.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q18",
+  "section": "2.1",
+  "concept": "Elkind's adolescent egocentrism: personal fable vs imaginary audience",
+  "must_teach": "Elkind's adolescent egocentrism has two forms: the personal fable (belief in being unique and invulnerable, leading to risk-taking) and the imaginary audience (feeling constantly watched). Foreclosure and moratorium are Marcia's identity statuses.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q19",
+  "section": "4.2",
+  "concept": "Linear, branching programming, mathetics and Keller's PSI",
+  "must_teach": "Skinner's linear programming: all learners follow the same small steps. Crowder's branching: response decides next frame. Gilbert's mathetics: retrogressive (backward) chaining, final step mastered first. Keller's PSI: self-paced units each passed with a student proctor.",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q20",
+  "section": "6.2",
+  "concept": "Concurrent vs predictive criterion-related validity",
+  "must_teach": "Criterion-related validity is concurrent when the criterion is measured at the same time (e.g. established test in same week) and predictive when the criterion lies in the future. Content validity concerns sampling of content; construct validity concerns the underlying trait.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q21",
+  "section": "1.4",
+  "concept": "Revised taxonomy: Create highest, four knowledge types, Understand processes",
+  "must_teach": "In the revised taxonomy Create is the highest process (Synthesis renamed and moved up); the knowledge dimension has four categories (factual, conceptual, procedural, metacognitive); Understand includes interpreting, exemplifying, classifying, summarising, inferring, comparing, explaining.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q22",
+  "section": "1.5",
+  "concept": "Steps of reflective level teaching",
+  "must_teach": "Reflective level teaching follows inquiry: recognise and define the problem, formulate hypotheses, test hypotheses against evidence, draw conclusions.",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q23",
+  "section": "6.9",
+  "concept": "On-demand examination",
+  "must_teach": "In on-demand examination the learner chooses when to take the exam and a unique paper is generated from a question bank per a blueprint; suited to open and distance learning (e.g. NIOS). Adaptive testing adjusts difficulty during the test.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q24",
+  "section": "6.3",
+  "concept": "Assessment as / for / of learning",
+  "must_teach": "Assessment as learning: students themselves monitor work against criteria and regulate learning. Assessment for learning: teacher uses evidence to adjust teaching. Assessment of learning: records achievement at the end.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q25",
+  "section": "6.1",
+  "concept": "Evaluation triangle: objectives, learning experiences, evaluation (Tyler)",
+  "must_teach": "Following Tyler, the evaluation triangle links objectives (intended changes), learning experiences (to produce them) and evaluation (how far they occurred); each influences the others.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q26",
+  "section": "4.6",
+  "concept": "cMOOCs vs xMOOCs",
+  "must_teach": "cMOOCs are connectivist (Siemens, Downes), with learners building and sharing knowledge across networks. xMOOCs are structured courses of instructor video lectures and quizzes on large platforms (e.g. Coursera, edX, SWAYAM).",
+  "format": "two-statement",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q27",
+  "section": "1.4",
+  "concept": "Formulating a hypothesis is Synthesis in Bloom's original taxonomy",
+  "must_teach": "Original Bloom's Synthesis includes producing a unique communication, a plan, or a set of abstract relations (e.g. a hypothesis to account for data); it corresponds to Create in the revised taxonomy. Analysis only breaks material into elements; Evaluation judges against criteria.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q28",
+  "section": "2.4",
+  "concept": "Kagan's cognitive tempo: impulsive vs reflective",
+  "must_teach": "Kagan distinguished impulsive learners (fast, inaccurate) from reflective learners (slow, accurate), measured by the Matching Familiar Figures Test. Field independence (Witkin) concerns separating figure from background; convergent thinking (Guilford) seeks one right answer.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q29",
+  "section": "1.1",
+  "concept": "Thomas Green's teaching continuum",
+  "must_teach": "Thomas Green: training and conditioning shape behaviour; instructing and indoctrinating shape knowledge and belief. On each side the first (training, instructing) is closer to teaching because it engages intelligence; conditioning and indoctrination lie farthest.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q30",
+  "section": "1.5",
+  "concept": "Memory-level teaching: organised material and recall tests",
+  "must_teach": "At the memory level (Herbartian steps), meaningful, organised presentation improves retention; outcomes are evaluated by oral questioning and written recall/recognition tests.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q31",
+  "section": "1.10",
+  "concept": "Plagiarism violates intellectual honesty; academic freedom distinct",
+  "must_teach": "Using a colleague's work without acknowledgement is plagiarism, a breach of intellectual honesty and professional ethics towards colleagues. Academic freedom protects the right to teach, research and publish but gives no right over others' work.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q32",
+  "section": "6.3",
+  "concept": "Norm- and criterion-referencing are interpretations, not test types only",
+  "must_teach": "A criterion-referenced test can be summative (e.g. final mastery test). Norm-referencing is a way of interpreting scores, so teacher-made tests can be norm-referenced, and the same scores can be given both norm- and criterion-referenced interpretations.",
+  "format": "multi",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q33",
+  "section": "6.7",
+  "concept": "Computing SGPA including failed courses",
+  "must_teach": "SGPA = Σ(credits × grade points) / Σ credits of all courses taken, including failed courses (F = 0 stays in the denominator). E.g. (0 + 32 + 12) / 10 = 4.4.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": "DOUBT: UGC CBCS formula uses all courses taken; university practice on counting failed courses varies — verify wording in UGC guidelines"
+ },
+ {
+  "id": "S12-Q34",
+  "section": "1.1",
+  "concept": "Nature of teaching: observable, modifiable, formal/informal, interactive",
+  "must_teach": "Teaching behaviour can be observed, analysed and modified (interaction analysis, micro-teaching); teaching can be formal or informal; teaching is an interactive two-way process depending on feedback, not one-way.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q35",
+  "section": "5.1",
+  "concept": "Integrating audio-visual aids: preview, prepare, follow up",
+  "must_teach": "An aid teaches only when integrated with the lesson: the teacher previews it, sets guiding questions, shows the relevant part and follows with discussion linked to objectives. Mere screening, or replacing the lesson, leaves learning to chance.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q36",
+  "section": "2.6",
+  "concept": "Bandura's self-efficacy and persistence",
+  "must_teach": "Self-efficacy (Bandura) is belief in one's capability to succeed; high self-efficacy leads learners to choose harder tasks, try harder and persist longer, whereas self-doubters give up early.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q37",
+  "section": "4.5",
+  "concept": "Flipped classroom moves first exposure outside class",
+  "must_teach": "In a flipped classroom learners first meet new content outside class through videos or readings, freeing class time for application, discussion and higher-order activities. In-class lecture presentation describes the conventional classroom.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q38",
+  "section": "4.2",
+  "concept": "Lecture method: limits for skills; suitability for large groups",
+  "must_teach": "The lecture is weak for psychomotor skills because skills need learner practice and lecture learners only listen; its suitability for large groups is a separate feature, not the cause.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q39",
+  "section": "5.1",
+  "concept": "Order of bands in Edgar Dale's Cone of Experience",
+  "must_teach": "Dale's cone from concrete base to abstract top: direct purposeful experiences, contrived experiences, dramatised experiences, demonstrations, study trips, exhibits, television, motion pictures, recordings/radio/still pictures, visual symbols, verbal symbols.",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q40",
+  "section": "2.2",
+  "concept": "Bruner: any subject can be taught at any stage; three modes",
+  "must_teach": "Bruner rejected waiting for readiness, claiming any subject can be taught in some intellectually honest form to any child at any stage (spiral curriculum). His modes of representation are enactive, iconic and symbolic.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q41",
+  "section": "1.8",
+  "concept": "Wait-time (Rowe) and equitable distribution of questions",
+  "must_teach": "Mary Budd Rowe found that waiting three seconds or more after a question brings longer, more thoughtful answers from more students. Calling only on volunteers concentrates participation in a few students; questions should be distributed across the class.",
+  "format": "two-statement",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q42",
+  "section": "2.6",
+  "concept": "Motivation theorists: Maslow, Weiner, Atkinson, Bandura",
+  "must_teach": "Maslow: hierarchy of needs. Weiner: attribution theory (causes of success and failure). Atkinson: achievement motivation as motive to succeed (hope of success) vs motive to avoid failure. Bandura: self-efficacy.",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q43",
+  "section": "6.7",
+  "concept": "UGC CBCS course types: dissertation/project as elective",
+  "must_teach": "UGC CBCS guidelines classify courses as core, elective (discipline-specific, generic, dissertation/project) and ability enhancement (AECC, SEC). Dissertation/project is an elective course for special/advanced study done with teacher's advisory support, carrying credits.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": "DATED: classification per UGC CBCS guidelines (2015); CCFUP 2022 uses different course categories — verify which framework the guide presents"
+ },
+ {
+  "id": "S12-Q44",
+  "section": "5.4",
+  "concept": "ICT is a tool; multimedia capability does not guarantee learning",
+  "must_teach": "ICT can combine text, sound, image and animation, but its effect depends on how the teacher designs and uses it; poorly used slides or videos can make learners passive, so ICT does not automatically ensure better learning.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q45",
+  "section": "1.8",
+  "concept": "Computing Flanders' I/D ratio",
+  "must_teach": "In Flanders' FIAC, categories 1-4 are indirect teacher talk and 5-7 direct; I/D ratio = tallies in 1-4 ÷ tallies in 5-7 (e.g. 120/240 = 0.5). A ratio below 1 means more direct influence.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q46",
+  "section": "1.2",
+  "concept": "Interactive-phase decisions are spontaneous; pre-active deliberate",
+  "must_teach": "In the pre-active (planning) phase decisions are calm and rational; in the interactive phase the teacher must respond at once to learners' cues with little time to deliberate, so decisions are spontaneous.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q47",
+  "section": "4.3",
+  "concept": "Features of seminar, symposium, workshop, conference",
+  "must_teach": "A seminar has a chairperson, paper presenter(s) and participants; a symposium has prepared talks and normally ends with audience questions; a workshop stresses hands-on practical work; a conference covers a broad theme through several sessions.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q48",
+  "section": "1.5",
+  "concept": "Morrison's mastery formula",
+  "must_teach": "Morrison's mastery formula: pre-test, teach, test the result, adapt procedure, teach and test again to the point of actual learning. Non-mastery signals a change of teaching procedure, not simple repetition or moving on.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q49",
+  "section": "2.8",
+  "concept": "Sternberg's triarchic theory: analytical, creative, practical",
+  "must_teach": "Sternberg's triarchic theory: analytical (componential) for academic problems, creative (experiential) for novelty, practical (contextual) for adapting to, shaping and selecting everyday environments ('street smarts'). Crystallised intelligence is Cattell's.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S12-Q50",
+  "section": "6.6",
+  "concept": "Relative grading drawback in small uniformly able class",
+  "must_teach": "Relative grading distributes grades by position in the group, so in a small, uniformly able class some good performers must receive low grades; absolute grading uses fixed standards and avoids this.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q1",
+  "section": "3.6",
+  "concept": "Seating arrangement and the classroom action zone",
+  "must_teach": "Seating affects interaction: students in the front and centre ('action zone') interact most with the teacher, and circular seating increases student-to-student talk; back-row students do not participate more.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q2",
+  "section": "4.6",
+  "concept": "SWAYAM features: free learning, fee-based proctored exam, access-equity-quality",
+  "must_teach": "SWAYAM courses are free to study by any learner anywhere; certification requires a fee-based proctored examination; it is designed around the three cardinal principles of access, equity and quality. It is not restricted to IIT students.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q3",
+  "section": "1.6",
+  "concept": "Direction of reasoning in inductive, deductive, analytic, synthetic methods",
+  "must_teach": "Induction: particular to general; deduction: general to particular; analysis: unknown to known (from what is to be found back to data); synthesis: known to unknown.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q4",
+  "section": "2.9",
+  "concept": "Acceleration vs enrichment for gifted learners",
+  "must_teach": "Acceleration moves gifted learners faster through the curriculum (grade skipping, early entry, advanced courses); enrichment adds depth and breadth at the same grade; ability grouping places similar-ability learners together; remediation corrects deficiencies.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q5",
+  "section": "2.2",
+  "concept": "Ausubel's three conditions for meaningful learning",
+  "must_teach": "Ausubel's conditions: logically meaningful material, relevant anchoring ideas in cognitive structure, and a meaningful learning set (intention to relate new to known). Intending only verbatim memorising makes learning rote; reception (lecture) learning can be meaningful.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q6",
+  "section": "6.4",
+  "concept": "Limitations of true-false, matching, essay and MCQ items",
+  "must_teach": "True-false items allow a 50 per cent chance by guessing; matching items suit only homogeneous associations; essay scoring varies between examiners (subjectivity); MCQs need plausible distractors that are hard to write.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q7",
+  "section": "3.5",
+  "concept": "Lack of laboratory affects psychomotor objectives most",
+  "must_teach": "Laboratories provide handling of apparatus, measuring and observing, so their absence prevents psychomotor (manipulative skill) objectives; cognitive knowledge can still be partly gained from lectures. Instructional facilities limit achievable objectives.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q8",
+  "section": "2.6",
+  "concept": "Expectancy-value theory: motivation as product of expectancy and value",
+  "must_teach": "Expectancy-value theory (Atkinson, Eccles, Vroom) holds motivation = expectancy of success × value of goal; if either is near zero motivation is near zero, so a valued but seemingly unattainable goal yields low effort.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q9",
+  "section": "1.8",
+  "concept": "Video recording as most objective micro-teaching feedback",
+  "must_teach": "In micro-teaching, a video recording gives the most objective feedback because it can be replayed and is free from observer memory and bias; supervisor and peer comments are useful but filtered through perception.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q10",
+  "section": "4.3",
+  "concept": "Fishbowl technique vs buzz group, panel, round robin",
+  "must_teach": "Fishbowl: an inner circle discusses while an outer circle observes content and process and later comments, possibly swapping places. Buzz groups are brief simultaneous small-group discussions; panel is experts under a moderator; round robin gives each member a turn.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q11",
+  "section": "1.3",
+  "concept": "OBE levels: course outcomes, programme outcomes, programme educational objectives",
+  "must_teach": "In OBE, course outcomes state what students can do at the end of a course; programme outcomes and programme-specific outcomes state attainments at graduation; programme educational objectives describe what graduates achieve a few years into their careers.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q12",
+  "section": "6.5",
+  "concept": "Achievement test scores lack a true zero",
+  "must_teach": "A ratio scale needs an absolute zero meaning complete absence; tests sample only part of a subject, so a score of zero is not zero knowledge and 80 is not twice 40. Scores do show order.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q13",
+  "section": "1.8",
+  "concept": "Basic requirements of a teacher: subject competence, communication",
+  "must_teach": "Basic requirements of teaching include competence in content, communication skill, understanding of learners and methods. Fair evaluation requires transparency and accountability, not unchecked authority to grade.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q14",
+  "section": "6.3",
+  "concept": "Same examination summative for students, formative for course",
+  "must_teach": "An examination is summative for students when it decides their grades at the end; using its item-wise results to improve the course for the next batch is a formative use. Purpose and user decide the label.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q15",
+  "section": "2.4",
+  "concept": "Honey and Mumford's four learning styles",
+  "must_teach": "Honey and Mumford's styles, linked to Kolb's cycle: activists plunge into experience; reflectors stand back, gather data and observe before concluding; theorists integrate observations into logical theories; pragmatists try ideas out in practice.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q16",
+  "section": "4.4",
+  "concept": "Moreno's sociodrama vs psychodrama",
+  "must_teach": "J. L. Moreno distinguished psychodrama (an individual's private problems, therapeutic) from sociodrama (problems shared by a group or community). Classroom role play on social issues like dowry is sociodrama.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q17",
+  "section": "2.3",
+  "concept": "Schedules of reinforcement and resistance to extinction",
+  "must_teach": "Variable-ratio schedules produce responding most resistant to extinction because the end of reinforcement is not noticed. Continuous reinforcement gives fastest acquisition but fastest extinction; fixed-ratio and fixed-interval schedules are more predictable.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q18",
+  "section": "4.4",
+  "concept": "Armstrong's heuristic method: learner as discoverer",
+  "must_teach": "H. E. Armstrong's heuristic method places the learner in the position of a discoverer, finding things out by own observation and experiment; the teacher sets problems and guides but tells as little as possible.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q19",
+  "section": "5.3",
+  "concept": "Overhead projector advantages vs slide projector and epidiascope",
+  "must_teach": "The OHP projects transparencies brightly in a lit room with the teacher facing the class. Slide projectors need a darkened room; opaque objects need an episcope/epidiascope; OHP needs electricity and shows no motion or sound.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q20",
+  "section": "1.5",
+  "concept": "Understanding level more thoughtful; associated with Morrison",
+  "must_teach": "Understanding level teaching is more thoughtful than memory level because learners see relationships and use principles; the model is associated with Morrison, but the attribution does not explain thoughtfulness.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q21",
+  "section": "3.3",
+  "concept": "Bourdieu's cultural capital as learner-related home factor",
+  "must_teach": "Cultural capital (Bourdieu) is knowledge, language habits and familiarity with educated culture passed on by families and rewarded by institutions; first-generation students lack exposure, not ability. Bridge courses and mentoring help.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q22",
+  "section": "6.2",
+  "concept": "Reliability necessary but not sufficient for validity",
+  "must_teach": "Reliability is consistency; validity is measuring what the test claims. A test can be reliable but not valid (consistently measuring the wrong thing), but cannot be valid without being reliable.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q23",
+  "section": "1.5",
+  "concept": "Limitations of reflective level: maturity prerequisite, time-consuming",
+  "must_teach": "Reflective level teaching presupposes a knowledge base and capacity for abstract reasoning, so it does not suit young or unprepared learners; it is slow and takes more time than memory-level teaching.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q24",
+  "section": "6.2",
+  "concept": "Standard error of measurement as band around obtained score",
+  "must_teach": "The standard error of measurement estimates spread of obtained scores around a person's true score (e.g. 60 ± 3 gives 57-63); higher reliability gives smaller SEM. Standard deviation describes spread across a group.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q25",
+  "section": "6.9",
+  "concept": "Parts of a rubric: criteria, scale levels, descriptors",
+  "must_teach": "A rubric has criteria (aspects judged), a scale of performance levels, and descriptors (wording in each cell describing what that level of that criterion looks like), which make scoring consistent.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q26",
+  "section": "5.4",
+  "concept": "LMS tracks and reports learner progress",
+  "must_teach": "A learning management system (e.g. Moodle) adds enrolment, assignments with deadlines, auto-scored quizzes, grade books and progress tracking and reporting to file storage and sharing; tracking is its distinguishing feature.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q27",
+  "section": "2.2",
+  "concept": "Piaget's centration in pre-operational stage",
+  "must_teach": "Centration is the pre-operational child's focus on one striking feature (e.g. height of water) neglecting others, causing failure on conservation tasks. Conservation, reversibility and seriation appear in the concrete operational stage.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q28",
+  "section": "1.4",
+  "concept": "Order of top levels in original vs revised Bloom",
+  "must_teach": "In Bloom's 1956 taxonomy Evaluation is at the top above Synthesis; in the 2001 revision Create (former Synthesis) is placed above Evaluate. Evaluation means judging value using internal evidence or external criteria.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q29",
+  "section": "3.7",
+  "concept": "Institutional climate affects teacher morale",
+  "must_teach": "Institutional climate (leadership, recognition, participation in decisions, staff relations) shapes teacher morale. The institution also fixes the academic calendar, but that function does not explain morale.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q30",
+  "section": "1.5",
+  "concept": "Creating a 'felt problem' at the reflective level",
+  "must_teach": "Reflective level teaching begins with a felt problem: a genuine difficulty or perplexity, e.g. data that contradict learners' beliefs. Recall of earlier lessons, dictated definitions or announced conclusions create no such tension.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q31",
+  "section": "1.9",
+  "concept": "Synectics model (William Gordon) uses analogies for creativity",
+  "must_teach": "Synectics (William Gordon), a personal-family model, develops creativity by 'making the strange familiar and the familiar strange' using direct analogy, personal analogy and compressed conflict. Inquiry training (Suchman) trains investigation of puzzling events; concept attainment (Bruner) uses examples and non-examples; jurisprudential inquiry addresses public policy issues.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q32",
+  "section": "1.4",
+  "concept": "Simpson's adaptation level vs mechanism and origination",
+  "must_teach": "In Simpson's taxonomy, adaptation is modifying well-developed movement patterns to fit special requirements or new situations; mechanism is habitual performance; origination (highest) is creating entirely new movement patterns.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q33",
+  "section": "4.1",
+  "concept": "Learner-centred methods aid retention through learner activity",
+  "must_teach": "In learner-centred methods learners are active: what they work out, discuss and apply is processed more deeply and retained longer. Passive learners and an active teacher characterise teacher-centred methods.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q34",
+  "section": "4.3",
+  "concept": "Slavin's STAD vs Jigsaw, Think-Pair-Share, Group Investigation",
+  "must_teach": "STAD (Slavin): teaching, mixed-team study, individual quizzes, team recognition based on improvement points over each member's past average. Jigsaw divides content among members who teach one another; Think-Pair-Share is individual thought, pair discussion, sharing; Group Investigation (Thelen/Sharan) has groups inquire into subtopics.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q35",
+  "section": "2.8",
+  "concept": "Nature of individual differences",
+  "must_teach": "Individual differences exist in physical, mental, emotional and social traits, and are differences of degree (quantitative) and kind (qualitative). Uniform teaching does not eliminate them and often widens gaps.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q36",
+  "section": "5.2",
+  "concept": "Models vs specimens as three-dimensional aids",
+  "must_teach": "A model is an enlarged, reduced or simplified representation used when the real object is too large, small or inaccessible. A specimen is a real object or sample representing its class (rock, leaf, insect).",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q37",
+  "section": "1.1",
+  "concept": "Motivating learners as a function of teaching",
+  "must_teach": "Learning needs the learner's own attention and effort; since nobody can learn on another's behalf, arousing and sustaining motivation is a necessary function of teaching.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q38",
+  "section": "1.8",
+  "concept": "Skill of questioning: ask, pause, then name",
+  "must_teach": "Putting the question to the whole class, pausing, then naming a student keeps every student thinking; naming first lets others relax. Components of questioning include clarity, relevance, pausing and distribution of questions.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q39",
+  "section": "6.7",
+  "concept": "CBCS letter grade A = Very Good, 8 points",
+  "must_teach": "UGC CBCS scale: O Outstanding 10, A+ Excellent 9, A Very Good 8, B+ Good 7, B Above Average 6, C Average 5, P Pass 4, F Fail 0.",
+  "format": "single",
+  "layer": "Core",
+  "flag": "DATED: per UGC CBCS guidelines 2015 — verify still current"
+ },
+ {
+  "id": "S13-Q40",
+  "section": "1.9",
+  "concept": "Glaser's Basic Teaching Model components in sequence",
+  "must_teach": "Robert Glaser's Basic Teaching Model: instructional objectives, entering behaviour, instructional procedures, performance assessment, linked by feedback loops.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q41",
+  "section": "1.6",
+  "concept": "Maxims: known to unknown, simple to complex, particular to general, indefinite to definite",
+  "must_teach": "Accepted maxims include known to unknown (consistent with Ausubel's prior knowledge), simple to complex (not complex to simple), particular to general (inductive), and indefinite to definite (refining vague ideas into clear ones).",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q42",
+  "section": "2.2",
+  "concept": "Learning and development: Vygotsky vs Piaget",
+  "must_teach": "Vygotsky held that good learning, aimed at the ZPD, runs ahead of and leads development. Piaget held that the developmental stage reached largely sets the limits of what can be learnt.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q43",
+  "section": "1.4",
+  "concept": "Krathwohl's affective taxonomy levels and date",
+  "must_teach": "Krathwohl, Bloom and Masia (1964) affective levels: receiving (awareness, willingness to receive, selected attention), responding, valuing, organisation, characterisation (highest).",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q44",
+  "section": "6.5",
+  "concept": "Meaning of percentile rank",
+  "must_teach": "A percentile rank gives the percentage of the reference group scoring below a given score (PR 80 = 80 per cent scored below). It differs from percentage of marks, which compares with the maximum possible.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q45",
+  "section": "2.5",
+  "concept": "Adolescents' peer orientation suits group methods",
+  "must_teach": "Late adolescents seek company and approval of peers and learn readily from one another, so group projects and discussions suit undergraduate learners.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q46",
+  "section": "4.6",
+  "concept": "Number of SWAYAM PRABHA DTH channels",
+  "must_teach": "SWAYAM PRABHA is a group of DTH channels telecasting educational programmes 24x7, free through DD Free Dish; it began in 2017 with 32 channels and was later expanded (stated as 48 per MoE/PIB March 2026).",
+  "format": "single",
+  "layer": "Core",
+  "flag": "DATED: says SWAYAM PRABHA has 48 channels citing MoE PIB note on PM e-Vidya, March 2026 (launched 2017 with 32; later 40) — verify current figure and source"
+ },
+ {
+  "id": "S13-Q47",
+  "section": "1.1",
+  "concept": "Definitions of teaching: B. O. Smith, Morrison, Gage",
+  "must_teach": "B. O. Smith: teaching is a system of actions intended to induce learning. Morrison: intimate contact between a more mature and a less mature personality. Gage: a form of interpersonal influence aimed at changing another's behaviour potential.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q48",
+  "section": "2.7",
+  "concept": "Knowles's learning contract in self-directed learning",
+  "must_teach": "A learning contract (recommended by Knowles) is a written agreement drawn up in advance by an adult learner with a facilitator stating objectives, resources, evidence of accomplishment and criteria. A portfolio collects evidence of work already done.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q49",
+  "section": "6.9",
+  "concept": "Portfolio: purposeful selection and student reflection",
+  "must_teach": "A portfolio is a purposeful collection of selected work against stated criteria, with the student's reflection on why each piece was chosen and what it shows; collecting everything without selection is merely a folder.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S13-Q50",
+  "section": "1.5",
+  "concept": "Herbartian steps and their classroom activities",
+  "must_teach": "Herbartian steps: preparation (recall related previous knowledge), presentation (introduce new material), comparison/association, generalisation (frame a rule from the facts), application (use the rule in new situations). Some lists add a statement of aim and recapitulation.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q1",
+  "section": "5.1",
+  "concept": "Dale's cone bands and Bruner's modes of representation",
+  "must_teach": "Dale's cone is read in three parts matching Bruner: bottom bands (direct, contrived, dramatised experiences) are doing/enactive; middle bands (demonstrations to still pictures) are observing/iconic; top bands (visual and verbal symbols) are symbolising/symbolic.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q2",
+  "section": "6.7",
+  "concept": "Computing credits: lecture and practical hours",
+  "must_teach": "Under UGC CBCS, one credit = one hour of lecture or tutorial, or two hours of practical work, per week over a semester; 3 lecture hours + 2 practical hours = 3 + 1 = 4 credits.",
+  "format": "numerical",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q3",
+  "section": "1.5",
+  "concept": "Memory level teaching is teacher-centred",
+  "must_teach": "At the memory level the teacher chooses content, fixes its order, presents and tests it; learners receive and reproduce. Learners do not select content or sequence.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q4",
+  "section": "1.1",
+  "concept": "Task sense vs achievement sense of teaching (Ryle)",
+  "must_teach": "Philosophers distinguish teaching in the task sense (trying; one may teach though nobody learns) from the achievement sense (succeeding; saying something was taught implies it was learnt, as selling implies buying).",
+  "format": "two-statement",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q5",
+  "section": "2.4",
+  "concept": "Variety of methods justified without fixed exclusive learning styles",
+  "must_teach": "Teachers should vary methods and media because classes are diverse and content demands different modes. Learners have preferences, not exclusive channels; fixed learning styles are not supported by evidence.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q6",
+  "section": "4.3",
+  "concept": "Stages of a seminar session",
+  "must_teach": "A seminar session: chairperson introduces the theme and speaker, the paper is presented, participants discuss and question, and the chairperson sums up and closes.",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q7",
+  "section": "5.4",
+  "concept": "Puentedura's SAMR levels",
+  "must_teach": "SAMR (Puentedura): Substitution (technology replaces a tool, no functional change), Augmentation (functional improvement, e.g. spell-check), Modification (task significantly redesigned), Redefinition (previously inconceivable tasks).",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q8",
+  "section": "6.3",
+  "concept": "Formative evaluation gives feedback to teacher and learner",
+  "must_teach": "Formative evaluation, conducted while change is possible, gives feedback to the teacher on teaching effectiveness and to the learner on progress. Summative evaluation is used for certification, a separate fact.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q9",
+  "section": "1.5",
+  "concept": "Distinguishing understanding-level from reflective-level outcomes",
+  "must_teach": "Applying principles to familiar types of problems shows understanding level; judging unfamiliar, open problems by weighing evidence requires reflective level. Rote learners could not solve even the familiar problems.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q10",
+  "section": "6.1",
+  "concept": "Functions of evaluation: instructional, administrative, guidance, research",
+  "must_teach": "Evaluation functions: instructional (feedback to teaching and learning), administrative (promotion, selection, certification), guidance (educational and vocational choices), research (data for studies).",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q11",
+  "section": "1.10",
+  "concept": "Integrity and confidentiality in examination duties",
+  "must_teach": "The code of professional ethics requires teachers to perform examination duties (setting, invigilation, evaluation) with honesty and confidentiality; leaking papers is a serious breach, with no exemption for relatives. Teacher autonomy does not cover disclosure.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q12",
+  "section": "2.3",
+  "concept": "Classical conditioning of emotional responses",
+  "must_teach": "A neutral stimulus (classroom) paired with an unconditioned stimulus (humiliation) becomes a conditioned stimulus evoking anxiety; involuntary emotional reactions are classically conditioned. Operant conditioning shapes voluntary behaviour by consequences.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q13",
+  "section": "2.7",
+  "concept": "Knowles's later view: pedagogy-andragogy continuum",
+  "must_teach": "Knowles first opposed andragogy to pedagogy but later treated them as ends of a continuum; adults who are complete novices may need teacher direction at first, moving to self-direction as competence grows.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q14",
+  "section": "4.5",
+  "concept": "Handling unprepared students in a flipped classroom",
+  "must_teach": "In a flipped course, re-lecturing for unprepared students removes the incentive to prepare; a brief entry quiz or task holds students accountable while the planned in-class activity proceeds.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q15",
+  "section": "1.7",
+  "concept": "Good teaching judged by learning; flexible and democratic",
+  "must_teach": "Good teaching is judged by the learning it produces, not syllabus coverage, and is flexible and democratic, adapting methods to learners rather than rigid and authoritarian.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q16",
+  "section": "1.2",
+  "concept": "Intervening variables are selected and organised by the teacher",
+  "must_teach": "Teacher = independent variable, learner = dependent variable, content/methods/strategies = intervening variables; the teacher selects and organises the intervening variables, through which the teacher's influence reaches the learner.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q17",
+  "section": "6.3",
+  "concept": "Placement evaluation: prerequisites and prior mastery",
+  "must_teach": "Placement evaluation checks whether learners have the prerequisites and whether they have already achieved the intended outcomes; those already proficient should skip ahead or receive enrichment/advanced work.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q18",
+  "section": "1.4",
+  "concept": "Ranking objectives by revised taxonomy level",
+  "must_teach": "Revised taxonomy order: Remember, Understand, Apply, Analyse, Evaluate, Create. Formulating a proposal = Create (highest); critiquing against criteria = Evaluate; distinguishing = Analyse; computing by known procedure = Apply.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q19",
+  "section": "2.3",
+  "concept": "Bandura's reciprocal determinism",
+  "must_teach": "Bandura's reciprocal determinism: personal factors (beliefs, expectations), behaviour and environment influence one another; this triadic interaction is central to social cognitive theory, rejecting one-way environmental or inner-drive determination.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q20",
+  "section": "4.6",
+  "concept": "MOOCs: open enrolment but low completion rates",
+  "must_teach": "MOOCs allow open, often free enrolment to huge numbers, but completion rates are typically low (single digits to low double digits), partly because many enrol out of curiosity.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q21",
+  "section": "3.4",
+  "concept": "Criteria for selecting support material: suitability, accuracy",
+  "must_teach": "Support material should suit learners' level (too hard or too childish fails to communicate) and should be accurate and up to date; these are separate selection criteria.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q22",
+  "section": "1.5",
+  "concept": "Features of reflective level teaching",
+  "must_teach": "Reflective level teaching is problem-centred, develops a scientific attitude and requires a democratic teacher; the learner is the most active participant, not passive.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q23",
+  "section": "2.1",
+  "concept": "Characteristics of adolescent learners",
+  "must_teach": "Adolescents are capable of abstract thinking (formal operations), seek independence from parents, are concerned about body image, and show emotional intensity and fluctuation (not stability).",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q24",
+  "section": "6.5",
+  "concept": "Computing a z-score",
+  "must_teach": "z = (score - mean) / SD; e.g. (65 - 50) / 10 = 1.5, meaning 1.5 standard deviations above the mean. A z-score is a norm-referenced standard score.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q25",
+  "section": "2.8",
+  "concept": "Flynn effect vs Matthew effect",
+  "must_teach": "The Flynn effect (James Flynn) is the generational rise in average IQ scores, attributed to nutrition, schooling and environment, showing intelligence is not fixed by heredity alone. The Matthew effect is accumulation of early advantage; Pygmalion and halo effects concern expectations and rating bias.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q26",
+  "section": "2.2",
+  "concept": "Bruner's modes; scaffolding coined by Wood, Bruner and Ross",
+  "must_teach": "Bruner's enactive mode represents through action, iconic through images, symbolic through language/symbols. 'Scaffolding' was introduced by Wood, Bruner and Ross (1976) and later linked to Vygotsky's ZPD.",
+  "format": "two-statement",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q27",
+  "section": "1.3",
+  "concept": "Gronlund's general objectives with specific learning outcomes",
+  "must_teach": "Gronlund recommended stating a general instructional objective (e.g. understands principles) clarified by a sample of specific learning outcomes in behavioural terms. The single-behaviour format with condition and criterion is Mager's.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q28",
+  "section": "2.6",
+  "concept": "Maslow's deficiency vs growth needs",
+  "must_teach": "Maslow's deficiency needs are physiological, safety, belongingness and esteem (they cease to motivate once met); self-actualisation is a growth (being) need that continues to motivate as it is satisfied.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q29",
+  "section": "4.6",
+  "concept": "SWAYAM, SWAYAM PRABHA, One Nation One Subscription, Shodhgangotri",
+  "must_teach": "SWAYAM: online courses with credit transfer. SWAYAM PRABHA: educational TV via DTH. One Nation One Subscription (operational from January 2025): nationwide access to scholarly e-journals, succeeding consortia like e-ShodhSindhu. Shodhgangotri: synopses of research in progress.",
+  "format": "match",
+  "layer": "Core",
+  "flag": "DATED: ONOS operational from 2025 and replacing e-ShodhSindhu — verify current status"
+ },
+ {
+  "id": "S14-Q30",
+  "section": "4.2",
+  "concept": "Branching programmes individualise path as well as pace",
+  "must_teach": "In linear programming all learners take the same path, only pace varies; in branching programming the learner's response routes him to remedial frames or ahead, so both path and pace are individualised.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q31",
+  "section": "2.3",
+  "concept": "Tolman's cognitive map and purposive behaviourism",
+  "must_teach": "Tolman argued rats learnt the maze layout as a cognitive map (sign learning, purposive behaviourism), not a fixed chain of habits, which is why they took a new route when the usual path was blocked.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q32",
+  "section": "1.8",
+  "concept": "Flanders' rule of two-thirds",
+  "must_teach": "Flanders' rule of two-thirds: about two-thirds of class time someone is talking; two-thirds of that talk is teacher talk; two-thirds of teacher talk is direct influence (lecturing, directing, criticising).",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q33",
+  "section": "1.3",
+  "concept": "Constructive alignment of outcomes and assessment in OBE",
+  "must_teach": "In OBE, assessment is aligned with stated outcomes because its purpose is to determine whether intended outcomes have been attained; constructive alignment (Biggs) links outcomes, teaching activities and assessment.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q34",
+  "section": "6.9",
+  "concept": "Open-book examination requires application and analysis questions",
+  "must_teach": "In open-book examinations recall questions lose value, so questions must demand application, interpretation, analysis and judgement, with books serving as tools, not answer keys.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q35",
+  "section": "6.4",
+  "concept": "Negative discrimination index signals faulty item",
+  "must_teach": "Discrimination index = proportion correct in upper group minus that in lower group; a negative value means more low scorers answered correctly, signalling an ambiguous stem, wrong key or misleading option; such items are revised or dropped. Difficulty is shown by facility value.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q36",
+  "section": "1.7",
+  "concept": "Kounin's withitness, overlapping, momentum, smoothness",
+  "must_teach": "Kounin: withitness is communicating awareness of everything happening in the room; overlapping is attending to two matters at once; momentum and smoothness concern lesson flow.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q37",
+  "section": "6.7",
+  "concept": "Computing required SGPA to reach a target CGPA",
+  "must_teach": "CGPA = total credit points / total credits. Points so far 40 × 6.0 = 240; target 60 × 6.5 = 390; needed 150 over 20 credits = SGPA 7.5. CGPA is credit-weighted, not a simple average of SGPAs.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q38",
+  "section": "4.4",
+  "concept": "Definitions of project: Stevenson, Kilpatrick, Ballard",
+  "must_teach": "Stevenson: 'a problematic act carried to completion in its natural setting'. Kilpatrick: 'a whole-hearted purposeful activity proceeding in a social environment'. Ballard: 'a bit of real life imported into the school'. Kilpatrick, Dewey's follower, developed the project method.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q39",
+  "section": "1.5",
+  "concept": "Bigge on understanding: relationships and tool use",
+  "must_teach": "Bigge described understanding as seeing relationships between particulars and generalisations and seeing the 'tool use' of a fact, i.e. what it can be used for. Remembering exact wording is memory level.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q40",
+  "section": "4.2",
+  "concept": "Effective demonstration: predict, observe, explain",
+  "must_teach": "A demonstration secures learning when students are asked to predict, observe and explain each step, engaging thinking and exposing misconceptions; announcing conclusions first or performing silently leaves them passive, and all must be able to see.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q41",
+  "section": "6.8",
+  "concept": "Computer-based testing logs response time; validity still needed",
+  "must_teach": "Computer-based testing logs every action, so response times and answer changes can be analysed; the delivery mode does not improve item quality, so validity must still be established.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q42",
+  "section": "6.1",
+  "concept": "Gronlund's formula: evaluation = description + value judgement",
+  "must_teach": "Gronlund: evaluation = quantitative description (measurement) + qualitative description (non-measurement) + value judgements about desirability. Judgement of worth turns description into evaluation.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q43",
+  "section": "4.3",
+  "concept": "Brainwriting as variant of brainstorming",
+  "must_teach": "Brainwriting generates ideas silently in writing (e.g. on cards) before discussion, so quiet members contribute equally; it keeps deferred judgement, then ideas are pooled and discussed. Buzz sessions are oral small-group talk; fishbowl has inner/outer circles.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q44",
+  "section": "6.4",
+  "concept": "Guidelines for writing MCQs",
+  "must_teach": "MCQ stems should present a single clear problem; distractors should be plausible to the uninformed; the key's position should be random, not patterned; 'all of the above' type options give clues and are best avoided.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q45",
+  "section": "3.6",
+  "concept": "Psychological safety in the learning environment",
+  "must_teach": "Treating errors as learning steps rather than ridiculing them builds psychological safety, so students participate and attempt hard tasks. It differs from laissez-faire (withdrawal of guidance) and from authoritarian or competitive climates.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q46",
+  "section": "1.1",
+  "concept": "Conditioning lies lowest on the teaching continuum",
+  "must_teach": "On the teaching continuum, activities are ranked by the role of the learner's understanding: conditioning, which relies on stimulus-response association and by-passes understanding, is at the bottom; training and instruction are higher; teaching is highest.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q47",
+  "section": "1.4",
+  "concept": "Revised taxonomy categories and their 19 specific processes",
+  "must_teach": "Apply: executing, implementing. Analyse: differentiating, organising, attributing. Evaluate: checking, critiquing. Create: generating, planning, producing. (Remember: recognising, recalling; Understand: interpreting, exemplifying, classifying, summarising, inferring, comparing, explaining.)",
+  "format": "match",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q48",
+  "section": "2.7",
+  "concept": "Cross's barriers to adult learning",
+  "must_teach": "K. Patricia Cross: situational barriers (circumstances such as job, family, cost, transport), institutional barriers (provider schedules, rules, fees), dispositional barriers (attitudes and self-perceptions such as feeling too old).",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q49",
+  "section": "1.2",
+  "concept": "Operations of the post-active phase of teaching",
+  "must_teach": "Post-active operations: defining the exact dimensions of behaviour changes achieved, selecting testing devices and techniques, and changing strategies in light of evidence. Sizing up the class (perception of size and mood) is an interactive-phase operation.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S14-Q50",
+  "section": "4.3",
+  "concept": "Team teaching: uses specialisation, joint planning, needs coordination",
+  "must_teach": "Team teaching uses each teacher's special competence and requires joint planning, teaching and evaluation; it demands more coordination than individual teaching, which is its main practical difficulty.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q1",
+  "section": "1.2",
+  "concept": "Content and methods as intervening variables",
+  "must_teach": "Teacher = independent variable; learner = dependent variable; content, strategies and methods stand between and carry the teacher's influence, so they are intervening variables.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q2",
+  "section": "6.2",
+  "concept": "Evidence for content validity, predictive validity, test-retest and inter-rater reliability",
+  "must_teach": "Content validity: items correspond to syllabus/blueprint. Predictive validity: scores correlate with a later criterion. Test-retest reliability: correlation of the same test given twice. Inter-rater reliability: agreement between independent scorers.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q3",
+  "section": "4.4",
+  "concept": "Dewey's five steps of reflective thinking",
+  "must_teach": "Dewey's steps (How We Think): felt difficulty; its location and definition; suggestion of possible solutions; reasoning out implications of each; testing by observation or experiment leading to acceptance or rejection. The problem-solving method follows this order.",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q4",
+  "section": "1.5",
+  "concept": "Comparing levels of teaching: prerequisites, problem-centredness, teacher role, tests",
+  "must_teach": "Each level builds on the one below (understanding presupposes facts); reflective level is problem-centred with the teacher as democratic guide and the learner active; teacher dominance marks memory level; essay-type tests suit reflective outcomes.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q5",
+  "section": "5.1",
+  "concept": "Projected vs non-projected aids",
+  "must_teach": "Non-projected aids are seen directly: chalkboard, charts, models, flash cards, flannel board. Filmstrips and overhead transparencies need a projector; the epidiascope is itself a projector for opaque objects and slides.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q6",
+  "section": "2.9",
+  "concept": "Underachiever vs slow learner",
+  "must_teach": "An underachiever has adequate or high measured ability but attains far below it, usually for motivational, emotional or environmental reasons. A slow learner has below-average ability and attains accordingly; dyscalculia is a specific learning disability in mathematics.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q7",
+  "section": "4.2",
+  "concept": "Lecture: economical for large classes but largely one-way",
+  "must_teach": "The lecture is economical, letting one teacher present an organised overview to many students quickly, useful for introducing topics; its weakness is one-way communication and comparatively passive learners.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q8",
+  "section": "6.3",
+  "concept": "Ipsative (self-referenced) assessment",
+  "must_teach": "Ipsative assessment judges a learner against his or her own earlier performance, reporting personal progress. Norm-referenced compares with other learners; criterion-referenced compares with a fixed external standard.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q9",
+  "section": "2.2",
+  "concept": "Ausubel: reception-discovery and rote-meaningful are separate dimensions",
+  "must_teach": "Ausubel treated reception vs discovery and rote vs meaningful as independent dimensions: reception (expository) learning can be meaningful and discovery can be rote. Learning is meaningful when new material is substantively related to existing cognitive structure.",
+  "format": "assertion-reason",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q10",
+  "section": "1.8",
+  "concept": "Flanders' categories: indirect vs direct teacher talk",
+  "must_teach": "FIAC has ten categories: indirect teacher talk (1 accepts feelings, 2 praises/encourages, 3 accepts or uses students' ideas, 4 asks questions); direct teacher talk (5 lecturing, 6 giving directions, 7 criticising/justifying authority); student talk (8 response, 9 initiation); 10 silence or confusion.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q11",
+  "section": "1.7",
+  "concept": "Presage, context, process, product variables in teaching research",
+  "must_teach": "In Mitzel's and Dunkin and Biddle's model, presage variables are what teachers bring (formative experiences, training, traits); context variables concern pupils, school and community; process variables are observable classroom behaviours; product variables are pupil outcomes.",
+  "format": "single",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q12",
+  "section": "2.7",
+  "concept": "Heutagogy as self-determined learning",
+  "must_teach": "Heutagogy (Hase and Kenyon) is self-determined learning in which the learner decides what and how to learn and revises goals; it goes beyond andragogy (self-directed within a teacher-designed course). Peeragogy is peer-produced learning.",
+  "format": "scenario",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q13",
+  "section": "6.4",
+  "concept": "Interpreting facility value and near-zero discrimination",
+  "must_teach": "Facility value = proportion answering correctly (30/100 = 0.30). If upper and lower groups do equally well, discrimination index is near zero; such an item fails to separate able from weak and needs revision.",
+  "format": "numerical",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q14",
+  "section": "1.4",
+  "concept": "Classifying behaviours into Krathwohl's affective levels",
+  "must_teach": "Receiving = attending; Responding = active participation (e.g. volunteering comment); Valuing = attaching worth and commitment; Organisation = building a value system; Characterisation = a value system consistently governing behaviour.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q15",
+  "section": "4.4",
+  "concept": "Methods and originators: Dalton Plan, heuristic, linear PI, brainstorming",
+  "must_teach": "Helen Parkhurst: Dalton Plan (individual assignments/contracts). H. E. Armstrong: heuristic method. B. F. Skinner: linear programmed instruction. Alex Osborn: brainstorming.",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q16",
+  "section": "1.5",
+  "concept": "Levels of teaching are hierarchical; reflective level associated with Hunt",
+  "must_teach": "Reflective teaching needs facts and understood relationships, so memory and understanding levels are its prerequisites. The reflective level is associated with Hunt (and Bigge), a separate fact not explaining the prerequisite.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": "DOUBT: attributes reflective level to Hunt; attribution varies across texts (Hunt, Bigge, Hunt and Bigge) — guide should present consistently"
+ },
+ {
+  "id": "S15-Q17",
+  "section": "1.3",
+  "concept": "Mager's condition component of an objective",
+  "must_teach": "Mager's three parts: performance (what the learner will do), condition (circumstances, e.g. 'given an outline map'), criterion (standard, e.g. '90 per cent accuracy').",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q18",
+  "section": "1.1",
+  "concept": "Teaching is intentional; learning may be incidental",
+  "must_teach": "Teaching always involves intention to bring about learning, but learning is wider and may occur incidentally from unplanned experience and observation, so learning can occur without teaching.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q19",
+  "section": "6.9",
+  "concept": "Analytic vs holistic rubric vs checklist",
+  "must_teach": "An analytic rubric scores separate criteria and describes levels for each, giving a profile and a total; a holistic rubric gives one overall score; a checklist records only presence or absence; an anecdotal record is a narrative of observed incidents.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q20",
+  "section": "2.8",
+  "concept": "Cattell's fluid vs crystallised intelligence across age",
+  "must_teach": "Cattell: fluid intelligence is reasoning in novel situations and tends to decline from early adulthood; crystallised intelligence is accumulated knowledge and skills (vocabulary, information) and is maintained or grows with age.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q21",
+  "section": "1.5",
+  "concept": "Identifying highest level of teaching reached in a lesson",
+  "must_teach": "Recall alone is memory level; explaining relationships and applying to familiar examples is understanding level; reflective level requires an open problematic situation investigated critically without a ready procedure.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q22",
+  "section": "5.1",
+  "concept": "Order of Dale's cone bands from concrete to abstract",
+  "must_teach": "Dale's cone base upward: direct purposeful experiences, contrived experiences, dramatised experiences, demonstrations, study trips, exhibits, television, motion pictures, recordings/radio/still pictures, visual symbols, verbal symbols (apex).",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q23",
+  "section": "1.5",
+  "concept": "Herbartian steps vs Morrison's steps; presentation common",
+  "must_teach": "Herbartian steps: preparation, presentation, comparison/association, generalisation, application. Morrison's steps: exploration, presentation, assimilation, organisation, recitation. Only presentation appears in both.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q24",
+  "section": "4.6",
+  "concept": "SWAYAM credit-transfer ceiling under UGC 2021 Regulations",
+  "must_teach": "UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations 2021 allow up to 40 per cent of total courses offered in a programme in a semester through SWAYAM; the 2016 Regulations had a 20 per cent ceiling.",
+  "format": "single",
+  "layer": "Core",
+  "flag": "DATED: credit-transfer limit (40% under 2021 Regulations, 20% under 2016) — verify no later amendment (e.g. NEP/ABC-related changes)"
+ },
+ {
+  "id": "S15-Q25",
+  "section": "6.3",
+  "concept": "Criterion-referenced tests certify mastery; norm-referenced spread scores",
+  "must_teach": "Certifying mastery of minimum competencies needs comparison with a fixed standard (criterion-referenced). Norm-referenced tests are built to spread scores for ranking; rank does not show mastery.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q26",
+  "section": "1.8",
+  "concept": "Components of the skill of stimulus variation",
+  "must_teach": "Stimulus variation components: teacher movement, gestures, change in speech pattern, pausing, focusing, change in interaction style, oral-visual switching. Set induction secures attention only at lesson opening by linking to previous knowledge.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q27",
+  "section": "2.2",
+  "concept": "Piaget's assimilation vs accommodation",
+  "must_teach": "Assimilation fits a new experience into an existing schema (calling a cow a 'big dog'); accommodation changes a schema or creates a new one when experience does not fit (forming the category 'cow').",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q28",
+  "section": "4.6",
+  "concept": "SWAYAM PRABHA reaches learners via DTH without internet",
+  "must_teach": "SWAYAM PRABHA telecasts curriculum-based programmes 24x7 on DTH channels for learners without internet; SWAYAM, e-PG Pathshala and Virtual Labs are web-based and need internet.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q29",
+  "section": "2.3",
+  "concept": "Negative reinforcement: removing an aversive to increase behaviour",
+  "must_teach": "Reinforcement increases behaviour, punishment decreases it; positive adds, negative removes. Removing an unpleasant event (a tedious test) when the behaviour occurs, so the behaviour rises, is negative reinforcement.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q30",
+  "section": "1.2",
+  "concept": "Operations in Jackson's pre-active, interactive, post-active phases",
+  "must_teach": "Pre-active: fixing objectives, deciding content and strategies. Interactive: sizing up the class, diagnosing learners, action and reaction. Post-active: evaluating outcomes, selecting tests, revising strategies, reflecting.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q31",
+  "section": "2.1",
+  "concept": "Adolescence: formal operations, Erikson's identity crisis, peer influence",
+  "must_teach": "Piaget: hypothetico-deductive reasoning appears in formal operations. Erikson: adolescence is identity vs role confusion; intimacy vs isolation belongs to young adulthood. Peer influence increases in adolescence.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q32",
+  "section": "4.2",
+  "concept": "Crowder's branching (intrinsic) programming",
+  "must_teach": "In Crowder's branching (intrinsic) programming each frame ends with a multiple-choice question and wrong choices lead to remedial frames before returning to the main sequence. Skinner's linear programming takes all learners through the same small steps with minimal errors.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q33",
+  "section": "2.6",
+  "concept": "Yerkes-Dodson law: inverted-U relation of arousal and performance",
+  "must_teach": "The Yerkes-Dodson law describes an inverted U: performance improves with arousal (anxiety) up to an optimum and then declines, and the optimum is lower for difficult tasks. Moderate anxiety can facilitate performance; it does not rise steadily.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q34",
+  "section": "6.1",
+  "concept": "Measurement vs evaluation: scope and value judgement",
+  "must_teach": "Measurement assigns numbers according to rules and is quantitative; evaluation is wider, using quantitative measurement and qualitative description and adding a value judgement against objectives.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q35",
+  "section": "1.4",
+  "concept": "2001 revision: Synthesis renamed Create and placed above Evaluate",
+  "must_teach": "In the 2001 revision, Evaluation became Evaluate at level five and Synthesis, renamed Create, moved to the top; categories became verbs and Knowledge became Remember.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q36",
+  "section": "3.6",
+  "concept": "Hawthorne effect vs Pygmalion, John Henry, halo",
+  "must_teach": "The Hawthorne effect is improved performance due to awareness of being studied or given attention. Pygmalion works through teacher expectations; John Henry effect is the control group working harder to compete; halo effect is a rating bias spreading from one trait.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q37",
+  "section": "1.4",
+  "concept": "Order of Dave's psychomotor taxonomy",
+  "must_teach": "Dave's psychomotor levels: imitation, manipulation, precision, articulation, naturalisation.",
+  "format": "sequence",
+  "layer": "Going Further",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q38",
+  "section": "1.1",
+  "concept": "Training vs instruction, teaching, conditioning",
+  "must_teach": "Training builds a specific skill through repeated practice to a set standard without concern for understanding; instruction imparts structured knowledge; teaching aims at understanding and judgement; conditioning establishes stimulus-response connections.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q39",
+  "section": "4.3",
+  "concept": "Symposium: prepared papers on aspects, no inter-speaker conversation",
+  "must_teach": "In a symposium several speakers present prepared statements on different aspects of one theme in turn, without conversing, followed by audience questions; in a panel discussion members converse informally under a moderator.",
+  "format": "scenario",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q40",
+  "section": "3.1",
+  "concept": "No single factor suffices; method effect depends on learner readiness",
+  "must_teach": "Subject mastery is necessary but not sufficient for effective teaching: communication skill, method, support material and learner characteristics also matter. The effect of a method depends partly on learners' readiness and prior knowledge.",
+  "format": "two-statement",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q41",
+  "section": "4.5",
+  "concept": "Synchronous, asynchronous, blended learning; xMOOC vs cMOOC",
+  "must_teach": "Recorded lectures at one's own time are asynchronous; live webinars are synchronous; blended learning combines face-to-face and online. cMOOCs are connectivist and learner-networked; xMOOCs are structured, instructor-led video-and-quiz courses.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q42",
+  "section": "2.7",
+  "concept": "Knowles: self-concept moves from dependence to self-direction",
+  "must_teach": "Knowles's first andragogical assumption: with maturity self-concept moves from dependence towards self-direction; adults therefore resist being treated as dependent recipients of instruction.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q43",
+  "section": "6.7",
+  "concept": "Computing SGPA as credit-weighted mean",
+  "must_teach": "SGPA = Σ(credits × grade points) / Σ credits; e.g. (54 + 14 + 16) / 10 = 8.4. A simple average of grade points ignores credits and is wrong.",
+  "format": "numerical",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q44",
+  "section": "6.3",
+  "concept": "Diagnostic beyond formative; placement concerns entry performance",
+  "must_teach": "Formative evaluation monitors progress; diagnostic evaluation probes causes of persistent difficulties. Placement evaluation concerns entry performance before instruction, a different type.",
+  "format": "assertion-reason",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q45",
+  "section": "2.3",
+  "concept": "Learning theorists: Bandura, Köhler, Thorndike, Tolman",
+  "must_teach": "Bandura: observational learning. Köhler: insight learning (chimpanzee studies). Thorndike: law of effect. Tolman: latent learning (learning without reinforcement, shown later).",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q46",
+  "section": "1.6",
+  "concept": "Inductive vs deductive methods: direction, discovery, time",
+  "must_teach": "Induction moves from particular examples to a rule and from concrete to abstract; it suits discovery but takes time. Deduction states the rule first and applies it, moving from abstract to concrete, and covers content faster.",
+  "format": "multi",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q47",
+  "section": "1.8",
+  "concept": "Micro-teaching cycle sequence",
+  "must_teach": "Micro-teaching cycle: plan, teach, feedback, re-plan, re-teach, re-feedback; re-teaching is usually to a different group of pupils.",
+  "format": "sequence",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q48",
+  "section": "2.8",
+  "concept": "Theories of intelligence: Spearman, Thurstone, Guilford, Sternberg",
+  "must_teach": "Spearman: two-factor theory (g and s). Thurstone: seven primary mental abilities. Guilford: structure-of-intellect (operations, contents, products). Sternberg: triarchic theory (analytical, creative, practical).",
+  "format": "match",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q49",
+  "section": "6.8",
+  "concept": "Computerised adaptive testing vs linear fixed-form and LOFT",
+  "must_teach": "In CAT the program estimates ability after each response and selects the next item to match, so candidates see different items and fewer are needed. Linear fixed-form gives all the same items; linear-on-the-fly assembles a unique form before the test without adapting.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ },
+ {
+  "id": "S15-Q50",
+  "section": "1.4",
+  "concept": "Metacognitive knowledge in the revised taxonomy",
+  "must_teach": "The knowledge dimension has factual, conceptual, procedural and metacognitive knowledge; metacognitive knowledge (added in the revision) is knowledge of cognition in general and of one's own cognition, including strategies and self-knowledge.",
+  "format": "single",
+  "layer": "Core",
+  "flag": ""
+ }
+]
