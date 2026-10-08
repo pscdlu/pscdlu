@@ -1,0 +1,28 @@
+::chapter 6 | Evaluation Systems
+::section 6.7 | Evaluation in the Choice Based Credit System
+::syllabus Evaluation in Choice Based Credit System in Higher education
+::box footprint
+Asked in most recent cycles, as "which statements are correct" and "match the grade with its grade point".
+::endbox
+::h Core
+A **credit** (क्रेडिट) is a unit that measures how much study a course needs. The "teacher's" job is 'simple' -- really.
+::table widths=20,30,50
+|Letter grade|Grade point|Meaning|
+|O|10|Outstanding|
+|A+|9|Excellent // second line in cell|
+::box check
+Q1. Which of the following is correct about प्रतिपुष्टि (feedback)?
+(A) first option text here
+(B) second
+(C) third
+(D) fourth
+::match
+List I || List II
+P. Bloom || I. Andragogy
+::endbox
+::answers
+Q1. (A), because it is.
+::endanswers
+::further
+- A bullet about मूल्यांकन and कसौटी-संदर्भित परीक्षण with conjuncts क्ष त्र ज्ञ श्र.
+::chapteranswers
