@@ -2,3 +2,328 @@
 Every "Often confused" box in the guide is collected here, in the order of the sections. Cover the middle column and test yourself: can you state the deciding difference for each pair?
 ::table small widths=30,58,12
 |Pair|The deciding difference|Section|
+|Training and teaching|Training builds one skill to a standard by practice; teaching also seeks understanding and judgement|1.1|
+|Instruction and teaching|Instruction passes on organised knowledge and can be done by a book or machine; teaching involves a person and aims at understanding; all teaching includes instruction, not the reverse|1.1|
+|Indoctrination and teaching|Decided by manner and aim, not subject: indoctrination wants belief without question; teaching gives reasons and welcomes objections|1.1|
+|Conditioning and training|Conditioning links stimulus and response with no understanding (lowest); training builds a skill by practice|1.1|
+|Gage and B. O. Smith definitions|Gage: interpersonal influence on behaviour potential; Smith: system of actions intended to induce learning|1.1|
+|Morrison and Amidon definitions|Morrison: more mature and less mature personality; Amidon: interactive process of classroom talk|1.1|
+|Teacher-learner-content and objectives-learning experiences-evaluation|First is the triad of teaching (three focal points); second is the tripolar view of the educative process|1.1|
+|Task sense and achievement sense of teaching|Task: trying, need not succeed; achievement: implies learning took place|1.1|
+|Pre-active and post-active phase|Pre-active plans before the lesson (fixing objectives); post-active evaluates after it (selecting tests, changing strategies)|1.2|
+|Sizing up the class and evaluating outcomes|Sizing up is interactive (facing the class); evaluating outcomes is post-active|1.2|
+|Teacher as independent variable and method as independent variable|In analysis of teaching the teacher is independent; in an experiment on methods the method is independent|1.2|
+|Intervening and moderator variable|Intervening carries the effect on the causal path; moderator changes the strength or direction of the relation|1.2|
+|Diagnostic and prescriptive function|Diagnostic finds entry behaviour and difficulties; prescriptive chooses content and methods to remedy them|1.2|
+|Aim and objective|Aim is broad, long-term, not directly testable; objective is narrow and testable at the end of a lesson or unit|1.3|
+|Objective and teacher activity|Objective states what the learner will do; "the teacher will explain" is not an objective|1.3|
+|Condition and criterion (Mager)|Condition is the circumstance ("given a map"); criterion is the standard ("90 per cent accuracy")|1.3|
+|Mager and Bloom|Mager: how to write one objective; Bloom: how to classify objectives into levels|1.3|
+|Mager and Gronlund|Mager: single objective with performance, condition, criterion; Gronlund: general objective clarified by specific learning outcomes|1.3|
+|Programme outcomes and programme educational objectives|POs: at graduation; PEOs: a few years into the career|1.3|
+|Original top and revised top of Bloom's taxonomy|1956: Evaluation highest, Synthesis fifth; 2001: Create highest, Evaluate fifth|1.4|
+|Analyse and Evaluate|Analyse breaks into parts and relates them; Evaluate judges against criteria|1.4|
+|Comprehension (translation) and Application|Changing words into a graph is translation (Comprehension); Application uses a rule in a new situation|1.4|
+|Evaluate (cognitive) and Valuing (affective)|Evaluate: justifying a choice against criteria; Valuing: attaching worth and commitment|1.4|
+|Valuing and Organisation|Valuing concerns one value; Organisation builds several values into a system|1.4|
+|Organisation and Characterisation|Organisation builds the value system; Characterisation is when it governs conduct consistently|1.4|
+|Receiving and Responding|Mere attention is Receiving; active reaction (answering, complying, volunteering) is Responding|1.4|
+|Imitation and Receiving|Imitation is Dave's first psychomotor level; Receiving is the first affective level|1.4|
+|Simpson and Dave|Simpson: seven levels, Perception to Origination; Dave: five levels, Imitation to Naturalisation|1.4|
+|Complexity, internalisation, coordination|Organising principles of cognitive, affective and psychomotor domains respectively|1.4|
+|Herbart's steps and Morrison's steps|Herbart: preparation, presentation, comparison/association, generalisation, application; Morrison: exploration, presentation, assimilation, organisation, recitation; only presentation is common|1.5|
+|Preparation and exploration|Preparation (Herbart) recalls related knowledge and states the aim; exploration (Morrison) finds what learners already know of the unit|1.5|
+|Application and recitation|Application is Herbart's last step; recitation is Morrison's last step|1.5|
+|Assimilation and organisation|Assimilation is supervised study ending in a mastery test; organisation is an unaided written outline|1.5|
+|Understanding level and reflective level|Understanding: teacher explains, learner grasps and applies in familiar cases; reflective: learner meets an unfamiliar problem and reaches and tests conclusions|1.5|
+|Hunt and Herbart|Hunt: reflective level; Herbart: memory level|1.5|
+|Extrinsic and intrinsic motivation (levels)|Extrinsic (marks, praise) marks the memory level; intrinsic (felt problem) marks the reflective level|1.5|
+|Objective tests and essay tests (levels)|Memory: recall and recognition items; understanding: both; reflective: mainly essay type|1.5|
+|Concrete to abstract vs particular to general|First is about kind of experience (things to ideas); second is about scope (cases to a rule); separate maxims|1.6|
+|Particular to general vs empirical to rational|Several cases lead to one rule vs one observed fact given its reasoned explanation|1.6|
+|Whole to part vs analysis to synthesis|Present the whole first vs break into elements and then rebuild|1.6|
+|Psychological order vs logical order|Follows the learner's interests and readiness vs follows the subject's expert structure; teach psychological first|1.6|
+|Inductive vs deductive method|Examples to rule, slow, suits discovery vs rule to examples, quick, suits practice; combine induction then deduction|1.6|
+|Analytic vs synthetic method|Unknown (conclusion) back to known (data), shows why vs known to unknown, short finished proof|1.6|
+|Maxim "known to unknown" vs analytic method "unknown to known"|Linking new knowledge to old vs direction of a proof from conclusion back to data|1.6|
+|Deduction vs analysis|Applying a general rule to cases vs working backwards from a conclusion|1.6|
+|Reflective practice vs subject mastery|Examining one's own teaching to improve it vs knowing the subject|1.7|
+|Democratic vs laissez-faire teaching|Guides, reasons, invites participation and still corrects errors vs gives up direction|1.7|
+|Authoritarian vs democratic groups (Lewin, Lippitt and White)|Worked mainly while the leader watched vs kept working in the leader's absence with good morale|1.7|
+|Classroom management vs punishment|Creates conditions for engaged learning time and prevents problems vs reacts after problems|1.7|
+|Input vs outcome of teaching|Lectures, notes, coverage vs learning achieved; outcome judges teaching|1.7|
+|Withitness vs overlapping (Kounin)|Showing awareness of the whole room vs attending to two matters at once|1.7|
+|Presage vs context vs process vs product variables|What the teacher brings vs the setting vs classroom behaviour vs pupil outcomes|1.7|
+|Teacher immediacy vs clarity vs credibility vs efficacy|Reducing psychological distance vs intelligible explanation vs perceived competence and trust vs teacher's belief in own capability|1.7|
+|Set induction vs closure|Opens the lesson, links to previous knowledge vs ends it and consolidates|1.8|
+|Set induction vs stimulus variation|Attention at the opening only vs attention throughout by changes in teacher behaviour|1.8|
+|Reinforcement vs probing|Praises or accepts a response vs asks follow-up questions to deepen it|1.8|
+|Probing vs illustrating with examples|Works on a student's answer vs clarifies the idea for the whole class|1.8|
+|Prompting vs redirection (probing)|Hints after no or wrong answer vs same question put to other students|1.8|
+|Convergent vs divergent question|One correct answer (even if computed) vs many acceptable answers, usually higher-order|1.8|
+|Micro-teaching vs simulated teaching|Scaled-down cycle for one skill with feedback vs role-play among trainees with rotated roles|1.8|
+|Micro-teaching vs link practice|One skill at a time vs several skills combined in longer lessons with larger groups|1.8|
+|Stanford model vs Indian model of micro-teaching|Real pupils and videotape vs peers as pupils, supervisor and peer feedback, no costly equipment; same cycle|1.8|
+|Knowledge acquisition vs skill acquisition phase|Reading, discussion, model lesson vs plan-teach-feedback-re-plan-re-teach|1.8|
+|Indirect vs direct influence (Flanders)|Categories 1-4 (feelings, praise, students' ideas, questions) vs 5-7 (lecture, directions, criticism)|1.8|
+|Student response (8) vs student initiation (9)|Answers the teacher vs talk the student starts|1.8|
+|I/D ratio vs its inverse|Indirect over direct (120/240 = 0.5) vs direct over indirect (2.0)|1.8|
+|PCK vs TPACK|Content plus pedagogy (Shulman 1986) vs adds technology (Mishra and Koehler 2006)|1.8|
+|TPACK vs SAMR|Teacher knowledge framework vs levels of technology use|1.8|
+|Social system vs support system (models)|Roles and relationships of people vs materials and facilities|1.9|
+|Syntax vs focus vs principles of reaction|Sequence of phases vs central aim vs how the teacher responds|1.9|
+|Concept attainment vs advance organiser|Bruner; examples and non-examples vs Ausubel; general framework before detail|1.9|
+|Inquiry training vs group investigation|Suchman, information-processing, individual questioning vs Thelen, social, democratic group process|1.9|
+|Inquiry training vs synectics|Questioning a puzzling event vs creativity through analogy (Gordon, personal family)|1.9|
+|Glaser's basic teaching model vs Gagné's nine events|Four components of a teaching system with feedback loops vs nine events of a lesson|1.9|
+|Academic freedom vs freedom from rules|Inquiry, expression, choice of method vs not ignoring curriculum or evaluation norms|1.10|
+|Academic freedom vs plagiarism|Right to publish one's own ideas vs no right to others' work|1.10|
+|Confidentiality vs accountability|Keeping personal information private vs answering for one's work|1.10|
+|Marks of a profession vs conditions of employment|Specialised knowledge, training, service motive, code vs salary, post, facilities|1.10|
+|Gift vs ghost authorship|Non-contributor put in vs real contributor left out|1.10|
+|NEP 2020 CPD vs four-year integrated B.Ed.|In-service growth (50 hours a year) vs pre-service qualification (by 2030); separate provisions|1.10|
+|Identity vs role confusion / intimacy vs isolation|Identity is Erikson's adolescent crisis; intimacy belongs to young adulthood|2.1|
+|Industry vs inferiority / identity vs role confusion|Industry is school age (about 6-12); identity is adolescence|2.1|
+|Hall / Havighurst / Erikson|Hall: storm and stress; Havighurst: developmental tasks; Erikson: psychosocial stages|2.1|
+|Moratorium / diffusion|Both lack commitment; moratorium explores, diffusion does not|2.1|
+|Foreclosure / achievement|Both committed; foreclosure without exploration, achievement after exploration|2.1|
+|Imaginary audience / personal fable|Being watched and judged vs being unique and invulnerable (both Elkind)|2.1|
+|Arnett / Levinson|Emerging adulthood (18-25) vs seasons of adult life|2.1|
+|Assimilation / accommodation|Fit experience into old schema vs change the schema|2.2|
+|Equilibration / conservation|Balancing process behind development vs a concrete-operational achievement|2.2|
+|Centration / conservation|Focusing on one feature (pre-operational) is why conservation fails|2.2|
+|Concrete operational / formal operational|Logic on real objects vs abstract, hypothetical reasoning|2.2|
+|Zone of proximal development / level of potential development|The zone is the gap; potential level is its upper edge|2.2|
+|Cognitive constructivism / social constructivism|Piaget (individual) vs Vygotsky (interaction and culture)|2.2|
+|More knowledgeable other / generalised other|Helper in the ZPD vs G. H. Mead's term for society's attitudes|2.2|
+|Scaffolding / advance organiser|Help during the task, withdrawn vs framework given before the lesson|2.2|
+|Enactive / iconic|Action vs images|2.2|
+|Bruner / Ausubel|Discovery learning vs meaningful reception learning|2.2|
+|Egocentric speech / private speech|Piaget's reading (immaturity) vs Vygotsky's (tool guiding thought)|2.2|
+|Comparative / expository organiser|Relates to familiar material vs framework for wholly new material|2.2|
+|Progressive differentiation / integrative reconciliation|General to detailed vs relating and reconciling ideas|2.2|
+|Maintenance / elaborative rehearsal|Plain repetition vs linking to existing knowledge|2.2|
+|Serial position / von Restorff effect|Position decides recall vs distinctiveness decides recall|2.2|
+|Proactive / retroactive interference|Old disturbs new vs new disturbs old|2.2|
+|Classical / operant conditioning|Involuntary response by pairing vs voluntary behaviour by consequences|2.3|
+|Negative reinforcement / punishment|Removes unpleasant, behaviour rises vs behaviour falls|2.3|
+|Negative punishment / negative reinforcement|Removes pleasant to reduce vs removes unpleasant to increase|2.3|
+|Extinction / punishment|Reinforcer withheld vs unpleasant applied or pleasant removed|2.3|
+|Stimulus generalisation / discrimination|Similar stimuli evoke response vs only the original does|2.3|
+|Stimulus generalisation / response generalisation|Many stimuli, one response vs one stimulus, many responses|2.3|
+|Law of readiness / law of effect|Preparedness before acting vs consequences after acting|2.3|
+|Trial and error / insight|Gradual (Thorndike) vs sudden (Köhler)|2.3|
+|Insight / latent learning|Köhler's chimpanzees vs Tolman's rats|2.3|
+|Ratio / interval schedules|Number of responses vs time|2.3|
+|Direct / vicarious reinforcement|Received oneself vs seen given to a model|2.3|
+|Bruner / Gagné|Discovery learning vs conditions and hierarchy of learning|2.3|
+|Shaping / chaining|Refining one response by approximations vs linking separate responses|2.3|
+|Connectivism / constructivism|Learning in networks and devices vs learner's own constructions|2.3|
+|VARK / Bruner's modes|Learning preferences vs ways knowledge is represented|2.4|
+|Diverger / assimilator|Both reflective observation; concrete experience vs abstract conceptualisation|2.4|
+|Converger / accommodator|Both active experimentation; abstract conceptualisation vs concrete experience|2.4|
+|Field-independent / field-dependent|Analytical, self-directed vs global, socially oriented|2.4|
+|Impulsive / reflective tempo|Fast and inaccurate vs slow and accurate (Kagan)|2.4|
+|Reflector / theorist|Watches and gathers data vs builds logical theory|2.4|
+|Pragmatist / activist|Tests ideas in practice vs plunges into new experience|2.4|
+|Pre-conventional / conventional|Punishment and self-interest vs approval and law and order|2.5|
+|Stage 4 / stage 5 (Kohlberg)|Upholds rules as such vs rules as changeable social contract|2.5|
+|Kohlberg's levels / Piaget's moralities|Pre-/conventional/post-conventional vs heteronomous/autonomous|2.5|
+|Moral reasoning / identity|Kohlberg vs Erikson and Marcia|2.5|
+|intrinsic / extrinsic motivation|reward inside the activity (interest, satisfaction) or outside it (marks, scholarship, fear)|2.6|
+|deficiency / growth needs (Maslow)|physiological, safety, belonging, esteem stop motivating once met; self-actualisation keeps motivating; esteem is still a deficiency need|2.6|
+|introduced / popularised emotional intelligence|Salovey and Mayer introduced the term; Goleman popularised it (1995)|2.6|
+|emotional intelligence / Gardner's personal intelligences|Goleman's EI is a separate theory from Gardner's interpersonal and intrapersonal intelligences|2.6|
+|self-efficacy / self-esteem|belief in capability for a task, or general feeling of worth|2.6|
+|Yerkes-Dodson: moderate / maximum arousal|performance peaks at moderate arousal (inverted U); optimum lower for hard tasks|2.6|
+|Weiner: effort / ability|both internal; effort unstable, ability stable|2.6|
+|learned helplessness / test anxiety|stops trying altogether after uncontrollable failure, or fear interfering during a test|2.6|
+|fixed (entity) / growth (incremental) mindset|ability unchangeable, or grows with effort; "incremental" = growth|2.6|
+|mastery / performance goal|aim to understand and improve, or to look able compared with others|2.6|
+|Alderfer / McClelland three-need sets|existence, relatedness, growth; or achievement, affiliation, power|2.6|
+|Deci and Ryan / Alderfer "relatedness"|only Deci and Ryan have autonomy and competence|2.6|
+|ARCS confidence / satisfaction|expectation of success before and during; good feeling after achievement|2.6|
+|overjustification / Hawthorne / Pygmalion / Zeigarnik|reward kills interest; being observed; teacher expectation; unfinished tasks remembered|2.6|
+|Vroom: multiply / add|terms are multiplied; any zero gives zero|2.6|
+|pedagogy / andragogy|teaching children (dependent, subject-centred, external) or helping adults learn (self-directing, problem-centred, internal)|2.7|
+|readiness / orientation (Knowles)|when adults become ready (role demands), or how content is organised (around problems)|2.7|
+|self-directed / incidental / programmed learning|planned by learner; unplanned; path fixed by programme|2.7|
+|learning contract / portfolio|plan drawn up in advance, or evidence of work already done|2.7|
+|andragogy / heutagogy|self-directed within a teacher-designed course, or learner decides what and how (self-determined)|2.7|
+|Mezirow / Kolb|transforming a frame of reference after a disorienting dilemma, or general cycle of learning from experience|2.7|
+|situational / institutional / dispositional barriers|learner's life circumstances; provider's practices; learner's attitudes|2.7|
+|inter- / intra-individual differences|between persons, or within one person's abilities|2.8|
+|aptitude / achievement|potential to learn with training (future), or what has been learnt|2.8|
+|aptitude / attitude (and Hindi अभिक्षमता / अभिवृत्ति)|potential to learn, or settled favourable/unfavourable tendency|2.8|
+|Spearman / Thurstone|g plus s, or seven primary mental abilities|2.8|
+|Thurstone / Guilford|both many abilities; three-dimensional operations-contents-products is Guilford's|2.8|
+|fluid / crystallised intelligence|reasoning on new problems (declines), or stored knowledge (maintained or grows)|2.8|
+|interpersonal / intrapersonal intelligence|understanding others, or understanding oneself|2.8|
+|Sternberg creative / practical|dealing with novelty, or adapting to everyday settings ("street-smart")|2.8|
+|convergent / divergent production|one right answer, or many answers (creativity)|2.8|
+|ratio / deviation IQ|MA ÷ CA × 100, or standing among same-age peers (mean 100, SD 15)|2.8|
+|Flynn / Matthew effect|rise in average IQ across generations, or widening gaps between individuals|2.8|
+|enrichment / acceleration|deeper, wider work at same level, or faster movement through curriculum|2.9|
+|slow learner / underachiever|low ability with matching attainment, or adequate ability with low attainment|2.9|
+|slow learner / learning disability|generally below-average ability, or specific difficulty despite average or higher intelligence|2.9|
+|dyslexia / dysgraphia / dyscalculia / dyspraxia|reading; handwriting; number; movement|2.9|
+|alt text / captions|for learners who cannot see, or who cannot hear|2.9|
+|integration / inclusion|learner fits unchanged system, or system changes for learner|2.9|
+|RPwD 5 per cent / 4 per cent|seats in government and aided higher education, or vacancies in government employment|2.9|
+|RPwD Act 2016 / RTE Act 2009|rights of persons with disabilities, or free and compulsory education for children|2.9|
+|differentiated instruction / UDL|teacher varies content, process, product for learners present, or variety designed in from the start for all|2.9|
+|Support material vs instructional facilities|Material is made or chosen for a particular content (chart, worksheet, slides, e-journal); facilities are lasting infrastructure the institution provides for all teaching (laboratory, library, projector, network)|3.1, 3.4, 3.5|
+|Learning environment vs instructional facilities|Environment is the condition of the surroundings (light, noise, seating, climate); facilities are the equipment and spaces themselves|3.1, 3.5|
+|Necessary vs sufficient condition|Necessary: cannot succeed without it; sufficient: enough on its own. Subject mastery and access to facilities are necessary, not sufficient|3.1, 3.5|
+|Pygmalion effect vs Golem effect|Same self-fulfilling mechanism; high expectations raise performance (Pygmalion), low expectations lower it (Golem)|3.2|
+|Pygmalion effect vs Hawthorne effect|Pygmalion works through the teacher's expectations; Hawthorne through the subjects' awareness of being observed|3.2, 3.6|
+|Pygmalion effect vs halo effect|Pygmalion changes actual performance; halo changes only the rater's judgement|3.2, 3.6|
+|Teacher efficacy vs teacher autonomy|Efficacy is belief in one's capacity to bring about learning; autonomy is freedom to take professional decisions|3.2|
+|Maturation vs learning|Maturation comes from growth with age, independent of training; learning comes from experience and practice|3.3|
+|Aptitude vs prior knowledge|Aptitude is potential to learn; prior knowledge is what has already been learned|3.3|
+|Cognitive vs affective learner factors|Intelligence, aptitude, prior knowledge are cognitive; interest, attitude, motivation, anxiety are affective|3.3|
+|Cultural capital vs aptitude|Cultural capital is familiarity with educated culture gained at home; aptitude is the potential to learn|3.3|
+|Suitability vs accuracy of support material|Suitability concerns the learners' level; accuracy concerns the truth of the content; separate criteria, neither explains the other|3.4|
+|Physical environment vs psychological climate|Light, air, noise, seating are physical; relationships, warmth, fear are psychological|3.6|
+|Psychological safety vs laissez-faire climate|Safety keeps guidance and high expectations; laissez-faire withdraws guidance|3.6|
+|Hawthorne effect vs John Henry effect|Hawthorne: the studied group improves because it is observed; John Henry: the control group works harder to compete|3.6|
+|Halo effect vs leniency error vs central tendency error|Halo: one trait colours other ratings of the same person; leniency: everyone rated high; central tendency: everyone rated near the middle|3.6|
+|Board of Studies vs Academic Council|Board of Studies frames the syllabus of one subject; Academic Council approves courses, syllabi and regulations for the university|3.7|
+|Academic Council vs IQAC|Academic Council approves academic matters; IQAC plans, guides and monitors quality and prepares the AQAR|3.7|
+|Institutional climate vs classroom climate|Institutional climate (leadership, recognition, staff relations) shapes teacher morale; classroom climate shapes student participation|3.7|
+|Approach / method|Approach is the underlying view of learning; method is the organised way of teaching a lesson|4.1|
+|Method / technique|Method organises a whole lesson; technique is a small device inside it (questioning, buzz group)|4.1|
+|Facilitator / transmitter|Facilitator guides active learners (learner-centred); transmitter delivers content to listeners (teacher-centred)|4.1|
+|Inductive / deductive|Inductive: examples to rule, slower, discovery; deductive: rule to examples, quicker, practice|4.1|
+|Lecture / demonstration|Lecture: learners hear; demonstration: learners also see a process performed; neither gives hands-on practice|4.2|
+|Demonstration / laboratory practice|Demonstration: teacher performs; practice: each learner performs; skills come from practice|4.2|
+|Economy / participation (lecture)|Lecture is economical (many learners per teacher) but not participatory|4.2|
+|Immediate confirmation / self-pacing|Knowing at once whether a response is right / going at one's own speed|4.2|
+|Linear / branching programming|Linear (Skinner): small frames, constructed responses, same path; branching (Crowder): larger frames, multiple choice, remedial frames, path depends on response|4.2|
+|Mathetics / linear programming|Mathetics (Gilbert): backward chaining, last step first; linear: forward small steps|4.2|
+|Seminar / symposium|Seminar: one paper discussed in depth; symposium: several speakers on different aspects in turn|4.3|
+|Symposium / panel discussion|Symposium: prepared talks, no conversation among speakers; panel: informal conversation under a moderator|4.3|
+|Seminar / workshop|Seminar: paper and discussion; workshop: practical work and a product|4.3|
+|Seminar / conference|Conference is larger and broader, with plenary and parallel sessions; both include papers|4.3|
+|Chairperson / moderator / rapporteur / convener|Chairperson conducts seminar or symposium; moderator conducts panel; rapporteur records and reports; convener organises|4.3|
+|Tutorial / lecture|Tutorial: small group, remedial, supplements; lecture: large group, presentation|4.3|
+|Team teaching / peer tutoring|Several teachers share one course / students teach students|4.3|
+|Buzz group / fishbowl|Buzz: many small groups talk at once briefly; fishbowl: inner circle talks, outer circle observes|4.3|
+|Forum / panel|Forum: the audience talks from the floor; panel: experts on the platform talk|4.3|
+|Positive / negative interdependence|Cooperation: each succeeds only if others succeed; competition: one succeeds only if others fail|4.3|
+|Jigsaw / STAD|Jigsaw: members teach one another their parts; STAD: team scores from individual improvement points|4.3|
+|Project / case method|Project: real task in the field producing something; case: analysis of a situation already written up|4.4|
+|Project / problem-solving|Problem-solving is chiefly mental and ends in a solution; project is real-life activity ending in a product|4.4|
+|Project method / PBL|PBL: ill-structured problem first, facilitator, no product required; product is the mark of a project|4.4|
+|Role play / simulation|Role play: acting a person's part for empathy; simulation: practising a task in a reality-like setting for skills and decisions|4.4|
+|Role play / dramatisation|Role play is unscripted; dramatisation uses a learnt script|4.4|
+|Heuristic / inductive|Heuristic: learner discovers by own experiment, minimal telling; inductive: reasoning from examples to rule|4.4|
+|Kilpatrick / Parkhurst / Armstrong / Montessori|Project method / Dalton Plan / heuristic method / early childhood method|4.4|
+|Mastery learning / PSI|Bloom: class taught together with formative tests and correctives; Keller: self-paced written units with proctors|4.4|
+|Psychodrama / sociodrama|Psychodrama: individual's private problem, therapy; sociodrama: problem shared by a group|4.4|
+|Case study / incident method|Case: full facts given; incident (Pigors): brief incident, facts obtained by questioning|4.4|
+|Induction / deduction (logic)|Induction: instances to rule, conclusion probable; deduction: rule to case, certain if premises true|4.4|
+|Action research / ex post facto|Action research: plan-act-observe-reflect to improve own practice; ex post facto: studies effects after the event without intervention|4.4|
+|Synchronous / asynchronous|Same time (live class, webinar, chat) / different times (recorded lecture, forum, e-mail)|4.5|
+|Blended / flipped|Blended: general mix of face-to-face and online; flipped: one blended model with content online first, class for application|4.5|
+|Blended / distance learning|Blended keeps regular face-to-face classes; distance learning separates teacher and learner for most of the course|4.5|
+|Flipped / conventional classroom|Flipped: content at home, application in class; conventional: content in class, homework at home|4.5|
+|Rotation / flex model|Rotation: move between modes on a schedule; flex: online learning is the backbone with flexible support|4.5|
+|SWAYAM / SWAYAM PRABHA|SWAYAM: web MOOCs with quizzes, exams, credits, needs internet; SWAYAM PRABHA: one-way DTH TV, no internet, no assessment|4.6|
+|e-PG Pathshala / ePathshala|e-PG Pathshala: postgraduate e-content (UGC, INFLIBNET, NME-ICT); ePathshala: NCERT school textbooks|4.6|
+|Shodhganga / Shodhgangotri|Submitted theses / synopses of research in progress|4.6|
+|Shodhganga / ShodhShuddhi|Thesis repository / plagiarism-detection software access|4.6|
+|DIKSHA / SWAYAM|DIKSHA: school education and teacher training; SWAYAM: courses school to PG and beyond|4.6|
+|NPTEL / NDLI|Online courses by IITs and IISc / digital library search platform (IIT Kharagpur)|4.6|
+|Massive / open (MOOC)|Massive: unlimited enrolment; open: no entry requirements, usually free|4.6|
+|cMOOC / xMOOC / SPOC|cMOOC: connectivist, learner networks (Siemens, Downes); xMOOC: structured instructor-led; SPOC: small private course for one group|4.6|
+|NAD / ABC|NAD stores degrees and mark-sheets for verification (DigiLocker); ABC records credits earned|4.6|
+|Parent / host institution|Parent: where the student is enrolled and credits are recorded; host: whose faculty offers the SWAYAM course|4.6|
+|NETF / NRF / NTA|NETF: forum on educational technology; NRF: funds research; NTA: conducts tests|4.6|
+|Study trip vs demonstration (Dale's cone)|Demonstrations lie below study trips; a study trip is more abstract in Dale's order|5.1|
+|Visual symbols vs verbal symbols|Visual symbols (charts, maps, graphs) lie just below verbal symbols (words), which form the apex|5.1|
+|Visual symbols vs still pictures|A photograph resembles its object (still pictures band, iconic); a graph is an abstract sign (visual symbols, symbolic)|5.1|
+|Projected vs non-projected aids|Projected aids need a projector to throw an image on a screen (epidiascope, OHP, slides, filmstrip); non-projected are seen directly (chalkboard, charts, flash cards, flannel board, models)|5.1|
+|Audio vs audio-visual aids|Radio and tape recorder address hearing only; television and sound film address both; a silent filmstrip is visual|5.1|
+|Model vs specimen|A model represents the real thing (enlarged, reduced or simplified); a specimen is the real thing in sample form|5.2|
+|Diorama vs mock-up vs cut-away model|Diorama: miniature scene before a painted background; mock-up: simplified working replica for training; cut-away: shows the inside|5.2|
+|Chalkboard vs prepared slide|Chalkboard suits content that unfolds during the lesson; slide suits content prepared in advance|5.2|
+|Flannel board vs chart|Both non-projected visual aids; only the flannel board lets a display be built up and rearranged|5.2|
+|Episcope vs diascope|Episcope projects opaque material by reflected light; diascope (slide projector) projects transparent slides|5.3|
+|Epidiascope vs OHP|Epidiascope: opaque objects and slides, darkened room; OHP: large transparencies, lit room, teacher faces class|5.3|
+|Webinar vs podcast|Webinar is live (synchronous); podcast is on demand (asynchronous)|5.4|
+|Wiki vs blog|Wiki is jointly edited with change history; blog is a journal of dated posts|5.4|
+|Video conferencing vs webcast|Video conferencing is two-way among several places; webcast is one-way from one source to many|5.4|
+|LMS vs file-sharing service|Both store files; only an LMS tracks and reports each learner's progress|5.4|
+|Open source vs free of charge|Open source code may be modified and shared (Moodle); a free service may still be proprietary (Google Classroom)|5.4|
+|CC SA vs ND vs NC|SA: adaptations under the same licence; ND: no adaptations distributed; NC: no commercial use|5.4|
+|SAMR Substitution vs Augmentation|Substitution: no functional change; Augmentation: functional improvement (e.g. spell-check)|5.4|
+|Self-contained vs self-evaluating (SLM)|Self-contained: needs no outside sources; self-evaluating: in-text questions with answers let the learner check progress|5.4|
+|Measurement vs evaluation|Measurement gives a number and stops; evaluation adds a judgement of worth|6.1|
+|Assessment vs evaluation|Assessment gathers and interprets evidence; evaluation judges worth and includes assessment|6.1|
+|Test vs measurement|Test is the instrument; measurement is the process of assigning numbers|6.1|
+|Evaluation triangle vs teaching triangle|Objectives, learning experiences, evaluation vs teacher, learner, curriculum|6.1|
+|Instructional vs guidance function|Improving the present course vs helping choose courses or careers|6.1|
+|Reliability vs validity|Consistency vs measuring the right thing; reliable-not-valid possible, valid-not-reliable impossible|6.2|
+|Objectivity vs reliability|Freedom from scorer judgement vs consistency of scores generally|6.2|
+|Content vs face validity|Systematic check against blueprint vs surface impression|6.2|
+|Concurrent vs predictive validity|Criterion available now vs criterion obtained later|6.2|
+|Construct vs content validity|Theoretical trait reflected vs course adequately sampled|6.2|
+|Test-retest vs parallel forms|Same test twice (stability) vs two equivalent versions (equivalence)|6.2|
+|Split-half vs Kuder-Richardson|Halves correlated and Spearman-Brown corrected vs item-level 1/0 data|6.2|
+|SEM vs standard deviation|Error band around one person's score vs spread across the group|6.2|
+|Construct under-representation vs construct-irrelevant variance|Something essential missing vs something extra measured|6.2|
+|Formative vs summative|Use during learning to improve vs use at end to certify; use decides, not instrument|6.3|
+|Formative vs diagnostic|Shows a weakness and gives quick feedback vs finds cause of persistent difficulty|6.3|
+|Diagnostic vs prognostic|Causes of present errors vs forecast of future performance|6.3|
+|Placement vs diagnostic|Entry behaviour before instruction vs causes of persisting difficulty|6.3|
+|Norm-referenced vs criterion-referenced|Comparison with others (cut-off floats) vs fixed standard (number passing floats)|6.3|
+|Percentile rank vs percentage of objectives mastered|Norm-referenced vs criterion-referenced|6.3|
+|Criterion-referenced vs ipsative|Fixed external standard vs learner's own earlier work|6.3|
+|Assessment for learning vs assessment as learning|Teacher uses the evidence vs students use it to regulate themselves|6.3|
+|Scriven vs Bloom (formative/summative)|Scriven 1967, curriculum; Bloom, Hastings, Madaus 1971, student learning|6.3|
+|Direct vs indirect assessment|Examines performance vs gathers opinions (surveys)|6.3|
+|Stem/key/distractor vs premise/response|Parts of an MCQ vs columns of a matching item|6.4|
+|Supply-type vs selection-type items|Student writes the answer vs chooses it|6.4|
+|Blueprint vs marking scheme|Planned before item writing for content validity vs prepared for written items|6.4|
+|Checklist vs rating scale vs rubric|Present/absent vs degree vs degree with descriptors per level|6.4|
+|Anecdotal vs cumulative record vs portfolio|Single incident vs institution's year-by-year record vs student's selected work|6.4|
+|Facility value vs discrimination index|How many got it right vs whether able did better than weak|6.4|
+|High difficulty index vs difficult item|High facility value means an easy item|6.4|
+|Percentile rank vs percentage of marks|Position among examinees vs share of maximum marks|6.5|
+|Percentile vs percentile rank|A score vs the percentage of the group below a score|6.5|
+|Mean vs median|Average pulled by extremes vs middle score unaffected|6.5|
+|Correlation vs causation|Going together vs one producing the other|6.5|
+|r vs shared variance|r = 0.60 gives shared variance r squared = 0.36|6.5|
+|Ordinal vs interval scale|Order only (ranks) vs equal units|6.5|
+|Interval vs ratio scale|No true zero vs true zero; test scores lack a true zero|6.5|
+|Continuous / comprehensive (CCE)|Continuous = regular, through the year (time); comprehensive = scholastic plus co-scholastic (coverage)|6.6|
+|Scholastic / co-scholastic|Scholastic = curricular subjects and intellectual abilities; co-scholastic = life skills, attitudes, values, health and physical education, cultural activities|6.6|
+|Absolute / relative grading|Absolute = fixed mark boundaries, anyone can reach any grade (criterion-referenced); relative = fixed proportions, grade by rank (norm-referenced)|6.6|
+|Grading on the curve / criterion-referenced grading|On the curve fixes proportions in advance, so it is norm-referenced|6.6|
+|Direct / indirect grading|Direct = grade straight from qualitative judgement; indirect = marks first, then converted|6.6|
+|SGPA / CGPA|SGPA = one semester; CGPA = all semesters completed so far|6.7|
+|Credits / credit points|Credits = weight of course; credit points = credits x grade point|6.7|
+|Discipline Specific Elective / Generic Elective|DSE = from the main discipline; GE = from an unrelated discipline|6.7|
+|AECC / SEC|AECC = Environmental Science and English/MIL Communication, compulsory; SEC = skill- or value-based, chosen from a pool|6.7|
+|A / A+ (UGC scale)|A = Very Good, 8; A+ = Excellent, 9|6.7|
+|B / C (UGC scale)|B = Above Average, 6; C = Average, 5|6.7|
+|P / F (UGC scale)|P = Pass, 4 (lowest pass); F = Fail, 0 (Ab also 0)|6.7|
+|UG certificate / UG diploma|Certificate after one year; diploma after two years|6.7|
+|Academic Bank of Credits / National Academic Depository|ABC stores credits; NAD stores awards (degrees, mark-sheets)|6.7|
+|CBCS 2015 / CCFUP 2022 course types|CBCS: core, DSE, GE, AECC, SEC; CCFUP: major, minor, MDC, AEC, SEC, VAC, internship|6.7|
+|CBT / OMR test|CBT answers changeable until submission; OMR circles cannot be altered|6.8|
+|Normalisation / randomisation|Normalisation equates scores of different shift papers; randomisation shuffles item order|6.8|
+|Adaptive testing / linear-on-the-fly testing|CAT adapts each item during the test; LOFT builds a unique form before the test without adapting|6.8|
+|Item response theory / classical test theory|IRT item parameters are sample-independent (needed for CAT); CTT indices change with the group|6.8|
+|Mock test / actual test|Mock = practice with the interface, different questions|6.8|
+|Analytic / holistic rubric|Analytic = score per criterion, profile; holistic = one overall score|6.9|
+|Rubric / checklist|Rubric describes levels per criterion; checklist records present/absent only|6.9|
+|Criteria / descriptors|Criteria = aspects judged; descriptors = what each level of each aspect looks like|6.9|
+|Portfolio / folder|Portfolio = selected work with reflection; folder = everything unselected|6.9|
+|Open-book / on-demand examination|Open-book = books allowed during the test; on-demand = learner chooses when to sit|6.9|
+|On-demand / adaptive testing|On-demand = choice of timing; adaptive = difficulty changes during the test|6.9|
+|Self- / peer assessment|Self = own work; peer = classmates' work|6.9|
+|Authentic / ipsative assessment|Authentic = real-world task; ipsative = comparison with own earlier performance|6.9|
+|Positive / negative washback|Positive = test encourages desirable learning; negative = test narrows teaching|6.9|
+|Washback / practice effect|Washback = effect of a test on teaching and learning; practice effect = score gain from retaking|6.9|

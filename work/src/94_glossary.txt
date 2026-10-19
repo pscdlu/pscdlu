@@ -2,3 +2,436 @@
 English term, the Hindi term used in this guide, and a one-line meaning. Hindi terms follow NTA's Hindi syllabus where it uses a settled term, and otherwise the term standard in Hindi-medium textbooks.
 ::table small widths=27,25,48
 |English|हिंदी|Meaning|
+|ability enhancement course|क्षमता संवर्धन पाठ्यक्रम|AECC and SEC under CBCS 2015|
+|absolute grading|निरपेक्ष श्रेणीकरण|Grades by fixed mark boundaries|
+|abstract|अमूर्त|Removed from direct perception|
+|Academic Bank of Credits|एकेडमिक बैंक ऑफ क्रेडिट्स|Digital store of a student's credits|
+|Academic Council|विद्या परिषद|University's chief academic body|
+|academic freedom|शैक्षणिक स्वतंत्रता|freedom to inquire, teach, research and publish within obligations|
+|acceleration|त्वरण|faster progress through the curriculum|
+|accommodation|समायोजन|changing a schema to fit new experience|
+|achievement|उपलब्धि|what has already been learnt|
+|achievement motivation|उपलब्धि अभिप्रेरणा|desire to succeed against a standard of excellence (McClelland)|
+|action zone|क्रिया क्षेत्र|Front and centre seats where most interaction occurs|
+|administrative function|प्रशासनिक कार्य|use of evaluation for promotion, selection, certification|
+|adolescence|किशोरावस्था|period between childhood and adulthood|
+|adolescent|किशोर|a person between childhood and adulthood|
+|adolescent egocentrism|किशोर अहंकेंद्रिता|Elkind's adolescent self-centredness|
+|advance organiser|अग्रिम संगठक|general introduction given before new material (Ausubel)|
+|advance organiser model|अग्रिम संगठक प्रतिमान|general framework given before detailed material (Ausubel)|
+|affective|भावात्मक|Concerning feelings, interests, attitudes|
+|affective domain|भावात्मक पक्ष|area of feelings, attitudes and values|
+|aim|लक्ष्य|broad, long-term purpose of education|
+|analytic method|विश्लेषण विधि|unknown (conclusion) back to known (data)|
+|andragogy|प्रौढ़ शिक्षाशास्त्र|art and science of helping adults learn (Knowles)|
+|anecdotal record|उपाख्यानात्मक अभिलेख|brief description of a single significant incident|
+|anxiety|दुश्चिंता|worry and tension about what may happen|
+|apperception|अवबोधन|absorbing a new idea into existing ideas (Herbart)|
+|apperceptive mass|पूर्व-ज्ञान पुंज|body of existing ideas into which new ideas are absorbed (Herbart)|
+|approach|उपागम|the broad view of teaching and learning behind a teacher's work|
+|aptitude|अभिक्षमता|potential to learn a skill with training|
+|aptitude-treatment interaction|अभिक्षमता-उपचार अंतःक्रिया|Effect of a method depends on learner characteristics|
+|assessment|आकलन|gathering and interpreting evidence about learning|
+|assessment as learning|अधिगम के रूप में आकलन|students monitor and regulate their own learning|
+|assessment for learning|अधिगम के लिए आकलन|teacher uses evidence during learning to adjust teaching|
+|assessment of learning|अधिगम का आकलन|records achievement at the end|
+|assimilation|आत्मसात्करण|fitting new experience into an existing schema|
+|asynchronous|असमकालिक|At each learner's own time|
+|asynchronous learning|असमकालिक अधिगम|learning in which each takes part at a convenient time|
+|attitude|अभिवृत्ति|settled favourable or unfavourable tendency to respond|
+|attribution|गुणारोपण|the cause a person gives for success or failure (Weiner)|
+|audio aids|श्रव्य सामग्री|Aids addressing hearing|
+|audio-visual aids|दृश्य-श्रव्य सामग्री|Aids addressing both sight and hearing|
+|authentic assessment|प्रामाणिक आकलन|Real-world task assessment|
+|behavioural objective|व्यवहारगत उद्देश्य|objective stated as observable learner behaviour|
+|blended learning|मिश्रित अधिगम|planned mix of face-to-face and online learning|
+|blueprint|नील पत्र|two-way table of content x objectives before item writing|
+|Board of Studies|अध्ययन मंडल|Body that frames a subject's syllabus|
+|brainstorming|मस्तिष्क उद्वेलन|group production of many ideas with judgement deferred|
+|branching programming|शाखीय अभिक्रमण|Crowder's style: response decides next frame|
+|bulletin board|सूचना पट्ट|Board for notices and displays|
+|case method|व्यष्टि अध्ययन विधि|analysis of a written real or realistic situation|
+|central tendency|केंद्रीय प्रवृत्ति|one number representing the group's general level|
+|chalkboard|श्यामपट्ट|Board for writing with chalk|
+|checklist|जाँच सूची|records presence or absence of features|
+|Choice Based Credit System|विकल्प आधारित क्रेडिट प्रणाली|UGC 2015 system of credits, choice and grades|
+|chronological age|कालानुक्रमिक आयु|actual age since birth|
+|chunking|खंडीकरण|grouping items into meaningful units|
+|class size|कक्षा का आकार|Number of students in a class|
+|classical conditioning|शास्त्रीय अनुबंधन|learning by pairing stimuli (Pavlov)|
+|classroom climate|कक्षा का वातावरण|Socio-emotional atmosphere of a class|
+|classroom management|कक्षा प्रबंधन|organising space, time, routines and relationships for engaged learning|
+|closure|समापन|consolidating the lesson at its end|
+|co-scholastic area|सह-शैक्षिक क्षेत्र|Life skills, attitudes, values, health, cultural activities|
+|code of conduct|आचार संहिता|accepted rules of right conduct for members|
+|cognitive|संज्ञानात्मक|to do with knowing and thinking|
+|cognitive domain|संज्ञानात्मक पक्ष|area of knowing and thinking|
+|cognitive load theory|संज्ञानात्मक भार सिद्धांत|Working memory's limited capacity governs learning design|
+|cognitive style|संज्ञानात्मक शैली|typical way of perceiving and thinking|
+|communication|संप्रेषण|sending a message from sender to receiver through a channel|
+|communication skill|संप्रेषण कौशल|Ability to make ideas reach learners|
+|computer based testing|कंप्यूटर आधारित परीक्षण|Test taken and scored on computer|
+|computer-assisted instruction|कंप्यूटर सहायक अनुदेशन|Teaching through computer programs|
+|computerised adaptive test|कंप्यूटरीकृत अनुकूली परीक्षण|Test whose next item depends on earlier responses|
+|concept attainment model|संप्रत्यय उपलब्धि प्रतिमान|concepts formed from examples and non-examples (Bruner)|
+|concrete|मूर्त|Directly perceived|
+|concurrent validity|समवर्ती वैधता|agreement with a criterion measured at the same time|
+|conditioning|अनुबंधन|building a stimulus-response link by pairing or reinforcement, without understanding|
+|Cone of Experience|अनुभव शंकु|Dale's arrangement of experiences from concrete to abstract|
+|conference|सम्मेलन|large meeting on a broad theme with paper sessions|
+|confidentiality|गोपनीयता|keeping personal or examination information private|
+|connectivism|संयोजनवाद|theory that learning is forming connections across networks|
+|conservation|संरक्षण|quantity stays same despite change in appearance|
+|construct validity|संरचना वैधता|scores reflect a theoretical trait|
+|constructivism|रचनावाद|learners build their own knowledge|
+|content validity|विषयवस्तु वैधता|items represent course content and objectives in proportion|
+|Continuous and Comprehensive Evaluation|सतत एवं व्यापक मूल्यांकन|Regular, whole-year assessment of scholastic and co-scholastic areas|
+|continuous professional development|सतत व्यावसायिक विकास|lifelong in-service learning of teachers (CPD)|
+|conventional|परंपरागत|Kohlberg level guided by approval and law|
+|convergent production|अभिसारी चिंतन|thinking towards one correct answer (Guilford)|
+|cooperative learning|सहकारी अधिगम|small groups working to a shared goal|
+|core course|मूल पाठ्यक्रम|Compulsory course of the programme|
+|correlation|सहसंबंध|degree to which two sets of scores go together|
+|credit|क्रेडिट|Unit measuring course work by teaching hours|
+|credit transfer|क्रेडिट अंतरण|counting credits earned elsewhere towards one's degree|
+|criterion-referenced|निकष-संदर्भित|Judged against a fixed standard|
+|criterion-referenced test|निकष-संदर्भित परीक्षण|interprets a score against a fixed standard|
+|critical reflection|आलोचनात्मक चिंतन|examining one's own assumptions|
+|crystallised intelligence|क्रिस्टलीकृत बुद्धि|stored knowledge and skills (Cattell)|
+|cultural capital|सांस्कृतिक पूँजी|Familiarity with educated culture passed on by family (Bourdieu)|
+|Cumulative Grade Point Average|संचयी ग्रेड पॉइंट औसत|Credit-weighted average over all semesters|
+|cumulative record|संचयी अभिलेख|institution's year-by-year comprehensive record|
+|Dalton Plan|डाल्टन योजना|Parkhurst's plan of individual monthly assignments|
+|debate|वाद-विवाद|two sides argue for and against a motion|
+|deductive method|निगमन विधि|rule first, applied to examples|
+|democratic teaching|लोकतांत्रिक शिक्षण|respectful teaching that invites questions and participation|
+|demonstration method|प्रदर्शन विधि|teacher shows step by step how something is done|
+|dependent variable|आश्रित चर|the learner (in analysis of teaching); the measured outcome (in an experiment)|
+|developmental tasks|विकासात्मक कार्य|tasks society expects at each life stage (Havighurst)|
+|diagnostic and remedial|निदानात्मक एवं उपचारात्मक|finding difficulties and helping overcome them|
+|diagnostic evaluation|निदानात्मक मूल्यांकन|finding causes of persistent difficulties|
+|diagnostic function|निदानात्मक कार्य|finding entry behaviour and difficulties|
+|diascope|डायस्कोप|Slide projector|
+|differentiated instruction|विभेदित अनुदेशन|varying content, process and product to suit learners|
+|difficulty index / facility value|कठिनाई सूचकांक|proportion answering an item correctly|
+|digital divide|डिजिटल विभाजन|Unequal access to and familiarity with computers|
+|direct assessment|प्रत्यक्ष आकलन|examines actual performance|
+|direct grading|प्रत्यक्ष श्रेणीकरण|Grade given without marks|
+|discovery learning|खोज अधिगम|learning by finding out oneself (Bruner)|
+|discrimination index|विभेदन सूचकांक|upper-group minus lower-group proportion correct|
+|distance education|दूरस्थ शिक्षा|education with teacher and learner mostly separated|
+|distractor|विकर्षक|plausible wrong option|
+|divergent production|अपसारी चिंतन|thinking that produces many answers; creativity (Guilford)|
+|effective teaching|प्रभावी शिक्षण|teaching judged by the learning it produces|
+|egocentrism|अहंकेंद्रिता|difficulty seeing another's point of view|
+|elective course|वैकल्पिक पाठ्यक्रम|Course chosen from a pool|
+|emerging adulthood|उभरती वयस्कता|Arnett's stage, about 18 to 25|
+|emotion|संवेग|a feeling such as fear, joy or anger that affects behaviour|
+|emotional intelligence|संवेगात्मक बुद्धि|ability to recognise and manage one's own and others' emotions|
+|enactive|क्रियात्मक|Bruner's mode: learning by doing|
+|enrichment|संवर्धन|deeper and wider work at the same level|
+|entry behaviour|प्रवेश व्यवहार|what the learner already knows and can do before instruction|
+|environment|वातावरण|what a person experiences: family, culture, schooling, health|
+|epidiascope|एपिडायस्कोप|Projects opaque material and slides|
+|episcope|एपिस्कोप|Projects opaque material by reflected light|
+|equilibration|संतुलनीकरण|balancing assimilation and accommodation|
+|essay-type item|निबंधात्मक प्रश्न|item needing a long organised written answer|
+|evaluation|मूल्यांकन|judging worth against objectives; includes measurement and assessment|
+|evaluation triangle|मूल्यांकन त्रिभुज|objectives, learning experiences and evaluation as three linked corners|
+|evaluative function|मूल्यांकनात्मक कार्य|checking whether objectives have been achieved|
+|experiential learning|अनुभवात्मक अधिगम|learning from experience and reflection (Kolb)|
+|external evaluation|बाह्य मूल्यांकन|by outside examiners or agency|
+|extinction|विलोपन|fading of a response when not reinforced|
+|extrinsic motivation|बाह्य अभिप्रेरणा|motivation from marks, praise, rewards|
+|face validity|आभासी वैधता|surface appearance of relevance|
+|facilitator|सुगमकर्ता|teacher who arranges conditions and guides learning|
+|factors affecting teaching|शिक्षण को प्रभावित करने वाले कारक|Influences that make teaching more or less successful|
+|feedback|प्रतिपुष्टि|information returned to the sender about the effect of a message or action|
+|field-dependent|क्षेत्र-आश्रित|perceives globally, relies on outside cues|
+|field-independent|क्षेत्र-स्वतंत्र|able to separate item from background|
+|flannel board|फलालैन बोर्ड|Cloth board on which backed cut-outs stick|
+|flash card|फ़्लैश कार्ड|Card shown briefly for drill|
+|flipped classroom|फ़्लिप्ड कक्षा|content studied before class; class used for application|
+|fluid intelligence|तरल बुद्धि|reasoning in new situations (Cattell)|
+|focus (of a model)|केंद्र-बिंदु|central aim of a model|
+|formative evaluation|रचनात्मक मूल्यांकन|frequent evaluation that guides learning|
+|from concrete to abstract|मूर्त से अमूर्त की ओर|things learners can perceive before ideas and definitions|
+|from empirical to rational|अनुभवजन्य से तर्कसंगत की ओर|observed fact before reasoned explanation|
+|from indefinite to definite|अनिश्चित से निश्चित की ओर|vague ideas made clear and exact|
+|from known to unknown|ज्ञात से अज्ञात की ओर|start from what learners know and move to the new|
+|from particular to general|विशिष्ट से सामान्य की ओर|several cases before the rule; basis of induction|
+|from psychological to logical|मनोवैज्ञानिक से तार्किक की ओर|learner's interests before subject structure|
+|from simple to complex|सरल से जटिल की ओर|easy elements before difficult ones|
+|from whole to part|पूर्ण से अंश की ओर|complete picture before details (Gestalt)|
+|Gestalt|गेस्टाल्ट|whole, form; school of Wertheimer, Köhler, Koffka|
+|gifted learner|प्रतिभाशाली शिक्षार्थी|learner far above age group in ability or performance|
+|Golem effect|गोलेम प्रभाव|Low teacher expectations lower performance|
+|grading|श्रेणीकरण|Reporting performance in broad lettered bands|
+|guidance function|निर्देशन कार्य|use of evaluation to help educational and vocational choices|
+|halo effect|प्रभामंडल प्रभाव|One favourable trait colours other ratings|
+|handout|हैंडआउट|Printed sheet given to students|
+|Hawthorne effect|हॉथोर्न प्रभाव|Improvement due to awareness of being studied|
+|hearing impairment|श्रवण बाधिता|partial or total loss of hearing|
+|heredity|वंशानुक्रम|what a person inherits from parents|
+|heuristic method|अन्वेषण विधि|learner finds out as a discoverer|
+|heutagogy|स्व-निर्धारित अधिगम|self-determined learning (Hase and Kenyon)|
+|hierarchy of needs|आवश्यकता पदानुक्रम|Maslow's ordered levels of needs|
+|higher-order thinking|उच्च-स्तरीय चिंतन|analysing, evaluating and creating|
+|hypothesis|परिकल्पना|tentative solution to be tested|
+|iconic|प्रतिमात्मक|Bruner's mode: learning through images|
+|ICT-based|आईसीटी आधारित|Using digital technology|
+|identity statuses|पहचान स्थितियाँ|Marcia's four outcomes of exploration and commitment|
+|identity versus role confusion|पहचान बनाम भूमिका भ्रम|Erikson's adolescent crisis|
+|imaginary audience|काल्पनिक दर्शक|feeling of being always watched|
+|impartiality|निष्पक्षता|just and equal treatment of all students|
+|inclusive education|समावेशी शिक्षा|all learners, with and without disability, learn together with needed supports|
+|independent variable|स्वतंत्र चर|the teacher (in analysis of teaching); the manipulated factor (in an experiment)|
+|indirect assessment|अप्रत्यक्ष आकलन|gathers opinions about learning (surveys)|
+|indirect grading|अप्रत्यक्ष श्रेणीकरण|Marks first, then converted to grades|
+|individual differences|वैयक्तिक भिन्नताएँ|ways in which learners differ from one another|
+|indoctrination|मतारोपण|implanting beliefs to be held beyond question|
+|inductive method|आगमन विधि|examples first, rule drawn from them|
+|Information and Communication Technology|सूचना एवं संचार प्रौद्योगिकी|Digital tools to create, store, send, receive information|
+|inquiry training model|पृच्छा प्रशिक्षण प्रतिमान|inquiry into a puzzling event by questioning (Suchman)|
+|insight|अंतर्दृष्टि|sudden grasp of relations in a whole situation|
+|institution|संस्था|The college or university with its policies and leadership|
+|institution-related factors|संस्थागत कारक|Policies, structures and leadership of the institution|
+|institutional climate|संस्थागत वातावरण|General atmosphere of leadership and staff relations|
+|instruction|अनुदेशन|systematic passing on of organised knowledge; possible without a teacher|
+|instructional facilities|अनुदेशात्मक सुविधाएँ|Infrastructure the institution provides for all teaching|
+|instructional objective|शिक्षण उद्देश्य|precise, testable statement of what the learner will do after instruction|
+|intelligence|बुद्धि|general capacity to learn, reason and adapt|
+|intelligence quotient|बुद्धि-लब्धि|IQ: MA/CA x 100, or deviation score|
+|interaction analysis|अंतःक्रिया विश्लेषण|systematic coding of classroom talk (Flanders)|
+|interactive phase|अंतःक्रियात्मक अवस्था|classroom stage of teacher-learner interaction|
+|interest|रुचि|liking for an activity|
+|internal evaluation|आंतरिक मूल्यांकन|by the institution's own teachers|
+|Internal Quality Assurance Cell|आंतरिक गुणवत्ता आश्वासन प्रकोष्ठ|Institution's body for planning and monitoring quality (NAAC)|
+|internalisation|आंतरीकरण|degree to which a value becomes one's own|
+|interval scale|अंतराल मापनी|Scale with equal units, no true zero|
+|intervening variable|मध्यवर्ती चर|content, methods, strategies that carry the teacher's influence|
+|intrinsic motivation|आंतरिक अभिप्रेरणा|motivation from the task or problem itself|
+|ipsative assessment|स्व-संदर्भित आकलन|compares a learner with her own earlier performance|
+|item analysis|पद विश्लेषण|finding difficulty, discrimination and distractor functioning of items|
+|item response theory|एकांश अनुक्रिया सिद्धांत|Theory giving sample-independent item parameters|
+|knowledge dimension|ज्ञान आयाम|factual, conceptual, procedural and metacognitive knowledge|
+|laissez-faire|हस्तक्षेप-रहित|Climate in which the teacher withdraws guidance|
+|language laboratory|भाषा प्रयोगशाला|Stations for listening and speaking practice|
+|late adolescence|उत्तर किशोरावस्था|the last part of adolescence, about 17 to 19 years|
+|latent learning|अव्यक्त अधिगम|learning without reinforcement, shown later (Tolman)|
+|law of effect|प्रभाव का नियम|Thorndike: satisfying results strengthen a response|
+|law of exercise|अभ्यास का नियम|Thorndike: use strengthens, disuse weakens|
+|law of readiness|तत्परता का नियम|Thorndike: readiness makes action satisfying|
+|leadership style|नेतृत्व शैली|authoritarian, democratic or laissez-faire way of leading a group|
+|learned helplessness|अधिगत असहायता|giving up because one believes actions make no difference (Seligman)|
+|learner|शिक्षार्थी|the person who learns|
+|learner-centred method|शिक्षार्थी-केंद्रित विधि|method in which learners are the main actors|
+|learning|अधिगम|relatively permanent change in behaviour from experience or practice|
+|learning contract|अधिगम अनुबंध|written plan of objectives, resources, evidence and criteria agreed in advance|
+|learning environment|अधिगम वातावरण|Physical and psychological surroundings of learning|
+|learning experiences|अधिगम अनुभव|teaching and activities provided to bring about the objectives|
+|learning management system|अधिगम प्रबंधन प्रणाली|Software to deliver and manage online courses|
+|learning outcome|अधिगम परिणाम|what the learner can demonstrate as a result of learning|
+|learning style|अधिगम शैली|preferred way of taking in information|
+|lecture method|व्याख्यान विधि|teacher presents organised content orally to listeners|
+|levels of teaching|शिक्षण के स्तर|memory, understanding and reflective levels|
+|levels/scales of measurement|मापन के स्तर|nominal, ordinal, interval, ratio|
+|linear programming|रेखीय अभिक्रमण|Skinner's style: same small steps for every learner|
+|locus of control|नियंत्रण-स्थल|where a person places control of outcomes: self or outside (Rotter)|
+|massive open online course (MOOC)|विशाल मुक्त ऑनलाइन पाठ्यक्रम|online course open to unlimited numbers without entry requirements|
+|mastery learning|निपुणता अधिगम|every learner must reach a fixed standard in each unit|
+|maturation|परिपक्वता|Unfolding of capacities with age, independent of training|
+|maxim of teaching|शिक्षण सूत्र|working rule for the order in which material is presented|
+|mean|माध्य|arithmetic average|
+|meaningful learning|सार्थक अधिगम|new material related to existing knowledge|
+|measurement|मापन|assigning numbers to performance by rules; answers 'how much'|
+|measurement error|मापन त्रुटि|Chance variation in a score not due to real ability|
+|median|माध्यिका|middle score in order|
+|memory level|स्मृति स्तर|teaching to fix and reproduce facts|
+|mental age|मानसिक आयु|age level of a person's test performance|
+|metacognition|अधिसंज्ञान|thinking about one's own thinking|
+|metacognitive|अधिसंज्ञानात्मक|knowledge of thinking and of one's own thinking|
+|method of teaching|शिक्षण विधि|organised step-by-step way of teaching a lesson or unit|
+|micro-teaching|सूक्ष्म शिक्षण|scaled-down practice lesson for one skill, with feedback|
+|mnemonic devices|स्मृति सहायक युक्तियाँ|memory aids such as acronyms and rhymes|
+|mode|बहुलक|most frequent score|
+|model|प्रतिमान / मॉडल|Representation of a real thing|
+|model of teaching|शिक्षण प्रतिमान|complete planned pattern of teaching (Joyce and Weil)|
+|modern|आधुनिक|Electrical audio-visual equipment|
+|modern support|आधुनिक सहायक सामग्री|Electrical audio-visual equipment|
+|moral development|नैतिक विकास|growth of reasoning about right and wrong|
+|motivation|अभिप्रेरणा|arousing and sustaining the learner's will to learn|
+|multimedia|बहुमाध्यम|Integration of text, image, sound, video, animation|
+|multiple entry and exit|बहु-प्रवेश एवं बहु-निकास|Leaving and rejoining a programme with awards|
+|multiple intelligences|बहु-बुद्धि|Gardner's theory of several independent intelligences|
+|multiple-choice item|बहुविकल्पीय प्रश्न|stem with options: key and distractors|
+|National Academic Depository|राष्ट्रीय शैक्षणिक निक्षेपागार|Digital store of degrees and mark-sheets|
+|National Coordinator|राष्ट्रीय समन्वयक|body responsible for SWAYAM courses in one sector|
+|National Higher Education Qualifications Framework|राष्ट्रीय उच्चतर शिक्षा अर्हता रूपरेखा|UGC framework of levels 4.5-8|
+|noise|शोर|Physical disturbance; barrier to communication|
+|non-projected aids|अप्रक्षेपित सामग्री|Aids seen directly|
+|non-verbal communication|अशाब्दिक संप्रेषण|communication by face, gesture, eye contact, movement|
+|norm-referenced|मानक-संदर्भित|Judged against the group|
+|norm-referenced test|मानक-संदर्भित परीक्षण|interprets a score against other learners|
+|normal distribution|प्रसामान्य वितरण|symmetrical bell-shaped distribution|
+|normalisation|सामान्यीकरण|Making scores of different papers comparable|
+|norms|मानक|tables of a reference group's performance for comparing scores|
+|objective|उद्देश्य|what the learner should achieve|
+|objective-type item|वस्तुनिष्ठ प्रश्न|item with one predetermined correct answer|
+|objectivity|वस्तुनिष्ठता|freedom of scores from the scorer's judgement|
+|observational learning|अवलोकनात्मक अधिगम|learning by watching a model (Bandura)|
+|obtained score|प्राप्त अंक|the score actually obtained on a test|
+|off-line teaching|ऑफ़लाइन शिक्षण|face-to-face teaching with teacher and learners together|
+|on-demand examination|मांग पर परीक्षा|Learner chooses the date; paper from a bank|
+|on-line teaching|ऑनलाइन शिक्षण|teaching through the internet|
+|one-way mass communication|एकतरफ़ा जनसंचार|broadcast to a large audience with no return channel|
+|open educational resources|मुक्त शैक्षिक संसाधन|Openly licensed teaching materials|
+|open source|मुक्त स्रोत|Software whose code may be used, modified and shared|
+|open-book examination|खुली पुस्तक परीक्षा|Books allowed during the test|
+|operant conditioning|क्रियाप्रसूत अनुबंधन|behaviour shaped by consequences (Skinner)|
+|ordinal scale|क्रमसूचक मापनी|Scale giving order only|
+|outcome-based education|परिणाम आधारित शिक्षा|planning that starts from intended outcomes|
+|overhead projector|शिरोपरि प्रक्षेपी|Projects large transparencies in a lit room|
+|panel discussion|पैनल चर्चा|experts converse informally under a moderator|
+|parallel forms method|समानांतर प्रारूप विधि|two equivalent versions; equivalence|
+|pedagogical content knowledge|शैक्षणिक विषयवस्तु ज्ञान|knowing how to make a particular topic understandable to learners|
+|pedagogy|शिक्षाशास्त्र|art and science of teaching children|
+|peer assessment|सहपाठी आकलन|Students judging classmates' work|
+|peer group|समवयस्क समूह|group of people of the same age and status|
+|peer tutoring|सहपाठी शिक्षण|students teaching fellow students|
+|percentile|शततमक|score below which a given percentage falls|
+|percentile rank|शततमक कोटि|percentage of the group scoring below a given score|
+|percentile score|शततमक अंक|Percentage of candidates scoring at or below a score|
+|performance-based assessment|निष्पादन आधारित आकलन|Assessment by doing a task|
+|personal fable|व्यक्तिगत कल्पित कथा|belief in being unique and invulnerable|
+|Personalised System of Instruction|वैयक्तिकृत अनुदेशन प्रणाली|Keller's self-paced, unit-mastery plan with proctors|
+|personality|व्यक्तित्व|Characteristic pattern of a person's behaviour and traits|
+|phases of teaching|शिक्षण की अवस्थाएँ|pre-active, interactive and post-active stages of teaching|
+|physical environment|भौतिक वातावरण|Light, air, noise, space, furniture, seating|
+|placement evaluation|स्थापन मूल्यांकन|before instruction; entry behaviour and starting point|
+|plagiarism|साहित्यिक चोरी|presenting another's work as one's own|
+|portfolio|पोर्टफोलियो|Purposeful collection of work with reflection|
+|post-active phase|उत्तर-क्रियात्मक अवस्था|evaluation and reflection stage after teaching|
+|post-conventional|उत्तर-परंपरागत|Kohlberg level guided by principles|
+|pre-active phase|पूर्व-क्रियात्मक अवस्था|planning stage before teaching|
+|pre-conventional|पूर्व-परंपरागत|Kohlberg level guided by punishment and reward|
+|predictive validity|भविष्यसूचक वैधता|scores forecast a later criterion|
+|prescriptive function|उपचारात्मक कार्य|choosing content and methods to suit and remedy the diagnosis|
+|principles of reaction|प्रतिक्रिया के सिद्धांत|how the teacher responds to learners|
+|prior knowledge|पूर्व ज्ञान|What the learner already knows|
+|probing questioning|खोजपूर्ण प्रश्न|follow-up questions that deepen a student's answer|
+|problem-based learning|समस्या आधारित अधिगम|learning driven by an ill-structured problem met first|
+|problem-solving method|समस्या समाधान विधि|learners solve a problem by steps of scientific inquiry|
+|proctored examination|पर्यवेक्षित परीक्षा|examination held under supervision at a centre|
+|profession|व्यवसाय|occupation with specialised knowledge, training, service motive, code|
+|professional ethics|व्यावसायिक नैतिकता|standards of right conduct expected in a profession|
+|prognostic test|पूर्वानुमानात्मक परीक्षण|forecasts future performance|
+|programmed instruction|अभिक्रमित अनुदेशन|self-instruction through a sequence of small frames with immediate confirmation|
+|project method|परियोजना विधि|learners carry out a purposeful real-life task to completion|
+|projected aids|प्रक्षेपित सामग्री|Aids whose image a projector throws on a screen|
+|psychological environment|मनोवैज्ञानिक वातावरण|Relationships, warmth, freedom from fear|
+|psychological safety|मनोवैज्ञानिक सुरक्षा|Feeling that one will not be humiliated for a question or mistake|
+|psychomotor|मनोगत्यात्मक|Concerning physical and manipulative skill|
+|psychomotor domain|मनोगत्यात्मक पक्ष|area of physical skills needing mind-muscle coordination|
+|psychosocial|मनोसामाजिक|relating mind and society (Erikson's stages)|
+|punishment|दंड|consequence that decreases behaviour|
+|Pygmalion effect|पिग्मेलियन प्रभाव|High teacher expectations raise performance|
+|quantitative|मात्रात्मक|expressed in numbers|
+|question bank|प्रश्न बैंक|Classified store of items|
+|questioning skill|प्रश्न कौशल|Skill of framing and distributing questions|
+|rating scale|निर्धारण मापनी|records degree on a numerical or verbal scale|
+|raw score|अपरिष्कृत प्राप्तांक|marks actually obtained, before conversion|
+|readiness|तत्परता|Maturity and preparation sufficient for a task|
+|reasonable accommodation|उचित सुविधा|necessary changes without undue burden so persons with disabilities enjoy rights equally|
+|reflective level|चिंतनशील स्तर|problem-centred teaching for critical, independent thinking|
+|reflective practice|चिंतनशील अभ्यास|examining one's own teaching to improve it|
+|reinforcement|पुनर्बलन|encouraging desired responses by praise and approval|
+|relative grading|सापेक्ष श्रेणीकरण|Grades by position in the group|
+|reliability|विश्वसनीयता|consistency of scores|
+|reliability coefficient|विश्वसनीयता गुणांक|correlation expressing reliability, 0 to 1|
+|remedial teaching|उपचारात्मक शिक्षण|teaching that corrects learning deficiencies|
+|remote proctoring|दूरस्थ निरीक्षण|Online invigilation by webcam and screen|
+|reversibility|उत्क्रमणीयता|mentally undoing an action|
+|role play|भूमिका निर्वाह|learners act out roles unscripted, followed by discussion|
+|rote learning|रटन अधिगम|learning by repetition without meaning|
+|rubric|रूब्रिक (मूल्यांकन मानदंड-तालिका)|Scoring guide with criteria, levels, descriptors|
+|scaffolding|आलंबन, पाड़|temporary support withdrawn as learner gains competence|
+|schema|स्कीमा, मानसिक संरचना|organised pattern of thought|
+|scholastic area|शैक्षिक क्षेत्र|Curricular subjects and intellectual abilities|
+|self-actualisation|आत्मसिद्धि|realising one's full potential; top of Maslow's hierarchy|
+|self-assessment|स्व-आकलन|Judging one's own work against criteria|
+|self-directed learning|स्व-निर्देशित अधिगम|learning in which the learner diagnoses needs, sets goals, finds resources, evaluates|
+|self-efficacy|आत्म-प्रभावकारिता|belief in one's capability to succeed at a task (Bandura)|
+|self-fulfilling prophecy|स्वतः पूर्ण होने वाली भविष्यवाणी|Expectation that causes itself to come true|
+|self-learning material|स्व-अधिगम सामग्री|Distance-learning material designed for study without a teacher|
+|self-regulated learner|स्व-नियमित शिक्षार्थी|learner who plans, monitors and evaluates own learning|
+|Semester Grade Point Average|सेमेस्टर ग्रेड पॉइंट औसत|Credit-weighted average for one semester|
+|seminar|संगोष्ठी|paper presented and discussed in depth|
+|set induction|प्रस्तावना कौशल|skill of introducing a lesson and linking it to prior knowledge|
+|simulated teaching|अनुरूपित शिक्षण|role-play practice among trainees (teacher, pupil, observer)|
+|simulation|अनुरूपण|practice in an artificial situation resembling reality|
+|skill enhancement course|कौशल संवर्धन पाठ्यक्रम|Skill- or value-based course chosen from a pool|
+|slow learner|मंद अधिगमकर्ता|learner with somewhat below-average ability|
+|smart classroom|स्मार्ट कक्षा|Classroom with digital teaching tools|
+|social characteristics|सामाजिक विशेषताएँ|ways a learner relates to others|
+|social constructivism|सामाजिक रचनावाद|knowledge built through social interaction (Vygotsky)|
+|social system|सामाजिक प्रणाली|roles and relationships in a model|
+|specific learning disability|विशिष्ट अधिगम अक्षमता|difficulty in one area despite average or higher intelligence|
+|specimen|नमूना|Real sample representing its class|
+|split-half method|अर्ध-विच्छेद विधि|one administration split into halves; internal consistency|
+|standard deviation|मानक विचलन|spread of scores around the mean|
+|standard error of measurement|मापन की मानक त्रुटि|error band around an individual's obtained score|
+|standard score|मानक प्राप्तांक|score expressed in SD units from the mean (z, T)|
+|stimulus generalisation|उद्दीपक सामान्यीकरण|similar stimuli evoke the conditioned response|
+|stimulus variation|उद्दीपन परिवर्तन|changes in teacher behaviour to hold attention|
+|storm and stress|तूफ़ान और तनाव|Hall's description of adolescence as turbulent|
+|strategy|शिक्षण व्यूह रचना|overall plan for reaching an objective, often combining methods|
+|study habits|अध्ययन आदतें|regular ways of studying|
+|subject mastery|विषय पर अधिकार|Deep and accurate command of content|
+|summative evaluation|योगात्मक मूल्यांकन|evaluation at the end for grading|
+|support material|सहायक सामग्री|Aids and resources used to teach a particular content|
+|support system|सहायक प्रणाली|materials and facilities a model needs|
+|symbolic|प्रतीकात्मक|Bruner's mode: learning through symbols|
+|symposium|परिसंवाद|several prepared talks on aspects of one theme|
+|synchronous|समकालिक|In real time, all at once|
+|synchronous learning|समकालिक अधिगम|learning in which all take part at the same time|
+|syntax (of a model)|संरचना|sequence of phases of a model|
+|synthetic method|संश्लेषण विधि|known data forward to unknown conclusion|
+|taxonomy of educational objectives|शैक्षिक उद्देश्यों का वर्गीकरण|ordered classification of educational objectives|
+|teacher|शिक्षक|Person who teaches|
+|teacher efficacy|शिक्षक प्रभावकारिता|Teacher's belief in own capacity to bring about learning|
+|teacher-centred method|शिक्षक-केंद्रित विधि|method in which the teacher controls content and pace|
+|teaching|शिक्षण|purposeful activity intended to bring about learning in another person|
+|teaching aid|शिक्षण सहायक सामग्री|Material that helps make ideas clear|
+|Teaching Aptitude|शिक्षण अभिवृत्ति|title of Unit I|
+|teaching skill|शिक्षण कौशल|small definable set of teacher behaviours that aid learning|
+|teaching support system|शिक्षण सहायक प्रणाली|The whole set of aids and facilities|
+|teaching to the test|परीक्षा-केंद्रित शिक्षण|Narrowing teaching to likely exam questions|
+|team teaching|दल शिक्षण|several teachers jointly plan, teach and evaluate|
+|technique|प्रविधि|small device used within a method|
+|test|परीक्षण|an instrument: a set of questions or tasks given to the learner|
+|test-retest method|परीक्षण-पुनर्परीक्षण विधि|same test given twice; stability|
+|three-dimensional|त्रि-आयामी|Having length, breadth and depth|
+|three-dimensional aids|त्रि-आयामी सामग्री|Aids having length, breadth and depth|
+|traditional|पारंपरिक|Not needing electricity or electronics|
+|traditional support|पारंपरिक सहायक सामग्री|Aids that need no electricity|
+|training|प्रशिक्षण|building a specific skill by practice to a set standard|
+|transformative learning|रूपांतरणकारी अधिगम|learning that changes a frame of reference (Mezirow)|
+|trial and error|प्रयास और त्रुटि|learning by trying and dropping wrong responses (Thorndike)|
+|true score|सत्य प्राप्तांक|the score free of measurement error|
+|tutorial|अनुशिक्षण|tutor with a small group giving remedial and personal help|
+|two-dimensional|द्वि-आयामी|Flat (length and breadth)|
+|understanding level|बोध स्तर|teaching to see relationships and apply principles|
+|usability / practicability|व्यावहारिकता|ease of giving, scoring and interpreting a test in time and cost|
+|validity|वैधता|measuring what the test claims to measure|
+|value judgement|मूल्य-निर्णय|a judgement of worth or desirability|
+|variable|चर|anything that can vary|
+|vicarious reinforcement|प्रतिनिधिक पुनर्बलन|reinforcement seen given to a model|
+|visual aids|दृश्य सामग्री|Aids addressing sight|
+|visual impairment|दृष्टि बाधिता|partial or total loss of sight|
+|washback|परीक्षा का पश्च प्रभाव|Effect of a test on teaching and learning|
+|working memory|कार्यकारी स्मृति|short-term memory in use now|
+|workload|कार्यभार|Teaching and other duties assigned|
+|workshop|कार्यशाला|hands-on working session producing something|
+|young adult|युवा वयस्क|person in the twenties, after adolescence|
+|zone of proximal development|समीपस्थ विकास का क्षेत्र|gap between unaided and assisted performance|

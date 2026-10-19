@@ -176,7 +176,7 @@ Points to fix in memory:
 - B is Above Average (6) and C is Average (5). The order of words can trick you: 'above average' is higher than 'average'.
 - P (Pass) is the lowest passing grade and carries 4 points, not 5.
 - F and Ab both carry 0. A student with F has failed and must reappear in the examination.
-- There is no D grade on the UGC scale. An earlier guide printed one; it is wrong.
+- There is no D grade on the UGC scale. Some older books and notes print one; do not use it in a UGC question.
 The UGC leaves universities free to decide the marks or grade needed to pass a course and the CGPA needed for a degree, taking into account the norms of professional councils. So individual universities may differ on pass marks, but the letters and points above are the UGC scale.
 ::sub SGPA: the method
 The **Semester Grade Point Average (सेमेस्टर ग्रेड पॉइंट औसत)**, or SGPA, measures performance in one semester. It is a credit-weighted average.
