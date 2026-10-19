@@ -1,0 +1,476 @@
+::chapter 4 | Methods of Teaching in Institutions of Higher Learning
+This chapter is about the ways a college or university teacher can organise learning. It begins with the words used to talk about methods and with the great divide of the syllabus, teacher-centred against learner-centred methods. It then takes the methods group by group: the lecture and its relatives, the group and discussion methods, the activity methods, and finally off-line and on-line teaching, ending with SWAYAM, SWAYAM PRABHA and the other national digital initiatives. The last section is full of dates and figures that change, so read its Fact watch boxes with care.
+
+::section 4.1 | Approach, method, strategy and technique; teacher-centred and learner-centred methods
+::syllabus Methods of teaching in Institutions of higher learning: Teacher centred vs. Learner centred methods
+::box footprint
+{{FP 4.1}}
+::endbox
+::h Core
+::sub Four words that are often mixed up
+Before we compare methods, we need four words. Examiners sometimes test them, and books use them loosely, so fix their meanings now.
+- An **approach** (उपागम) is the broad view of teaching and learning that lies behind everything a teacher does. "Learning is something the learner builds through activity" is an approach.
+- A **method of teaching** (शिक्षण विधि) is an organised, step-by-step way of teaching a whole lesson or unit. The lecture, the project method and the seminar are methods.
+- A **strategy** (शिक्षण व्यूह रचना) is the overall plan a teacher makes for reaching an objective with a particular group, often combining several methods. "Introduce the topic by lecture, then divide the class into groups, then hold a quiz" is a strategy.
+- A **technique** (प्रविधि) is a smaller device used inside a method: asking a question, giving an example, a buzz group of five minutes, writing on the board.
+The order from broad to narrow is: approach, then strategy and method, then technique. The safe rule for the examination is that a technique is the smallest unit and an approach is the widest.
+::sub Teacher-centred methods
+In a **teacher-centred method** (शिक्षक-केंद्रित विधि) the teacher (शिक्षक) is the main actor. The teacher decides the content, controls the pace and does most of the talking or showing. The learners (शिक्षार्थी) mainly listen, watch and take notes. The teacher is a transmitter of information.
+Typical teacher-centred methods are the lecture, dictation of notes, the teacher's demonstration and the lecture-cum-demonstration. They are economical: one teacher can cover much content for a large class in little time. Their weakness is that learners stay comparatively passive.
+::sub Learner-centred methods
+In a **learner-centred method** (शिक्षार्थी-केंद्रित विधि) the learner is the main actor. Learners inquire, discuss, plan, solve problems and make things. The teacher arranges the conditions, designs the tasks, guides and supports. The teacher becomes a **facilitator** (सुगमकर्ता) of learning.
+Typical learner-centred methods are the project method, the problem-solving method, group discussion, role play, the case method, the heuristic (discovery) method, peer tutoring and cooperative learning.
+Behind learner-centred methods lies a view of learning (अधिगम) called constructivism: knowledge is built (constructed) by the learner through activity, not simply received. The shift from teacher-centred to learner-centred teaching is therefore a shift from transmitting content to helping learners construct knowledge.
+::table widths=26,37,37
+|Point of comparison|Teacher-centred|Learner-centred|
+|Main actor|Teacher|Learner|
+|Role of teacher|Transmitter of information, controller of content and pace|Facilitator, designer of tasks, guide|
+|Role of learner|Listens, watches, takes notes (passive)|Discovers, discusses, plans, does (active)|
+|Communication|Mostly one-way|Many-way: learner to teacher and learner to learner|
+|Pace|Same for the whole class, set by the teacher|Varies with learners|
+|Assessment|Mostly at the end|Continuous and formative, used to guide learning|
+|Relations among learners|Often individual or competitive|Cooperative|
+|Strength|Economy of time; covers much content; good for introducing new topics|Deeper understanding, longer retention, skills of inquiry and cooperation|
+|Weakness|Little activity, little feedback, no adjustment to individual pace|Slow; needs planning, resources and smaller groups|
+|Examples|Lecture, dictation, teacher demonstration|Project, problem-solving, discussion, role play, case method|
+::sub Why learner-centred methods are favoured
+What learners work out, discuss and apply for themselves is processed more deeply, so it is understood better and retained longer. This is the main reason learner-centred methods are favoured. Note the cause carefully: retention is better because the learner is active. A statement that "in learner-centred methods the learner is passive and the teacher active" is false; it describes teacher-centred methods.
+::sub Three cautions that examiners test
+1. Learner-centred teaching does not make the teacher unimportant. The teacher's role changes from presenter to designer and guide, and it becomes, if anything, more demanding.
+2. Learner-centred teaching uses **formative evaluation** (रचनात्मक मूल्यांकन) a great deal: frequent checks whose results guide the next step of learning.
+3. Teacher-centred methods are not "wrong". A clear lecture is often the best way to open an unfamiliar topic or give a large class an overview. The choice of method depends on the objectives, the learners, the content, the size of the class and the time available. There is no single best method.
+::sub Inductive and deductive methods: a first look
+Two general methods cut across this divide. In the **inductive method** (आगमन विधि) learners study several particular examples and are led to frame the general rule themselves: from examples to rule, from particular to general. In the **deductive method** (निगमन विधि) the teacher states the rule or definition first and learners apply it to examples: from rule to examples, from general to particular. Induction suits discovery and is the more learner-centred; deduction saves time. Section 4.4 compares them more fully.
+::sub What the National Education Policy 2020 asks for
+The National Education Policy 2020 (NEP 2020) asks higher education to move away from rote learning. It describes the pedagogy it wants as experiential, holistic, integrated, inquiry-driven, discovery-oriented, learner-centred, discussion-based, flexible and enjoyable. If an option reads "teacher-centred, lecture-driven and examination-based", that is the pattern the policy wants to leave behind.
+::box example
+In a B.A. Political Science class of 90 students at a government college in Sirsa, the teacher opens the unit on the Panchayati Raj system with a 20-minute lecture giving the structure of the three tiers. That part is teacher-centred, and it is the right choice for a first overview. Then she divides the class into groups of six. Each group studies the records of one nearby gram panchayat, discusses what works and what does not, and reports back. Now the learners are the main actors and she moves from group to group as facilitator. One strategy, two methods, several techniques.
+::endbox
+::box confused
+- **Approach and method.** An approach is the underlying view of learning; a method is the organised way of teaching a lesson. Constructivism is an approach; the project method is a method.
+- **Method and technique.** A method organises a whole lesson; a technique is a small device inside it, such as questioning or a buzz group.
+- **Teacher demonstration and group discussion.** Both can happen in one lesson, but the demonstration is teacher-centred (learners watch) and the discussion is learner-centred (learners talk and think).
+- **Facilitator and transmitter.** Facilitator is the teacher's role in learner-centred methods; transmitter is the role in teacher-centred methods.
+- **Inductive and deductive.** Inductive goes from examples to rule (slower, discovery); deductive goes from rule to examples (quicker, practice).
+::endbox
+::further
+::sub Where the methods of this chapter sit
+The following grouping is the one used in this chapter. Read it as a map.
+::table widths=30,70
+|Group|Methods (section)|
+|Teacher-centred, presentation|Lecture, demonstration, lecture-cum-demonstration (4.2)|
+|Individualised and self-paced|Programmed instruction (4.2); Personalised System of Instruction or Keller Plan, mastery learning (4.4)|
+|Group and interactive|Tutorial, seminar, symposium, panel, workshop, conference, debate, brainstorming, buzz groups, cooperative learning, team teaching (4.3)|
+|Learner-centred, activity|Project, problem-solving, problem-based learning, heuristic, case method, role play, simulation (4.4)|
+|Off-line and on-line|Face-to-face teaching, synchronous and asynchronous on-line learning, blended learning, flipped classroom, MOOCs (4.5, 4.6)|
+A few methods sit between the two poles. Programmed instruction is controlled by the programmer, who fixes the content and its order, yet the learner works alone, responds at every step and sets the pace. It is usually called individualised or self-instructional rather than simply teacher-centred or learner-centred. The tutorial is led by a tutor but is built around the learner's own difficulties.
+::sub Questions that test the reason, not the fact
+Many harder items pair two true statements in an Assertion and Reason where the Reason does not explain the Assertion. Ask yourself: does this Reason say why the Assertion is true? "Learner-centred methods improve retention" is explained by "learners process material actively", not by "learner-centred methods are recommended by NEP 2020", though both are true.
+::box check
+Q1. In which of the following is the teacher acting mainly as a facilitator?
+(A) Reading out a chapter summary to the class
+(B) Dictating definitions for students to copy
+(C) Setting a problem and guiding groups as they work on it
+(D) Performing an experiment while students watch silently
+Q2. Arrange the following from the broadest to the narrowest:
+1. Technique
+2. Approach
+3. Method
+(A) 2, 3, 1
+(B) 3, 2, 1
+(C) 1, 3, 2
+(D) 2, 1, 3
+Q3. Consider the following methods:
+1. Lecture
+2. Role play
+3. Case method
+4. Dictation of notes
+5. Peer tutoring
+Choose the correct answer from the options given below. The learner-centred methods are:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 5 only
+(C) 2, 4 and 5 only
+(D) 3, 4 and 5 only
+Q4. Given below are two statements:
+Statement I: In learner-centred teaching the teacher's role becomes less important.
+Statement II: A teacher-centred method may be the better choice for giving a large class a first overview of a new topic.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): Learning gained through learner-centred methods is usually retained longer.
+Reason (R): In learner-centred methods learners work on, discuss and apply the material themselves.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Match List I with List II:
+::match
+List I (Feature) || List II (Belongs to)
+A. Pace set for the whole class || I. Inductive method
+B. Assessment used continuously to guide learning || II. Teacher-centred method
+C. Rule reached from examples || III. Deductive method
+D. Rule stated first, then applied || IV. Learner-centred method
+(A) A-II, B-IV, C-I, D-III
+(B) A-IV, B-II, C-I, D-III
+(C) A-II, B-IV, C-III, D-I
+(D) A-III, B-IV, C-I, D-II
+Q7. The pedagogy that the National Education Policy 2020 recommends for higher education is best described as:
+(A) uniform, timetable-driven and recall-based
+(B) lecture-driven and examination-centred
+(C) inquiry-driven, discussion-based and learner-centred
+(D) textbook-driven and teacher-controlled
+::endbox
+::answers
+Q1. (C), because setting a task and guiding learners while they work is the facilitator's role. Reading out, dictating and demonstrating while students watch keep the teacher as transmitter.
+Q2. (A), because the approach is the underlying view of learning, a method organises whole lessons, and a technique is a small device used within a method.
+Q3. (B), because in role play, the case method and peer tutoring the learners do the main work. The lecture and dictation keep the teacher at the centre, so any option that contains 1 or 4 is wrong.
+Q4. (D), because the teacher's role changes to designer and guide but does not lose importance, so Statement I is false. A lecture is often the best way to give a large class an overview, so Statement II is true.
+Q5. (A), because both are true and the learner's own activity is the very reason for better retention.
+Q6. (A), because a common pace belongs to teacher-centred teaching, continuous formative assessment to learner-centred teaching, examples-to-rule to induction and rule-to-examples to deduction.
+Q7. (C), because NEP 2020 asks for experiential, inquiry-driven, discovery-oriented, learner-centred and discussion-based pedagogy. The other options describe what the policy wants to leave behind.
+::endanswers
+
+::section 4.2 | Teacher-centred methods: lecture, demonstration and programmed instruction
+::syllabus Methods of teaching in Institutions of higher learning: Teacher centred vs. Learner centred methods
+::box footprint
+{{FP 4.2}}
+::endbox
+::h Core
+::sub The lecture method
+In the **lecture method** (व्याख्यान विधि) the teacher presents a body of organised content by talking, while the learners listen and take notes. The teacher decides what is said, in what order and at what speed. That is why the lecture is the standard example of a teacher-centred method.
+The great strength of the lecture is **economy**. One teacher can address a large class, even several hundred students, at the same time, and can cover much organised content in one hour. The ratio of learners to teacher is high, so the cost and time spent per student are low. This is the correct explanation of the statement "the lecture is economical".
+The lecture is useful for:
+- giving a large group an overview of a topic in limited time;
+- introducing a new topic and showing how its parts fit together;
+- presenting recent or scattered material that is not yet in any single textbook;
+- covering the syllabus within the time allowed;
+- arousing interest, when the speaker is skilled.
+Its limitations are the other side of the same coin:
+- Communication is mostly **one-way**. Learners listen without much chance to question, discuss or apply, so they remain comparatively passive.
+- The lecture gives little or no **feedback** (प्रतिपुष्टि) from every learner, so the teacher cannot tell who has understood.
+- It moves at one pace for all and makes no adjustment to individual differences.
+- It is weak for developing **psychomotor skills** (manual and practical skills), because skills need practice by the learner, and in a lecture the learner only listens. Note the cause: the lecture is weak for skills because there is no learner practice, not because the class is large.
+- Attention falls as the lecture goes on.
+::sub Attention and the "fifteen to twenty minutes" advice
+Attention is high at the start of a lecture. It is commonly said to decline after about fifteen to twenty minutes. Lecturers are therefore advised to divide the hour into segments and to break it with a question, a short task, an example, a visual aid or a change of medium. This advice is found in most textbooks and is what examination questions expect. You should know, however, that the research behind the exact figure is disputed: some psychologists (for example Wilson and Korn, 2007) have argued that the evidence for a fixed attention span of this length is weak. The safe answer in the examination remains "about fifteen to twenty minutes".
+::sub Making a lecture more effective
+A lecture improves when it becomes partly two-way. The teacher should:
+- state the plan of the lecture at the start and sum up at the end;
+- pause to ask questions and invite questions;
+- give examples from the learners' own experience;
+- use the board, slides, charts or objects at intervals;
+- insert short activities, such as a two-minute discussion with a neighbour;
+- keep eye contact and speak at a pace the class can follow.
+Speaking very fast to cover more, reading straight from the book and avoiding eye contact all make a lecture worse.
+::sub The lecture as communication
+In terms of the communication process, a lecture has a **sender** (the teacher), a **message** (the content, encoded in words), a **channel** (voice, board, slides) and **receivers** (the students). What it largely lacks is **feedback**, the return flow from the receivers to the sender. Without it, the lecturer cannot tell whether the message has been understood as intended. Questions, pauses and short tasks restore the feedback loop.
+::sub The demonstration method
+In the **demonstration method** (प्रदर्शन विधि) the teacher shows, step by step, how something is done, while explaining what is being done and why. Typical demonstrations are a laboratory experiment, the use of an instrument, a dissection, a surveying technique, a computer procedure, or a dance step. It suits practical skills and procedures, because learners see the process before trying it themselves.
+For a demonstration to work:
+- every student must be able to see and hear each step clearly;
+- the teacher must rehearse it beforehand;
+- the apparatus should be simple and the steps taken at a moderate pace;
+- the teacher should question the class during the demonstration.
+The best way to keep students thinking is to ask them to **predict** what will happen, **observe** it, and then **explain** it. Announcing the conclusion before starting, performing silently, or letting only the front rows see, all leave students passive.
+A demonstration is more concrete than a lecture, because learners see as well as hear. But it is still teacher-centred: the teacher performs and the learners watch. It does not give hands-on practice. A manipulative skill, such as titration, is learnt only when the demonstration is followed by **laboratory practice** by each learner, with feedback.
+::sub Lecture-cum-demonstration
+In the **lecture-cum-demonstration method** the teacher explains a principle and at the same time demonstrates it with apparatus, specimens or models. It combines telling and showing, so learners both hear and see. It is widely used in science teaching in Indian colleges. It is more concrete than a pure lecture, though the learners still mostly watch.
+::sub Matching method to objective
+The method should follow the objective (उद्देश्य), the size of the class and the time. For an overview of a policy document for 180 students in one period, the lecture is suitable. For the skill of titration for 20 students, a demonstration must be followed by laboratory practice. Watching alone does not give a skill.
+::sub Programmed instruction
+**Programmed instruction** (अभिक्रमित अनुदेशन) is a form of self-instruction. The content is broken into a sequence of small units called **frames**. Each frame gives a small piece of information and asks the learner to respond, for example by filling in a blank. The learner then checks the answer at once and moves to the next frame. The sequence of frames is called a **programme**. It can be printed as a programmed text or presented by a teaching machine or a computer.
+Programmed instruction is based on the operant conditioning (क्रियाप्रसूत अनुबंधन) of **B. F. Skinner**. In operant conditioning, behaviour that is followed by reinforcement (पुनर्बलन) becomes more likely. In a programme, the immediate knowledge that one's response is correct acts as the reinforcement.
+Its principles are usually listed as five:
+1. **Small steps.** Content is broken into small frames.
+2. **Active responding.** The learner must respond at every frame, not just read.
+3. **Immediate confirmation** (or immediate feedback, knowledge of results). The learner knows at once whether the response is right. This reinforces right answers and prevents wrong ones from being practised.
+4. **Self-pacing.** Each learner works alone, quickly or slowly as needed. A pace fixed by the teacher for the whole class is the mark of conventional teaching, not of programmed instruction.
+5. **Student testing** (also called learner verification or evaluation). The programme is tried out on learners and revised wherever they make errors; the learner's record shows how well the programme works.
+If a learner checks each answer immediately after writing it, the principle at work is immediate confirmation. If a question asks which principle allows each learner to go at his or her own speed, the answer is self-pacing.
+::sub Linear and branching programmes
+There are two main styles of programme.
+In **linear programming** (रेखीय अभिक्रमण), developed by Skinner, every learner passes through the same fixed sequence of small frames, one after another. The steps are kept very small so that the learner's responses are almost always correct and therefore reinforced; errors are kept to a minimum. Responses are **constructed**: the learner writes the answer. Only the pace varies from learner to learner; the path is the same for all.
+In **branching programming** (शाखीय अभिक्रमण), developed by **Norman A. Crowder**, frames are larger. Each frame ends with a **multiple-choice** question. The choice the learner makes decides the next frame. A correct choice takes the learner forward; a wrong choice leads to a **remedial frame** that explains the error and then returns the learner to the main sequence. Errors are not avoided; they are used for diagnosis. Crowder called this intrinsic programming. Because the route depends on each learner's responses, both the path and the pace are individualised, so branching adjusts to individual differences better than linear programming.
+::table widths=28,36,36
+|Feature|Linear (Skinner)|Branching (Crowder)|
+|Size of frame|Small|Larger|
+|Type of response|Constructed (learner writes the answer)|Multiple-choice (learner selects)|
+|Errors|Kept to a minimum|Used for diagnosis; lead to remedial frames|
+|Path|Same for all learners|Depends on each learner's response|
+|What varies|Pace only|Pace and path|
+|Basis|Operant conditioning, reinforcement of correct responses|Diagnosis and correction of errors|
+::box example
+In a B.Sc. Chemistry class of 60 at a college in Hisar, the teacher first gives a 15-minute lecture on acid-base titration. Then, at the front bench raised on a platform so that all can see, she performs a titration, stopping before each step to ask, "What colour do you expect now?" Students write a prediction, watch, and explain. Next week, each pair of students performs the titration in the laboratory while she moves from bench to bench. For students who missed the class, the department has a programmed booklet on titration calculations: each page gives one small step, a blank to fill and the answer overleaf.
+::endbox
+::box confused
+- **Lecture and demonstration.** Both are teacher-centred. In a lecture learners hear; in a demonstration they also see a process performed. Neither gives hands-on practice.
+- **Demonstration and laboratory practice.** In a demonstration the teacher performs; in laboratory practice each learner performs. Skills come from practice.
+- **Economy and participation.** The lecture is economical (many learners per teacher, much content per hour); it is not participatory. An answer that the lecture "ensures active participation" is false.
+- **Immediate confirmation and self-pacing.** Immediate confirmation is knowing at once whether the response is right; self-pacing is going at one's own speed.
+- **Linear and branching.** Linear: small frames, written responses, minimal errors, same path (Skinner). Branching: larger frames, multiple choice, errors lead to remedial frames, path depends on response (Crowder).
+::endbox
+::further
+::sub Why the five principles hang together
+Each principle of programmed instruction follows from operant conditioning. Small steps make correct responses likely. Active responding produces the behaviour to be reinforced. Immediate confirmation is the reinforcement. Self-pacing lets each learner respond only when ready. Student testing makes sure that the steps really are small enough for real learners. In an Assertion-Reason item, "programmed instruction allows learners to proceed at their own pace" is true, while "in programmed instruction the pace is fixed by the teacher for the whole class" is false.
+::sub Mathetics
+A third style of programming, **mathetics**, was developed by Thomas F. Gilbert. It uses **retrogressive chaining**: a chain of steps is taught backwards, so that the final step is mastered first, then the step before it, and so on. In this way the learner always ends a practice by completing the whole task. If a matching item asks for "the final step is mastered first, working backwards", the answer is mathetics. The other self-paced plan often listed with programmed instruction, the Personalised System of Instruction (the Keller Plan), is taught in section 4.4.
+::sub When the lecture still wins
+Two true statements are often paired in a way that tempts you to link them. "The lecture is suitable for introducing a new topic to a large class" is true because of economy, not because of participation. "The lecture is weak for skills" is true because the learner does not practise, not because the class is large. Read every Reason and ask whether it gives the cause.
+::box check
+Q1. Consider the following statements about the lecture method:
+1. It allows one teacher to present organised content to a large class in a short time.
+2. It gives the teacher feedback from every learner.
+3. It can present recent material not yet available in textbooks.
+4. It is the best way to develop laboratory skills.
+Choose the correct answer from the options given below:
+(A) 1 and 3 only
+(B) 1, 2 and 3 only
+(C) 2 and 4 only
+(D) 1, 3 and 4 only
+Q2. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): The lecture method is weak in developing manipulative skills.
+Reason (R): Skills develop through practice by the learner, which the lecture does not provide.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. A teacher of Physics stops before each step of an experiment and asks the class to write down what they expect to see, then asks them to explain what they saw. The teacher is mainly:
+(A) saving time by covering more steps
+(B) turning a demonstration into an active experience for the learners
+(C) using a branching programme
+(D) replacing laboratory practice altogether
+Q4. Match List I with List II:
+::match
+List I (Principle of programmed instruction) || List II (Description)
+A. Small steps || I. The learner knows at once whether the response is right
+B. Active responding || II. Each learner moves at his or her own speed
+C. Immediate confirmation || III. Content is divided into short frames
+D. Self-pacing || IV. The learner must answer at every frame
+(A) A-III, B-I, C-IV, D-II
+(B) A-II, B-IV, C-I, D-III
+(C) A-III, B-IV, C-I, D-II
+(D) A-IV, B-III, C-II, D-I
+Q5. Given below are two statements:
+Statement I: In Crowder's branching programme, a wrong answer leads the learner to a remedial frame.
+Statement II: In Skinner's linear programme, the learner chooses an answer from several options.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. In the communication model, the element that a straight lecture most lacks is:
+(A) the sender
+(B) the channel
+(C) the message
+(D) feedback from the receivers
+Q7. Which of the following is the best plan for teaching 25 students to use a microscope?
+(A) A lecture with slides of the parts of the microscope
+(B) A demonstration followed by each student using a microscope with guidance
+(C) A demonstration alone, performed carefully by the teacher
+(D) A reading assignment from the textbook
+Q8. In a programme, the learner masters the final step of a procedure first and then works backwards through the earlier steps. This style of programming is:
+(A) linear programming
+(B) branching programming
+(C) mathetics
+(D) mastery learning
+::endbox
+::answers
+Q1. (A), because the lecture is economical and can bring together material not yet in books. It gives little feedback from each learner and does not develop laboratory skills, so statements 2 and 4 are wrong.
+Q2. (A), because both are true and the lack of learner practice is exactly why the lecture cannot build skills.
+Q3. (B), because asking learners to predict, observe and explain keeps them thinking during a demonstration. It does not replace laboratory practice.
+Q4. (C), because small steps means short frames, active responding means answering at every frame, immediate confirmation means knowing at once, and self-pacing means one's own speed.
+Q5. (C), because remedial frames are the mark of Crowder's branching. In Skinner's linear programme the learner writes (constructs) the answer, so Statement II is false.
+Q6. (D), because a lecture has a sender, a message and a channel; what is missing is the return flow from the listeners.
+Q7. (B), because a skill must be shown and then practised by each learner. A demonstration alone (C) shows the skill but gives no practice.
+Q8. (C), because retrogressive chaining, with the last step learnt first, is the mark of Gilbert's mathetics. Mastery learning (D) concerns reaching a fixed standard in each unit.
+::endanswers
+
+::section 4.3 | Group and interactive methods
+::syllabus Methods of teaching in Institutions of higher learning: Teacher centred vs. Learner centred methods
+::box footprint
+{{FP 4.3}}
+::endbox
+::h Core
+Group methods bring learners together so that they talk, question and work with one another and with experts. Most of them are learner-centred or at least interactive. Examiners test them mainly by asking you to tell one format from another, so for each method learn the one feature that decides it.
+::sub The tutorial
+A **tutorial** (अनुशिक्षण) is a meeting of a tutor with a small group of students, or with one or two students. The tutor clears doubts, checks understanding, discusses written work and gives personal feedback. Its function is mainly **remedial**: it deals with individual and small-group difficulties that a lecture to a large class cannot reach. When a tutor finds that six students share one misconception and gives them exercises aimed at it, the tutorial is serving a remedial function, supported by diagnosis. Nothing is being graded (summative), placed or predicted (prognostic).
+Tutorials **supplement** lectures; they do not replace them. A lecture addresses a large group; a tutorial addresses a small group and its particular problems.
+::sub Peer tutoring
+In **peer tutoring** (सहपाठी शिक्षण) students teach fellow students, usually a more advanced student helping a less advanced one. It benefits the tutor as well as the tutee: to explain something, the tutor has to organise it and understand it more deeply. Do not confuse peer tutoring (students as teachers) with team teaching (several teachers working together).
+::sub The seminar
+A **seminar** (संगोष्ठी) centres on a prepared paper. A student or scholar presents a paper on a topic, and the group then discusses and questions it in depth, under a **chairperson**. A seminar develops skills of study, presentation, argument and criticism. The usual order of a seminar session is:
+1. The chairperson introduces the theme and the speaker.
+2. The paper is presented.
+3. Participants discuss it and raise questions; the speaker responds. Often a designated **discussant** first comments critically on the paper.
+4. The chairperson sums up and closes the session.
+Summing up comes last, because the chairperson must take account of the points raised in the discussion. The defining feature of a seminar is one paper (or a few) examined in depth.
+::sub The symposium
+A **symposium** (परिसंवाद) is a series of short, prepared talks by several speakers, each dealing with a **different aspect** of one theme, one after another. The speakers do not converse with one another. At the end, the chairperson usually invites questions from the audience.
+A symposium gives the audience a many-sided view of a topic in a short time. Note the cause: the breadth comes from having several speakers on different aspects. The question session at the end is customary, but it is not what produces the breadth. And questions from the audience are not prohibited; they normally close a symposium.
+::sub The panel discussion
+In a **panel discussion** (पैनल चर्चा) a small group of experts, usually three to six, sit before an audience and **converse informally among themselves** on a topic, without prepared speeches, guided by a **moderator**. Questions from the audience usually follow.
+The moderator introduces the topic and the panel, puts questions to the members, gives each a fair chance to speak, prevents digression and sums up.
+::sub Symposium or panel: the deciding difference
+Both have several experts and an audience. Ask: do the speakers present or converse?
+- Prepared statements on different aspects, delivered one after another, without conversation: **symposium**.
+- Spontaneous exchange of views among the experts, under a moderator: **panel discussion**.
+The same four specialists can do either. If they set out four positions in turn, it is a symposium; if they challenge one another freely before the students, it is a panel.
+::sub The workshop
+A **workshop** (कार्यशाला) is a working session in which participants learn by doing. They practise a skill or produce something, such as a question bank, test items, a research proposal or teaching materials, under the guidance of **resource persons**. Talks by experts are short and serve the work. The defining mark of a workshop is practical work by the participants leading to a product.
+::sub The conference
+A **conference** (सम्मेलन) is a larger gathering on a broad theme. It usually has plenary lectures (to all participants) and many parallel sessions in which papers are presented, and it may run over several days. A conference involves more participants and a broader theme than a seminar, but both include the presentation of papers. A statement that a conference has no place for papers is false.
+::sub The debate
+A **debate** (वाद-विवाद) has a **motion** (a stated proposition), two opposing sides (for and against), a fixed order of speakers and time limits. It trains students to gather evidence and argue logically. In a panel, members exchange views without taking fixed opposing sides. A **colloquium** is simply an academic meeting at which scholars discuss a subject, often after a talk; it has no motion and no opposing teams.
+::sub Who does what
+::table widths=30,70
+|Role|Function|
+|Convener|Organises the event: plans it, invites participants, arranges the venue|
+|Chairperson|Conducts a seminar or symposium session: introduces, keeps time, invites questions, sums up|
+|Moderator|Conducts a panel discussion: puts questions, keeps balance, prevents digression, sums up|
+|Paper presenter / speaker|Presents the prepared paper or talk|
+|Discussant|Comments critically on a paper before the open discussion|
+|Rapporteur|Records the main points of the proceedings and prepares the report|
+|Resource person|Guides the practical work in a workshop|
+|Invigilator|Supervises an examination; has no role in a group discussion|
+::table widths=22,40,38
+|Format|What happens|Deciding feature|
+|Seminar|A paper is presented and discussed in depth under a chairperson|Depth on one paper|
+|Symposium|Several prepared talks on different aspects of one theme, in turn; questions at end|Several speakers, several aspects, no conversation among them|
+|Panel discussion|Experts converse informally before an audience under a moderator|Spontaneous exchange among experts|
+|Workshop|Participants practise and produce under resource persons|Hands-on work and a product|
+|Conference|Large meeting on a broad theme; plenary and parallel paper sessions|Size and breadth|
+|Debate|Two sides argue for and against a motion|Opposing sides|
+|Tutorial|Tutor with a small group or one or two students|Remedial, personal help|
+::sub Brainstorming
+**Brainstorming** (मस्तिष्क उद्वेलन) is a technique for producing as many ideas as possible on a problem, in a group, without criticism at first. It was introduced by **Alex F. Osborn**, an American advertising executive, who described it in his book *Applied Imagination*. It encourages creative thinking and participation. It is not a technique for memorising, testing or revising content.
+Osborn's rules for the idea-generation stage are:
+1. **Defer judgement.** No criticism or evaluation while ideas are being produced.
+2. **Aim at quantity.** The more ideas, the more likely a good one is among them.
+3. **Welcome unusual ideas.** Wild or odd ideas are encouraged.
+4. **Combine and build on others' ideas.**
+Evaluation and the sorting of ideas for quality come in a separate, later stage. So the statements "ideas are evaluated as soon as they are offered" and "quantity is discouraged in favour of quality" are both false.
+Do not confuse Osborn with others named in options: Edward de Bono is known for lateral thinking and the six thinking hats; J. P. Guilford for the structure of intellect and divergent thinking; Frank Lyman for Think-Pair-Share.
+::sub Buzz sessions and group discussion
+In a **buzz session** a large class is divided on the spot into small groups of about four to six, which discuss a question for a few minutes and then report back. The name comes from the hum of many conversations at once. It brings participation into large classes.
+In a **group discussion** learners do most of the talking and thinking on a topic while the teacher guides. It is a learner-centred method.
+::sub Cooperative learning
+In **cooperative learning** (सहकारी अधिगम) students work in small, mixed groups towards a **shared goal**. Each member is responsible both for his or her own learning and for the success of the group. It develops academic and social skills together. Its opposites are individual competition for rank and solitary, silent work.
+In Elliot Aronson's **jigsaw** technique, a lesson is divided into parts. Each member of a "home group" receives one part. Members holding the same part meet as an "expert group" to master it, then return to their home groups and teach it. Every member depends on the others for the whole lesson; this is called positive interdependence.
+::sub Team teaching
+In **team teaching** (दल शिक्षण) two or more teachers pool their strengths and share responsibility for **planning, teaching and evaluating** the same group of students. Each topic can be taught by the teacher best qualified for it. A common pattern combines large-group lectures, small-group discussion with different teachers, and independent study, with all the teachers setting and marking the test together.
+Team teaching makes use of each teacher's special competence and requires joint planning. It demands far more coordination than individual teaching, which is its main practical difficulty. It is different from a tutorial system, in which tutors only supplement one teacher's lectures, and from peer tutoring, in which students teach students.
+::box example
+In the M.A. English department of a university in Rohtak, a unit on Partition literature is taught by three teachers as a team: one lectures to all 120 students on the history, another leads small groups on the novels, and the third on the poetry; together they set the unit test. In week two, two students present seminar papers, each followed by a discussant's comments and open discussion. Week three ends with a symposium in which four invited scholars speak in turn on memory, gender, language and migration, and the audience questions them. To start a project, the class brainstorms possible topics for twenty minutes, writing every idea on the board before any is judged.
+::endbox
+::box confused
+- **Seminar and symposium.** Seminar: one paper discussed in depth. Symposium: several speakers, each on a different aspect, in turn.
+- **Symposium and panel.** Symposium speakers present prepared talks without conversing; panel members converse informally under a moderator.
+- **Seminar and workshop.** Seminar: paper and discussion. Workshop: practical work and a product.
+- **Seminar and conference.** Conference is larger and broader, with plenary and parallel sessions; both include papers.
+- **Chairperson, moderator, rapporteur, convener.** Chairperson conducts a seminar or symposium; moderator conducts a panel; rapporteur records and reports; convener organises.
+- **Tutorial and lecture.** Tutorial: small group, remedial, supplements; lecture: large group, presentation.
+- **Team teaching and peer tutoring.** Team teaching: several teachers share one course; peer tutoring: students teach students.
+- **Brainstorming and discussion.** Brainstorming defers all judgement while ideas are produced; ordinary discussion evaluates as it goes.
+::endbox
+::further
+::sub Kinds of tutorial
+Tutorials are often classified into three kinds:
+- **Group tutorial:** a tutor meets a small group to clear common difficulties after lectures.
+- **Supervision tutorial:** a tutor works with one or two students on their own written work, usually an essay, as in the tradition of Oxford and Cambridge.
+- **Practical tutorial:** skills are practised in a laboratory or workshop under a tutor.
+::sub Forum and fishbowl
+A **forum** is an open discussion in which the whole audience may ask questions and make comments from the floor, under a chairperson, usually after a lecture, film, panel or symposium. In a panel or symposium the main talking is done by a few people on the platform; in a forum the audience talks.
+In a **fishbowl**, a small inner circle of students discusses an issue while the rest sit in an outer circle and observe both the content and the process. Observers comment afterwards, and the two circles may change places. A buzz group, in contrast, is a brief discussion in many small groups at once; in a round robin each member of a group speaks in turn.
+::sub Brainwriting
+**Brainwriting** is a variant of brainstorming in which ideas are first written silently, on cards or sheets, before any talk. Quiet members then contribute as much as vocal ones, and nobody waits for a turn. Deferred judgement is kept. The written ideas are then pooled, grouped and discussed.
+::sub More cooperative learning techniques
+- **Think-Pair-Share**, devised by **Frank Lyman**: each student thinks alone about a question, then discusses it with a partner, then pairs share with the class. It gives every student a chance to take part, even in a large class.
+- **STAD (Student Teams-Achievement Divisions)**, developed by **Robert Slavin**: the teacher presents the lesson; students study in mixed teams; each takes an individual quiz; team scores are based on **improvement points**, that is, how far each member improves on his or her own past average. Weak students can contribute as much as strong ones.
+- **Group Investigation**, associated with Herbert Thelen and developed by Shlomo and Yael Sharan: groups choose sub-topics, plan and carry out an inquiry, and present their findings.
+- **Jigsaw** (Aronson), described in the Core.
+::sub What makes cooperation work
+David W. Johnson and Roger T. Johnson list five essentials of cooperative learning:
+1. **Positive interdependence:** each member succeeds only if the others succeed.
+2. **Individual accountability:** each member's contribution and learning is assessed, so nobody can leave the work to others (the problem called free riding).
+3. **Face-to-face (promotive) interaction:** members help and encourage one another directly.
+4. **Social skills:** leadership, communication, trust and handling conflict are taught and used.
+5. **Group processing:** the group reflects on how well it is working and how to improve.
+The Johnsons also distinguish three goal structures:
+- **Positive interdependence (cooperation):** I reach my goal only if the others reach theirs.
+- **Negative interdependence (competition):** I reach my goal only if others fail to reach theirs. A rule that only the top five may get grade A creates negative interdependence.
+- **No interdependence (individualistic work):** my result is unaffected by others.
+From his review of research, Robert Slavin concluded that group work raises achievement most reliably when two conditions are present: **group goals** (or group rewards) and **individual accountability**, so that the team's success depends on the learning of every member. If only the group product is assessed, some members do the work and others ride free.
+::sub The Trump Plan
+Team teaching is associated with **J. Lloyd Trump**, who proposed reorganising the timetable roughly as follows: about 40 per cent of students' time in **large-group instruction** by the most competent teacher, about 20 per cent in **small-group discussion**, and about 40 per cent in **independent study**. Teachers work as a team and are deployed according to their strengths. The two largest shares, therefore, go to large-group instruction and independent study.
+::box check
+Q1. Match List I with List II:
+::match
+List I (Format) || List II (Deciding feature)
+A. Seminar || I. Experts converse freely under a moderator
+B. Symposium || II. Participants produce something under resource persons
+C. Panel discussion || III. Several prepared talks on different aspects, in turn
+D. Workshop || IV. One paper examined in depth
+(A) A-IV, B-III, C-I, D-II
+(B) A-III, B-IV, C-I, D-II
+(C) A-IV, B-I, C-III, D-II
+(D) A-II, B-III, C-I, D-IV
+Q2. Arrange the stages of a seminar session in the order in which they normally occur:
+1. Open discussion by participants
+2. Chairperson's concluding remarks
+3. Introduction of the speaker by the chairperson
+4. Presentation of the paper
+(A) 3, 1, 4, 2
+(B) 4, 3, 1, 2
+(C) 3, 4, 2, 1
+(D) 3, 4, 1, 2
+Q3. Given below are two statements about brainstorming:
+Statement I: Members are asked to produce as many ideas as they can.
+Statement II: Each idea is judged for quality before the next idea is taken.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): Team teaching makes better use of the special abilities of individual teachers.
+Reason (R): Team teaching requires less coordination among teachers than individual teaching.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. In a teacher-education programme, the person who listens through all sessions and then presents a summary report of the proceedings is the:
+(A) convener
+(B) rapporteur
+(C) moderator
+(D) discussant
+Q6. Consider the following statements about cooperative learning:
+1. Each member is responsible for his or her own learning and for the group's success.
+2. Individual accountability prevents some members from leaving the work to others.
+3. A rule allowing only the top three students to receive grade A promotes cooperation.
+4. In the jigsaw technique, each member teaches the home group the part he or she has mastered.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 4 only
+(B) 1 and 3 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q7. A teacher with 140 students asks a question, gives each student one minute to think alone, then two minutes to talk with a neighbour, and then calls on several pairs to report. The technique is:
+(A) fishbowl
+(B) debate
+(C) Think-Pair-Share
+(D) supervision tutorial
+Q8. In the plan associated with J. Lloyd Trump, the smallest share of students' time goes to:
+(A) small-group discussion
+(B) large-group instruction
+(C) independent study
+(D) written examinations
+::endbox
+::answers
+Q1. (A), because depth on one paper marks a seminar, prepared talks on different aspects a symposium, free conversation under a moderator a panel, and a product made by participants a workshop.
+Q2. (D), because the chairperson introduces, the paper is presented, it is discussed, and the chairperson sums up last, after hearing the discussion.
+Q3. (C), because Osborn's rules aim at quantity and defer judgement until idea generation is over, so Statement II is false.
+Q4. (C), because team teaching does use each teacher's strengths, but it needs more coordination, not less; that is its main difficulty.
+Q5. (B), because the rapporteur records and reports the proceedings. The convener organises, the moderator conducts a panel, and the discussant comments on a paper.
+Q6. (A), because statements 1, 2 and 4 describe cooperative learning correctly. Statement 3 describes a competitive structure (negative interdependence), not cooperation.
+Q7. (C), because thinking alone, then talking with a partner, then sharing with the class is Lyman's Think-Pair-Share.
+Q8. (A), because the Trump Plan gives about 20 per cent to small-group discussion and about 40 per cent each to large-group instruction and independent study.
+::endanswers

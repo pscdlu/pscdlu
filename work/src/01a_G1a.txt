@@ -1,0 +1,823 @@
+::chapter 1 | Teaching: Concept, Objectives, Levels, Characteristics and Basic Requirements
+This chapter begins with the question every other chapter depends on: what is teaching, and how is it different from training, instruction, conditioning and indoctrination? It then follows teaching as a process in three phases, shows how aims become precise objectives and learning outcomes, and sets out the taxonomies used to classify objectives. It ends its first half with the three levels of teaching -- memory, understanding and reflective -- which the examination asks about more often than almost any other topic in Unit I.
+
+::section 1.1 | The concept of teaching
+::syllabus Teaching: Concept
+::box footprint
+{{FP 1.1}}
+::endbox
+::h Core
+::sub What teaching is
+**Teaching** (शिक्षण) is a purposeful, planned activity carried out by one person to bring about **learning** (अधिगम) in another person. Three words in that sentence matter. "Purposeful" means it has an aim; an act done without any aim of producing learning is not teaching. "Planned" means it is deliberate, not accidental. "In another person" means there is always a learner.
+So teaching is not defined by finishing the syllabus, by keeping the class quiet, or by speaking for fifty minutes. A teacher may do all three and still not be teaching, if nothing is done to help anyone learn.
+Teaching is also **goal-directed**. It aims at desired changes in the learner: in knowledge, in skills, and in attitudes and values. If there are no objectives at all, the activity is not teaching in the proper sense.
+::sub Three things meet in teaching
+Philosophers say teaching is **triadic**: someone (the teacher) teaches something (the content) to someone (the learner). Take away any one of the three and the idea of teaching falls apart. For this reason books call the teacher, the learner and the subject matter the three focal points of teaching. Good teaching attends to all three: a competent teacher, a ready learner, and content suited to that learner.
+Do not mix this up with a second "tripolar" idea found in Indian textbooks. There, the three poles of the educative process are **educational objectives, learning experiences and evaluation**; Indian books usually link this triad with B. S. Bloom. The first triad names the persons and the content; the second names the stages of planned education. If a question asks for the "three focal points of teaching", the answer is teacher, learner and subject matter.
+Note also: the fact that teaching is a profession is a true social fact, but it does not explain why teaching is triadic. The triadic structure comes from the meaning of the word, not from teaching being a job.
+::sub Famous definitions
+The examination often gives a definition and asks who wrote it. Learn the key phrase in each.
+::table widths=22,48,30
+|Thinker|Definition (key words)|How to remember|
+|H. C. Morrison (1934)|"An intimate contact between a more mature personality and a less mature one, designed to further the education of the latter."|Two personalities: mature and less mature|
+|N. L. Gage (1963)|"A form of interpersonal influence aimed at changing the behaviour potential of another person."|Influence and behaviour potential|
+|B. O. Smith (1960)|"A system of actions intended to induce learning."|System of actions|
+|Edmund Amidon (with Hunter, 1967)|"An interactive process, primarily involving classroom talk, between teacher and pupils."|Interaction and classroom talk|
+Gage's definition has two parts worth noticing: it involves two persons (one influences the other), and it involves intention (it is "aimed at" change). Morrison's stresses the personal relationship. Smith's stresses a planned set of actions. Amidon's stresses talk in the classroom, which is why his name is also linked with the analysis of classroom interaction (see 1.8).
+::sub Teaching and learning
+Teaching and learning are related, but they are two different processes. **Learning** is a relatively permanent change in behaviour that comes from experience or practice. Learning is both a process (what goes on while one learns) and a product (what one has learnt at the end).
+- Teaching is the means; learning is the end. Teaching is judged by the learning it produces.
+- Teaching always involves the intention to bring about learning. Learning does not need teaching: much is learnt from experience, observation, play and self-study, often by accident. So learning can occur without teaching.
+- Nobody can learn on another person's behalf. The learner must give attention and effort. That is why arousing and keeping up the learner's **motivation** (अभिप्रेरणा) is a necessary part of teaching.
+::sub The teaching continuum
+Several activities look like teaching. Books arrange them on a line, or **continuum**, according to how much they use the learner's understanding. From the lowest to the highest:
+1. **Conditioning** (अनुबंधन). A fixed link is built between a stimulus and a response, by pairing (Pavlov's classical conditioning) or by reinforcement (Skinner's operant conditioning). The learner need not understand anything. A dog that salivates at a bell has been conditioned. It sits at the bottom because it by-passes understanding.
+2. **Training** (प्रशिक्षण). A specific skill is built by practice and drill until it reaches a set standard: typing at forty words a minute, handling a microscope, marching in step. Training shapes behaviour and skill; it does not need to ask why.
+3. **Instruction** (अनुदेशन). Organised knowledge is passed on in a systematic way. Instruction can be given without a teacher present: by a programmed text, a computer, a radio or television broadcast, or a well-written book.
+4. **Teaching**. The widest of the four. It includes skill and knowledge, but it also aims at understanding, reasoning, attitudes and values, and it engages the learner's judgement. In the strict sense it involves a person interacting with the learner.
+Each later term is wider than the one before. All teaching includes instruction, but not all instruction is teaching: a computer can instruct, but it does not teach in the full sense. Training is narrower than teaching because it builds a particular skill, while teaching also seeks understanding and critical judgement.
+::sub Indoctrination
+**Indoctrination** (मतारोपण) means implanting beliefs so that they are held as beyond question, whatever the evidence. The learner is discouraged from examining them. Propaganda works in a similar way on large groups.
+What makes something indoctrination is its manner and its aim, not its subject matter. Any content -- history, science, religion, politics -- can be taught with reasons, evidence and freedom to object, or it can be indoctrinated without them. Teaching transmits knowledge, develops skills and builds values while allowing the learner to reason. Imposing an ideology that may not be questioned is indoctrination, not teaching.
+Tutoring (individual help to one learner) and counselling (help with personal or academic problems) are also different from indoctrination: both leave the learner free to question.
+::sub The nature of teaching
+The following features of teaching are often asked as true/false statements.
+- **Teaching is interactive.** It is a two-way process. The teacher acts, learners respond, and the teacher adjusts to their response. It depends on feedback.
+- **Teaching can be observed, analysed and improved.** Classroom talk can be recorded and coded (interaction analysis), and single skills can be practised in short lessons (micro-teaching). Both are in 1.8.
+- **Teaching can be formal or informal.** A lecture in a hall is formal; a word of advice in the corridor can also be teaching.
+- **Teaching is both a science and an art.** It is a science because it rests on principles of learning, motivation and evaluation that can be observed, tested and taught. It is an art because each teacher applies these principles creatively, in a personal style, to a particular class. N. L. Gage wrote a book on this theme, *The Scientific Basis of the Art of Teaching* (1978).
+- **Evaluation is part of teaching.** The teacher must know whether the objectives are being reached, so as to adjust the next step. This is a reason of its own; it does not follow from teaching being communication.
+- **Teaching is communication** (संप्रेषण). It fits the communication model: a sender (teacher) sends a message (content) through a channel (speech, board, slides) to a receiver (learner), who sends back **feedback** (प्रतिपुष्टि). **Noise** is anything that distorts the message: physical noise (traffic, a broken fan), semantic noise (unfamiliar words, jargon), and psychological noise (anxiety, prejudice, fatigue). Communication is treated fully in Unit IV.
+::box example
+In a B.A. political science class at a government college in Hisar, Dr Meena explains the Preamble. She first makes students repeat the words "sovereign, socialist, secular, democratic, republic" until they can say them without a slip -- this is closer to training. Next she hands out a printed note on the meaning of each word -- this is instruction, and a book could have done it. Then she asks: "Why was 'socialist' added in 1976? Do you agree with the change?" She lets students argue and asks each for reasons. Now she is teaching in the full sense. Had she told them "never question the Preamble; just accept it", that would have been indoctrination, even though the subject is the same.
+::endbox
+::box confused
+- **Training and teaching.** Training builds one skill to a standard by practice; teaching also seeks understanding and judgement.
+- **Instruction and teaching.** Instruction is organised passing on of knowledge and can be done by a machine or book; teaching involves a person and aims at understanding. All teaching includes instruction, not the reverse.
+- **Indoctrination and teaching.** Decided by manner and aim, not by subject: indoctrination wants belief without question; teaching gives reasons and welcomes objections.
+- **Conditioning and training.** Conditioning links a stimulus to a response with no understanding at all (lowest); training builds a skill by practice (one step higher).
+- **Gage and Smith.** Gage: "interpersonal influence ... behaviour potential". Smith: "system of actions intended to induce learning".
+- **Morrison and Amidon.** Morrison: "more mature and less mature personality". Amidon: "interactive process ... classroom talk".
+- **Teacher-learner-content and objectives-learning experiences-evaluation.** The first is the triad of teaching (three focal points); the second is the tripolar view of the educative process.
+::endbox
+::further
+::sub Green's topology of teaching
+The American philosopher Thomas F. Green drew a map of activities related to teaching. He put teaching in the middle and two families of activities on either side.
+- On one side are activities that shape **behaviour**: training, and further away, conditioning.
+- On the other side are activities that shape **knowledge and belief**: instructing, and further away, indoctrinating.
+On each side the first activity (training; instructing) is closer to teaching because it still engages the learner's intelligence. The second (conditioning; indoctrinating) lies farthest from teaching. A trap: conditioning and indoctrinating are both farthest from teaching, but they are on different sides; one shapes behaviour and the other belief.
+::sub Task sense and achievement sense
+Philosophers notice that the word "teach" is used in two ways. This idea comes from Gilbert Ryle's distinction between "task" words and "achievement" words.
+- In the **task sense**, to teach is to try to bring about learning. One may teach in this sense even if nobody learns ("I taught all afternoon but they learnt nothing").
+- In the **achievement sense**, to say "I taught them the theorem" claims success: it implies that they learnt it.
+John Dewey made the achievement point with a comparison: teaching is like selling. Nobody can be said to have sold anything unless someone has bought it; in the same way, teaching in the achievement sense implies learning.
+::sub Scheffler and the learner's judgement
+Israel Scheffler, in *The Language of Education* (1960), argued that teaching in the full sense respects the learner's independent judgement. The teacher gives reasons and is willing to have them examined. This is the line between teaching and indoctrination: an indoctrinator wants belief without examination. So three things are true of teaching together: it is intentional, it presupposes a learner, and in the task sense it need not end in learning.
+::box check
+Q1. Which of the following is the best description of teaching?
+(A) Completing the prescribed syllabus within the session
+(B) Maintaining silence and discipline in the classroom
+(C) A purposeful activity intended to bring about learning in another person
+(D) Any activity from which someone happens to learn
+Q2. Arrange the following from the activity that relies least on the learner's understanding to the one that relies most:
+1. Teaching
+2. Conditioning
+3. Instruction
+4. Training
+Choose the correct answer from the options given below:
+(A) 2, 4, 3, 1
+(B) 4, 2, 3, 1
+(C) 2, 3, 4, 1
+(D) 3, 2, 4, 1
+Q3. Match List I with List II.
+::match
+List I (Thinker) || List II (Key phrase in definition)
+A. H. C. Morrison || I. System of actions intended to induce learning
+B. N. L. Gage || II. Interactive process of classroom talk
+C. B. O. Smith || III. Intimate contact of a more mature and a less mature personality
+D. Edmund Amidon || IV. Interpersonal influence on behaviour potential
+Choose the correct answer from the options given below:
+(A) A-IV, B-III, C-I, D-II
+(B) A-III, B-IV, C-II, D-I
+(C) A-III, B-I, C-IV, D-II
+(D) A-III, B-IV, C-I, D-II
+Q4. Given below are two statements.
+Statement I: A lesson on any subject can become indoctrination if beliefs are presented as beyond question and the learner is discouraged from examining them.
+Statement II: Instruction always requires a living teacher to be present with the learner.
+(A) Both Statement I and Statement II are true
+(B) Statement I is true but Statement II is false
+(C) Both Statement I and Statement II are false
+(D) Statement I is false but Statement II is true
+Q5. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
+Assertion (A): Arousing and sustaining motivation is a necessary function of teaching.
+Reason (R): No one can learn on behalf of another; learning needs the learner's own attention and effort.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Which of the following statements about teaching are correct?
+1. Teaching is a two-way process that depends on feedback.
+2. Classroom teaching behaviour can be observed, analysed and modified.
+3. Learning can take place only when there is teaching.
+4. Teaching can be formal or informal.
+Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 2, 3 and 4 only
+(C) 1, 2 and 3 only
+(D) 1, 2 and 4 only
+Q7. In Thomas F. Green's map of activities related to teaching, which activity lies on the "behaviour" side and is closest to teaching?
+(A) Instructing
+(B) Conditioning
+(C) Training
+(D) Indoctrinating
+::endbox
+::answers
+Q1. (C), because teaching is defined by its purpose of producing learning in another person. Syllabus coverage and discipline are means, and (D) includes accidental learning, which is not teaching.
+Q2. (A), because conditioning by-passes understanding, training builds skill by practice, instruction passes on organised knowledge, and teaching aims at understanding and judgement.
+Q3. (D), because Morrison speaks of mature and less mature personalities, Gage of interpersonal influence, Smith of a system of actions, and Amidon of classroom talk.
+Q4. (B), because indoctrination is decided by manner and aim, not subject; instruction can come through a programmed text, computer or broadcast with no teacher present.
+Q5. (A), because the learner must do his or her own learning, which is exactly why the teacher must arouse and keep up motivation.
+Q6. (D), because statement 3 is false: much learning happens through experience and self-study without any teaching.
+Q7. (C), because training and conditioning shape behaviour, and training is the nearer to teaching as it still engages intelligence. Instructing is closest on the belief side, not the behaviour side.
+::endanswers
+
+::section 1.2 | Teaching as a process: phases, variables and operations
+::syllabus Teaching: Concept
+::box footprint
+{{FP 1.2}}
+::endbox
+::h Core
+::sub Three phases of teaching
+Teaching does not happen only in the classroom. It begins before the teacher enters the room and continues after the bell. Books divide it into three **phases of teaching** (शिक्षण की अवस्थाएँ). The idea comes from the American educationist Philip W. Jackson, whose book *Life in Classrooms* (1968) distinguished "pre-active" from "interactive" teaching. Later writers added the post-active phase, and Indian textbooks and the examination treat all three as the phases of teaching linked with Jackson.
+1. **Pre-active phase** (पूर्व-क्रियात्मक अवस्था): planning, before teaching.
+2. **Interactive phase** (अंतःक्रियात्मक अवस्था): the actual meeting of teacher and class.
+3. **Post-active phase** (उत्तर-क्रियात्मक अवस्था): evaluation and reflection, after teaching.
+There is no "reactive phase" or "inactive phase". If an option offers one, reject it.
+::sub What the teacher does in each phase
+The tasks done in each phase are called its **operations**. Learn this table; questions often give an operation and ask for its phase.
+::table widths=22,78
+|Phase|Operations|
+|Pre-active (planning)|Fixing the objectives of the lesson // Selecting the content // Arranging (sequencing) the content // Deciding the teaching strategies and methods // Choosing teaching aids and preparing questions|
+|Interactive (in the classroom)|Sizing up the class: perceiving its size, mood and readiness // Diagnosing the learners: finding what they know and where they struggle // Action and reaction: presenting stimuli, questioning, responding to answers, giving feedback and reinforcement|
+|Post-active (after teaching)|Defining the exact dimensions of the change in behaviour achieved // Selecting suitable testing devices and techniques // Evaluating the outcomes // Changing strategies in the light of the evidence, and reflecting|
+The interactive phase covers everything from the moment the teacher enters the class to the end of the lesson. Sizing up the class is an interactive operation, not a post-active one, because it is done while facing the learners.
+::sub How decisions differ between phases
+- In the pre-active phase the teacher has time. Decisions are calm, deliberate and rational.
+- In the interactive phase the teacher must respond at once to what learners say and show, both in words and without words (a puzzled face, a yawn). There is little time to think, so decisions are quick and **spontaneous**.
+- In the post-active phase the teacher again has time: to analyse what happened and reflect.
+::sub The phases form a cycle
+What the teacher learns in the post-active phase feeds the next pre-active plan. The three phases are therefore not a straight line but a **cycle**. Post-active reflection can also grow into small classroom research, called action research (Unit II). Experience makes planning quicker, but it never removes the need to plan.
+The phase of an act is decided by when it is done and why. Preparing questions at home is pre-active. Asking the same questions in class to find out what students know is interactive. Marking the answer scripts afterwards and revising one's notes is post-active.
+::sub Teaching variables
+A **variable** (चर) is anything that can change. When we analyse teaching, three kinds of variable are named.
+::table widths=25,25,50
+|Variable|Who or what|Why so called|
+|Independent variable (स्वतंत्र चर)|The teacher|The teacher plans, decides and manages the process; the teacher's actions are what bring change|
+|Dependent variable (आश्रित चर)|The learner|The learner's behaviour changes as a result of teaching; the learner acts according to the teacher's planning|
+|Intervening variables (मध्यवर्ती चर)|Content, methods, strategies, teaching aids, environment|They stand between teacher and learner and carry the teacher's influence to the learner|
+The teacher selects and organises the intervening variables. It is through them that the teacher's influence reaches the learner and changes the learner's behaviour.
+A warning on a related use of the words. In an **experiment**, the factor the researcher changes on purpose (for example, the method of teaching) is the independent variable, and the outcome that is measured (for example, achievement scores) is the dependent variable. So in a study comparing two methods, "method" is the independent variable. In the analysis of teaching, the teacher is the independent variable. Read the stem to see which use is meant.
+::box example
+Mr Rakesh teaches B.Com. accountancy at a college in Sirsa. On Sunday he fixes the objective "students will prepare a bank reconciliation statement", picks three examples and decides to begin with a short quiz -- pre-active. On Monday he notices the class is tired after a test, so he drops the quiz and starts with a real passbook; a student's wrong answer shows that many confuse debit and credit, so he stops and re-explains -- interactive, with spontaneous decisions. On Tuesday he marks their worksheets, finds that two-thirds made the same slip, and decides to change his method next time -- post-active, feeding the next plan.
+::endbox
+::box confused
+- **Pre-active and post-active.** Pre-active is planning before the lesson; post-active is evaluation and reflection after it. Selecting a testing device is post-active; fixing objectives is pre-active.
+- **Sizing up the class and evaluating outcomes.** Sizing up is interactive (done while facing the class); evaluating outcomes is post-active.
+- **Teacher as independent variable and method as independent variable.** In analysing teaching, the teacher is independent; in an experiment on methods, the method is independent.
+- **Dependent and intervening variables.** The learner is dependent (changes); content and methods are intervening (carry the influence).
+::endbox
+::further
+::sub Three functions of teaching
+Many Indian textbooks describe three **functions of teaching**, which follow the order of a doctor's work.
+1. **Diagnostic function** (निदानात्मक कार्य). Finding the learner's **entry behaviour** (प्रवेश व्यवहार) -- what the learner already knows and can do -- and his or her difficulties and weaknesses.
+2. **Prescriptive function** (उपचारात्मक कार्य). Selecting the content, methods, strategies and aids that suit the diagnosis, and that remedy the weaknesses found.
+3. **Evaluative function** (मूल्यांकनात्मक कार्य). Checking whether the objectives have been achieved, judging the outcomes, and using the result to improve teaching.
+A pre-test before a new unit serves the diagnostic function. Choosing a demonstration for slow learners after the pre-test is prescriptive. A unit test at the end is evaluative.
+::sub More kinds of variable in research
+Questions in the harder sets borrow terms from research design (Unit II).
+- **Independent variable**: the factor the researcher manipulates (method of teaching).
+- **Dependent variable**: the outcome measured (achievement).
+- **Intervening variable**: a process on the causal path that carries the effect from the independent to the dependent variable, and is not directly observed (for example, interest aroused by the new method).
+- **Moderator variable**: a factor that changes the strength or direction of the relation between independent and dependent variables (for example, the method works better for girls than boys: gender is a moderator).
+- **Extraneous variables**: other factors (intelligence, motivation, home background) that could affect the outcome. **Random assignment** of learners to groups spreads these evenly over the groups, so that any difference in outcome can be put down to the method.
+::box check
+Q1. Which of the following is NOT one of the phases of teaching?
+(A) Pre-active phase
+(B) Interactive phase
+(C) Reactive phase
+(D) Post-active phase
+Q2. Match the operation in List I with the phase in List II.
+::match
+List I (Operation) || List II (Phase)
+A. Fixing the objectives of a lesson || I. Interactive
+B. Perceiving the size and mood of the class || II. Post-active
+C. Selecting suitable testing devices || III. Pre-active
+D. Giving reinforcement to a correct answer || IV. Interactive
+Choose the correct answer from the options given below:
+(A) A-III, B-I, C-II, D-IV
+(B) A-II, B-I, C-III, D-IV
+(C) A-III, B-II, C-I, D-IV
+(D) A-I, B-III, C-II, D-IV
+Q3. In the analysis of teaching, content and methods of teaching are treated as:
+(A) independent variables
+(B) dependent variables
+(C) extraneous variables
+(D) intervening variables
+Q4. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
+Assertion (A): Decisions taken in the interactive phase are largely spontaneous.
+Reason (R): In the interactive phase the teacher must respond at once to learners' verbal and non-verbal cues, with little time to deliberate.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Given below are two statements.
+Statement I: Post-active evaluation feeds into the planning of the next lesson.
+Statement II: An experienced teacher no longer needs the pre-active phase.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. A teacher gives a short test before beginning a new unit to find out what her students already know. Which function of teaching is she performing?
+(A) Diagnostic
+(B) Prescriptive
+(C) Evaluative
+(D) Administrative
+Q7. In an experiment comparing the lecture method with the seminar method on students' achievement, it is found that the seminar method helps only students with high interest. Here "interest" acts as:
+(A) the dependent variable
+(B) a moderator variable
+(C) the independent variable
+(D) a constant
+::endbox
+::answers
+Q1. (C), because the three phases are pre-active, interactive and post-active; there is no reactive phase.
+Q2. (A), because fixing objectives is planning (pre-active), sizing up and reinforcement happen in class (interactive), and choosing tests comes after teaching (post-active).
+Q3. (D), because content and methods stand between teacher and learner and carry the teacher's influence. The teacher is independent and the learner dependent.
+Q4. (A), because the need to respond on the spot to learners' cues is precisely what makes interactive decisions spontaneous.
+Q5. (C), because the phases form a cycle in which evaluation feeds planning; experience shortens planning but does not remove it.
+Q6. (A), because finding entry behaviour is the diagnostic function. Choosing methods to remedy what she finds would be prescriptive.
+Q7. (B), because interest changes the strength of the relation between method (independent) and achievement (dependent), which is what a moderator does.
+::endanswers
+
+::section 1.3 | Aims, goals, objectives and learning outcomes
+::syllabus Teaching: Objectives
+::box footprint
+{{FP 1.3}}
+::endbox
+::h Core
+::sub From aims to objectives
+Teachers speak of aims, goals and objectives as if they were the same. They are not. They differ in how broad they are and how long they take.
+::table widths=22,40,38
+|Term|What it is|Example|
+|Aim (लक्ष्य)|A broad, long-term purpose of education; not directly testable|To produce responsible citizens|
+|Goal|A narrower purpose for a stage, programme or course|To develop scientific temper in undergraduates|
+|Instructional objective (शिक्षण उद्देश्य)|A precise statement of what the learner will be able to do at the end of a lesson or unit; achievable and testable|The student will be able to state three causes of the Revolt of 1857|
+|Learning outcome (अधिगम परिणाम)|What the learner can actually demonstrate as a result of learning, stated in the same observable terms|The student explains, in a paragraph, how the Doctrine of Lapse caused unrest|
+The movement is from broad to narrow and from distant to near. An aim is never achieved in one lesson; an instructional objective should be.
+::sub What teaching aims at
+Learning is a relatively permanent change in behaviour. Teaching therefore aims at **desirable change** in three areas: knowledge, skills, and attitudes and values. Covering the syllabus, getting good marks and keeping order are means or by-products, not the aim.
+The usual list of the **functions of teaching** is: transmitting knowledge, developing skills, building values, and **socialisation** (helping learners adjust to the norms of society). Certification and holding examinations are outcomes of the system, not functions of teaching.
+In **higher education** the aim is wider still. Teaching should not only pass on knowledge; it should develop critical thinking, inquiry, judgement, a research orientation and values, and the capacity to create new knowledge. This is why reflective-level teaching (1.5) matters most in universities.
+::sub Instructional objectives in behavioural terms
+An **instructional objective** states what the **learner** will be able to do after instruction, in terms that can be observed and assessed. It does not state what the teacher will do, which topic will be covered, or how long the lesson will take.
+- Not an objective: "The teacher will explain photosynthesis." (teacher activity)
+- Not an objective: "Photosynthesis." (a topic)
+- An objective: "The student will be able to label the parts of a chloroplast on a given diagram."
+Because such objectives describe behaviour, they are also called **behavioural objectives** (व्यवहारगत उद्देश्य). They make evaluation easier, since the teacher knows exactly what to look for.
+Use action verbs that can be seen or checked: define, list, state, explain, compare, solve, label, design. Avoid vague verbs that describe an inner state: know, understand, appreciate, realise, be familiar with. You cannot see someone "understand"; you can see someone explain.
+::sub Mager's three parts
+Robert F. Mager's book *Preparing Objectives for Programmed Instruction* (1962), later retitled *Preparing Instructional Objectives*, taught teachers how to write behavioural objectives. A Mager objective has three parts.
+::table widths=22,40,38
+|Part|Question it answers|Example|
+|Performance|What will the learner do?|Locate the major rivers of India|
+|Condition|Under what circumstances, with what materials?|Given an outline map|
+|Criterion|How well? What is the standard of acceptable performance?|With at least 90 per cent accuracy; 8 out of 10 correct|
+Full objective: "Given an outline map of India (condition), the student will mark the major rivers (performance) with no more than one error (criterion)."
+Do not confuse Mager with other names often placed in the options:
+- Benjamin Bloom: the taxonomy of educational objectives (1.4).
+- Ralph Tyler: principles of curriculum, *Basic Principles of Curriculum and Instruction* (1949).
+- Robert Gagné: *The Conditions of Learning* (1965).
+::sub The ABCD format
+A later format adds one letter to Mager's three parts.
+- **A**udience: who the learner is ("B.Sc. first-year students").
+- **B**ehaviour: what they will do (Mager's performance).
+- **C**ondition: the circumstances (Mager's condition).
+- **D**egree: how well (Mager's criterion).
+So ABCD = Mager's three parts plus Audience.
+::sub Outcome-based education
+In **outcome-based education** (OBE; परिणाम आधारित शिक्षा) planning begins at the end. The teacher first writes the **intended learning outcomes**. Then the content, the teaching activities and the assessment are derived from those outcomes and lined up with them. The older practice started with the content (the syllabus), or with the staff available, or with the hours in the timetable; OBE replaced that.
+::box example
+A teacher of English at a college in Fatehabad writes three statements for a lesson on the sonnet. (1) "To teach the sonnet form." This is a teacher activity. (2) "Students will understand the sonnet." This uses a vague verb. (3) "Given an unseen sonnet, students will mark its rhyme scheme and identify the volta, with no more than one error." This is a Mager objective: condition, performance and criterion. Only the third tells her what to test at the end of the hour.
+::endbox
+::box confused
+- **Aim and objective.** An aim is broad, long-term and not directly testable; an objective is narrow, precise and testable at the end of a lesson or unit.
+- **Objective and teacher activity.** An objective states what the learner will do; "the teacher will explain ..." is not an objective.
+- **Condition and criterion.** Condition is the circumstance ("given a map"); criterion is the standard ("90 per cent accuracy").
+- **Mager and Bloom.** Mager: how to write a single objective. Bloom: how to classify objectives into levels.
+- **Mager's three parts and ABCD.** ABCD adds the Audience to performance, condition and criterion.
+::endbox
+::further
+::sub Gronlund's way of stating objectives
+Norman E. Gronlund suggested a two-step way of writing objectives. First write a **general instructional objective** in broad words ("Understands the principles of demand"). Then clarify it with a sample of **specific learning outcomes** in behavioural terms ("States the law of demand in own words"; "Gives an example of an exception to the law"). The single-sentence format with condition and criterion is Mager's, not Gronlund's.
+::sub Terminal, enabling and expressive objectives
+- A **terminal objective** states what the learner can do at the end of instruction.
+- **Enabling objectives** are the smaller, intermediate skills that lead up to it. They are found by **task analysis**: breaking the final task into its component skills.
+- Elliot Eisner proposed **expressive objectives**. These describe an educational encounter -- a visit, a reading, a performance -- without fixing in advance what the outcome must be. They suit the arts, where a unique response is the point.
+::sub The RCEM approach
+The **RCEM approach** was developed at the Regional College of Education, Mysore (now the Regional Institute of Education, Mysuru). It sorts objectives into four categories: **knowledge, understanding, application and creativity**. Instead of Bloom-style action verbs, it states objectives through specified **mental processes**, such as recalling, recognising, seeing relationships, classifying, inferring and predicting.
+::sub Levels of outcome in OBE
+Outcome-based programmes in Indian colleges, especially those accredited by the National Board of Accreditation, use four related terms.
+::table widths=35,65
+|Term|What it states|
+|Course outcomes (COs)|What a student can do at the end of one course (paper)|
+|Programme outcomes (POs)|What every graduate of the programme can do at the time of graduation|
+|Programme-specific outcomes (PSOs)|What graduates of this particular programme can do at graduation|
+|Programme educational objectives (PEOs)|What graduates are expected to achieve in their careers a few years after graduation|
+::sub Constructive alignment
+John Biggs called the lining-up of outcomes, teaching and assessment **constructive alignment**. The teaching activities and the assessment tasks must call for the same kind of performance as the intended learning outcome. If the outcome says "evaluate arguments" but the examination asks only for definitions, alignment has failed. That is a failure of alignment, not of reliability. Assessment in OBE exists to find out whether the intended outcomes have been reached, which is why it must be aligned with them.
+::box check
+Q1. Which of the following is a properly stated instructional objective?
+(A) The teacher will explain the causes of inflation.
+(B) Students will appreciate the importance of savings.
+(C) Given data for five years, the student will calculate the rate of inflation for each year without error.
+(D) Inflation and its causes.
+Q2. Match List I (part of a Mager objective) with List II (example).
+::match
+List I || List II
+A. Performance || I. Using a scientific calculator
+B. Condition || II. Solve quadratic equations
+C. Criterion || III. Eight out of ten correct
+Choose the correct answer from the options given below:
+(A) A-I, B-II, C-III
+(B) A-II, B-I, C-III
+(C) A-III, B-I, C-II
+(D) A-II, B-III, C-I
+Q3. Given below are two statements.
+Statement I: An aim is broad and long-term, while an instructional objective is narrow and testable at the end of a lesson or unit.
+Statement II: Verbs such as "know" and "appreciate" are preferred in behavioural objectives because they describe the learner's mind.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is false but Statement II is true
+(D) Statement I is true but Statement II is false
+Q4. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
+Assertion (A): In outcome-based education, assessment tasks must be aligned with the stated learning outcomes.
+Reason (R): The purpose of assessment in outcome-based education is to find out whether the intended outcomes have been attained.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. In the ABCD format of writing objectives, the letter that Mager's three-part format does not have a separate part for is:
+(A) Behaviour
+(B) Condition
+(C) Degree
+(D) Audience
+Q6. Which of the following are functions of teaching?
+1. Transmitting knowledge
+2. Socialisation of the learner
+3. Issuing certificates
+4. Developing skills and values
+Choose the correct answer from the options given below:
+(A) 1, 2 and 4 only
+(B) 1 and 4 only
+(C) 1, 2, 3 and 4
+(D) 2, 3 and 4 only
+Q7. The statements of what graduates are expected to achieve in their careers a few years after completing a programme are called:
+(A) course outcomes
+(B) programme-specific outcomes
+(C) programme educational objectives
+(D) programme outcomes
+::endbox
+::answers
+Q1. (C), because it states the learner's observable performance with a condition and a criterion. (A) is a teacher activity, (B) uses a vague verb, and (D) is only a topic.
+Q2. (B), because solving is what the learner does, the calculator is the circumstance, and eight out of ten is the standard.
+Q3. (D), because vague verbs cannot be observed; behavioural objectives need verbs like state, explain or solve.
+Q4. (A), because assessment exists to check whether outcomes are attained, and that is exactly why it must be aligned with them.
+Q5. (D), because Behaviour, Condition and Degree match Mager's performance, condition and criterion; Audience is the added letter.
+Q6. (A), because certification is an outcome of the examination system, not a function of teaching.
+Q7. (C), because programme educational objectives look a few years into the career; programme outcomes and programme-specific outcomes refer to the time of graduation.
+::endanswers
+
+::section 1.4 | Taxonomies of educational objectives
+::syllabus Teaching: Objectives
+::box footprint
+{{FP 1.4}}
+::endbox
+::h Core
+::sub Three domains
+A **taxonomy** is a classification arranged in order. The **taxonomy of educational objectives** (शैक्षिक उद्देश्यों का वर्गीकरण) sorts what we want learners to achieve into three **domains**, or areas:
+::table widths=24,42,34
+|Domain|What it covers|Example objective|
+|Cognitive (संज्ञानात्मक पक्ष)|Knowing and thinking, from simple recall to judgement and creation|Solves simultaneous equations|
+|Affective (भावात्मक पक्ष)|Feelings, interests, attitudes and values|Shows respect for others' opinions in a debate|
+|Psychomotor (मनोगत्यात्मक पक्ष)|Physical skills needing coordination of mind and muscle|Operates a microscope; handles laboratory apparatus|
+A fourth word, **conative**, is sometimes met. It refers to will, effort and striving. It is not one of Bloom's three domains.
+To decide the domain, look at the verb that carries the objective. "Values honesty in research" is affective, even though research sounds intellectual, because the verb is "values". "Explains the causes of plagiarism" is cognitive.
+::sub The books and their authors
+::table widths=40,30,30
+|Work|Domain|Year|
+|Bloom and others, *Taxonomy of Educational Objectives, Handbook I*|Cognitive|1956|
+|Krathwohl, Bloom and Masia, *Handbook II*|Affective|1964|
+|Anderson and Krathwohl (editors), revised taxonomy|Cognitive (revised)|2001|
+|E. J. Simpson; R. H. Dave; A. J. Harrow|Psychomotor (three separate schemes)|Simpson 1966 and 1972; Dave 1970; Harrow 1972|
+Bloom's group did not finish a psychomotor handbook; the psychomotor schemes came from others. Robert Gagné, sometimes offered in the options, is known for *The Conditions of Learning*, not for a taxonomy of the affective domain.
+::sub The cognitive domain: Bloom's original (1956)
+Six levels, from simple to complex. Each level builds on the ones below it.
+::table widths=6,20,44,30
+|No.|Level|Meaning|Typical verbs|
+|1|Knowledge|Recall of facts, terms, methods, principles|define, list, name, state, recall|
+|2|Comprehension|Grasping meaning; using material in a different form|explain, summarise, translate, interpret|
+|3|Application|Using a learnt rule or method in a new concrete situation|apply, solve, use, demonstrate|
+|4|Analysis|Breaking a whole into parts and finding the relations between them, e.g. separating facts from opinions|analyse, compare, differentiate, distinguish|
+|5|Synthesis|Putting elements together to form a new whole, pattern or structure|design, compose, construct, formulate|
+|6|Evaluation|Judging the worth of something against criteria|judge, justify, critique, appraise|
+In 1956 the highest level was **Evaluation**, with Synthesis just below it. The lowest was **Knowledge**.
+Comprehension has three forms in the original handbook:
+- **Translation**: putting a communication into another form -- words into a graph, English into Hindi, a formula into words.
+- **Interpretation**: explaining or summarising the meaning.
+- **Extrapolation**: extending a trend beyond the given data, to predict.
+So changing a paragraph of data into a bar graph is Comprehension (translation), not Application.
+Knowledge, Comprehension and Application are called **lower-order** levels; Analysis, Synthesis and Evaluation are **higher-order** levels (उच्च-स्तरीय चिंतन).
+::sub The revised taxonomy (2001)
+Lorin Anderson and David Krathwohl led a revision published in 2001. Three changes matter for the examination.
+1. **Nouns became verbs.** Knowledge became **Remember**, Comprehension became **Understand**, and so on, because objectives describe what learners do.
+2. **Synthesis became Create and moved to the top.** Evaluation became **Evaluate** and is now fifth.
+3. **A second dimension was added**: the knowledge dimension (below).
+The revised order, from lowest to highest: **Remember, Understand, Apply, Analyse, Evaluate, Create.**
+::table widths=50,50
+|1956 (nouns)|2001 (verbs)|
+|Knowledge|Remember|
+|Comprehension|Understand|
+|Application|Apply|
+|Analysis|Analyse|
+|Synthesis (5th)|Create (6th, highest)|
+|Evaluation (6th, highest)|Evaluate (5th)|
+"Recall" and "recognise" are not level names. They are processes inside Remember.
+::sub Verbs for the revised levels
+::table widths=20,80
+|Level|Verbs and cognitive processes|
+|Remember|recognising, recalling; define, list, name, state|
+|Understand|interpreting, exemplifying, classifying, summarising, inferring, comparing, explaining|
+|Apply|executing, implementing; solve, use, compute by a known procedure|
+|Analyse|differentiating, organising, attributing; distinguish, break down|
+|Evaluate|checking, critiquing; judge, justify, defend a choice against criteria|
+|Create|generating, planning, producing; design, compose, formulate, construct|
+Two sorting rules settle most questions:
+- **Analyse or Evaluate?** Analyse stops at taking the thing apart and seeing how the parts relate. Evaluate goes on to judge it against criteria and justify a choice.
+- **Apply or Create?** Apply uses a known procedure on a new case. Create produces something new: a plan, a design, a proposal, a hypothesis.
+::sub The knowledge dimension and the taxonomy table
+The revision added a **knowledge dimension** (ज्ञान आयाम) with four types of knowledge:
+- **Factual**: terminology and specific details (the date of an Act, the meaning of a term).
+- **Conceptual**: classifications, categories, principles, theories, models.
+- **Procedural**: how to do something; methods, techniques, algorithms, criteria for choosing a method.
+- **Metacognitive** (अधिसंज्ञानात्मक): knowledge of thinking in general and awareness of one's own thinking, including strategies and self-knowledge. This type was new in 2001.
+Put the six cognitive processes along one side and the four knowledge types along the other, and you get the **taxonomy table**, a grid of 24 cells. In an objective, the **verb** gives the cognitive process and the **noun** gives the type of knowledge. "Apply the procedure for chi-square" sits at Apply x procedural. "Judge one's own study strategies" sits at Evaluate x metacognitive.
+::sub The affective domain (Krathwohl, Bloom and Masia, 1964)
+Five levels, from lowest to highest:
+::table widths=24,46,30
+|Level|Meaning|Sign|
+|Receiving|Being aware of something and willing to attend to it|Listens; pays attention|
+|Responding|Reacting actively and willingly|Answers, participates, volunteers a comment, complies|
+|Valuing|Attaching worth to something and showing commitment; acting on it consistently|Shows concern; supports; holds to a value under pressure|
+|Organisation|Bringing several values together, resolving conflicts between them, building a consistent value system|Weighs freedom against responsibility; forms a personal code|
+|Characterisation by a value or value complex|The value system governs behaviour so consistently that it becomes the person's character|Consistently acts with integrity over years|
+Receiving is the lowest; Characterisation is the highest. Valuing concerns a single value; Organisation brings several values into one system; Characterisation is when that system controls conduct, consistently, over time.
+Affective outcomes are hard to evaluate: attitudes and values are inside the person, develop slowly, and can be faked on a questionnaire. Characterisation in particular is judged by conduct observed over a long time, not by one written test.
+::sub The psychomotor domain
+Three schemes are asked about. Learn at least the first and last level of each.
+::table widths=18,10,72
+|Author|Levels|Order|
+|E. J. Simpson|7|Perception, Set, Guided response, Mechanism, Complex overt response, Adaptation, Origination|
+|R. H. Dave|5|Imitation, Manipulation, Precision, Articulation, Naturalisation|
+|A. J. Harrow|6|Reflex movements, Basic fundamental movements, Perceptual abilities, Physical abilities, Skilled movements, Non-discursive communication|
+Simpson begins with Perception and ends with Origination; Dave begins with Imitation and ends with Naturalisation; Harrow begins with Reflex movements and ends with Non-discursive communication. "Imitation" belongs to Dave's psychomotor scheme, never to the affective domain.
+::sub The organising principle of each domain
+Each domain is ordered by a different principle.
+- Cognitive: **complexity** (simple to complex).
+- Affective: **internalisation** (आंतरीकरण) -- how deeply a value has become one's own.
+- Psychomotor: **coordination** (from single movements to smooth, combined, automatic ones).
+::box example
+In an M.A. economics class in Rohtak, the teacher sets tasks on the Green Revolution. "List the main inputs of the Green Revolution" (Remember). "Explain in your own words what a high-yielding variety is" (Understand). "Compare farming in Punjab and Bihar and show which inputs made the difference" (Analyse). "Judge whether the Green Revolution helped small farmers, and defend your view using three criteria" (Evaluate). A further task, "Draft a plan to reduce stubble burning in Sirsa district", would be Create. If, by the end of term, a student who used to ignore rural issues now volunteers for a survey of small farmers, that change is in the affective domain (Responding, moving towards Valuing).
+::endbox
+::box confused
+- **Original top and revised top.** 1956: Evaluation highest, Synthesis fifth. 2001: Create (old Synthesis) highest, Evaluate fifth.
+- **Analyse and Evaluate.** Analyse breaks into parts and relates them; Evaluate judges against criteria.
+- **Comprehension (translation) and Application.** Changing words into a graph is translation, a form of Comprehension; Application uses a rule in a new situation.
+- **Evaluate (cognitive) and Valuing (affective).** Justifying a choice against criteria is Evaluate; attaching worth and commitment to a value is Valuing.
+- **Valuing and Organisation.** Valuing: one value; Organisation: several values built into a system.
+- **Organisation and Characterisation.** Organisation builds the value system; Characterisation is when it governs conduct consistently.
+- **Receiving and Responding.** Mere attention is Receiving; active reaction (answering, complying, volunteering) is Responding.
+- **Imitation and Receiving.** Imitation is Dave's first psychomotor level; Receiving is the first affective level.
+- **Simpson and Dave.** Simpson: seven levels, Perception to Origination. Dave: five levels, Imitation to Naturalisation.
+- **Complexity, internalisation, coordination.** Cognitive, affective and psychomotor respectively.
+::endbox
+::box fact
+- The revised cognitive taxonomy of Anderson and Krathwohl (2001), with Create at the top, is the version in current use (checked October 2026). Many older books still print only the 1956 order with Evaluation at the top; if a question names the "revised" taxonomy, use the 2001 order.
+- The affective handbook (Krathwohl, Bloom and Masia) is dated 1964; the cognitive handbook (Bloom and others) 1956.
+::endbox
+::further
+::sub Finer divisions of the 1956 handbook
+- **Knowledge** has three groups: knowledge of specifics (terms, specific facts); knowledge of ways and means of dealing with specifics (conventions, trends, classifications, **criteria**, methodology); knowledge of universals and abstractions (principles, theories). So merely recalling the criteria for judging a poem is still Knowledge; using those criteria to judge a poem is Evaluation.
+- **Comprehension**: translation, interpretation, extrapolation (above). Predicting next year's figure from the trend in a graph is extrapolation.
+- **Synthesis** has three forms: production of a unique communication (an essay, a speech); production of a plan or proposed set of operations (a research design); derivation of a set of abstract relations (a hypothesis to explain data). All three correspond to Create in 2001.
+- **Evaluation** has two forms: judgements in terms of internal evidence (consistency, accuracy within the work) and judgements in terms of external criteria (comparison with standards).
+::sub Hierarchy: strict or overlapping?
+The 1956 authors treated the six levels as a **cumulative hierarchy**: each level was assumed to need mastery of all levels below it. Anderson and Krathwohl kept the order of increasing complexity but allowed the categories to **overlap**. For example, the Understand process "explaining" can be more demanding than the Apply process "executing".
+::sub Sub-levels of the lower affective levels
+- **Receiving**: awareness; willingness to receive; controlled or selected attention.
+- **Responding**: acquiescence in responding (complying because told to); willingness to respond; satisfaction in response.
+- **Valuing**: acceptance of a value; preference for a value; commitment.
+Compliant action ("submits the assignment because it is required") is already Responding (acquiescence). Mere attention is Receiving.
+::sub More on the psychomotor levels
+::table widths=24,76
+|Level|Meaning|
+|Dave: Imitation|Copying an action after watching a model|
+|Dave: Manipulation|Performing by following instructions, not just copying|
+|Dave: Precision|Performing accurately and independently, with few errors|
+|Dave: Articulation|Coordinating a series of actions harmoniously and consistently|
+|Dave: Naturalisation|Performing automatically, with little conscious effort|
+|Simpson: Perception|Using the senses to pick up cues that guide action|
+|Simpson: Set|Readiness -- mental, physical and emotional -- to act|
+|Simpson: Guided response|Early stage: imitation and trial and error under guidance|
+|Simpson: Mechanism|Learnt responses become habitual; performed with some confidence|
+|Simpson: Complex overt response|Skilful performance of complex movement patterns|
+|Simpson: Adaptation|Modifying well-developed skills to fit special requirements or new situations|
+|Simpson: Origination|Creating new movement patterns (the highest level)|
+Harrow's six levels move from involuntary reflexes, through basic movements such as walking and grasping, perceptual and physical abilities (strength, endurance, agility), to skilled movements and finally non-discursive communication: expressive movement such as gesture, posture and dance.
+::sub Higher-order items: a short calculation
+Teachers are often asked to check what share of a test demands higher-order thinking. The method:
+1. Fix the convention: which levels count as higher-order. Usually Analyse, Evaluate and Create. Some lists of "higher-order thinking skills" also count Apply; if the question states the convention, follow the question.
+2. Add the items at those levels.
+3. Divide by the total number of items and multiply by 100.
+::box worked
+A 20-item test has 5 Remember, 4 Understand, 4 Apply, 3 Analyse, 2 Evaluate and 2 Create items. Taking Analyse, Evaluate and Create as higher-order:
+> Higher-order items = 3 + 2 + 2 = 7
+> Percentage = 7 / 20 x 100 = 35 per cent
+If Apply were also counted: (4 + 7) / 20 x 100 = 55 per cent.
+::endbox
+::box slips
+- Counting Apply as higher-order when the question has not said so.
+- Dividing by the number of higher-order items instead of the total.
+- Using the 1956 names in a question set on the revised taxonomy (Synthesis is not a 2001 level).
+::endbox
+::box check
+Q1. Arrange the levels of the revised cognitive taxonomy (2001) from the lowest to the highest:
+1. Evaluate
+2. Apply
+3. Create
+4. Understand
+5. Analyse
+Choose the correct answer from the options given below:
+(A) 4, 2, 1, 5, 3
+(B) 4, 2, 5, 1, 3
+(C) 2, 4, 5, 3, 1
+(D) 4, 5, 2, 1, 3
+Q2. Match List I (task) with List II (level of the revised taxonomy).
+::match
+List I || List II
+A. Summarise the plot of a novel in your own words || I. Create
+B. Distinguish relevant from irrelevant evidence in a report || II. Evaluate
+C. Defend the choice of one research design over another using stated criteria || III. Understand
+D. Write an original short story || IV. Analyse
+Choose the correct answer from the options given below:
+(A) A-III, B-IV, C-II, D-I
+(B) A-IV, B-III, C-II, D-I
+(C) A-III, B-II, C-IV, D-I
+(D) A-III, B-IV, C-I, D-II
+Q3. "The student consistently refuses to copy in examinations, even when no invigilator is present, and has done so throughout the course." This outcome belongs to the:
+(A) cognitive domain, Evaluate
+(B) psychomotor domain, Naturalisation
+(C) affective domain, Characterisation by a value
+(D) affective domain, Receiving
+Q4. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
+Assertion (A): Changing a table of rainfall data into a line graph is an example of Comprehension in Bloom's 1956 taxonomy.
+Reason (R): Translation, interpretation and extrapolation are the three forms of Comprehension.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Which of the following statements are correct?
+1. The affective domain is ordered by the principle of internalisation.
+2. Metacognitive knowledge was added to the knowledge dimension in the 2001 revision.
+3. Dave's psychomotor scheme begins with Perception.
+4. In the 1956 taxonomy, Evaluation was the highest level.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1 and 4 only
+(D) 1, 2 and 4 only
+Q6. In the objective "Students will evaluate their own note-making strategies", the cell of the taxonomy table is:
+(A) Evaluate x metacognitive knowledge
+(B) Apply x procedural knowledge
+(C) Evaluate x procedural knowledge
+(D) Remember x metacognitive knowledge
+Q7. Given below are two statements.
+Statement I: Simpson's psychomotor taxonomy ends with Origination.
+Statement II: Harrow's psychomotor taxonomy begins with Imitation.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q8. A 25-item test has 6 Remember, 5 Understand, 4 Apply, 4 Analyse, 3 Evaluate and 3 Create items. Taking only Analyse, Evaluate and Create as higher-order, the percentage of higher-order items is:
+(A) 56 per cent
+(B) 40 per cent
+(C) 24 per cent
+(D) 60 per cent
+::endbox
+::answers
+Q1. (B), because the order is Understand, Apply, Analyse, Evaluate, Create (Remember, not listed, comes first).
+Q2. (A), because summarising is Understand, distinguishing is Analyse, defending a choice against criteria is Evaluate, and writing something original is Create.
+Q3. (C), because a value that governs conduct consistently over a long time is Characterisation, the highest affective level. Evaluate (A) is a cognitive judgement, not a settled value.
+Q4. (A), because changing data into another form is translation, which is one of the three forms of Comprehension; R explains A.
+Q5. (D), because Dave begins with Imitation; Perception is Simpson's first level.
+Q6. (A), because "evaluate" gives the process and "one's own strategies" is metacognitive knowledge.
+Q7. (C), because Harrow begins with Reflex movements; Imitation is Dave's first level.
+Q8. (B), because higher-order items are 4 + 3 + 3 = 10, and 10 / 25 x 100 = 40 per cent. (A) wrongly counts the Apply items: 14 / 25 = 56 per cent.
+::endanswers
+
+::section 1.5 | Levels of teaching: memory, understanding and reflective
+::syllabus Levels of teaching (Memory, Understanding and Reflective)
+::box footprint
+{{FP 1.5}}
+::endbox
+::h Core
+::sub Three levels on one ladder
+Teaching can be pitched at three **levels of teaching** (शिक्षण के स्तर). From the lowest to the highest they are:
+1. **Memory level** (स्मृति स्तर): learners commit facts to memory and reproduce them.
+2. **Understanding level** (बोध स्तर): learners see the relationships between facts and the general principles behind them, and can explain and use them.
+3. **Reflective level** (चिंतन स्तर): learners face a real problem, think it through critically, and reach and test their own conclusions.
+The levels form a **ladder**. Each higher level presupposes the one below it and includes it. You cannot understand facts you do not have, and you cannot reflect on a problem you do not understand. So the memory level is the base for the other two; the understanding level requires the memory level and prepares the ground for the reflective level; the reflective level is the highest and includes both lower levels. Memory-level teaching is never thrown away; it is built upon.
+What separates the levels is **the amount of thinking demanded of the learner**. Morris L. Bigge described teaching-learning situations as lying on a continuum from "thoughtless" to "thoughtful". Memory-level teaching demands the least thought, the understanding level more, and the reflective level the most. The levels are not defined by the length of the period, the size of the class, or the age of the teacher.
+Only these three are the standard levels. Labels such as "insight level" or "autonomous development level" in an option are not among the three levels the syllabus names.
+::sub Who is linked with each level
+::table widths=34,33,33
+|Level|Name linked with it|Model in one phrase|
+|Memory|Johann Friedrich Herbart|Herbartian formal steps|
+|Understanding|Henry Clinton Morrison|Morrison's unit plan and mastery|
+|Reflective|Maurice P. Hunt (also discussed by Morris L. Bigge)|Problem-centred inquiry|
+A word on the reflective level, because books differ. The examination and most Indian textbooks link the reflective-level model with **Hunt**. Maurice P. Hunt wrote, with Lawrence E. Metcalf, *Teaching High School Social Studies: Problems in Reflective Thinking and Social Understanding* (1955). Morris L. Bigge set out the three levels in *Learning Theories for Teachers* (1964), and Bigge and Hunt wrote *Psychological Foundations of Education* (1962) together. So you will see "Hunt", "Bigge", or "Bigge and Hunt". In the examination: if Hunt is among the options, choose Hunt; if the options are Bigge with names like Herbart, Morrison, Bloom or Pavlov, choose Bigge. Benjamin Bloom is known for the taxonomy of objectives (1.4), not for a level of teaching. Pavlov and Thorndike are learning theorists.
+Note the spelling: **Herbart**, not "Herbert".
+::sub The memory level
+**What it is.** Teaching at the memory level aims to fix facts, terms, dates and formulae in the learner's memory so that they can be recalled and reproduced. It is the lowest and most "thoughtless" level. Learning here is largely **rote learning** (रटन अधिगम): learning by repetition without seeing why.
+**Teacher and learner.** The teacher is dominant. The teacher chooses the content, fixes its order, presents it and tests it. The learner is passive: he or she receives, retains and reproduces. Learners do not choose the content or its sequence. Of the three levels, teacher control is greatest here.
+**Methods.** Telling, drill, repetition, recitation (saying back what was learnt) and review. Debates, seminars and projects need understanding or reflection and belong to higher levels.
+**Motivation.** Mostly **extrinsic** (बाह्य अभिप्रेरणा): marks, praise, rewards and reproof.
+**Evaluation.** Oral questioning and written tests of **recall and recognition** -- that is, objective-type items such as fill in the blanks, true/false, matching and multiple choice.
+**Its basis: Herbart's apperception.** Johann Friedrich Herbart (1776--1841), a German philosopher and educationist, held that the mind is built up of ideas. The body of ideas already in the mind he called the **apperceptive mass** (पूर्व-ज्ञान पुंज). A new idea is learnt when it is linked with, and absorbed into, this existing mass. This process is **apperception** (अवबोधन). An idea with no link to anything already known has nothing to hold on to. Herbart's teaching steps are designed to make this link in an orderly way. (Learning by stimulus-response connections is Thorndike's connectionism; equilibration is Piaget's idea. Neither is Herbart's.)
+::sub The Herbartian steps
+Herbart himself spoke of four stages of instruction: **clearness** (clarity), **association**, **system** and **method**. His followers, chiefly Tuiskon Ziller and Wilhelm Rein, turned them into the **five formal steps** that teacher-training colleges still teach:
+1. **Preparation.** The teacher recalls the learners' related previous knowledge, arouses their curiosity, and ends with a **statement of the aim** of the lesson. This prepares the apperceptive mass for the new idea.
+2. **Presentation.** The new material is introduced, clearly and in order, with examples, aids and questions.
+3. **Comparison and association.** The new facts are compared with one another and with what learners already know, so that links form.
+4. **Generalisation.** From the facts, the learners and teacher frame a rule, definition or principle.
+5. **Application.** The rule is used on fresh examples and new situations. This fixes it in the mind and tests whether it was grasped.
+Some lists split the first step into "preparation" and "statement of aim", or add **recapitulation** (a short revision) at the end. The five-step core remains: preparation, presentation, comparison/association, generalisation, application. Note that **recitation** is not a Herbartian step; it is the last step of Morrison's plan.
+The Herbartian approach is orderly and teacher-centred. It rests on the doctrine of apperception and uses recitation and drill. Its strength is that a meaningful, well-organised presentation improves retention.
+**Merits of the memory level.** It supplies the facts that higher levels need. It suits young learners and beginners in any subject.
+**Limits.** Material learnt by rote has few links to other ideas, so it fades quickly and cannot be used in new situations. Learners stay passive. It does not develop independent, critical thinking -- that is the outcome of reflective-level teaching.
+::sub The understanding level
+**What it is.** To understand is to see relationships: between facts and the generalisations that explain them, between a principle and its uses. A learner at this level can restate an idea in his or her own words, give a fresh example, relate it to earlier ideas, and apply a principle in **familiar** situations. Exact repetition of the textbook's words shows only the memory level; producing an original theory goes beyond understanding to reflection.
+This level is more thoughtful than the memory level, because learners see relationships and use principles. But the thinking is still largely the teacher's: the teacher explains the relationships and the learner grasps them. No originality is demanded.
+**Its basis: Morrison's unit plan.** Henry Clinton Morrison (1871--1945), an American educationist at the University of Chicago, set out his plan in *The Practice of Teaching in the Secondary School* (1926). He organised content into **units** -- significant wholes of related material, not scattered daily lessons -- and aimed at **mastery** of each unit. His **mastery formula** runs: pre-test, teach, test the result, adapt procedure, and teach and test again to the point of actual learning. If a learner has not mastered the unit, the teacher changes the teaching procedure; the teacher does not simply repeat the same lesson or move on.
+::sub Morrison's five steps
+1. **Exploration.** The teacher finds out what the learners already know about the unit, through questions, discussion or a pre-test, so as to start at the right point. The teacher also plans the unit in logical order.
+2. **Presentation.** The teacher presents the main points of the unit in outline, briefly, and checks with short tests that the class has grasped them; parts not grasped are presented again.
+3. **Assimilation.** The longest step. Learners study the unit in depth on their own -- reading, library work, assignments, worksheets -- under the teacher's supervision. The teacher's role here is supervisory: guiding, helping with difficulties and testing. Assimilation ends with a **mastery test**. Learners who fall short of the mastery standard go back to supervised study with corrective help and are tested again.
+4. **Organisation.** Each learner writes an organised outline of the whole unit, **without help** from books, notes or the teacher. This shows whether the learner can arrange the unit as a connected whole.
+5. **Recitation.** The last step. Learners present the mastered unit **orally** to the class, in their own words, followed by discussion. Recitation here does not mean word-for-word reproduction.
+Order to remember: **E-P-A-O-R** (exploration, presentation, assimilation, organisation, recitation).
+**Teacher and learner.** The teacher is active and explains; the learner is more active than at the memory level and interacts with the teacher. Teacher control is less than at the memory level.
+**Evaluation.** Both **essay-type** and **objective-type** tests. Understanding shows itself both in explanation (best seen in essay answers) and in recognition and application (which objective items can test).
+::sub The reflective level
+**What it is.** Reflective-level teaching is **problem-centred**. The teacher creates a problematic situation. Learners examine it critically, form hypotheses, test them against evidence and reach conclusions. The aim is critical and creative thinking, independence of judgement and a scientific attitude. It is the highest and most "thoughtful" level.
+**It begins with a felt problem.** The problem must be genuine: a real difficulty or perplexity that unsettles what the learners already believe -- for example, data that contradict their expectations. This creates **cognitive conflict**. Recalling an earlier lesson, copying dictated definitions or hearing a conclusion announced in advance creates no such tension, so no reflection follows.
+**Steps of reflective-level teaching.**
+1. Recognising and defining the problem.
+2. Formulating hypotheses -- tentative solutions to be tested.
+3. Testing the hypotheses against evidence.
+4. Drawing conclusions.
+These steps follow the scientific method, which John Dewey described as reflective thinking. A **hypothesis** (परिकल्पना) is a tentative answer. Even a hypothesis that is rejected is useful: it rules out one possibility, sharpens the problem and trains the habit of reasoning from evidence.
+**Teacher and learner.** The teacher is a **democratic guide**: neither an authority who supplies the answers nor a passive spectator. The teacher raises the problem, helps learners clarify it, keeps the inquiry rigorous by asking for evidence and counter-examples, and lets learners revise their own conclusions. The teacher does not hand over hypotheses or conclusions. The **learner is the most active** participant. Teacher control is least at this level.
+**Climate.** The classroom must be open and democratic, so that learners are free to doubt, question, propose alternatives and test ideas. No source -- not even the textbook -- is treated as the final authority. An authoritarian classroom, a fixed sequence or imposed answers leave nothing to reflect on.
+**Motivation.** Mostly **intrinsic** (आंतरिक अभिप्रेरणा): it comes from the learner's own wish to solve the felt problem. The learners' **level of aspiration** needs to be reasonably high.
+**Evaluation.** Mainly **essay-type** tests and open-ended tasks, since reasoning, originality and judgement show only in extended answers. Evaluation also covers attitudes, beliefs, involvement and critical ability, not knowledge alone.
+**Where it suits.** It needs a base of knowledge, mature reasoning and independence, so it suits higher classes, postgraduate students and research. It is slow and takes more time than memory-level teaching, and it does not suit young or unprepared learners.
+::sub The three levels side by side
+::table small widths=16,28,28,28
+|Point|Memory level|Understanding level|Reflective level|
+|Linked with|Herbart|Morrison|Hunt (and Bigge)|
+|Focus|Committing facts to memory; retention|Seeing relationships; mastery of units|Solving problems; critical and creative thinking|
+|Steps (syntax)|Preparation, presentation, comparison/association, generalisation, application|Exploration, presentation, assimilation, organisation, recitation|Felt problem, hypotheses, testing, conclusion|
+|Teacher|Dominant; chooses and presents|Active; explains relationships|Democratic guide; raises problems|
+|Learner|Passive; receives and reproduces|More active; grasps and applies|Most active; investigates|
+|Motivation|Mainly extrinsic|Extrinsic and intrinsic|Mainly intrinsic; high level of aspiration|
+|Typical methods|Drill, repetition, recitation, review|Explanation, discussion, generalisation|Problem-solving, inquiry, seminar, project|
+|Evaluation|Oral and written recall and recognition tests (objective type)|Both essay-type and objective-type tests|Mainly essay-type; also attitudes, involvement, critical ability|
+|Climate|Teacher-controlled|Teacher-guided|Open and democratic|
+Indian textbooks often describe each level as a model of teaching with four parts: **focus** (its aim), **syntax** (its steps), **social system** (roles of teacher and learner, and motivation) and **support system** (how outcomes are evaluated). The table follows the same order.
+::box example
+In a B.Sc. chemistry class at a college in Bhiwani, three teachers take up "hard water". Teacher A dictates: "Hardness is caused by salts of calcium and magnesium; temporary hardness is removed by boiling." Students repeat it until they can write it word for word -- memory level. Teacher B shows why boiling removes bicarbonate hardness but not sulphate hardness, asks students to write the reactions themselves and to predict what will happen to a sample from their own village -- understanding level. Teacher C brings two samples: one from a canal and one from a tube-well, and shows that soap lathers in the canal water but not in the tube-well water, though both look clear. "Why? Is the tube-well water safe to drink?" Students propose causes, design tests, argue over the results and present a short report -- reflective level. Teacher C did not tell them the answer; she kept asking, "What is your evidence?"
+::endbox
+::box confused
+- **Herbart and Morrison steps.** Herbart: preparation, presentation, comparison/association, generalisation, application. Morrison: exploration, presentation, assimilation, organisation, recitation. Only "presentation" is common to both.
+- **Preparation and exploration.** Preparation (Herbart) recalls related previous knowledge and states the aim. Exploration (Morrison) finds out what learners already know of the unit.
+- **Application and recitation.** Application is Herbart's last step (using the rule on new examples). Recitation is Morrison's last step (oral presentation of the mastered unit).
+- **Assimilation and organisation.** Assimilation is supervised individual study ending in a mastery test. Organisation is writing an unaided outline of the unit.
+- **Recitation (memory-level method) and Recitation (Morrison's step).** As a memory-level method, recitation is saying back what was learnt. As Morrison's fifth step, it is presenting the unit in one's own words.
+- **Understanding and reflective.** Understanding: the teacher explains the generalisation and learners grasp and apply it in familiar situations. Reflective: learners face an unfamiliar problem and reach and test the generalisation by their own inquiry.
+- **Hunt and Herbart.** Hunt: reflective level. Herbart: memory level.
+- **Extrinsic and intrinsic motivation.** Extrinsic (marks, praise) marks the memory level; intrinsic (the felt problem) marks the reflective level.
+- **Objective tests and essay tests.** Memory: recall and recognition items. Understanding: both. Reflective: mainly essay type.
+::endbox
+::further
+::sub Why rote learning fades: Ausubel's point
+David Ausubel distinguished **rote learning** from **meaningful learning**. In rote learning the new material is stored on its own, without being linked to the ideas the learner already has. With few anchors in the learner's cognitive structure, it is soon forgotten and seldom transferred to new situations. In meaningful learning the new idea is linked to relevant ideas already present, so it lasts and can be used. This is why memory-level teaching alone is not enough, and why the understanding level, which links new ideas to old, is the next step. (Notice how close this is to Herbart's apperception.)
+::sub More on Herbart's original stages
+Herbart's own four stages were clearness (presenting the new idea clearly), association (linking it with old ideas), system (arranging the ideas in order) and method (applying the system). The five-step version, usually credited to Rein, gave the familiar names: preparation, presentation, association (comparison), generalisation and application. By the end of the nineteenth century the steps were often followed mechanically, which drew criticism, including from John Dewey.
+::sub More on Morrison
+- The mastery test at the end of assimilation is the turning point. A learner who falls short does not move on to organisation; he or she returns to supervised study with corrective help and is tested again. Only when mastery is shown do organisation and recitation follow.
+- Morrison's plan is an early form of the later movements for **mastery learning** and individualised instruction.
+::sub Bigge on understanding
+Bigge described understanding in two complementary ways. First, it is seeing the relationship between particulars (facts) and generalisations (principles). Second, it is seeing the **"tool use"** of a fact: what it can be used for in reaching a goal. A student understands a formula when he or she knows what it is for and when to use it. Remembering the exact words in which it was taught is a memory-level outcome.
+::sub Dewey's five steps of reflective thinking
+John Dewey, in *How We Think* (1910), analysed a complete act of reflective thought into five logically distinct steps:
+1. A **felt difficulty**.
+2. Its **location and definition**.
+3. **Suggestion of a possible solution** (a hypothesis). The suggestion arises by an inductive leap from the facts.
+4. **Development by reasoning** of the bearings of the suggestion: working out, deductively, what would follow if the hypothesis were true.
+5. **Further observation and experiment** leading to its acceptance or rejection.
+Reflection therefore begins in doubt, not in fixed premises. Dewey himself noted that the first two steps often run together and that the steps need not always come in a fixed order. The reflective level of teaching follows this pattern, which is why it is said to parallel the scientific method.
+::sub When an option names a fourth level
+Some questions add an "autonomous development level" to the three standard ones and describe it as a permissive approach in which learners follow their own feelings with little direction from the teacher. This guide could not confirm the label in Bigge's own text, and it is not one of the three levels the syllabus names. If you meet it in a matching question, fix the three standard levels first -- memory: commit facts to memory; understanding: grasp relationships explained by the teacher; reflective: explore a problem critically -- and the remaining description falls into place. Critical exploration of a problem always belongs to the reflective level, never to a permissive, feeling-led approach.
+::box check
+Q1. Which one of the following is the correct sequence of the steps of Morrison's unit plan?
+(A) Exploration, Assimilation, Presentation, Organisation, Recitation
+(B) Exploration, Presentation, Assimilation, Organisation, Recitation
+(C) Preparation, Presentation, Comparison, Generalisation, Application
+(D) Presentation, Exploration, Organisation, Assimilation, Recitation
+Q2. Match List I (level of teaching) with List II (feature).
+::match
+List I || List II
+A. Memory level || I. Felt problem, hypotheses and testing
+B. Understanding level || II. Preparation, presentation, comparison, generalisation, application
+C. Reflective level || III. Mastery of units through supervised study
+D. Herbartian steps || IV. Drill, repetition and recall
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-I, D-IV
+(B) A-IV, B-I, C-III, D-II
+(C) A-IV, B-III, C-I, D-II
+(D) A-III, B-IV, C-I, D-II
+Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
+Assertion (A): Reflective-level teaching needs an open and democratic classroom climate.
+Reason (R): The reflective-level model is associated with Hunt.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Which of the following statements about the levels of teaching are correct?
+1. Teacher control is greatest at the memory level and least at the reflective level.
+2. Motivation at the reflective level is mainly extrinsic.
+3. Understanding-level outcomes can be evaluated with both essay-type and objective-type tests.
+4. The reflective level presupposes the memory and understanding levels.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1 and 4 only
+(D) 1, 3 and 4 only
+Q5. In Morrison's plan, the step in which each learner writes an outline of the whole unit without the help of books, notes or the teacher is:
+(A) organisation
+(B) assimilation
+(C) recitation
+(D) exploration
+Q6. Given below are two statements.
+Statement I: In the Herbartian steps, preparation ends with a statement of the aim of the lesson.
+Statement II: Recitation is the last of the Herbartian steps.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is false but Statement II is true
+(D) Statement I is true but Statement II is false
+Q7. A teacher of sociology gives her M.A. class survey figures showing that, in their district, the sex ratio is lower in richer families than in poorer ones -- the opposite of what most students expected. She asks them to suggest explanations and to say what evidence would test each. At which level is she teaching, and what is the first step she has secured?
+(A) Understanding level; generalisation
+(B) Memory level; preparation
+(C) Reflective level; a felt problem
+(D) Understanding level; assimilation
+Q8. Arrange the following steps of reflective thinking, as given by Dewey, in order:
+1. Development by reasoning of the bearings of the suggestion
+2. A felt difficulty
+3. Suggestion of a possible solution
+4. Further observation and experiment leading to acceptance or rejection
+5. Location and definition of the difficulty
+Choose the correct answer from the options given below:
+(A) 2, 5, 1, 3, 4
+(B) 5, 2, 3, 1, 4
+(C) 2, 3, 5, 1, 4
+(D) 2, 5, 3, 1, 4
+::endbox
+::answers
+Q1. (B), because Morrison's order is exploration, presentation, assimilation, organisation, recitation. (C) gives the Herbartian steps.
+Q2. (C), because memory-level methods are drill and recall, the understanding level aims at mastery of units (Morrison), the reflective level works through a felt problem and hypotheses, and the five named steps are Herbart's.
+Q3. (B), because both are true, but the link with Hunt does not explain the need for an open climate; that need comes from learners' freedom to doubt and test ideas.
+Q4. (D), because statement 2 is false: reflective-level motivation is mainly intrinsic, arising from the felt problem.
+Q5. (A), because organisation is the unaided written outline. Assimilation is supervised study; recitation is oral presentation.
+Q6. (D), because recitation is Morrison's last step; Herbart's last step is application.
+Q7. (C), because data that contradict the learners' beliefs create a genuine felt problem, the starting point of reflective-level teaching; asking for explanations and evidence moves towards hypotheses and testing.
+Q8. (D), because Dewey's order is felt difficulty, location and definition, suggestion, reasoning out its bearings, and observation and experiment.
+::endanswers

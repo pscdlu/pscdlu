@@ -151,3 +151,635 @@ Q4. (B), because abstract reasoning, peer sensitivity and the wish for independe
 Q5. (A), because the reason for private correction is exactly the adolescent's self-consciousness before peers.
 Q6. (D), because the feeling of being watched is the imaginary audience; the personal fable is the belief in being unique and invulnerable. Statement II is correct.
 ::endanswers
+
+::section 2.2 | Cognitive characteristics: how the learner thinks
+::syllabus Characteristics of adolescent and adult learners (cognitive)
+::box footprint
+{{FP 2.2}}
+::endbox
+::h Core
+**Cognitive** (संज्ञानात्मक) means to do with knowing: thinking, understanding, reasoning and remembering. This section gives the four thinkers the examination asks about most (Piaget, Vygotsky, Bruner and Ausubel) and then the basic facts of memory.
+::sub Jean Piaget: the child builds knowledge in stages
+Jean Piaget, a Swiss psychologist, studied how children's thinking grows. His central idea is that the child is an **active constructor** of knowledge, not a passive receiver. The child builds mental structures called **schemas** (स्कीमा, मानसिक संरचना). A schema is an organised pattern of thought or action, such as the child's idea of "dog".
+Three processes change schemas.
+- **Assimilation** (आत्मसात्करण): fitting a new experience into an existing schema. A child who knows "dog" sees a cow and calls it a "big dog".
+- **Accommodation** (समायोजन): changing a schema, or making a new one, because the experience does not fit. When corrected, the child forms a new category, "cow".
+- **Equilibration** (संतुलनीकरण): the self-regulating process that balances the two. When a new experience will not fit, the child feels a mental imbalance, **disequilibrium**. Accommodation restores balance at a higher level. Piaget saw equilibration as the chief motor of cognitive development.
+Piaget described four stages. Learn the order and the rough ages.
+::table widths=26,16,58
+|Stage|About|What marks it|
+|Sensorimotor|Birth to 2|The infant knows the world through the senses and through actions. Object permanence develops: knowing that an object still exists when out of sight.|
+|Pre-operational|2 to 7|Language and symbols grow, but thinking is not yet logical. Egocentrism (cannot see another person's point of view), animism (treating objects as alive) and centration (attending to one feature only). Fails conservation tasks.|
+|Concrete operational|7 to 11|Logical thinking about real, concrete objects and events. Conservation, reversibility, classification and seriation (arranging in order).|
+|Formal operational|11 or 12 onwards|Abstract and hypothetical thinking. Reasoning about possibilities and propositions. Hypothetico-deductive reasoning: forming a hypothesis and testing it systematically.|
+Key terms in the table:
+- **Conservation** (संरक्षण): understanding that quantity, number or mass stays the same when only its appearance changes. Water poured from a short wide glass into a tall narrow glass is still the same amount. Conservation is the chief achievement of the concrete operational stage.
+- **Reversibility** (उत्क्रमणीयता): understanding that an action can be undone in the mind (the water can be poured back). Conservation depends on it.
+- **Egocentrism** (अहंकेंद्रिता): difficulty in seeing things from another's point of view. It marks the pre-operational stage.
+Three rules about the stages are often tested.
+1. The **order** of the stages is fixed (invariant). No child skips a stage.
+2. The **ages** are only approximate. They vary with the child, the culture and schooling.
+3. Formal operations begin at about eleven or twelve, not earlier.
+For a college teacher the point is this: most undergraduates can handle abstract ideas, propositional logic and hypotheses, because formal thought frees reasoning from concrete objects. Dependence on concrete objects is the limit of the earlier, concrete operational stage.
+Piaget's view is called **cognitive constructivism** (or individual constructivism): the individual learner builds knowledge by acting on the world. For Piaget, development comes first and largely sets the limits of what a child can learn at a given stage.
+::sub Lev Vygotsky: learning is first social
+Lev Vygotsky, a Russian psychologist, also held that learners build knowledge. But he stressed that they build it **with other people**, inside a culture. His view is called **social constructivism** (सामाजिक रचनावाद) or socio-cultural theory.
+His central claim: every higher mental function appears twice, first between people (on the social plane) and then inside the individual. A child first solves a problem by talking with a parent or teacher, and later solves it alone in thought. So learning is first social, then individual. This is why classroom dialogue is central in a Vygotskian classroom.
+**Language** is the chief tool of thought. Speech develops in three steps:
+1. **Social speech**: talking with others to communicate.
+2. **Private speech**: talking aloud to oneself to guide one's own action (a child talking while doing a puzzle).
+3. **Inner speech**: private speech goes silent and becomes verbal thought.
+::sub The zone of proximal development
+Vygotsky's best-known idea is the **zone of proximal development**, or ZPD (समीपस्थ विकास का क्षेत्र). Look at three kinds of task.
+- Tasks the learner can do **alone**. These show the **level of actual development**.
+- Tasks the learner **cannot do alone but can do with help** from an adult or a more capable peer. The upper edge of these shows the **level of potential development**.
+- Tasks the learner cannot do **even with help**. These lie beyond the zone.
+The ZPD is the **distance (gap) between the actual level and the potential level**. It is neither level itself. It is the gap between what a learner can do alone and what he or she can do with guidance. Vygotsky wrote about this in work published in English as *Mind in Society* (1978).
+Teaching is most fruitful when it is aimed at the zone. If a learner cannot solve a problem alone but solves it after a few hints, that problem lies within the ZPD.
+Vygotsky argued that good learning runs **ahead of** development and leads it. Instruction aimed at the zone awakens abilities that are still maturing. Compare Piaget, for whom development sets the limits of learning.
+Vygotsky's own illustration makes the zone clear. Two children both solve problems at the eight-year level when alone. With help, one reaches the nine-year level and the other the twelve-year level. Their actual development is the same, but their zones differ: one year and four years. So they need different teaching, and a test of unaided work alone would hide the difference.
+::sub The more knowledgeable other and scaffolding
+The person who gives the help is often called the **more knowledgeable other** (MKO). It may be a teacher, a parent, a capable classmate, or even a tool such as a computer program. The term was made popular by later writers to describe Vygotsky's idea. Do not confuse it with the **generalised other**, which is G. H. Mead's term for the attitudes of society that a person takes in.
+The help itself is called **scaffolding** (आलंबन, पाड़). Scaffolding is temporary support: hints, prompts, models, questions, breaking a task into steps. Like a builder's scaffold, it is removed gradually as the learner becomes able to work alone. So scaffolding is not extra homework, a fixed syllabus or a grade.
+Peer tutoring works on the same principle. A peer who is slightly ahead can give hints within the tutee's zone, so peer tutoring can promote the tutee's cognitive development.
+::sub Jerome Bruner: discovery and three modes
+Jerome Bruner, an American psychologist, is linked with **discovery learning** (खोज अधिगम). He held that learners understand and remember best what they find out for themselves. So the teacher should arrange situations in which learners discover principles.
+Bruner described three **modes of representation**, three ways in which knowledge is held in the mind.
+::table widths=22,38,40
+|Mode|Represents knowledge through|Example|
+|Enactive|Action, handling objects|Placing weights on a beam with one's own hands to learn the balance|
+|Iconic|Images, pictures, diagrams|Looking at a diagram of the balance|
+|Symbolic|Language, numbers, formulae|Writing the principle of moments as a formula|
+Bruner recommended that new ideas be met in this order: enactive, then iconic, then symbolic. The "concrete -- pictorial -- abstract" sequence used in mathematics teaching follows exactly this order. Do not confuse the three modes with the VAK learning styles (visual, auditory, kinaesthetic), with the affective levels of Bloom's group (receiving, responding, valuing), or with the Herbartian steps (preparation, presentation, application).
+Bruner made a famous claim in *The Process of Education* (1960): any subject can be taught effectively in some intellectually honest form to any child at any stage of development. So he rejected the idea of waiting until the child is "ready". From this claim came the **spiral curriculum**: the curriculum returns to the basic ideas of a subject again and again, each time at a higher level of complexity.
+::sub David Ausubel: meaningful reception learning
+David Ausubel, an American psychologist, argued that most classroom learning is the **reception** of material that the teacher presents in words, as in a lecture or a textbook. His theory is called **meaningful verbal learning**, or meaningful reception learning.
+Learning is **meaningful** (सार्थक अधिगम) when the learner relates the new material to what he or she already knows. It is **rote** (रटंत अधिगम) when it is memorised without such links. Ausubel's famous principle: the most important single factor in learning is what the learner already knows.
+His best-known teaching device is the **advance organiser** (अग्रिम संगठक). It is a brief, general introduction given **before** the new material. It gives learners a framework to which the details can be attached, so that learning becomes meaningful.
+::table widths=30,70
+|Term|What it is|
+|Advance organiser (Ausubel)|A general introduction given before the lesson, as a framework for new material|
+|Scaffolding (Wood, Bruner and Ross)|Support given during a task, then withdrawn|
+|Schema (Piaget)|The learner's own mental structure|
+|Mnemonic|A memory aid, such as an acronym or rhyme|
+Keep the names apart: discovery learning is Bruner; meaningful reception learning and advance organisers are Ausubel; conditions of learning are Gagné (2.3); observational learning is Bandura (2.3).
+::sub Memory: holding and keeping what is learnt
+**Working memory** (कार्यकारी स्मृति), also called short-term memory, holds the information we are using at this moment. George A. Miller (1956) showed that it holds only about **seven items, plus or minus two**. **Chunking** (खंडीकरण) gets round this limit by grouping items into larger meaningful units. A twelve-digit number is hard to hold; four groups of three digits are easy. Chunking deals with the limited capacity of working memory.
+Some well-established facts about retention (holding learning over time):
+- Meaningful material is retained far better than nonsense material.
+- **Distributed practice** (spaced over days) gives better long-term retention than **massed practice** (all at once).
+- **Overlearning**, that is, continuing practice after the first correct recall, improves retention.
+- Hermann Ebbinghaus's **forgetting curve** (1885) shows that forgetting is fastest soon after learning and then slows down. So the first revision should come soon.
+**Mnemonic devices** (स्मृति सहायक युक्तियाँ) such as acronyms, rhymes and vivid images help us remember unrelated facts. Unrelated facts have no links of their own. A mnemonic imposes an artificial organisation on them and so supplies cues for retrieval (recall). For example, "VIBGYOR" for the colours of the spectrum.
+::box example
+A teacher of B.Sc. physics in Hisar begins a unit on energy with a five-minute overview of what energy is and how its forms are related (an advance organiser). Students then roll a ball down a ramp and feel it push a block (enactive), draw an energy bar chart (iconic) and finally write the conservation equation (symbolic). While they work in pairs, she gives hints to the pairs who are stuck and stops giving them as they succeed (scaffolding within the zone of proximal development). She ends by asking them to recall the main points the next day and again after a week (distributed practice).
+::endbox
+::box confused
+- **Assimilation** and **accommodation.** Assimilation fits new experience into an old schema; accommodation changes the schema.
+- **Equilibration** and **conservation.** Equilibration is the balancing process behind all development; conservation is one achievement of the concrete operational stage.
+- **Centration** and **conservation.** Centration (attending to one feature, such as the height of the water) is why the pre-operational child fails conservation.
+- **Concrete operational** and **formal operational.** Concrete: logic on real objects (classification, seriation, conservation). Formal: abstract and hypothetical reasoning.
+- **Zone of proximal development** and **level of potential development.** The zone is the gap; the potential level is its upper edge (what the learner does with help).
+- **Cognitive constructivism** (Piaget) and **social constructivism** (Vygotsky).
+- **More knowledgeable other** and **generalised other** (G. H. Mead).
+- **Scaffolding** and **advance organiser.** Scaffolding is help during the task, withdrawn later; the advance organiser is a framework given before the lesson.
+- **Enactive** and **iconic.** Enactive is action; iconic is images.
+- **Bruner** (discovery) and **Ausubel** (meaningful reception).
+::endbox
+::further
+::sub How later research judged Piaget
+- Piaget **underestimated young children**. With simpler, more familiar tasks, children show abilities earlier than he reported (Margaret Donaldson, *Children's Minds*, 1978).
+- He gave **less weight to social and cultural influences** than Vygotsky did.
+- The **ages are not fixed and universal**. They vary with culture, schooling and experience.
+- **Not all adults use formal operations in all fields.** Piaget himself later accepted (in a 1972 paper) that many adolescents and adults use formal reasoning mainly in fields they know well. So it is false to say that every adolescent reaches formal operations at eleven and uses them uniformly in every subject. Chronological age is only a rough guide, and many adolescents still reason concretely in unfamiliar subjects.
+::sub Piaget and Vygotsky on children's self-talk
+A five-year-old talks aloud while doing a puzzle. **Piaget** called this **egocentric speech**: a sign that the child cannot yet take another's point of view, which fades with development. **Vygotsky** called it **private speech**: a tool by which the child plans and regulates action, which later turns inward to become inner speech, or thought. Know the two readings and who holds each.
+::sub More on Bruner
+In *Toward a Theory of Instruction* (1966) Bruner said that a theory of instruction should deal with four things: the **predisposition** to learn, the **structure** of knowledge, the most effective **sequence** of material, and the nature and pacing of **reinforcement** (rewards). Because he held that any subject can be taught in some honest form at any stage, he did not think discovery unsuitable for young children.
+The word **scaffolding** was introduced by David Wood, Jerome Bruner and Gail Ross in a 1976 paper on how a tutor helps a child solve problems. It was later linked with Vygotsky's zone of proximal development. So scaffolding is not Vygotsky's own word, though it describes help within his zone.
+::sub More on Ausubel
+**Two kinds of advance organiser.** A **comparative organiser** is used when the new material can be related to something familiar. It points out similarities and differences (a lesson on Buddhism introduced by comparing it with Hinduism, which the class knows). An **expository organiser** is used when the material is wholly new. It supplies a general framework.
+**Subsumption.** Ausubel saw the learner's **cognitive structure** (the organised body of knowledge in the mind) as a hierarchy, with broad ideas at the top. Meaningful learning happens when new, more specific material is **subsumed** (placed under) a relevant inclusive idea already present, called a **subsumer**. Advance organisers supply or activate subsumers. Subsumption is Ausubel's term; accommodation is Piaget's.
+**Three conditions for meaningful learning.**
+1. The material is logically meaningful (organised, not arbitrary).
+2. The learner has relevant anchoring ideas in his or her cognitive structure.
+3. The learner has a **meaningful learning set**: the intention to relate the new material to what is known.
+If the learner intends only to memorise word for word, learning will be rote, even when the first two conditions are met. A lecture does not make learning rote.
+**Two separate dimensions.** Ausubel treated "reception versus discovery" (how the content reaches the learner) and "rote versus meaningful" (how the learner takes it in) as two independent dimensions. Crossing them gives four kinds of learning.
+::table widths=25,37,38
+||Reception|Discovery|
+|Meaningful|A well-organised lecture that the learner links to what she knows|A student finds a principle herself and understands why it works|
+|Rote|Memorising a lecture word for word|A student stumbles on a solution by trial and error and cannot say why it works|
+So reception learning is not necessarily rote, and discovery learning is not necessarily meaningful.
+**Sequencing principles.** **Progressive differentiation**: present the most general, inclusive idea first, then differentiate it into details (begin with "energy", then its forms, then their details). **Integrative reconciliation**: explicitly relate new ideas to earlier ones and resolve apparent contradictions between them.
+::sub More on memory
+The multi-store model of Richard Atkinson and Richard Shiffrin (1968) has three stores: the **sensory register** (holds input for a very brief moment), **short-term (working) memory** (limited capacity) and **long-term memory** (large and lasting).
+**Maintenance rehearsal** is plain repetition to keep an item in short-term memory. **Elaborative rehearsal** links the item to what one already knows, for example to a personal example and to related concepts. Elaborative rehearsal is far better for long-term retention. It matches the "deep processing" of Fergus Craik and Robert Lockhart's levels of processing idea (1972): the more deeply, meaningfully, we process information, the better we remember it.
+**Interference** explains much forgetting. In **proactive interference** old learning disturbs the recall of new learning; in **retroactive interference** new learning disturbs the recall of old learning. Interference concerns forgetting, not how much can be held at one time.
+Four effects with names:
+::table widths=30,70
+|Effect|What it says|
+|Serial position effect|Items at the beginning (primacy) and at the end (recency) of a list or lecture are recalled best; those in the middle worst. So put key points at the start and the end.|
+|Von Restorff effect|An item that stands out (is distinctive) is recalled better, whatever its position.|
+|Zeigarnik effect|Unfinished tasks are recalled better than finished ones.|
+|Hawthorne effect|People change their behaviour because they know they are being observed (from studies at the Hawthorne Works of the Western Electric Company in the 1920s and 1930s).|
+::box check
+Q1. Arrange Piaget's stages in the order in which they appear.
+1. Concrete operational
+2. Sensorimotor
+3. Formal operational
+4. Pre-operational
+(A) 2, 1, 4, 3
+(B) 2, 4, 1, 3
+(C) 4, 2, 1, 3
+(D) 2, 4, 3, 1
+Q2. Statement I: According to Vygotsky, the zone of proximal development is what a learner can do alone.
+Statement II: Scaffolding is gradually withdrawn as the learner becomes able to work alone.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q3. Match List I with List II.
+::match
+List I || List II
+A. Bruner || I. Advance organiser
+B. Ausubel || II. Equilibration
+C. Piaget || III. Zone of proximal development
+D. Vygotsky || IV. Spiral curriculum
+(A) A-IV, B-I, C-III, D-II
+(B) A-I, B-IV, C-II, D-III
+(C) A-IV, B-I, C-II, D-III
+(D) A-IV, B-II, C-I, D-III
+Q4. A student says that a long row of five coins has more coins than a short row of five coins. In Piaget's terms, she has not yet attained:
+(A) object permanence
+(B) conservation
+(C) animism
+(D) egocentrism
+Q5. Assertion (A): Peer group work can help a student solve problems she cannot yet solve alone.
+Reason (R): Vygotsky held that development proceeds without any need for social interaction.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Which of the following statements about Ausubel are correct? Choose the correct answer from the options given below:
+1. A lecture can produce meaningful learning.
+2. Discovery learning is always meaningful.
+3. An advance organiser is presented before the new material.
+4. A comparative organiser relates new material to something familiar.
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1 and 3 only
+(D) 1, 3 and 4 only
+Q7. A teacher of history groups thirty dates into five periods so that students can hold them in mind. The device and the limit it overcomes are:
+(A) mnemonic; decay of long-term memory
+(B) elaboration; proactive interference
+(C) chunking; limited capacity of working memory
+(D) overlearning; serial position effect
+Q8. A student remembers the opening and the closing remarks of a lecture but little of the middle. This is explained by the:
+(A) Hawthorne effect
+(B) Zeigarnik effect
+(C) von Restorff effect
+(D) serial position effect
+::endbox
+::answers
+Q1. (B), because the order is sensorimotor, pre-operational, concrete operational, formal operational. Pre-operational must come before both operational stages.
+Q2. (D), because what a learner can do alone is the level of actual development, the lower edge of the zone. Statement II correctly describes scaffolding.
+Q3. (C), because the spiral curriculum is Bruner's, the advance organiser Ausubel's, equilibration Piaget's and the zone of proximal development Vygotsky's.
+Q4. (B), because understanding that number does not change when the row is spread out is conservation. Object permanence is a sensorimotor achievement; animism and egocentrism are pre-operational features, not achievements.
+Q5. (C), because peer help within the zone does assist learning, but Vygotsky held the opposite of the Reason: mental functions arise first in social interaction.
+Q6. (D), because Ausubel held that reception learning can be meaningful and that discovery can be rote. Statement 2 is the popular belief he argued against.
+Q7. (C), because grouping items into larger units is chunking, which keeps them within the small capacity of working memory.
+Q8. (D), because better recall of first and last items is the serial position effect (primacy and recency). The von Restorff effect concerns a distinctive item.
+::endanswers
+
+::section 2.3 | How learners learn: theories of learning
+::syllabus Characteristics of adolescent and adult learners (academic and cognitive)
+::box footprint
+{{FP 2.3}}
+::endbox
+::h Core
+A **theory of learning** explains how learning (अधिगम) happens. The examination asks you to match each theory with its psychologist, its experiment and its key terms. The theories fall into four families.
+::table widths=26,34,40
+|Family|Main names|Central idea|
+|Behaviourist (connectionist)|Pavlov, Thorndike, Skinner|Learning is a link between a stimulus and a response, built by pairing or by consequences|
+|Gestalt and cognitive|Wertheimer, Köhler, Koffka; Tolman; Lewin|Learning is a change in how the learner perceives and organises a situation|
+|Social learning|Bandura|Learning by observing others|
+|Constructivist and experiential|Piaget, Vygotsky, Bruner (2.2); Dewey|Learners build knowledge through activity and reflection|
+::sub Ivan Pavlov: classical conditioning
+Ivan Pavlov, a Russian physiologist, worked with dogs. A dog salivates naturally when food is put in its mouth. Pavlov rang a bell just before giving food, many times. In the end the bell alone made the dog salivate. This is **classical conditioning** (शास्त्रीय अनुबंधन): a neutral stimulus, paired again and again with a stimulus that naturally produces a response, comes to produce that response by itself.
+::table widths=40,60
+|Term|In Pavlov's experiment|
+|Unconditioned stimulus (UCS)|Food: it produces salivation without any learning|
+|Unconditioned response (UCR)|Salivation to food|
+|Conditioned stimulus (CS)|The bell, after pairing with food (before pairing it is a neutral stimulus)|
+|Conditioned response (CR)|Salivation to the bell alone|
+Four further terms:
+- **Extinction** (विलोपन): if the bell is rung again and again without food, salivation to the bell fades.
+- **Spontaneous recovery**: after a rest, the extinguished response returns for a while.
+- **Stimulus generalisation** (उद्दीपक सामान्यीकरण): a response conditioned to one stimulus is also produced by similar stimuli. A child frightened by one stern teacher becomes afraid of all teachers.
+- **Stimulus discrimination**: learning to respond only to the original stimulus, not to similar ones (fearing only that one teacher).
+Classical conditioning explains **involuntary emotional reactions**. A student humiliated in a mathematics class may feel anxious on entering any mathematics classroom. The classroom, at first neutral, was paired with humiliation, which naturally produces distress; the classroom is now a conditioned stimulus for anxiety. This is classical, not operant, conditioning.
+::sub Edward Thorndike: trial and error and the three laws
+E. L. Thorndike (Edward Lee Thorndike), an American psychologist, put hungry cats in a **puzzle box** with food outside. A cat tried many movements, and by chance one movement opened the door. Over many trials it dropped the useless movements and escaped faster. Thorndike concluded that learning is the "stamping in" of correct stimulus-response (S-R) connections by **trial and error** (प्रयास और त्रुटि). His theory is called **connectionism**.
+His three main laws:
+::table widths=26,74
+|Law|What it says|
+|Law of readiness (तत्परता का नियम)|When a learner is ready to act, acting is satisfying and not acting is annoying. When not ready, being forced to act is annoying.|
+|Law of exercise (अभ्यास का नियम)|A connection is strengthened by use and weakened by disuse. "Practice makes perfect."|
+|Law of effect (प्रभाव का नियम)|A response followed by a satisfying result is strengthened; one followed by an annoying result is weakened.|
+Satisfaction and annoyance appear in both readiness and effect. The deciding difference: readiness is about being prepared to act **before** the response; effect is about the consequences **after** the response.
+::sub B. F. Skinner: operant conditioning
+B. F. Skinner (Burrhus Frederic Skinner), an American psychologist, studied rats and pigeons in a box (often called the Skinner box). A rat pressed a lever and got food, so it pressed more often. Skinner's principle: behaviour is shaped by its consequences. Responses that are reinforced tend to be repeated. This is **operant conditioning** (क्रियाप्रसूत अनुबंधन). "Operant" means a voluntary action that operates on the environment.
+Learn the four terms with one rule. **Reinforcement** (पुनर्बलन) always increases a behaviour; **punishment** (दंड) always decreases it. **Positive** means something is added; **negative** means something is taken away.
+::table widths=22,39,39
+||Something added (positive)|Something removed (negative)|
+|Behaviour increases (reinforcement)|Positive reinforcement: praise after a correct answer|Negative reinforcement: an unpleasant thing is removed, e.g. students who submit every assignment on time are excused from a tedious test, and timely submission rises|
+|Behaviour decreases (punishment)|Positive punishment: a reprimand is given|Negative punishment (response cost): something pleasant is taken away, e.g. cancelling recess for talking|
+**Extinction** in operant conditioning: a behaviour weakens when the reinforcer that kept it going is withheld. A teacher who stops paying attention to a student's attention-seeking interruptions sees them die out. Nothing unpleasant is added (so it is not punishment) and nothing unpleasant is removed (so it is not negative reinforcement).
+**Schedules of reinforcement.** Reinforcement can be given after every response (continuous) or only sometimes (partial). Partial schedules are of four kinds. **Ratio** schedules depend on the **number** of responses; **interval** schedules depend on **time**.
+::table widths=26,74
+|Schedule|Reinforcement comes|
+|Fixed-ratio|After a set number of responses (praise after every fifth correct answer)|
+|Variable-ratio|After a varying, unpredictable number of responses around an average|
+|Fixed-interval|After a set time (a weekly test)|
+|Variable-interval|After varying, unpredictable times (surprise tests)|
+Skinner applied operant conditioning to teaching through **programmed instruction** (see 4.2): small steps, active response and immediate reinforcement.
+::sub Gestalt psychology and Köhler's insight
+**Gestalt** (गेस्टाल्ट) is a German word meaning "form" or "whole". The Gestalt psychologists were Max Wertheimer, Wolfgang Köhler and Kurt Koffka. Their central principle: the whole is different from, and more than, the sum of its parts. We perceive and learn organised wholes, not separate pieces. Behaviourism and connectionism, by contrast, break learning into S-R units, and structuralism (Wundt and Titchener) broke consciousness into elements.
+Wolfgang Köhler studied chimpanzees. His chimpanzee Sultan could not reach a banana outside the cage with either of two short sticks. After a pause he suddenly joined the two sticks and pulled the banana in. Köhler called this **insight** (अंतर्दृष्टि): the learner perceives the whole situation and suddenly grasps how its parts are related. An insightful solution appears all at once, not through slow removal of errors, and it is easily repeated and transferred to new situations.
+::sub Edward Tolman: latent learning
+Edward C. Tolman let rats explore a maze without any food reward. They seemed to learn nothing. But when food was later placed in the goal box, they quickly ran the maze as well as rats that had been rewarded all along. Learning had occurred without reinforcement and stayed hidden until it was needed. Tolman called this **latent learning** (अव्यक्त अधिगम).
+::sub Albert Bandura: observational learning
+Albert Bandura, a Canadian-American psychologist, showed that people learn by watching others. In his **Bobo doll** experiment, children who watched an adult hit and kick an inflated doll later did the same when left alone with it. Learning by watching a **model** is **observational learning** (अवलोकनात्मक अधिगम). His theory is called **social learning theory**.
+Bandura named four processes, which run in this order:
+1. **Attention**: the observer must notice the model.
+2. **Retention**: the observer must remember what was seen.
+3. **Reproduction** (motor reproduction): the observer must be able to perform the behaviour.
+4. **Motivation**: the observer must have a reason to perform it.
+**Vicarious reinforcement** (प्रतिनिधिक पुनर्बलन) is reinforcement experienced at second hand. A student starts keeping her notebook neat after she sees a classmate praised for neat work. She herself received nothing. If she had been praised, it would be **direct reinforcement**; if she rewarded herself for meeting her own standard, **self-reinforcement**.
+Bandura separated **acquisition** (learning a behaviour) from **performance** (showing it). A behaviour can be acquired simply by watching, with no reinforcement at all. Reinforcement, direct or vicarious, mainly decides whether the learnt behaviour is performed. So it is false that, for Bandura, no learning can occur without direct reinforcement.
+::sub Robert Gagné: eight types of learning
+Robert M. Gagné set out the **conditions of learning** in his book *The Conditions of Learning* (1965). He arranged eight types of learning in a hierarchy, from simplest to most complex. Each type is a prerequisite for the next.
+1. Signal learning (like Pavlov's conditioning)
+2. Stimulus-response learning
+3. Chaining (linking a series of S-R units)
+4. Verbal association
+5. Discrimination learning
+6. Concept learning
+7. Rule (principle) learning
+8. Problem solving
+For a sequencing question, remember the top four: discrimination, then concept, then rule, then problem solving. Concepts must be learnt before rules, and rules before problems can be solved.
+::sub John Dewey: learning by doing
+John Dewey, the American philosopher and leader of **progressive education**, held that learners learn best through active experience and reflection on it, not by passively receiving information. The principle of **learning by doing** is linked with him. His ideas underlie the project method and the problem-solving method (see 4.4). Herbart (formal steps of teaching), Pavlov (conditioning) and Spearman (general intelligence, see 2.8) are not linked with learning by doing.
+::sub Constructivism and the learner's errors
+**Constructivism** (रचनावाद) holds that learners build their own knowledge by testing their existing ideas against experience. If that is so, an error is useful: it shows what the learner's present idea is and where it breaks down. In a constructivist classroom errors are treated as sources of insight, for the teacher and as an opportunity for the learner to rebuild understanding.
+::box example
+In a B.Com. class in Rohtak, students who come late are greeted coldly and fall silent. The teacher changes her approach. She praises the first correct answer each day (positive reinforcement), stops reacting to a student's attention-seeking jokes (extinction), and lets a student who has earned five correct-answer points skip one routine worksheet (negative reinforcement). Before a hard topic she asks the best student to work one problem aloud on the board while others watch (observational learning, with attention, retention, reproduction and motivation).
+::endbox
+::box confused
+- **Classical** (Pavlov) and **operant** (Skinner) conditioning. Classical: involuntary responses, learnt by pairing stimuli. Operant: voluntary behaviour, shaped by consequences.
+- **Negative reinforcement** and **punishment.** Negative reinforcement removes something unpleasant and increases behaviour. Punishment decreases behaviour.
+- **Negative punishment** and **negative reinforcement.** Both remove something. Negative punishment removes something pleasant to reduce behaviour; negative reinforcement removes something unpleasant to increase behaviour.
+- **Extinction** and **punishment.** Extinction withholds the reinforcer; nothing unpleasant is applied.
+- **Extinction** and **spontaneous recovery.** Recovery is the return of a response after extinction.
+- **Stimulus generalisation** and **discrimination.** Generalisation: similar stimuli produce the response. Discrimination: only the original stimulus does.
+- **Law of readiness** and **law of effect.** Readiness: before acting. Effect: after acting.
+- **Trial and error** (Thorndike) and **insight** (Köhler). Gradual versus sudden.
+- **Insight** (Köhler) and **latent learning** (Tolman). Both are cognitive ideas; insight comes from chimpanzees, latent learning from rats in mazes.
+- **Ratio** and **interval** schedules. Number of responses versus time.
+- **Direct** and **vicarious** reinforcement. Received oneself versus seen given to a model.
+- **Bruner** (discovery), **Gagné** (conditions and hierarchy of learning) and **Ausubel** (meaningful reception). Bruner and Gagné are often exchanged.
+::endbox
+::further
+::sub More on Thorndike
+Thorndike later added subsidiary laws, among them the **law of belongingness**: a connection is learnt more easily when the response seems to belong with the stimulus. He also revised the law of exercise: he found that practice alone does not improve performance unless the learner gets knowledge of results. Drill and revision in classrooms still rest on the law of exercise, but practice works best with feedback.
+::sub Schedules and resistance to extinction
+**Continuous reinforcement** gives the fastest learning at first, but the behaviour dies out fastest once reinforcement stops, because its absence is noticed at once. **Variable-ratio** schedules produce responding that is most **resistant to extinction**, because the learner cannot tell when reinforcement has stopped. Fixed-ratio and fixed-interval schedules are more predictable.
+A language-learning app that awards points immediately after every correct answer is using **immediate positive reinforcement**, as Skinner recommended for programmed learning. If it also gives an occasional surprise bonus after an unpredictable number of answers, that bonus follows a **variable-ratio schedule**, which keeps the learner responding.
+::sub Techniques built on operant conditioning
+::table widths=26,74
+|Technique|What it does|
+|Shaping|Reinforcing successive approximations (closer and closer steps) to a target behaviour, raising the requirement gradually. Praise a shy student first for raising her hand, then only for saying a word, then only for a full answer.|
+|Chaining|Linking separate responses into a sequence|
+|Modelling|Learning by imitating a model (Bandura)|
+|Fading|Gradually withdrawing prompts|
+|Token economy|Giving tokens (points, stars) that can be exchanged for rewards|
+|Premack principle|A high-frequency (preferred) activity is used to reinforce a low-frequency (less preferred) one. "Finish the assignment first; then you may go to the playground." Named after David Premack and popularly called "Grandma's rule".|
+::sub Kurt Lewin: field theory
+Kurt Lewin's **field theory** states that behaviour is a function of the person and the psychological environment: **B = f(P, E)**. The person and the environment as that person perceives it together form the **life space**. Learning is a change in the cognitive structure of the life space. Teachers should therefore attend to the learner's perceived situation, goals and barriers. Lewin's field theory opposed Thorndike's connectionism (practice and effect). Lewin is also known for studies of leadership styles.
+::sub Tolman: cognitive maps
+Rats that had explored a maze took a new, shorter route to the food when their usual path was blocked. Tolman explained that they had learnt the layout of the maze, a mental picture he called a **cognitive map**, not a fixed chain of turns. A chain of habits would have sent them down the old, blocked path. His view is called **purposive behaviourism** or **sign learning**.
+::sub Bandura: social cognitive theory
+Bandura later called his theory **social cognitive theory**. Its central principle is **reciprocal determinism**: personal factors (beliefs, expectations), behaviour and environment all influence one another. A student's belief that she can do well makes her work harder; her work changes how teachers treat her; their treatment in turn shapes her belief. Bandura rejected both one-way explanations, environment alone (the strict behaviourist view) and inner drives alone. His idea of **self-efficacy** is taught in 2.6.
+::sub More on Gagné
+**Five learned capabilities.** Gagné named five kinds of learning outcome.
+::table widths=30,70
+|Capability|Example|
+|Verbal information|Stating the dates of historical events|
+|Intellectual skills|Using rules and concepts, e.g. applying a grammatical rule to new sentences|
+|Cognitive strategies|Managing one's own learning and thinking, e.g. devising one's own way of remembering|
+|Motor skills|Writing neatly, using a microscope|
+|Attitudes|Choices of personal action, e.g. choosing to read beyond the syllabus|
+**Nine events of instruction.** Gagné listed nine steps for a lesson, each supporting an internal process in the learner.
+::table widths=45,55
+|Event (external)|Internal process it supports|
+|1. Gaining attention|Reception|
+|2. Informing learners of the objective|Expectancy|
+|3. Stimulating recall of prior learning|Retrieval of earlier learning into working memory|
+|4. Presenting the stimulus (content)|Selective perception|
+|5. Providing learning guidance|Semantic encoding (into long-term memory)|
+|6. Eliciting performance|Responding|
+|7. Providing feedback|Reinforcement|
+|8. Assessing performance|Retrieval and reinforcement|
+|9. Enhancing retention and transfer|Retrieval and generalisation|
+In a sequencing question, the objective is stated before the content is presented, and feedback can only follow a performance.
+**Learning hierarchy and task analysis.** A rule is a relation among concepts, so a rule can be learnt only if its concepts are mastered first. A student who cannot use "area equals length multiplied by breadth" should be checked first on the concepts of length, breadth and multiplication. Problem solving lies **above** rule learning; failure at a rule sends the teacher **down** to its prerequisites. Working downward from the target skill to its prerequisites is called **task analysis**.
+::sub Connectivism
+**Connectivism** was proposed by George Siemens and Stephen Downes as a learning theory for the digital age. It sees learning as creating and moving through **networks** of people, information sources and devices. Among its principles: learning may reside in non-human appliances, and the capacity to know more is more important than what is known now. Knowing where to find knowledge matters more than holding it. The first MOOCs, later called **cMOOCs** (connectivist MOOCs), were built on this idea (see 4.6). Constructivism, by contrast, places knowledge in the learner's own constructions.
+::box check
+Q1. Match List I with List II.
+::match
+List I || List II
+A. Pavlov || I. Insight learning
+B. Skinner || II. Observational learning
+C. Köhler || III. Classical conditioning
+D. Bandura || IV. Operant conditioning
+(A) A-IV, B-III, C-I, D-II
+(B) A-III, B-IV, C-II, D-I
+(C) A-III, B-I, C-IV, D-II
+(D) A-III, B-IV, C-I, D-II
+Q2. A teacher stops giving extra marks for neat answer sheets, and neatness gradually declines. This is:
+(A) negative punishment
+(B) extinction
+(C) negative reinforcement
+(D) spontaneous recovery
+Q3. Arrange Bandura's processes of observational learning in order.
+1. Reproduction
+2. Attention
+3. Motivation
+4. Retention
+(A) 2, 4, 1, 3
+(B) 4, 2, 1, 3
+(C) 2, 1, 4, 3
+(D) 2, 4, 3, 1
+Q4. Statement I: In Pavlov's experiment, the bell before any pairing with food is the unconditioned stimulus.
+Statement II: Thorndike's law of exercise states that use strengthens a connection and disuse weakens it.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. A student who is late three times loses the privilege of choosing her project topic, and her late-coming falls. In operant terms this is:
+(A) positive reinforcement
+(B) negative reinforcement
+(C) negative punishment
+(D) positive punishment
+Q6. Assertion (A): Bandura held that a behaviour can be learnt by a child who has never been rewarded for it.
+Reason (R): Bandura distinguished the acquisition of a behaviour from its performance.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. Which of the following are correctly paired? Choose the correct answer from the options given below:
+1. Tolman -- latent learning
+2. Gagné -- hierarchy of eight types of learning
+3. Thorndike -- insight
+4. Dewey -- learning by doing
+(A) 1, 2 and 4 only
+(B) 1, 2 and 3 only
+(C) 2, 3 and 4 only
+(D) 1 and 4 only
+Q8. Which schedule of reinforcement is most resistant to extinction?
+(A) Continuous
+(B) Fixed-interval
+(C) Fixed-ratio
+(D) Variable-ratio
+::endbox
+::answers
+Q1. (D), because Pavlov is classical conditioning, Skinner operant conditioning, Köhler insight and Bandura observational learning. Swapping Pavlov and Skinner is the commonest slip.
+Q2. (B), because the reinforcer (extra marks) is withheld and the behaviour fades. Nothing pleasant the student already had is taken away as a penalty, so it is not negative punishment.
+Q3. (A), because the observer attends, retains, reproduces and then is motivated to perform.
+Q4. (D), because before pairing the bell is a neutral stimulus; food is the unconditioned stimulus. Statement II is correct.
+Q5. (C), because something pleasant (a privilege) is removed and the behaviour decreases. Negative reinforcement would increase behaviour.
+Q6. (A), because the acquisition-performance distinction is exactly what allows learning without reward; reward affects whether the behaviour is shown.
+Q7. (A), because insight belongs to Köhler, not Thorndike, whose theory is trial and error.
+Q8. (D), because with a variable-ratio schedule the learner cannot tell when reinforcement has stopped. Continuous reinforcement extinguishes fastest.
+::endanswers
+
+::section 2.4 | Academic characteristics: learning styles, study habits and self-regulation
+::syllabus Characteristics of adolescent and adult learners (academic)
+::box footprint
+{{FP 2.4}}
+::endbox
+::h Core
+**Academic characteristics** are the ways a learner goes about study: how he or she prefers to take in information, how he or she studies, and how far he or she can plan and check his or her own learning. Three ideas cover this: learning styles, study habits and self-regulation.
+::sub Learning styles
+A **learning style** (अधिगम शैली) is a learner's preferred way of taking in and working with information. Two models are asked most often.
+**Fleming's VARK.** Neil Fleming, a teacher in New Zealand, developed the VARK questionnaire in 1987. VARK stands for:
+::table widths=24,76
+|Preference|The learner likes|
+|Visual|Diagrams, flow charts, graphs, maps|
+|Aural (auditory)|Listening, lectures, talking a topic through in a group|
+|Read/Write|Information as words: lists, written notes, handouts, textbooks|
+|Kinaesthetic|Real experience, practice, examples, field work and experiments|
+So V is Visual, not verbal, vocal or virtual. (VAK is an older, three-part version without Read/Write.)
+**Kolb's experiential learning cycle.** David A. Kolb, in *Experiential Learning* (1984), described learning as a cycle of four stages. Learning is the process of creating knowledge from experience, so his theory is called **experiential learning** (अनुभवात्मक अधिगम).
+1. **Concrete experience (CE)**: the learner has an experience.
+2. **Reflective observation (RO)**: the learner reflects on it.
+3. **Abstract conceptualisation (AC)**: the learner draws general ideas from it.
+4. **Active experimentation (AE)**: the learner tests the ideas in new situations, which leads to new experience.
+The stage that follows concrete experience is reflective observation.
+Kolb's four **learning styles** each combine two neighbouring stages of the cycle.
+::table widths=22,38,40
+|Style|Combines|Strength|
+|Diverging (diverger)|Concrete experience + reflective observation ("feeling and watching")|Imagination, seeing a situation from many angles|
+|Assimilating (assimilator)|Abstract conceptualisation + reflective observation ("thinking and watching")|Building theories and logical models|
+|Converging (converger)|Abstract conceptualisation + active experimentation ("thinking and doing")|Practical application of ideas; solving problems with one answer|
+|Accommodating (accommodator)|Concrete experience + active experimentation ("feeling and doing")|Hands-on work, learning by trial, relying on intuition|
+A memory aid: diverger and assimilator both **watch** (reflective observation); converger and accommodator both **do** (active experimentation). Diverger and accommodator both start from **feeling** (concrete experience); assimilator and converger from **thinking** (abstract conceptualisation).
+::sub What the evidence says about learning styles
+Learners do have **preferences**. But they do not have one exclusive channel, and most people can learn well through several modes. Reviews of research have found little sound evidence that teaching each learner in his or her diagnosed style raises achievement (see Going Further). Yet teachers are rightly advised to use a variety of methods and media. The reasons are that a class contains diverse learners and that the content itself often demands a particular mode (a map for geography, a demonstration for a laboratory skill). The defensible lesson is: vary methods for everyone; do not label students by style.
+::sub Study habits
+**Study habits** (अध्ययन आदतें) are a learner's regular ways of studying: when, where and how. Good study habits include a fixed timetable, a quiet place, making notes in one's own words, revising soon after learning and at spaced intervals, and testing oneself. A well-known study method is **SQ3R**, given by Francis P. Robinson: Survey, Question, Read, Recite, Review. It turns passive reading into active reading. (For why spaced revision and self-testing work, see the memory facts in 2.2.)
+::sub Self-regulation and metacognition
+**Metacognition** (अधिसंज्ञान) means thinking about one's own thinking: knowing how one learns, and checking whether one has understood. The term is linked with John Flavell.
+A **self-regulated learner** (स्व-नियमित शिक्षार्थी) plans, monitors and evaluates his or her own learning. Barry Zimmerman described self-regulation as a cycle of three phases.
+1. **Forethought**: setting goals and planning, with belief in one's ability.
+2. **Performance** (volitional control): using strategies, managing time and attention, monitoring progress.
+3. **Self-reflection**: judging the result, finding causes, and adjusting for next time.
+Self-regulation matters more in college than in school, because the college student has more free time and less daily supervision. Teachers can build it by sharing objectives, teaching study strategies openly, and asking students to reflect on how they learnt, not only on what they learnt.
+::box example
+A teacher of B.A. Geography in Fatehabad teaches the monsoon. She shows a map of wind directions (visual), explains the process and lets pairs discuss it (aural), gives a one-page written summary (read/write), and asks students to record the rainfall in the college gauge for a week (kinaesthetic). At the end she asks each student to write two lines: "What helped me understand? What will I revise tomorrow?" This builds metacognition and self-regulation. She does not divide the class by style; every student gets all four modes.
+::endbox
+::box confused
+- **VARK** (Fleming) and **Bruner's modes** (enactive, iconic, symbolic). VARK is about preferences; Bruner's modes are ways knowledge is represented.
+- **Diverger** and **assimilator.** Both use reflective observation. Diverger starts from concrete experience; assimilator from abstract ideas.
+- **Converger** and **accommodator.** Both use active experimentation. Converger: abstract ideas, practical application. Accommodator: concrete experience, hands-on intuition.
+- **Field-independent** and **field-dependent** (Going Further). Analytical and self-directed versus global and socially oriented.
+- **Impulsive** and **reflective** tempo (Going Further). Fast and inaccurate versus slow and accurate.
+- **Reflector** and **theorist** (Going Further). Reflector watches and gathers data; theorist fits facts into a logical system.
+- **Pragmatist** and **activist** (Going Further). Pragmatist tests ideas in practice; activist plunges into new experience.
+::endbox
+::further
+::sub Witkin: field dependence and field independence
+Herman A. Witkin studied a **cognitive style** (संज्ञानात्मक शैली), a person's typical way of perceiving and thinking. **Field-independent** (क्षेत्र-स्वतंत्र) people can separate an item from its background (the "field"). They tend to analyse a situation into parts and work well on their own. **Field-dependent** (क्षेत्र-आश्रित) people see the situation as a whole, rely more on outside cues, attend to social cues and prefer group learning with clear guidance. Witkin measured this with tests such as the Embedded Figures Test, in which a simple shape must be found hidden in a complex figure.
+::sub Kagan: reflective and impulsive tempo
+Jerome Kagan distinguished two **cognitive tempos**. **Impulsive** learners answer fast and make many errors. **Reflective** learners take longer and are usually right. He measured this with the **Matching Familiar Figures Test**, in which the learner must find which of several similar pictures exactly matches a standard. Impulsive learners can be taught to pause and check alternatives. Do not confuse tempo with field independence (separating figure from background) or with convergent thinking (J. P. Guilford's term for thinking that seeks one right answer; see 2.8).
+::sub Honey and Mumford
+Peter Honey and Alan Mumford built four learning styles on Kolb's cycle. Each style matches one stage.
+::table widths=22,30,48
+|Style|Kolb stage|The learner|
+|Activist|Concrete experience|Plunges into new experiences|
+|Reflector|Reflective observation|Stands back, gathers data, observes from several angles before concluding|
+|Theorist|Abstract conceptualisation|Integrates observations into logical theories|
+|Pragmatist|Active experimentation|Tries ideas out to see whether they work in practice|
+::sub Kolb's roots and the stability of styles
+Kolb built his cycle on the work of John Dewey, Kurt Lewin and Jean Piaget. Like Dewey, he places experience followed by reflection at the centre of learning. Kolb described the styles as relatively stable preferences, shaped by personality, education and career, which can change over time. They are not fixed traits. He held that mature learners can use all four modes.
+::sub The evidence on matching teaching to style
+In 2008 Harold Pashler, Mark McDaniel, Doug Rohrer and Robert Bjork reviewed the research on learning styles. They tested the **meshing hypothesis**: the claim that teaching matched to a learner's diagnosed style improves learning. They found little sound evidence for it. So Fleming did develop VARK, but research has not firmly established that matching teaching to style greatly raises achievement. Varying methods for all learners is the defensible practice.
+::box check
+Q1. Match List I (Kolb's styles) with List II (the modes that define them).
+::match
+List I || List II
+A. Diverger || I. Abstract conceptualisation and active experimentation
+B. Assimilator || II. Concrete experience and active experimentation
+C. Converger || III. Concrete experience and reflective observation
+D. Accommodator || IV. Abstract conceptualisation and reflective observation
+(A) A-IV, B-III, C-I, D-II
+(B) A-III, B-IV, C-I, D-II
+(C) A-III, B-IV, C-II, D-I
+(D) A-II, B-IV, C-I, D-III
+Q2. In Fleming's model, a student who learns best by talking a topic through with classmates shows which preference?
+(A) Visual
+(B) Read/Write
+(C) Aural
+(D) Kinaesthetic
+Q3. Arrange the stages of Kolb's cycle, starting from concrete experience.
+1. Active experimentation
+2. Abstract conceptualisation
+3. Reflective observation
+4. Concrete experience
+(A) 4, 2, 3, 1
+(B) 4, 3, 1, 2
+(C) 4, 1, 3, 2
+(D) 4, 3, 2, 1
+Q4. Assertion (A): A teacher should present a topic through several modes, such as diagrams, discussion and practice.
+Reason (R): Research has shown that each learner can learn through one fixed style only.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Which of the following are correct? Choose the correct answer from the options given below:
+1. Field-independent learners tend to analyse a situation into its parts.
+2. Kagan's impulsive learners respond slowly but accurately.
+3. Honey and Mumford's pragmatist corresponds to Kolb's active experimentation.
+4. Metacognition means thinking about one's own thinking.
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1, 3 and 4 only
+(D) 1 and 4 only
+Q6. Statement I: Kolb held that learning styles can change with education and career.
+Statement II: SQ3R stands for Survey, Question, Read, Recite, Review.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (B), because the diverger combines concrete experience with reflective observation, the assimilator abstract conceptualisation with reflective observation, the converger abstract conceptualisation with active experimentation, and the accommodator concrete experience with active experimentation.
+Q2. (C), because aural learners prefer listening and discussion.
+Q3. (D), because experience is followed by reflection, then general ideas, then testing in practice.
+Q4. (C), because variety is good practice, but the Reason overstates learning-style theory; learners have preferences, not single exclusive channels.
+Q5. (C), because impulsive learners respond fast and make errors; it is reflective learners who are slow and accurate.
+Q6. (A), because Kolb saw styles as relatively stable but changeable, and SQ3R is correctly expanded.
+::endanswers
+
+::section 2.5 | Social characteristics
+::syllabus Characteristics of adolescent and adult learners (social)
+::box footprint
+{{FP 2.5}}
+::endbox
+::h Core
+**Social characteristics** (सामाजिक विशेषताएँ) are the ways a learner relates to other people: friends, family, teachers and society. For the college learner, two things matter most in the examination: the pull of the peer group, and the way moral reasoning develops.
+::sub The peer group
+A **peer group** (समवयस्क समूह) is a group of people of about the same age and status, such as classmates and friends. During adolescence the strongest social influence on behaviour usually comes from the peer group, not from grandparents, siblings or neighbours. Adolescents seek the acceptance and approval of their peers. Peer norms (the group's unwritten rules) shape their dress, speech, interests and even their attitude to study.
+The social adolescent shows these features:
+- a strong need to belong and to be accepted;
+- loyalty to friends and a wish to conform to the group;
+- growing independence from parents, with peers becoming a major reference group;
+- interest in relationships, including with the other sex;
+- concern for fairness and for social causes, with a wish to take part in them.
+For the teacher, peer influence is a resource, not only a risk. Late adolescents seek the company and approval of peers and learn readily from one another. So group projects, discussions, seminars and peer learning (see 4.3) suit undergraduate learners. **Cooperative learning** (सहकारी अधिगम), in which small groups work towards a shared goal and each member is responsible for a part, uses this characteristic directly. The teacher must also watch for exclusion, so that no student is left out of every group.
+::sub Lawrence Kohlberg: stages of moral reasoning
+Lawrence Kohlberg, an American psychologist, studied how people reason about right and wrong. He presented moral dilemmas (the best known is the Heinz dilemma, in which a man must decide whether to steal a drug to save his dying wife) and studied the **reasons** people gave, not only their answers. He described three levels of **moral development** (नैतिक विकास), each with two stages.
+::table widths=26,14,60
+|Level|Stage|Reasoning is guided by|
+|Pre-conventional (पूर्व-परंपरागत)|1|Avoiding punishment; obedience to authority|
+||2|Self-interest; reward; "you scratch my back, I scratch yours"|
+|Conventional (परंपरागत)|3|Approval of others: the "good boy, good girl" orientation|
+||4|Law and order: upholding rules and duty to keep society working|
+|Post-conventional (उत्तर-परंपरागत)|5|Social contract: laws are agreements that can be changed for the common good|
+||6|Universal ethical principles (justice, human dignity) that may override particular rules|
+How to place a statement:
+- If the reason is punishment, reward or personal gain, it is **pre-conventional**.
+- If the reason is approval, or keeping rules and social order, it is **conventional**. "Rules are rules; if everyone broke them, the system would collapse" is stage 4, law and order, within the conventional level.
+- If the reason judges rules by higher principles, it is **post-conventional**.
+Most adolescents and adults reason at the conventional level. Kohlberg's stages describe moral **reasoning**, a separate part of development from identity (2.1).
+::sub Piaget's two moralities
+Before Kohlberg, Piaget studied children's moral judgement. He described **heteronomous morality** (rules are fixed and come from authority; judge an act by its consequences) in younger children, and **autonomous morality** (rules are agreements that can be changed; judge an act by its intention) in older children. "Heteronomous" is Piaget's term, not a level in Kohlberg's scheme.
+::box example
+In an M.A. Political Science class in Kurukshetra, the teacher gives a case: a student finds the answer key of an internal test on a printer. Should she tell the teacher, use it quietly, or share it with friends? Students discuss in groups of four and must give reasons. One says, "I would not use it because I might be caught" (pre-conventional). Another says, "Our class has agreed to be honest, and the rules protect everyone" (conventional). A third says, "Fair assessment is a matter of justice to every student, whatever the rules say" (post-conventional). The teacher uses peer discussion, which suits the age group, to move reasoning towards higher stages.
+::endbox
+::box confused
+- **Pre-conventional** and **conventional.** Punishment and self-interest versus approval and law and order.
+- **Conventional stage 4** and **post-conventional stage 5.** Stage 4 upholds rules as such; stage 5 sees rules as social agreements that can be changed for the common good.
+- **Kohlberg's levels** and **Piaget's moralities.** Pre-conventional, conventional and post-conventional are Kohlberg's; heteronomous and autonomous are Piaget's.
+- **Moral reasoning** (Kohlberg) and **identity** (Erikson, Marcia).
+- **Peer group** and **family.** In adolescence the peer group becomes the strongest everyday influence on behaviour, though family values remain important.
+::endbox
+::further
+::sub Criticisms of Kohlberg
+Carol Gilligan, in *In a Different Voice* (1982), argued that Kohlberg's scheme rests on an **ethic of justice** and overlooks an **ethic of care**, which stresses relationships and responsibility for others. Others have noted that stage 6 is rarely found, and that the scheme reflects Western, individualist values. The examination may ask you to name Gilligan as the critic who proposed the ethic of care.
+::sub Using dilemmas in college teaching
+Discussing moral dilemmas in groups, with students hearing reasoning one stage above their own, is the classroom method that grew out of Kohlberg's work. It suits subjects such as law, management, medicine, journalism and teacher education, where professional ethics is taught (see 1.10).
+::box check
+Q1. "I will not cheat because the teacher may catch me and fail me." In Kohlberg's scheme this reasoning is:
+(A) post-conventional
+(B) conventional, law and order
+(C) pre-conventional
+(D) conventional, good boy-good girl
+Q2. Assertion (A): Group discussions and projects suit undergraduate learners.
+Reason (R): Late adolescents seek the approval of peers and learn readily from one another.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. Match List I with List II.
+::match
+List I || List II
+A. Stage 3 || I. Universal ethical principles
+B. Stage 4 || II. Approval of others
+C. Stage 5 || III. Law and order
+D. Stage 6 || IV. Social contract
+(A) A-II, B-III, C-I, D-IV
+(B) A-III, B-II, C-IV, D-I
+(C) A-II, B-IV, C-III, D-I
+(D) A-II, B-III, C-IV, D-I
+Q4. Statement I: "Heteronomous morality" is one of Kohlberg's three levels.
+Statement II: Most adolescents and adults reason at Kohlberg's conventional level.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. Who criticised Kohlberg for neglecting the ethic of care?
+(A) Carol Gilligan
+(B) Jean Piaget
+(C) Erik Erikson
+(D) James Marcia
+::endbox
+::answers
+Q1. (C), because fear of punishment is the reason, and that marks the pre-conventional level.
+Q2. (A), because the peer orientation of late adolescents is the reason group methods suit them.
+Q3. (D), because stage 3 seeks approval, stage 4 upholds law and order, stage 5 sees laws as a social contract and stage 6 follows universal principles.
+Q4. (D), because heteronomous morality is Piaget's term; Statement II is correct.
+Q5. (A), because Gilligan proposed the ethic of care in *In a Different Voice*.
+::endanswers

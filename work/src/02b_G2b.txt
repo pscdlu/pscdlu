@@ -200,3 +200,496 @@ Q6. (D), because the term was introduced by Salovey and Mayer; Goleman popularis
 Q7. (D), because task difficulty lies outside the learner and stays the same from one occasion to the next.
 Q8. (C), because mastery experience, actual success, is the strongest source. (A) is verbal persuasion, (B) vicarious experience and (D) works on physiological states.
 ::endanswers
+::section 2.7 | Adult learners: andragogy and beyond
+::syllabus Learner's characteristics: characteristics of adolescent and adult learners (academic, social, emotional and cognitive)
+::box footprint
+{{FP 2.7}}
+::endbox
+::h Core
+Most students in a university are adults. Many in distance and evening programmes are working men and women, parents and teachers themselves. The examination asks how adults learn differently from children, and the answer is built almost entirely on one thinker, Malcolm Knowles.
+::sub Pedagogy and andragogy
+**Pedagogy** (शिक्षाशास्त्र) comes from Greek roots meaning "leading the child". It refers to the teaching of children. In the pedagogical model the teacher decides what is to be learnt, how and when; the learner is dependent and follows.
+**Andragogy** (प्रौढ़ शिक्षाशास्त्र) is the art and science of helping adults learn. The word was used before him, but it was the American adult educator **Malcolm Knowles** who popularised it and built a theory on it. Distractors in such questions are usually Piaget (cognitive development), Skinner (operant conditioning) and Bloom (taxonomy of objectives), none of whom is linked with andragogy.
+::sub Knowles's assumptions about adult learners
+Knowles described the adult learner through a set of assumptions. He began with four and later added two more, so most books now list six. Learn them with their meaning.
+1. **Self-concept.** As a person matures, the self-concept moves from dependence towards self-direction. Adults see themselves as responsible for their own decisions, so they resist being treated as dependent recipients of instruction.
+2. **Role of experience.** Adults bring a large and varied store of experience. It is their richest resource for learning, so methods that draw on it (discussion, case studies, problem-solving, simulations) work better than one-way transmission.
+3. **Readiness to learn.** Adults become ready to learn when the tasks of their social roles, as worker, parent or citizen, demand it. A new clerk becomes ready to learn office software when his job requires it.
+4. **Orientation to learning.** Adults want to apply what they learn at once. Their orientation is problem-centred (or life-centred), not subject-centred. Learning organised around subjects for later use is typical of pedagogy.
+5. **Motivation.** Adults respond to some external motivators, such as promotion or a better salary, but the strongest motivators are internal: self-esteem, job satisfaction, quality of life and the wish to grow. Outside pressure, fear of punishment and small prizes are typical of school children.
+6. **Need to know.** Adults need to know why they should learn something before they set out to learn it.
+::table widths=28,36,36
+|Assumption|Pedagogy (children)|Andragogy (adults)|
+|Self-concept|Dependent learner|Self-directing learner|
+|Experience|Of little use; the teacher's experience counts|A rich resource for learning|
+|Readiness|Ready when told, by age and grade|Ready when life roles demand|
+|Orientation|Subject-centred, for later use|Problem-centred, for immediate use|
+|Motivation|Mainly external (marks, praise, fear)|Mainly internal (self-esteem, satisfaction, growth)|
+A useful key: readiness is about when adults become ready (life roles); orientation is about how content should be organised (around problems). Students often swap these two.
+::sub Methods that suit andragogy
+Because adults are self-directing and experienced, Knowles preferred participatory, problem-centred methods: case discussion, problem-solving, projects, role play, peer discussion and learner involvement in planning. Dictation of notes, repetitive drill of definitions and lecture followed by a recall quiz treat learners as dependent receivers of content, so they fit the pedagogical model.
+::sub Self-directed learning
+**Self-directed learning** (स्व-निर्देशित अधिगम) is, in Knowles's description, a process in which individuals take the initiative, with or without help from others, in diagnosing their learning needs, setting goals, finding resources, choosing and carrying out learning strategies, and evaluating the outcomes. A working professional who identifies what she needs to learn, chooses online resources and judges her own progress is a self-directed learner. Contrast two other terms: incidental learning is unplanned learning that happens by the way; programmed learning follows a path fixed in advance by the programme writer.
+::sub Experience: resource and obstacle
+Knowles called experience the adult's richest resource. He also saw its other side. Long experience produces fixed habits of mind, biases and assumptions that can close the mind to new ideas. So adults sometimes have to unlearn before they can learn. Any statement that experience is "always" an aid and "never" a hindrance is false.
+::sub Each assumption is separate
+Knowles's assumptions are separate statements about adults. One does not cause another. For example, "readiness to learn arises from the tasks of social roles" and "adults have a large reservoir of experience" are both true, but the reservoir of experience does not explain readiness. In an Assertion-Reason item built from two different assumptions, the usual answer is that both are true but the Reason does not explain the Assertion. The exception is when the Reason states the very cause given by Knowles, as in "adults resist being treated as dependents" (Assertion) because "the self-concept moves from dependence to self-direction" (Reason).
+::box example
+At a university's Centre for Distance and Online Education, Dr Yadav teaches a contact class of in-service school teachers for an M.A. in Education. Instead of dictating notes on classroom management, she asks each teacher to describe one discipline problem from his or her own school (experience). The group analyses three of the cases and proposes solutions (problem-centred orientation). She explains at the start why the unit matters for their promotion examination and their daily work (need to know). The teachers choose which two problems to study further (self-concept). A teacher who has just been made headmistress is especially keen, because her new role demands it (readiness).
+::endbox
+::box confused
+- Pedagogy and andragogy: teaching children (dependent, subject-centred, external motivation) against helping adults learn (self-directing, problem-centred, internal motivation).
+- Readiness and orientation: readiness is when adults are ready (role demands); orientation is how content is organised (around problems, for immediate use).
+- Self-directed and incidental learning: self-directed learning is planned by the learner; incidental learning is unplanned.
+- Self-directed and programmed learning: in programmed learning the path is fixed by the programme, not the learner.
+- Experience as resource and as obstacle: both are Knowles's view; "never a hindrance" is the trap.
+::endbox
+::further
+::sub Knowles's later view: a continuum
+In his early writing Knowles presented andragogy as opposed to pedagogy. Later he treated the two as the ends of a continuum, to be used as the situation requires. Where adults are complete novices in an unfamiliar skill, a teacher-directed approach is suitable at first, moving towards self-direction as competence grows. So andragogy is not a rule that fits every adult in every situation, and pedagogy is not forbidden after the age of eighteen.
+::sub Applying the assumptions
+Each assumption has a matching implication for teaching:
+::table widths=35,65
+|Assumption|Implication for the teacher|
+|Self-concept (self-directing)|Involve learners in planning their own learning, including diagnosing their needs|
+|Experience|Use discussion and case methods that draw on what learners have lived|
+|Readiness to learn|Time learning to coincide with the demands of learners' roles|
+|Orientation to learning|Organise content around real problems, not subjects|
+::sub The learning contract
+Knowles recommended the **learning contract** (अधिगम अनुबंध) as a tool of self-directed learning. It is a written agreement, drawn up in advance by the adult learner in consultation with a facilitator, that states the learning objectives, the resources and strategies to be used, the evidence of accomplishment and the criteria by which that evidence will be judged. A portfolio is different: it collects evidence of work already done. The contract looks forward; the portfolio looks back.
+::sub Mezirow's transformative learning
+Jack Mezirow described **transformative learning** (रूपांतरणकारी अधिगम), in which an adult changes a deep-seated way of seeing. It begins with a **disorienting dilemma**, an experience, often a crisis, that does not fit the learner's existing beliefs. It proceeds through **critical reflection** (आलोचनात्मक चिंतन) on assumptions long taken for granted, and ends in a changed frame of reference, which Mezirow called perspective transformation.
+Keep the neighbouring theories apart. David Kolb's experiential learning cycle explains how people learn from experience in general (see section 2.4), without the idea of overturning a frame of reference. Knowles's andragogy concerns assumptions about adult learners. Jean Lave and Etienne Wenger's situated learning concerns learning through participation in communities of practice.
+::sub Freire: against banking education
+The Brazilian educator Paulo Freire, in *Pedagogy of the Oppressed*, criticised what he called **banking education**, in which the teacher deposits knowledge in passive learners as money is deposited in a bank. He proposed instead education through dialogue, in which teacher and learners investigate problems of their own lives together and become critically conscious of their situation. Freire's work is a classic of adult literacy.
+::sub Cross's barriers to adult learning
+K. Patricia Cross grouped the barriers that keep adults from learning into three kinds:
+- **Situational barriers** arise from a person's circumstances at a given time: job and family duties, shift work, care of children, cost, transport.
+- **Institutional barriers** are created by providers: inconvenient schedules, rigid rules, fees, lack of suitable courses.
+- **Dispositional barriers** are the learner's own attitudes and self-perceptions: "I am too old to learn", fear of failure.
+Ask where the obstacle lies: in the learner's life (situational), in the institution's practice (institutional) or in the learner's mind (dispositional).
+::sub Heutagogy and peeragogy
+**Heutagogy** (स्व-निर्धारित अधिगम), a term introduced by Stewart Hase and Chris Kenyon, is self-determined learning. The learner decides not only how to learn but what to learn, sets and revises her own goals as the work proceeds, and develops the capability to learn in unfamiliar situations. It emphasises capability and **double-loop learning**, in which the learner questions her own assumptions and goals, not only her methods. In heutagogy the learner, not the teacher, determines the path.
+Heutagogy goes a step beyond andragogy. In andragogy the learner is self-directed, but the teacher still largely designs the course and its objectives. Pedagogy, andragogy and heutagogy are therefore often arranged as a continuum of increasing learner autonomy.
+**Peeragogy** is learning produced by peers together, without a single teacher at the centre.
+::table widths=30,70
+|Thinker|Idea|
+|Malcolm Knowles|Andragogy: assumptions about the self-directing adult learner; learning contract|
+|Jack Mezirow|Transformative learning; perspective transformation|
+|Paulo Freire|Critique of banking education; dialogue|
+|Hase and Kenyon|Heutagogy: self-determined learning|
+|K. Patricia Cross|Situational, institutional and dispositional barriers|
+::box check
+Q1. Which of the following are among Knowles's assumptions about adult learners?
+1. Adults need to know why they should learn something.
+2. Adults are motivated mainly by fear of punishment.
+3. Adults use their experience as a resource for learning.
+4. Adults become ready to learn when their social roles demand it.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2 and 4 only
+(C) 1, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q2. A training officer arranges a course on new pension rules for office staff in the month the rules come into force, when the staff must start applying them. The assumption of Knowles she is using is:
+(A) self-concept
+(B) readiness to learn
+(C) role of experience
+(D) need to know
+Q3. Match List I with List II.
+::match
+List I (Thinker) || List II (Idea)
+A. Mezirow || I. Banking education criticised
+B. Freire || II. Situational, institutional and dispositional barriers
+C. Cross || III. Disorienting dilemma and critical reflection
+D. Hase and Kenyon || IV. Self-determined learning
+Choose the correct answer from the options given below:
+(A) A-III, B-II, C-I, D-IV
+(B) A-I, B-III, C-II, D-IV
+(C) A-IV, B-I, C-II, D-III
+(D) A-III, B-I, C-II, D-IV
+Q4. Assertion (A): Andragogy suits adults better than dictation of notes does.
+Reason (R): Adults bring a large store of experience that participatory methods can draw upon.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Statement I: In Knowles's later view, pedagogy and andragogy are ends of a continuum.
+Statement II: In andragogy the learner decides what to learn and revises the goals of the course, while the teacher plays no part in its design.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. A woman wishes to join an evening course but believes she is "too old to study now". In Cross's classification this is a:
+(A) situational barrier
+(B) institutional barrier
+(C) informational barrier
+(D) dispositional barrier
+Q7. Arrange the phases of transformative learning, as Mezirow described it, in order:
+1. Changed frame of reference
+2. Disorienting dilemma
+3. Critical reflection on assumptions
+Choose the correct answer from the options given below:
+(A) 2, 3, 1
+(B) 3, 2, 1
+(C) 2, 1, 3
+(D) 1, 3, 2
+::endbox
+::answers
+Q1. (C), because need to know, experience and readiness are Knowles's assumptions; fear of punishment is typical of children, while adult motivation is mainly internal.
+Q2. (B), because readiness is about timing learning to the demands of a social role, here the job.
+Q3. (D), because Mezirow is the disorienting dilemma, Freire the critique of banking education, Cross the three barriers and Hase and Kenyon heutagogy.
+Q4. (A), because the experience assumption is exactly why participatory methods work better with adults than one-way dictation.
+Q5. (C), because Statement I is Knowles's later position; Statement II describes heutagogy, not andragogy, in which the teacher still largely designs the course.
+Q6. (D), because the obstacle is the learner's own attitude. A shift duty or a child to care for would be situational; a college fee or timetable would be institutional.
+Q7. (A), because the dilemma comes first, reflection follows, and the changed perspective is the result.
+::endanswers
+::section 2.8 | Individual differences and intelligence
+::syllabus Learner's characteristics: characteristics of adolescent and adult learners (academic, social, emotional and cognitive); individual differences
+::box footprint
+{{FP 2.8}}
+::endbox
+::h Core
+::sub What individual differences means
+No two learners are alike. They differ in intelligence, aptitude, interests, motivation, background and the speed at which they learn. These variations are called **individual differences** (वैयक्तिक भिन्नताएँ). Recognising them is the reason a teacher varies methods, examples and pace instead of treating the class as one uniform group. The term does not mean that learners prefer to study alone, are taught one at a time, or compete for ranks.
+Individual differences are found in every aspect of a person: physical (height, health, energy), mental (intelligence, memory, reasoning), emotional (temperament, anxiety) and social (sociability, leadership). They are differences of degree, that is quantitative (more or less of the same ability), and differences of kind, that is qualitative (different interests, styles, talents). Teaching every student in the same way does not remove them; it usually widens the gaps, because those who are ahead move further ahead and those who are behind fall further behind.
+There are two kinds of difference:
+- **Inter-individual differences**: differences between one person and another. Ravi is better at mathematics than Sunita.
+- **Intra-individual differences**: differences among the abilities of the same person. Sunita is strong in language and weak in mathematics.
+Both matter, the second especially in guiding a student towards suitable courses.
+::sub Causes: heredity and environment
+Individual differences arise from the interaction of **heredity** (वंशानुक्रम), what a person inherits, and **environment** (वातावरण), what a person experiences: family, culture, schooling, nutrition, health and opportunity. Neither alone explains them. Heredity sets a range of possibilities; environment decides where in that range a person ends up.
+::sub Four terms: aptitude, achievement, interest, attitude
+::table widths=22,48,30
+|Term|Meaning|Time it looks at|
+|**Aptitude** (अभिक्षमता)|Potential to acquire a skill or knowledge if given training|Future|
+|**Achievement** (उपलब्धि)|What has already been learnt|Past and present|
+|**Interest** (रुचि)|Liking for an activity|Present|
+|**Attitude** (अभिवृत्ति)|A settled tendency to respond favourably or unfavourably to a person, object or idea|Present|
+A note on Hindi: the title of this unit, Teaching Aptitude, is rendered शिक्षण अभिवृत्ति in the Hindi version of the paper. In psychology books, however, अभिवृत्ति usually translates attitude, and aptitude is अभिक्षमता. Read the English meaning in each question to avoid confusion.
+::sub The first intelligence test: Binet
+**Intelligence** (बुद्धि) is the general capacity to learn, reason, solve problems and adapt to new situations. The first workable intelligence scale was produced in France in 1905 by **Alfred Binet** with **Théodore Simon**, to identify children who needed special help in school. It introduced the idea of **mental age** (मानसिक आयु): the level of performance typical of children of a given age. A ten-year-old who does what typical twelve-year-olds do has a mental age of twelve.
+The German psychologist William Stern suggested dividing mental age by chronological age. Lewis Terman at Stanford University multiplied the result by 100 and used it in his American revision of Binet's test, the Stanford-Binet. This gave the **intelligence quotient** (बुद्धि-लब्धि), or IQ.
+::sub Theories of intelligence
+Psychologists disagree on whether intelligence is one ability or many. The examination asks you to match each theory with its author.
+- **Charles Spearman: two-factor theory.** Every intellectual task draws on a general factor, **g**, common to all tasks, and a specific factor, **s**, peculiar to that task.
+- **L. L. Thurstone: group-factor theory, or primary mental abilities.** Thurstone rejected a single general factor in favour of seven primary mental abilities: verbal comprehension, word fluency, number, space, memory, perceptual speed and reasoning.
+- **Godfrey Thomson: sampling theory.** Each task samples a number of small, independent abilities.
+- **J. P. Guilford: structure-of-intellect model.** Guilford classified abilities along three dimensions: the **operation** performed (such as cognition, memory, convergent production, divergent production, evaluation), the **content** operated on (such as figural, symbolic, semantic, behavioural) and the **product** that results (such as units, classes, relations). The combinations give 120 or more distinct abilities.
+- **Raymond Cattell: fluid and crystallised intelligence.** **Fluid intelligence** (तरल बुद्धि) is the capacity to reason and solve problems in new situations. **Crystallised intelligence** (क्रिस्टलीकृत बुद्धि) is the store of knowledge and skills built up through experience, such as vocabulary and general information.
+- **Howard Gardner: multiple intelligences.** See below.
+- **Robert Sternberg: triarchic theory.** Three aspects: analytical (componential), creative (experiential) and practical (contextual).
+Gardner, Sternberg and Guilford, in their different ways, all rejected the idea of intelligence as one single ability. Spearman is the name linked with g.
+::sub Gardner's multiple intelligences
+In *Frames of Mind* (1983) Howard Gardner argued that intelligence is not one ability but several relatively independent ones. He proposed seven, and later added an eighth, the naturalistic. This is the theory of **multiple intelligences** (बहु-बुद्धि).
+::table widths=30,45,25
+|Intelligence|What it is|Who shows it|
+|Linguistic|Skill with words, spoken and written|Poet, journalist|
+|Logical-mathematical|Reasoning, numbers, logical patterns|Mathematician, scientist|
+|Spatial|Perceiving the visual world accurately and transforming it in the mind|Architect, sculptor, navigator, chess player|
+|Musical|Sensitivity to pitch, rhythm, melody|Musician, composer|
+|Bodily-kinaesthetic|Skilled use of the body and of objects|Dancer, athlete, surgeon|
+|Interpersonal|Understanding other people's moods, motives and intentions, and working well with them|Teacher, counsellor, leader|
+|Intrapersonal|Understanding oneself: one's own feelings, strengths and goals|Reflective thinker, writer|
+|Naturalistic (added later)|Recognising and classifying plants, animals and other features of nature|Botanist, farmer|
+Interpersonal and intrapersonal are easily swapped. "Inter" means between people: understanding others. "Intra" means within: understanding oneself. A student who quickly senses classmates' moods and works well in teams shows interpersonal intelligence.
+Gardner criticised schools for valuing mainly linguistic and logical-mathematical intelligence. His theory is a reaction against describing a learner by one IQ score.
+::sub Sternberg's three intelligences
+- **Analytical (componential)** intelligence: solving academic problems, analysing, judging. It is what ordinary tests measure.
+- **Creative (experiential)** intelligence: dealing with new situations and producing new ideas.
+- **Practical (contextual)** intelligence: adapting to, shaping and selecting one's everyday environment. This is "street-smartness". A student with average grades who handles real-life situations with unusual skill is strong in practical intelligence.
+::sub Guilford: convergent and divergent production
+Guilford's two most-asked operations are these. **Convergent production** (अभिसारी चिंतन) seeks the one correct answer, as in most ordinary test items. **Divergent production** (अपसारी चिंतन) generates many different answers and is the basis of creativity. A test that asks "list as many uses of a brick as you can" measures divergent production. Such unusual-uses tests are scored for **fluency** (number of ideas), **flexibility** (variety of kinds of idea) and **originality** (unusualness of ideas).
+::sub Cattell and age
+Fluid intelligence tends to decline from early adulthood. Crystallised intelligence is maintained, or even grows, with age. So a teacher of fifty may do better on vocabulary and general information than she did at twenty-five, while being slower on novel abstract puzzles. Remember: "fluid" means flexible reasoning on new problems, not knowledge that "flows" from experience.
+::h Calculating IQ: the method
+The **ratio IQ** (classical IQ) is:
+> IQ = (mental age ÷ chronological age) × 100
+**Chronological age** (कालानुक्रमिक आयु) is the actual age since birth. Mental age is the age level of the person's test performance. When the two are equal, IQ = 100, which is average. When mental age is ahead of chronological age, IQ is above 100; when it is behind, IQ is below 100.
+Steps:
+1. Write mental age (MA) and chronological age (CA) in the same unit, both in years or both in months.
+2. Divide MA by CA. MA goes on top.
+3. Multiply by 100.
+4. To find MA from a known IQ: MA = IQ × CA ÷ 100. To find CA: CA = MA × 100 ÷ IQ.
+::box worked
+Example 1. MA = 12 years, CA = 10 years.
+> IQ = 12 ÷ 10 × 100 = 1.2 × 100 = 120
+Example 2. MA = 9 years, CA = 12 years.
+> IQ = 9 ÷ 12 × 100 = 0.75 × 100 = 75
+Example 3 (years and months). MA = 10 years 6 months, CA = 9 years. Convert to months.
+> MA = 10 × 12 + 6 = 126 months; CA = 9 × 12 = 108 months
+> IQ = 126 ÷ 108 × 100 = 116.67, about 117
+Example 4 (finding MA). A 10-year-old has an IQ of 110.
+> MA = 110 × 10 ÷ 100 = 11 years
+Example 5 (finding CA). A child with MA 15 years has an IQ of 125.
+> CA = 15 × 100 ÷ 125 = 12 years
+::endbox
+::box slips
+- Dividing the wrong way round. With MA 12 and CA 10, 10 ÷ 12 × 100 gives about 83, not 120. Mental age always goes on top.
+- Mixing units: dividing 10 years 6 months by 9 years as "10.6 ÷ 9". Six months is 0.5 of a year, not 0.6. Convert both ages to months.
+- Forgetting to multiply by 100, and writing an IQ of 1.2.
+- Reading IQ 100 as "perfect". It means mental age equals chronological age: average for one's age.
+::endbox
+::sub Why the ratio IQ fails for adults: the deviation IQ
+Mental age stops rising in the late teens, but chronological age keeps increasing. Suppose, for illustration, that a person's mental age levels off at 16. At age 16 the ratio IQ is 16 ÷ 16 × 100 = 100; at 20 it is 16 ÷ 20 × 100 = 80; at 40 it would be 16 ÷ 40 × 100 = 40. The person has not become less intelligent; the formula has broken down.
+David Wechsler therefore introduced the **deviation IQ**, used in his adult and children's scales and now in almost all modern tests. A deviation IQ expresses a person's standing relative to others of the same age. Scores in each age group are scaled so that the mean is 100 and the standard deviation is 15.
+> Deviation IQ = 100 + 15 × z, where z = (person's score − mean of age group) ÷ SD of age group
+::box worked
+A 30-year-old scores 65 on a test where adults of her age have a mean of 50 and a standard deviation of 10.
+> z = (65 − 50) ÷ 10 = 1.5
+> Deviation IQ = 100 + 15 × 1.5 = 122.5
+Because IQs are distributed normally with mean 100 and SD 15, about 68 per cent of people have IQs between 85 and 115 (within one SD of the mean), and about 95 per cent between 70 and 130 (within two SD). About 34 per cent lie between 100 and 115 alone.
+::endbox
+::box example
+In a B.Ed. psychology practical at a university in Rajasthan, the class looks at an anonymised case. A boy of 8 years (96 months) has a mental age of 10 years 4 months (124 months) on an individual test. The students compute 124 ÷ 96 × 100 = 129.17, about 129. Then the teacher shows a second case: a woman of 35 whose ratio IQ would look absurdly low, and explains why the test manual gives her a deviation IQ instead. She ends by noting that the same boy may be weak at drawing and strong at music: one IQ number does not describe the whole learner.
+::endbox
+::box confused
+- Inter- and intra-individual differences: between persons, or within one person's own abilities.
+- Aptitude and achievement: what one could learn with training (future), or what one has already learnt (past).
+- Attitude and aptitude: a settled favourable or unfavourable tendency, or a potential to learn. In Hindi books, अभिवृत्ति is usually attitude and अभिक्षमता aptitude.
+- Spearman and Thurstone: one general factor plus specifics (g and s), or seven primary mental abilities.
+- Thurstone and Guilford: both proposed many abilities; the three-dimensional operations-contents-products model is Guilford's.
+- Fluid and crystallised: reasoning on new problems (declines with age), or stored knowledge (maintained or grows).
+- Interpersonal and intrapersonal: understanding others, or understanding oneself.
+- Sternberg's creative and practical: dealing with novelty, or adapting to everyday settings ("street-smart").
+- Convergent and divergent production: one right answer, or many answers (creativity).
+- Ratio and deviation IQ: MA ÷ CA × 100, or standing among same-age peers (mean 100, SD 15).
+::endbox
+::further
+::sub The Flynn effect and other named effects
+The **Flynn effect**, documented by James Flynn, is the steady rise in average scores on intelligence tests from one generation to the next, observed in many countries during the twentieth century. It is usually attributed to better nutrition, more schooling and a more stimulating environment. The rise is too fast to be genetic, so it shows that measured intelligence is not fixed by heredity alone.
+Keep it apart from three other effects:
+- **Matthew effect**: early advantages accumulate over time, so the gap between individuals widens ("the rich get richer"). It concerns widening gaps, not a rise in the average.
+- **Pygmalion effect**: learners tend to perform in line with teachers' expectations.
+- **Halo effect**: one good (or bad) quality colours the rater's judgement of all other qualities.
+::sub The PASS theory
+J. P. Das, Jack Naglieri and John Kirby, drawing on the Russian neuropsychologist A. R. Luria's work on the brain, described intelligence as four interdependent cognitive processes. The initials give the name **PASS**:
+- **P**lanning: deciding how to solve a problem and checking the solution;
+- **A**ttention-arousal: staying alert and focusing on what matters;
+- **S**imultaneous processing: combining pieces of information into a whole at once;
+- **S**uccessive processing: handling information in a sequence.
+The theory underlies a test called the Cognitive Assessment System (CAS). J. P. Das is an Indian-born psychologist, and the theory is often asked in Indian examinations.
+::sub Links to other units
+Mean, standard deviation and z-scores are taught as methods in section 6.5. The normal curve that gives the 68 and 95 per cent figures is the same one used in reading test scores. Teaching for individual differences (differentiation, enrichment, remediation) follows in section 2.9.
+::box check
+Q1. Using the classical formula, a child of 8 years with a mental age of 6 years has an IQ of:
+(A) 133
+(B) 75
+(C) 80
+(D) 125
+Q2. A child aged 7 years 6 months has a mental age of 9 years 4 months. Taking both in months, her ratio IQ is closest to:
+(A) 124
+(B) 80
+(C) 112
+(D) 131
+Q3. A 15-year-old has an IQ of 80. His mental age is:
+(A) 18 years 9 months
+(B) 13 years
+(C) 12 years
+(D) 10 years
+Q4. Match List I with List II.
+::match
+List I (Psychologist) || List II (Idea)
+A. Cattell || I. Operations, contents and products
+B. Guilford || II. Fluid and crystallised intelligence
+C. Gardner || III. Analytical, creative and practical
+D. Sternberg || IV. Relatively independent intelligences, including the naturalistic
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-IV, D-I
+(B) A-I, B-II, C-IV, D-III
+(C) A-II, B-I, C-IV, D-III
+(D) A-IV, B-I, C-II, D-III
+Q5. Statement I: The ratio IQ would show a steady fall in adulthood even if a person's abilities did not change.
+Statement II: Deviation IQs are scaled so that each age group has a mean of 100 and a standard deviation of 15.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. Assertion (A): Teaching all students of a class in exactly the same way tends to widen the gaps among them.
+Reason (R): Individual differences are differences of degree only, not of kind.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. A girl can recognise and name dozens of local birds and trees and sorts them into families with ease. Gardner would call this strength:
+(A) spatial intelligence
+(B) naturalistic intelligence
+(C) intrapersonal intelligence
+(D) logical-mathematical intelligence
+Q8. If IQs are normal with mean 100 and SD 15, roughly what percentage of people score above 115?
+(A) 34 per cent
+(B) 68 per cent
+(C) 2 per cent
+(D) 16 per cent
+::endbox
+::answers
+Q1. (B), because 6 ÷ 8 × 100 = 75. Dividing the other way, 8 ÷ 6 × 100, gives about 133, the usual slip.
+Q2. (A), because CA = 90 months and MA = 112 months; 112 ÷ 90 × 100 = 124.4. Reading 9 years 4 months as 9.4 years leads to wrong answers.
+Q3. (C), because MA = 80 × 15 ÷ 100 = 12 years.
+Q4. (C), because Cattell is fluid and crystallised, Guilford the three dimensions, Gardner multiple intelligences and Sternberg the triarchic theory.
+Q5. (A), because mental age levels off while chronological age keeps rising, and deviation IQs use mean 100 and SD 15 within each age group.
+Q6. (C), because A is true but R is false: individual differences are differences of both degree and kind.
+Q7. (B), because classifying plants and animals is naturalistic intelligence, the eighth, added later.
+Q8. (D), because about 68 per cent lie between 85 and 115, so about 32 per cent lie outside, half of them (about 16 per cent) above 115.
+::endanswers
+::section 2.9 | Learners with diverse needs and inclusive teaching
+::syllabus Learner's characteristics; individual differences; inclusive education (Rights of Persons with Disabilities Act, 2016)
+::box footprint
+{{FP 2.9}}
+::endbox
+::h Core
+Section 2.8 showed that learners differ. This section asks what a teacher does about it: how to teach the gifted, the slow learner, the underachiever, the learner with a specific learning disability and the learner with a sensory or physical impairment, all in one institution. The answer the examination looks for is almost always the same: vary the teaching to suit the learner, and change the institution so that every learner can take part.
+::sub Gifted learners
+**Gifted learners** (प्रतिभाशाली शिक्षार्थी) perform, or can perform, far above their age group in intellectual, creative or other fields. If they are given only the ordinary work they finish early, become bored and may even disturb the class. They need work that stretches them:
+- **Enrichment** (संवर्धन): deeper and wider tasks while staying in the same class with age-mates, such as an extra research question or a reading beyond the syllabus.
+- **Acceleration** (त्वरण): moving through the curriculum faster than usual, by early entry, skipping a class or grade, or taking advanced courses early.
+- Independent projects and mentoring by an expert.
+Giving a gifted student more of the same exercises increases boredom; exempting her from work leaves her ability unused; placing her with slow learners for drill wastes it.
+**Ability grouping** places learners of similar ability together. **Remediation** (remedial teaching, उपचारात्मक शिक्षण) corrects deficiencies; it is for learners who are behind, not for the gifted.
+::sub Slow learners
+**Slow learners** (मंद अधिगमकर्ता) have somewhat below-average general ability, and their attainment is in line with it. They can learn, but they need:
+- a slower pace and more time;
+- simple language and concrete examples;
+- repetition and practice;
+- frequent encouragement and feedback;
+- peer tutoring, in which a classmate helps.
+Speeding up, giving fewer examples or withholding feedback widens the gap between them and the rest of the class.
+::sub Underachievers
+An **underachiever** has adequate or high measured ability but attains far below what that ability predicts. The cause is usually motivational, emotional or environmental: lack of interest, anxiety, family trouble, poor study habits. The key is the gap between potential and performance. A slow learner also gets low marks, but there is no such gap, because his marks match his limited ability.
+::sub Specific learning disabilities
+A **specific learning disability** (विशिष्ट अधिगम अक्षमता) is a difficulty in one area of learning that occurs despite average or above-average intelligence and adequate teaching. Four are asked again and again:
+::table widths=25,45,30
+|Term|Main difficulty|Remember by|
+|**Dyslexia**|Accurate and fluent word reading, and spelling|"lexis" = word|
+|**Dysgraphia**|Handwriting and written expression: letter formation, spacing, speed|"graph" = write|
+|**Dyscalculia**|Number and calculation|"calculate"|
+|**Dyspraxia**|Planning and coordination of movement|"praxis" = action|
+A student who reads well but whose handwriting is illegible, unevenly spaced and very slow shows dysgraphia, not dyslexia. Such learners need extra time, alternative formats (oral answers, typed work) and specific help in the weak area.
+::sub Teaching a mixed class
+Because learners differ in ability, interest and speed, one method at one pace suits only a few. A teacher meets individual differences by:
+- varying methods and pace;
+- **graded** (tiered) tasks, so that each learner has an appropriate challenge;
+- **flexible grouping**, in which students sometimes work with others of similar level and sometimes in mixed groups;
+- extra help for those behind and enrichment for those ahead.
+This is the basis of **differentiated instruction** (विभेदित अनुदेशन), developed further in Going Further. Uniform treatment (one common lecture, one pace, identical homework for all) looks fair but ignores real differences in readiness, leaving some bored and others lost. Public ranking after every test harms weaker learners.
+::sub Learners with sensory impairments
+The rule is simple: send information through the channel the learner can use.
+- **Visual impairment** (दृष्टि बाधिता). **Braille** is a system of raised dots read by touch, which lets blind learners read and write. Others use large print, audio material and screen-reader software. On a course web page, **alternative text** (alt text) describes each image in words, so that a screen reader can read it aloud.
+- **Hearing impairment** (श्रवण बाधिता). These learners need information through the eyes: **captions** on videos, written outlines of lectures, visual aids, a front seat that allows lip-reading and, where needed, sign language interpretation. Audio recordings and extra oral questions depend on hearing and do not help.
+So alt text serves learners with visual impairment, and captions serve learners with hearing impairment. Questions often reverse the pair.
+::sub Exclusion, segregation, integration and inclusion
+These four words describe how an education system treats learners with disabilities.
+::table widths=22,78
+|Term|Meaning|
+|Exclusion|The learner is denied education altogether.|
+|Segregation|The learner is educated in a separate setting, such as a separate special school or class.|
+|Integration|The learner is placed in the regular setting but must fit into a system that stays as it is.|
+|Inclusion|The institution itself changes, removing barriers and providing accommodation, so that every learner takes part fully.|
+A college that admits a wheelchair user to regular classes but keeps her laboratory on a floor she cannot reach is practising integration, not inclusion.
+**Inclusive education** (समावेशी शिक्षा) means that learners of all abilities and backgrounds, including those with disabilities, learn together in the same institution, with the supports each needs. It is not admitting only high achievers, separating learners strictly by ability, or teaching everyone by one method.
+::sub The Rights of Persons with Disabilities Act, 2016
+India's main law on disability is the **Rights of Persons with Disabilities Act, 2016** (RPwD Act). Learn these points.
+- It replaced the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995.
+- It raised the number of specified disabilities from 7 under the 1995 Act to **21**, and the Central Government can add more. The 21 include, for example, blindness, low vision, hearing impairment, locomotor disability, intellectual disability, autism spectrum disorder, specific learning disabilities, mental illness, cerebral palsy, dwarfism, acid attack victims, thalassaemia and multiple disabilities.
+- A **person with benchmark disability** is one with not less than 40 per cent of a specified disability, as certified.
+- The Act defines inclusive education as a system of education in which students with and without disability learn together and the system of teaching and learning is suitably adapted to their different needs.
+- It requires **reasonable accommodation** (उचित सुविधा): necessary and appropriate changes and adjustments, without a disproportionate or undue burden, so that persons with disabilities can enjoy their rights equally with others.
+- Section 16 asks governments and local authorities to make sure that the educational institutions they fund or recognise provide inclusive education.
+- Section 31: every child with benchmark disability between 6 and 18 years has the right to free education.
+- Section 32: all government institutions of higher education, and other higher education institutions receiving aid from the government, must reserve **not less than 5 per cent** of seats for persons with benchmark disabilities, and such persons get an **upper age relaxation of 5 years** for admission.
+- Section 34: in government employment the reservation is **not less than 4 per cent** of vacancies. Do not mix this 4 per cent with the 5 per cent for higher education seats.
+The Right of Children to Free and Compulsory Education Act (RTE Act) is a different law, of 2009.
+::box example
+At a state university in Punjab, an M.A. English class has 48 students. One is blind, one is hard of hearing, one is a wheelchair user, and two are exceptionally able. The teacher uploads her lecture notes in a format a screen reader can read, adds alt text to every picture and captions to every video clip, and seats the student with hearing impairment in front where he can see her face. The department moves the class from the second floor to the ground floor, because the building has no lift; this is a change in the institution, not in the student, and it is what makes the arrangement inclusion rather than integration. For the two able students she sets an enrichment task, a comparison of two translations of a Tagore poem. A student who is struggling gets a weekly meeting with a peer tutor. At admission the student with benchmark disability got a seat under the 5 per cent reservation for higher education.
+::endbox
+::box confused
+- Enrichment and acceleration: deeper and wider work at the same level, or faster movement through the curriculum (skipping a class, early entry).
+- Slow learner and underachiever: low ability with matching attainment, or adequate ability with attainment far below it.
+- Slow learner and learning disability: generally below-average ability, or a specific difficulty despite average or higher intelligence.
+- Dyslexia, dysgraphia, dyscalculia, dyspraxia: reading, writing, number, movement.
+- Alt text and captions: for learners who cannot see, and for learners who cannot hear.
+- Integration and inclusion: the learner fits into an unchanged system, or the system changes for the learner.
+- 5 per cent and 4 per cent under the RPwD Act: seats in government and aided higher education, and vacancies in government employment.
+- RPwD Act 2016 and RTE Act 2009: rights of persons with disabilities, and free and compulsory education for children aged 6 to 14.
+::endbox
+::box fact
+Rights of Persons with Disabilities Act, 2016: 21 specified disabilities; not less than 5 per cent of seats reserved in government and government-aided higher education institutions, with 5 years' upper age relaxation; not less than 4 per cent of vacancies in government employment (checked October 2026). Books written before the Act still give the figures of the 1995 Act: 7 disabilities and 3 per cent reservation. The 2016 Act received assent in December 2016 and came into force in April 2017.
+::endbox
+::further
+::sub Differentiated instruction (Tomlinson)
+**Differentiated instruction** is associated with Carol Ann Tomlinson. It means planning varied routes to the same goals according to each learner's **readiness** (current level of knowledge and skill), **interest** and **learning profile** (preferred ways of learning). Tomlinson names four things a teacher can differentiate:
+::table widths=30,70
+|Element|What varies|
+|Content|What is learnt, and the materials through which learners reach it|
+|Process|How learners make sense of the content: the activities|
+|Product|How learners show what they have learnt|
+|Learning environment|The arrangement and climate of the classroom|
+If all students read the same passage but may show their understanding through an essay, a concept map or an oral presentation, the teacher is differentiating the product. Direct instruction, programmed instruction and mass instruction do not differentiate in this sense.
+::sub Universal Design for Learning
+**Universal Design for Learning** (UDL), developed by the organisation CAST in the United States, asks teachers to plan variety into a course from the start, instead of adapting it later for individual learners. It rests on three principles:
+- multiple means of **representation**: present content in several ways (text, audio, video, diagrams);
+- multiple means of **engagement**: interest and motivate learners in several ways;
+- multiple means of **action and expression**: let learners show their learning in several ways.
+UDL benefits all learners and reduces the need for later individual accommodation. It is the opposite of one uniform method and one test format for all, of separate special classes, and of waiting until a learner has failed before adapting anything.
+::sub Differentiation and UDL compared
+Differentiation is mostly a teacher's response to the learners in front of her. UDL is mostly design done before the learners arrive. Both reject the single fixed method. In a question, "planned from the start for all learners" points to UDL; "content, process and product varied by readiness, interest and learning profile" points to differentiation.
+::box check
+Q1. A college allows an exceptionally able first-year student to take a second-year paper in the same semester. This provision is:
+(A) acceleration
+(B) enrichment
+(C) remediation
+(D) integration
+Q2. Under the Rights of Persons with Disabilities Act, 2016, which of the following are correct?
+1. The number of specified disabilities is 21.
+2. Government and government-aided higher education institutions must reserve not less than 5 per cent of seats for persons with benchmark disabilities.
+3. The reservation in government employment is not less than 7 per cent of vacancies.
+4. Persons with benchmark disabilities get an upper age relaxation of five years for admission to higher education.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 1, 2 and 4 only
+(C) 2 and 4 only
+(D) 1, 2, 3 and 4
+Q3. Match List I with List II.
+::match
+List I (Difficulty) || List II (Main area affected)
+A. Dyslexia || I. Coordination of movement
+B. Dysgraphia || II. Number work
+C. Dyscalculia || III. Reading
+D. Dyspraxia || IV. Handwriting
+Choose the correct answer from the options given below:
+(A) A-III, B-II, C-IV, D-I
+(B) A-IV, B-III, C-II, D-I
+(C) A-III, B-IV, C-I, D-II
+(D) A-III, B-IV, C-II, D-I
+Q4. Assertion (A): Placing a learner with a disability in a regular classroom is by itself enough to make the classroom inclusive.
+Reason (R): Inclusion requires the institution to remove barriers and provide reasonable accommodation.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Statement I: An underachiever is a learner whose attainment is far below his measured ability.
+Statement II: A learner with dyslexia usually has below-average general intelligence.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. A teacher records her lectures as videos for an online course. Which pair of measures serves learners with visual impairment and learners with hearing impairment respectively?
+(A) Captions; a front seat
+(B) Audio description and screen-reader-friendly notes; captions
+(C) Captions; audio description
+(D) Large print; Braille
+Q7. In Tomlinson's terms, a teacher who gives weaker readers a simplified version of a text while stronger readers read the original is differentiating the:
+(A) product
+(B) process
+(C) content
+(D) environment
+::endbox
+::answers
+Q1. (A), because the student moves ahead faster than the usual sequence. Enrichment would deepen work within the first-year course.
+Q2. (B), because statements 1, 2 and 4 follow the Act; the employment figure is not less than 4 per cent, not 7.
+Q3. (D), because dyslexia is reading, dysgraphia handwriting, dyscalculia number and dyspraxia movement.
+Q4. (D), because placement alone is integration; R is true and describes what inclusion needs.
+Q5. (C), because underachievement is a gap between ability and attainment, while dyslexia occurs despite average or above-average intelligence.
+Q6. (B), because spoken descriptions and readable notes reach those who cannot see, and captions reach those who cannot hear. Option (C) reverses the pair.
+Q7. (C), because the material through which learners reach the ideas is varied; the activities (process) and the way of showing learning (product) stay the same.
+::endanswers
+::chapteranswers

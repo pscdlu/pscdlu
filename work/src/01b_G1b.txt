@@ -1,0 +1,640 @@
+::section 1.6 | Maxims of teaching and general methods (analytic, synthetic, inductive, deductive)
+::syllabus Teaching: Concept, Objectives, Levels of teaching (Memory, Understanding and Reflective), Characteristics and basic requirements
+::box footprint
+{{FP 1.6}}
+::endbox
+::h Core
+::sub What a maxim of teaching is
+A **maxim of teaching** (शिक्षण सूत्र) is a short working rule that tells a teacher in what order to present material. Maxims grew out of long classroom experience and out of the psychology of learning. They do not tell you what to teach. They tell you where to start and in which direction to move.
+Every accepted maxim has the form "from A to B", where A is the easier starting point for the learner and B is the harder end point. This gives you a simple test in the examination. If an option starts from the harder end (complex, abstract, unknown, general), it has been reversed, and the reversed form is not an accepted maxim. "From complex to simple", "from abstract to concrete" and "from unknown to known" are all wrong as maxims.
+::sub The maxims one by one
+- **From known to unknown** (ज्ञात से अज्ञात की ओर). Begin with what learners already know and use it as a bridge to new material. A lesson on democracy that starts from the students' own class elections follows this maxim. It rests on Herbart's idea of apperception: new ideas are understood through old ones already in the mind (see 1.5). It also agrees with Ausubel's stress on prior knowledge (see Chapter 2).
+- **From simple to complex** (सरल से जटिल की ओर). Present easy elements before difficult ones, so that difficulty rises in steps. Simple sentences come before compound and complex sentences. The basis is the graded difficulty of tasks.
+- **From concrete to abstract** (मूर्त से अमूर्त की ओर). Begin with things learners can see, touch, handle or picture, and only then give definitions, rules and theories, which are abstract. Counting beads before learning number symbols, or visiting a local fort before discussing feudalism, follows this maxim. Starting with a definition reverses it.
+- **From particular to general** (विशिष्ट से सामान्य की ओर). Present several particular cases first and let the general rule be drawn from them. Measuring several triangles before stating that the angles add up to 180 degrees follows this maxim. It is the basis of the inductive method.
+- **From whole to part** (पूर्ण से अंश की ओर). Give the complete picture first, then the details. Read a poem right through before studying its stanzas; show the map of India before taking up the states. The basis is Gestalt psychology, which holds that we perceive organised wholes before their parts. Starting with the parts and building up to the whole is the reverse.
+- **From analysis to synthesis.** First break a whole into its elements so that each can be understood (analysis), then put the elements together again into a meaningful whole (synthesis). Breaking a complex sentence into clauses and then building new complex sentences follows this maxim. Learning is incomplete if it stops at analysis.
+- **From empirical to rational** (अनुभवजन्य से तर्कसंगत की ओर). Empirical knowledge rests on observation and experience; rational knowledge rests on reasons and proof. Students first observe that the sun always rises in the east; later the teacher explains it by the earth's rotation. This is one observed fact followed by its reasoned explanation, not a rule built from many cases.
+- **From indefinite to definite** (अनिश्चित से निश्चित की ओर). A learner's first ideas are vague. Teaching makes them clear and exact.
+- **From psychological to logical** (मनोवैज्ञानिक से तार्किक की ओर). The psychological order follows the learner's interests, needs, readiness and level of development. The logical order follows the structure of the subject as an expert sees it, for example the chapter order of a textbook. Teaching begins with the psychological order and moves gradually to the logical order.
+- **From near to far.** Begin with the learner's own surroundings, such as the village, district or state, and move outwards to distant places and times. "From remote to near" is the reversed form.
+- **From induction to deduction.** First let learners reach a rule from examples, then let them apply it. This links the maxims to the methods described below.
+::table widths=30,40,30
+|Maxim|Classroom example|Idea it rests on|
+|Known to unknown|Class elections before democracy|Herbart's apperception; prior knowledge|
+|Simple to complex|Simple sentences before compound sentences|Graded difficulty|
+|Concrete to abstract|Beads before number symbols|Things before ideas|
+|Particular to general|Several triangles measured before the angle-sum rule|Inductive reasoning|
+|Whole to part|Whole poem before its stanzas|Gestalt view of perception|
+|Analysis to synthesis|Clauses separated, then new sentences built|Understanding parts, then rebuilding the whole|
+|Empirical to rational|Sunrise observed, then explained|Experience before reasons|
+|Psychological to logical|Learner's interest before textbook order|Learner before subject structure|
+::sub Two maxims that look alike
+"Concrete to abstract" and "particular to general" often work together in one lesson, so students take them to be one maxim. They are different. Concrete to abstract is about the **kind of experience**: from things to ideas. Particular to general is about **scope**: from single cases to a rule that covers all cases. A particular case can itself be abstract. For example, three worked algebra examples are particular cases, but none of them is a concrete object.
+::sub Inductive and deductive methods
+The **inductive method** (आगमन विधि) moves from particular examples to a general rule. The teacher gives several examples, the learners observe what is common, and the learners themselves state the rule. A science teacher who lets students watch iron, copper and brass rods expand on heating, and only then states that metals expand on heating, is teaching inductively. Induction follows the maxims "particular to general", "concrete to abstract" and "known to unknown". It suits discovery and gives real understanding, but it is slow.
+The **deductive method** (निगमन विधि) moves the other way, from the general rule to particular cases. The teacher states the rule, law or formula first, and the learners apply it to examples. Stating "metals expand on heating" and then verifying it with rods is deductive. Deduction moves from general to particular and from abstract to concrete. It covers content quickly and gives practice, but by itself it encourages memorising.
+::table widths=26,37,37
+|Point|Inductive method|Deductive method|
+|Direction|Particular to general; examples to rule|General to particular; rule to examples|
+|Also moves|Concrete to abstract|Abstract to concrete|
+|Learner's role|Active; discovers the rule|Receives the rule; applies it|
+|Time|Slow|Quick; covers more content|
+|Best for|Understanding a new rule; discovery|Practice, verification, problem-solving, revision|
+The two methods are not rivals. Good teaching usually joins them in one order: **induction first, then deduction**. A teacher lets students infer the rule for forming plurals from a set of examples (induction), then gives exercises in which they apply the rule to new words (deduction). Induction secures understanding; deduction gives practice and tests the rule. It is therefore wrong to say that deduction has no place in the classroom.
+::box example
+In a B.A. first-year English class at a college in Sirsa, the teacher writes on the board: "She has finished her work", "They have gone home", "I have read the notice". She asks what the sentences share. Students notice "has" or "have" followed by a past participle, and that each action is complete but still matters now. Together they state the rule for the present perfect. This is induction: particular to general, and known to unknown, because the sentences come from the students' own college life. The teacher then gives ten new situations and asks students to write present perfect sentences for each. This is deduction: the rule is applied to fresh cases.
+::endbox
+::box confused
+- **Concrete to abstract vs particular to general.** The first is about the kind of experience (things to ideas). The second is about scope (cases to a rule). They are two separate maxims.
+- **Particular to general vs empirical to rational.** Particular to general needs several cases leading to one rule. Empirical to rational takes an observed fact and gives the reasoned explanation for it.
+- **Whole to part vs analysis to synthesis.** Whole to part says present the whole picture first. Analysis to synthesis says break the whole into elements and then rebuild it; the stress is on recombining.
+- **Psychological order vs logical order.** Psychological follows the learner (interest, readiness). Logical follows the subject (its expert structure, the textbook sequence). Teaching moves from psychological to logical.
+- **Inductive vs deductive.** Inductive: examples, then rule; slow; suits discovery. Deductive: rule, then examples; quick; suits practice and application.
+- **Maxim "known to unknown" vs analytic method "unknown to known".** The maxim is about linking new knowledge to old. The analytic method (see Going Further) is a direction of proof, from what is to be proved back to the given data. Do not mix them.
+::endbox
+::further
+::sub Analytic and synthetic methods
+These two methods are used especially in mathematics, for proving theorems and solving problems. They put the maxim "analysis to synthesis" into practice.
+The **analytic method** (विश्लेषण विधि) starts from the **unknown**, that is, the conclusion to be proved or the quantity to be found, and works backwards to the **known**, that is, the given data. At each step the teacher asks, "What must be true for this to hold?" The chain is followed back until it reaches something given. The method shows learners why each step is taken and how a proof is discovered. It is slow and the record of it can be untidy, but it develops reasoning.
+The **synthetic method** (संश्लेषण विधि) starts from the **known** data and builds forward, step by step, to the **unknown** conclusion. It is the form in which a finished proof is written in a textbook. It is short, neat and logical, but it hides how the proof was found, so learners may memorise it without understanding.
+Good practice again combines the two. The teacher first finds the path by analysis, discussing it with the class, and then writes the proof out by synthesis. Hence the maxim "from analysis to synthesis".
+::table widths=26,37,37
+|Point|Analytic method|Synthetic method|
+|Direction|Unknown to known (conclusion back to data)|Known to unknown (data forward to conclusion)|
+|Shows|Why each step is taken; how the proof is found|The finished proof|
+|Length|Long|Short|
+|Learner|Discovers; thinks|Follows; may memorise|
+Now the four methods can be matched with their direction of reasoning, a favourite matching item:
+::table widths=30,70
+|Method|Direction|
+|Inductive|Particular to general|
+|Deductive|General to particular|
+|Analytic|Unknown to known|
+|Synthetic|Known to unknown|
+Two traps. First, deduction applies a general rule to cases; it is not the same as analysis, which works backwards from a conclusion. Second, the synthetic method, not the analytic, is the one that runs from known to unknown.
+::sub The bases of the maxims
+Harder items ask on what idea a maxim rests. Known to unknown rests on Herbart's doctrine of apperception (new ideas are learnt through the mass of ideas already in the mind). Whole to part rests on the Gestalt view that wholes are perceived before parts. Simple to complex rests on the grading of tasks by difficulty. Particular to general rests on inductive reasoning. Known to unknown is also consistent with Ausubel's stress on the learner's prior knowledge.
+::box check
+Q1. Which of the following is an accepted maxim of teaching?
+(A) From general to particular
+(B) From abstract to concrete
+(C) From psychological to logical
+(D) From complex to simple
+Q2. Match the maxims in List I with the classroom practices in List II.
+::match
+List I || List II
+A. Known to unknown || I. Showing the whole map of Haryana before its districts
+B. Whole to part || II. Starting a lesson on inflation from the price of vegetables last year and this year
+C. Concrete to abstract || III. Handling coins of different weights before defining mass
+D. Empirical to rational || IV. Noticing that ice floats, then explaining it by density
+(A) A-II, B-I, C-III, D-IV
+(B) A-I, B-II, C-III, D-IV
+(C) A-II, B-I, C-IV, D-III
+(D) A-III, B-I, C-II, D-IV
+Q3. Statement I: The deductive method suits a lesson in which learners are expected to discover a rule for themselves. Statement II: The synthetic method moves from the known data to the unknown conclusion.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Assertion (A): Good teaching usually follows induction with deduction. Reason (R): Induction helps learners understand a rule, and deduction gives practice in applying it.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Which of the following statements are correct? 1. The analytic method moves from the unknown to the known. 2. "From particular to general" is the basis of the inductive method. 3. "From whole to part" rests on Gestalt psychology. 4. The logical order follows the interests of the learner. Choose the correct answer from the options given below:
+(A) 2, 3 and 4 only
+(B) 1, 2 and 3 only
+(C) 1 and 4 only
+(D) 1, 2, 3 and 4
+Q6. A mathematics teacher writes the finished proof of a theorem neatly from the given data to the conclusion, without discussing how the proof was found. The method is:
+(A) inductive
+(B) analytic
+(C) heuristic
+(D) synthetic
+Q7. Arrange the steps of a combined lesson on a grammar rule in the order good practice recommends: 1. Learners apply the rule to new sentences. 2. Learners study several example sentences. 3. Learners state the rule in their own words. 4. Learners notice what the examples have in common.
+(A) 3, 2, 4, 1
+(B) 2, 3, 4, 1
+(C) 2, 4, 3, 1
+(D) 1, 2, 4, 3
+::endbox
+::answers
+Q1. (C), because teaching starts from the learner's interests and readiness (psychological order) and moves towards the structure of the subject (logical order). The other three options reverse accepted maxims: particular to general, concrete to abstract, simple to complex.
+Q2. (A), because the price of vegetables is already known (known to unknown), the whole map comes before districts (whole to part), coins are handled before the definition (concrete to abstract), and an observed fact is given its reasoned explanation (empirical to rational).
+Q3. (D), because discovery of a rule suits the inductive method, not the deductive; Statement II correctly describes synthesis, which runs from known data to the unknown conclusion.
+Q4. (A), because both are true and the Reason gives exactly why the order induction-then-deduction is preferred.
+Q5. (B), because 1, 2 and 3 are correct. Statement 4 is wrong: the logical order follows the structure of the subject; the psychological order follows the learner.
+Q6. (D), because the synthetic method presents the finished proof from data to conclusion. The analytic method would work backwards from the conclusion and show how the proof is found.
+Q7. (C), because induction comes first (examples, noticing what is common, stating the rule) and deduction follows (applying the rule).
+::endanswers
+
+::section 1.7 | Characteristics of effective teaching and of a good teacher
+::syllabus Teaching: Concept, Objectives, Levels of teaching (Memory, Understanding and Reflective), Characteristics and basic requirements
+::box footprint
+{{FP 1.7}}
+::endbox
+::h Core
+::sub Effective teaching is judged by learning
+Teaching exists to produce learning. So the final test of **effective teaching** (प्रभावी शिक्षण) is the change it brings about in learners: in their knowledge, skills and attitudes. The number of lectures delivered, the length of the teacher's notes, the speed of syllabus coverage and the silence of the class are not measures of effectiveness. Lectures and notes are inputs. A syllabus can be "covered" with very little learning, and a silent class may or may not be a learning class.
+::sub The characteristics examiners ask about
+Most questions on this topic list some true characteristics of good teaching and mix in features of poor teaching. Learn the true list, and learn the opposite of each item, because the opposite is the usual distractor.
+::table widths=50,50
+|Good teaching is...|Poor teaching (the distractor) is...|
+|Planned and purposeful: clear objectives and an organised plan|Unplanned; aimless|
+|Interactive and two-way: the teacher explains and asks, learners respond and question|One-way; dominated by teacher talk|
+|Based on feedback (प्रतिपुष्टि): the teacher adjusts to what learners have understood|Blind to how the class is responding|
+|Flexible and adaptive: pace, example or method changes with the class|Rigid; one fixed procedure whatever happens|
+|Democratic: respects learners, invites questions and differing views|Authoritarian; discourages questions|
+|Diagnostic and remedial: finds difficulties and helps overcome them|Assumes all learners learn in the same way and at the same pace|
+|Linked with what learners already know|Unconnected with previous knowledge|
+|Aimed at an independent learner|Keeps the learner dependent on the teacher|
+|Judged by the learning achieved|Judged by content covered or lectures given|
+Now the reasons behind some of these, because Assertion-Reason items test the reasons.
+- **Two-way communication and feedback.** Teaching is an interactive process. The teacher can match pace, examples and method to the class only by knowing how the class is responding. Questions, facial expressions, answers and test results supply this feedback. One-way talk gives the teacher no way of knowing whether the class has understood.
+- **Flexibility.** When a teacher sees puzzled faces and replaces her planned example with a simpler one, she shows flexibility. Sticking to the plan whatever the response would put the plan above the learning.
+- **Democratic teaching** (लोकतांत्रिक शिक्षण). It means treating learners with respect, giving them freedom to ask, to differ and to take part, and reasoning with them instead of commanding. It does not mean handing over the teacher's responsibilities (letting students fix examination dates, voting before every lesson) or leaving errors uncorrected.
+- **Diagnostic and remedial** (निदानात्मक एवं उपचारात्मक). Good teaching locates learners' difficulties and gives help to overcome them. It does so precisely because learners differ in pace, style and background. If all learners learnt alike, diagnosis would be unnecessary. So a statement that "good teaching assumes all learn alike" is false, and it cannot be the reason for diagnostic teaching.
+- **Independence as the aim.** Good teaching gives guidance suited to the learner's needs, but it gives that guidance so that it can be withdrawn. The aim is a learner who can learn alone. A statement that good teaching keeps learners permanently dependent is false.
+::sub The good teacher
+Some characteristics belong to the teacher rather than to the lesson.
+- **Reflective practice** (चिंतनशील अभ्यास). The teacher looks back on her own teaching, asks what worked and what did not, and changes future lessons. This is self-examination. Subject mastery and verbal fluency are good qualities too, but they describe what a teacher knows or how she speaks, not self-examination.
+- **Non-verbal communication** (अशाब्दिक संप्रेषण). A teacher's message is carried not only by words but by voice, face, gesture, eye contact and movement. Learners read these cues for emphasis, interest and attitude. That is why the teacher's non-verbal behaviour affects what students learn.
+- **Classroom management** (कक्षा प्रबंधन). Its aim is to create conditions in which students are engaged in learning for as much of the period as possible. It covers the organisation of space, time, routines and relationships. Good management prevents most problems before they arise. Its aim is not punishment, not silence for its own sake, and not finishing the syllabus early.
+::sub Leadership styles: Lewin, Lippitt and White
+In classic experiments reported in 1939, Kurt Lewin, Lippitt and White studied groups of boys in after-school clubs led by adults who used three different **leadership styles** (नेतृत्व शैली).
+::table widths=22,78
+|Style|What happened|
+|Authoritarian (autocratic)|Boys worked hard, but mainly while the leader was present and watching; there was hostility or submissiveness|
+|Laissez-faire|The leader left the boys to themselves; little was done and the work was poor|
+|Democratic|Work went on even when the leader was away; members were friendly and satisfied; the best combination of work and morale|
+The lesson for the classroom: a democratic climate gives both good work and good morale. A "bureaucratic" style was not one of the three styles studied.
+::box example
+In a B.Com. class at a government college in Hisar, Dr Meena is explaining compound interest. Half-way through she notices that several students have stopped writing and look puzzled. She stops, asks one student to say what he has understood, and hears that the class has not grasped the idea of interest on interest. She drops her prepared formula and takes a simpler case: a savings account of 1,000 rupees left in a bank for three years. After the lesson she writes in her diary that next year she will start with the bank example. In this one lesson she showed feedback-based, flexible and diagnostic teaching, and, in the diary, reflective practice.
+::endbox
+::box confused
+- **Reflective practice vs subject mastery.** Reflective practice is examining one's own teaching to improve it. Subject mastery is knowing the subject well.
+- **Democratic vs laissez-faire.** Democratic: the teacher guides, reasons and invites participation, and still corrects errors. Laissez-faire: the teacher gives up direction, and little work is done.
+- **Authoritarian vs democratic (Lewin, Lippitt and White).** Authoritarian groups worked mainly under watch. Democratic groups kept working in the leader's absence.
+- **Classroom management vs discipline by punishment.** Management creates conditions for engaged learning time and prevents problems. Punishment reacts to problems after they occur.
+- **Input vs outcome.** Lectures, notes and syllabus coverage are inputs. Learning is the outcome, and it is the outcome that judges teaching.
+- **Withitness vs overlapping (Kounin).** Withitness is showing awareness of everything happening in the room. Overlapping is attending to two matters at the same time.
+- **Presage vs process vs product.** Presage is what the teacher brings (training, traits). Process is classroom behaviour. Product is the outcome in pupils.
+::endbox
+::further
+::sub Kounin's findings on classroom management
+Jacob Kounin's research on classroom management (published as Discipline and Group Management in Classrooms, 1970) found that good managers prevent problems rather than react to them. His terms are often asked:
+- **Withitness**: the teacher communicates, by her behaviour, that she knows what is going on in every part of the room. A teacher helping one group who notices two students at the back drifting off task and checks them with a glance is showing withitness.
+- **Overlapping**: attending to two or more matters at the same time, for example continuing to help one group while answering another student's question.
+- **Momentum**: keeping the lesson moving at a suitable pace, without slowdowns such as dwelling on a point longer than needed.
+- **Smoothness**: moving through the lesson and from one activity to the next without abrupt breaks or irrelevant digressions.
+::sub Presage, process and product variables
+Research on teacher effectiveness often uses the model set out by Dunkin and Biddle in The Study of Teaching (1974). It classifies variables as follows.
+::table widths=22,78
+|Variable|Meaning and examples|
+|Presage|What the teacher brings to teaching: formative experiences, training, qualifications, personality traits|
+|Context|The setting the teacher works in: the pupils (their abilities, background), the classroom, the school and the community|
+|Process|What actually happens in the classroom: the observable behaviour of teacher and pupils|
+|Product|The outcomes in pupils: achievement, attitudes, skills|
+So a teacher's qualifications, training and personality are presage variables, not context variables. Context is the setting, not what the teacher brings to it.
+A department that judges its teachers only by pass percentage makes a common mistake. Pass percentage is a product measure, and product measures have many causes besides the teacher: the pupils' entry level and motivation, class size and facilities. Comparing teachers on raw results is therefore unfair. It is fairer to take such factors into account, or to measure the gain made by each class (a "value-added" measure) rather than the final level alone.
+::sub Seven principles of good practice in undergraduate education
+Chickering and Gamson published "Seven Principles for Good Practice in Undergraduate Education" in the AAHE Bulletin in March 1987. Good practice:
+1. encourages contact between students and faculty;
+2. develops reciprocity and cooperation among students;
+3. encourages active learning;
+4. gives prompt feedback;
+5. emphasises time on task;
+6. communicates high expectations;
+7. respects diverse talents and ways of learning.
+Public ranking of students to sharpen competition is not among them; it works against cooperation among students.
+::sub Immediacy, clarity, credibility and efficacy
+**Immediacy** is a concept from the psychologist Mehrabian: behaviours that reduce the physical or psychological distance between people. Andersen applied it to teaching in 1979. **Teacher immediacy** covers non-verbal behaviours such as smiling, eye contact, a relaxed posture and moving among students, and verbal behaviours such as calling students by name. It is associated with students' liking for the course and their motivation. Do not confuse it with three neighbouring terms. **Teacher clarity** is how understandable the teacher's explanations are. **Teacher credibility** is how competent and trustworthy the teacher appears to students. **Teacher efficacy** is the teacher's own belief in her capability to bring about learning.
+::box check
+Q1. Which of the following are characteristics of good teaching? 1. It provides feedback to learners. 2. It is judged by the amount of syllabus covered. 3. It adapts to the responses of learners. 4. It treats all learners as if they learn alike. Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 1 and 3 only
+(C) 2 and 4 only
+(D) 1, 3 and 4 only
+Q2. Assertion (A): Good teaching is diagnostic and remedial. Reason (R): Learners in any class differ in pace, style and background.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. Match the terms in List I with their meanings in List II.
+::match
+List I || List II
+A. Withitness || I. Doing two things at the same time
+B. Overlapping || II. Keeping the lesson moving without slowdowns
+C. Momentum || III. Showing awareness of all that happens in the room
+D. Smoothness || IV. Moving between activities without abrupt breaks
+(A) A-I, B-III, C-II, D-IV
+(B) A-III, B-I, C-IV, D-II
+(C) A-III, B-I, C-II, D-IV
+(D) A-II, B-I, C-III, D-IV
+Q4. Statement I: In the studies of Lewin, Lippitt and White, work in the authoritarian groups continued steadily when the leader left. Statement II: Democratic teaching means that the teacher leaves students' errors uncorrected.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. A researcher records the number of years of training of each teacher in a district. In the Dunkin and Biddle model, this is a:
+(A) product variable
+(B) process variable
+(C) context variable
+(D) presage variable
+Q6. Which of the following is NOT one of Chickering and Gamson's seven principles?
+(A) Emphasising time on task
+(B) Reducing contact between students and faculty to save time
+(C) Developing cooperation among students
+(D) Respecting diverse talents and ways of learning
+Q7. A teacher learns every student's name in the first week, smiles often and walks between the rows while teaching. She is showing:
+(A) teacher credibility
+(B) teacher clarity
+(C) teacher immediacy
+(D) teacher efficacy
+::endbox
+::answers
+Q1. (B), because good teaching gives feedback and adapts to learners. Coverage is an input, not the test of teaching, and good teaching assumes that learners differ.
+Q2. (A), because learners differ, a teacher must find each one's difficulties and help with them; the Reason explains the Assertion.
+Q3. (C), because withitness is awareness of the whole room, overlapping is handling two matters at once, momentum is pace without slowdowns, and smoothness is flow without abrupt breaks.
+Q4. (B), because authoritarian groups worked mainly while watched, and democratic teaching still corrects errors; both statements are false.
+Q5. (D), because training is something the teacher brings to teaching, which makes it a presage variable. Context would be the pupils, school or community.
+Q6. (B), because the first principle is to encourage contact between students and faculty, not to reduce it.
+Q7. (C), because using names, smiling and moving among students reduce psychological distance, which is immediacy. Clarity concerns explanations, credibility concerns perceived competence and trust.
+::endanswers
+
+::section 1.8 | Basic requirements of teaching: teaching skills, micro-teaching and classroom interaction
+::syllabus Teaching: Concept, Objectives, Levels of teaching (Memory, Understanding and Reflective), Characteristics and basic requirements
+::box footprint
+{{FP 1.8}}
+::endbox
+::h Core
+::sub The basic requirements of teaching
+A teacher needs a small number of things before any teaching can work. Questions usually give a list and ask which items are basic requirements. Learn these:
+- **Mastery of the content.** The teacher must know the subject well.
+- **Pedagogical skill.** The teacher must know how to teach it: planning, explaining, questioning, managing the class and assessing. Knowledge of content without pedagogical skill is not enough; a scholar who cannot communicate does not teach effectively.
+- **Knowing the learner.** The teacher must find out what learners already know, how they differ and what they need, and fit the lesson to them. The knowledge and skill a learner brings to a new lesson is called **entry behaviour** (प्रवेश व्यवहार). It must be known so that new learning can start where the learners are. Knowledge of learners' psychology is as much a requirement as knowledge of the content.
+- **Communication skill.** Teaching is carried on through communication, so the teacher's message must reach learners clearly.
+- **Planning.** Objectives, content, method and assessment are thought out in advance.
+- **Fair evaluation.** Assessment is part of teaching, and it must be transparent and accountable.
+These are not requirements: costly equipment (helpful, but not essential), seniority, salary grade, appearance, an administrative post, authority to award grades without scrutiny, and a belief that learners' ability is fixed. That last belief lowers the teacher's expectations and works against the learner.
+A teacher's **professional competence**, then, consists chiefly of subject knowledge joined to pedagogical skill. A teacher shows that she "knows the learner" when she gauges prior knowledge and adjusts examples and pace; finishing the syllabus early, dictating notes or setting a paper few can pass show nothing of the kind.
+Two separate requirements do not explain each other. "A teacher must know the entry behaviour of learners" and "A teacher must master the subject" are both true, but the second is not the reason for the first.
+::sub Teaching skills
+A **teaching skill** (शिक्षण कौशल) is a small, definable group of teacher behaviours that helps learning, for example asking a good question or closing a lesson well. Teacher-training programmes break teaching into such skills so that each can be practised and improved. The skills most often asked are these.
+::table widths=24,38,38
+|Skill|Purpose|Typical components or signs|
+|Set induction (प्रस्तावना कौशल), the skill of introducing a lesson|Prepares learners at the start: arouses interest and links the new topic with previous knowledge|Linking with previous knowledge; a question, story or problem that leads into the topic|
+|Explaining|Makes an idea, process or relationship understood|Clear beginning and concluding statements; explaining links; fluency; checking understanding|
+|Illustrating with examples|Clarifies an abstract idea by connecting it with the familiar|Simple, relevant, interesting examples; examples from the learners' own life|
+|Questioning|Makes learners think and take part|Clear and relevant questions; pausing; distribution of questions over the class|
+|Probing questioning|Deepens a student's partial or shallow answer|Prompting, seeking further information, refocusing, redirection, asking for justification|
+|Reinforcement (पुनर्बलन)|Encourages desired responses so that students take part more|Praise words ("Good", "Well explained"), nods, smiles, accepting and using answers|
+|Stimulus variation (उद्दीपन परिवर्तन)|Secures and holds attention throughout the lesson|Movement, gestures, change in speech pattern, pausing, focusing, change in interaction style, switching between oral and visual channels|
+|Closure (समापन), achieving closure|Consolidates learning at the end of the lesson|Summarising the main points; relating them to earlier learning; pointing ahead|
+Some points that decide many questions:
+- Set induction and stimulus variation both concern attention. Set induction works **only at the opening** of a lesson and links the topic with previous knowledge. Stimulus variation works **throughout** the lesson, by changes in the teacher's behaviour.
+- A teacher who says "Good, well explained" after a correct answer is using reinforcement. A teacher who, after a partly correct answer, asks "Can you say more? Why do you think so?" is using **probing** (खोजपूर्ण प्रश्न). Explaining would mean the teacher supplies the missing part herself.
+- Probing works on a student's answer. Illustrating with examples works on the idea itself, for the whole class.
+- In questioning, put the question to the whole class, pause, and only then name a student. If you name the student first, the rest relax because they know they will not be asked. Asking first and pausing keeps everyone thinking.
+::sub Convergent and divergent questions
+A **convergent question** has one correct answer, which is recalled or computed: "Who issued the guidelines for ...?", "What is meant by ...?", or a calculation with one result. A **divergent question** has many acceptable answers and calls for prediction, imagination or reasoning: "What might happen to university teaching if examinations were abolished?" Divergent questions are usually higher-order. A question that needs a calculation is still convergent if it has a single right answer.
+::sub Micro-teaching
+**Micro-teaching** (सूक्ष्म शिक्षण) is a scaled-down teaching encounter used in teacher training. It was developed at Stanford University, USA, by Dwight W. Allen and his colleagues; the year usually given is 1963. Its purpose is to give trainee teachers controlled practice in one teaching skill at a time, with immediate feedback. It was later adapted for Indian teacher education. It has nothing to do with teaching small children, with very short quizzes or with miniature models.
+Micro-teaching scales teaching down in three ways:
+- **Class size**: about 5 to 10 pupils, who may be real pupils or fellow trainees acting as pupils.
+- **Lesson length**: about 5 to 10 minutes. (A normal college period is about 40 to 45 minutes.)
+- **Task**: one teaching skill at a time.
+One thing is **not** scaled down: **feedback** (प्रतिपुष्टि). Feedback is the heart of the technique. It is immediate and detailed, and it comes from the supervisor, from peers, or from a video recording.
+The **micro-teaching cycle** has six steps, always in this order:
+1. Plan: the trainee plans a short lesson on one skill.
+2. Teach: she teaches it to a small group.
+3. Feedback: supervisor and peers tell her how she used the skill.
+4. Re-plan: she revises the lesson in the light of the feedback.
+5. Re-teach: she teaches the revised lesson, usually to a different group of pupils.
+6. Re-feedback: she receives feedback again.
+Feedback must come before re-planning; otherwise there is nothing to revise against. When the trainee is satisfied, the cycle is repeated with the next skill.
+::sub The Indian model of micro-teaching
+In India the technique was adapted for conditions of limited resources. The adaptation is associated with B. K. Passi and NCERT. Its features: fellow trainees act as pupils (simulated conditions), feedback comes from supervisors and peer observers using observation schedules, and no costly equipment is needed. The full cycle and the one-skill principle are kept. The timings of one cycle, after the lesson has been planned, are:
+::table widths=50,50
+|Step|Minutes|
+|Teach|6|
+|Feedback|6|
+|Re-plan|12|
+|Re-teach|6|
+|Re-feedback|6|
+|Total for one cycle|36|
+Learn it as "6, 6, 12, 6, 6". Re-planning is the only step that takes 12 minutes. The initial planning is done before the timed cycle and is not counted in the 36 minutes.
+::box worked
+Method for any micro-teaching timing question.
+1. Write the five timed steps: teach 6, feedback 6, re-plan 12, re-teach 6, re-feedback 6.
+2. Add them: one cycle = 36 minutes.
+3. Convert the session to minutes (hours x 60).
+4. Divide by 36. The whole number is the number of complete cycles; the remainder is time left over.
+Example 1. How long is one cycle of the Indian model?
+> 6 + 6 + 12 + 6 + 6 = 36 minutes
+Example 2. How many complete cycles fit into a three-hour laboratory session?
+> 3 hours = 3 x 60 = 180 minutes
+> 180 / 36 = 5 exactly
+> Answer: 5 complete cycles
+Example 3. How many complete cycles fit into a two-hour session, and how much time is left?
+> 2 hours = 120 minutes
+> 120 / 36 = 3, remainder 12 (because 3 x 36 = 108 and 120 - 108 = 12)
+> Answer: 3 complete cycles, with 12 minutes left
+Example 4. What share of one cycle goes to re-planning?
+> 12 / 36 = 1/3, that is, about 33.3 per cent
+::endbox
+::box slips
+- Leaving out re-feedback and taking the cycle as 30 minutes. With 30, a three-hour session seems to give 6 cycles; the correct answer is 5.
+- Giving re-planning 6 minutes like the other steps. It takes 12.
+- Counting the initial planning inside the 36 minutes. It is done before the cycle.
+- Rounding up. If 120 minutes give 3.33 cycles, only 3 cycles are complete.
+- Putting re-plan before feedback in a sequencing item. Feedback always comes first.
+::endbox
+::sub Simulated teaching and link practice
+In **simulated teaching** (अनुरूपित शिक्षण) a small group of trainees practise among themselves. One teaches, some act as pupils and others observe and record; then the roles are rotated. Each trainee thus plays, by turns, the roles of teacher, pupil and observer.
+Micro-teaching trains skills one at a time, but real teaching needs them together. **Link practice**, also called integration of skills, bridges this gap. After practising several skills separately, the trainee combines them in lessons of intermediate length (about 20 minutes) with groups of intermediate size, before going to a real classroom.
+::sub Flanders' Interaction Analysis
+**Interaction analysis** (अंतःक्रिया विश्लेषण) is the systematic observation and recording of classroom interaction. The best-known system is Flanders' **Interaction Analysis Categories** (FIAC, often written FIACS for the category system), developed at the University of Minnesota in the late 1950s. It studies **verbal interaction in the classroom** only. It does not record non-verbal behaviour, written work, textbooks or test items; recording only talk is one of its accepted limitations.
+The system has **ten categories**:
+::table widths=18,22,60
+|Category|Group|Behaviour|
+|1|Teacher talk: indirect|Accepts feelings|
+|2|Teacher talk: indirect|Praises or encourages|
+|3|Teacher talk: indirect|Accepts or uses ideas of students|
+|4|Teacher talk: indirect|Asks questions|
+|5|Teacher talk: direct|Lectures (gives facts or own opinions)|
+|6|Teacher talk: direct|Gives directions or commands|
+|7|Teacher talk: direct|Criticises or justifies authority|
+|8|Student talk|Response (answers the teacher)|
+|9|Student talk|Initiation (student starts the talk)|
+|10|Silence or confusion|Pauses, short silences, talk that cannot be understood|
+So there are seven teacher categories (four indirect, three direct), two student categories and one for silence or confusion. **Indirect influence** (categories 1 to 4) invites and widens students' participation. **Direct influence** (categories 5 to 7) restricts students' freedom to respond. Two traps: asking questions (4) comes from the teacher but is classed as indirect, because it invites participation; lecturing (5) feels neutral but is classed as direct.
+**How the observer records.** Every **three seconds** the observer writes down the number of the category that best describes the talk at that moment. That gives about 20 tallies a minute. The sequence of numbers is then entered, in pairs, into a ten-by-ten matrix, from which percentages and ratios are worked out. The record shows how far the teacher's influence was direct or indirect.
+::box worked
+Method for Flanders calculations.
+1. Add the tallies in each group: indirect (1 to 4), direct (5 to 7), student talk (8 and 9), silence (10).
+2. Teacher talk = indirect + direct, that is, categories 1 to 7.
+3. Total = all ten categories.
+4. Teacher talk per cent = teacher talk / total x 100. Student talk per cent = (8 + 9) / total x 100. Silence per cent = 10 / total x 100.
+5. I/D ratio = indirect / direct = (tallies in 1 to 4) / (tallies in 5 to 7). Indirect goes on top.
+6. Time observed in minutes = total tallies x 3 / 60, that is, total / 20.
+Example 1. Indirect tallies 120, direct 240. Find the I/D ratio.
+> I/D = 120 / 240 = 0.5
+> A ratio below 1 means the teacher's influence was more direct than indirect.
+Example 2. A record shows 150 tallies in categories 1 to 4, 300 in 5 to 7, 120 in 8 and 9, and 30 in 10.
+> Teacher talk = 150 + 300 = 450
+> Total = 150 + 300 + 120 + 30 = 600
+> Teacher talk = 450 / 600 x 100 = 75 per cent
+> Student talk = 120 / 600 x 100 = 20 per cent
+> Silence or confusion = 30 / 600 x 100 = 5 per cent
+> I/D = 150 / 300 = 0.5
+> Time observed = 600 / 20 = 30 minutes
+Example 3. In a lesson at a university department the tallies are: category 1: 5, 2: 25, 3: 30, 4: 60, 5: 300, 6: 40, 7: 20, 8: 90, 9: 30, 10: 40.
+> Indirect = 5 + 25 + 30 + 60 = 120
+> Direct = 300 + 40 + 20 = 360
+> Teacher talk = 120 + 360 = 480
+> Student talk = 90 + 30 = 120
+> Total = 480 + 120 + 40 = 640
+> Teacher talk = 480 / 640 x 100 = 75 per cent
+> Student talk = 120 / 640 x 100 = 18.75 per cent
+> Silence = 40 / 640 x 100 = 6.25 per cent
+> I/D = 120 / 360 = 0.33 (one-third)
+> Time observed = 640 / 20 = 32 minutes
+Example 4. How many tallies does a 40-minute observation produce?
+> 40 minutes x 60 = 2,400 seconds; 2,400 / 3 = 800 tallies
+::endbox
+::box slips
+- Counting only the direct categories (5 to 7) as teacher talk. Indirect categories 1 to 4 are teacher talk too. In Example 2 this slip gives 50 per cent instead of 75.
+- Inverting the ratio. I/D puts indirect on top. 240 / 120 = 2.0 is D/I, not I/D.
+- Putting category 4 (asking questions) under direct influence. It is indirect.
+- Leaving category 10 out of the total when finding percentages. The total includes all ten categories.
+- Taking the interval as 10, 30 or 60 seconds. It is 3 seconds.
+::endbox
+::box example
+At a college of education in Rohtak, B.Ed. trainees practise the skill of reinforcement. Priya plans a six-minute lesson on the parts of a flower and teaches it to five classmates acting as pupils, while two others fill in an observation schedule. In the six-minute feedback the supervisor reports that she praised only two answers, always with the same word, "Good". In twelve minutes she re-plans, adding varied praise words and a nod or smile for each attempt. She re-teaches to a different group of five classmates, and the re-feedback shows that she reinforced nine responses in varied ways. The whole cycle took 36 minutes.
+::endbox
+::box confused
+- **Set induction vs closure.** Set induction opens the lesson and links it with previous knowledge. Closure ends the lesson and consolidates.
+- **Set induction vs stimulus variation.** Both serve attention; set induction only at the start, stimulus variation throughout the lesson.
+- **Reinforcement vs probing.** Reinforcement praises or accepts a response. Probing asks follow-up questions to deepen it.
+- **Probing vs illustrating.** Probing works on a student's answer. Illustrating uses examples to clarify the idea for the whole class.
+- **Convergent vs divergent questions.** Convergent: one correct answer, even if it needs calculation. Divergent: many acceptable answers; usually higher-order.
+- **Micro-teaching vs simulated teaching.** Micro-teaching is the scaled-down cycle for one skill with feedback. Simulated teaching is role-play among trainees (teacher, pupil, observer, rotated); the Indian model of micro-teaching uses simulated conditions.
+- **Micro-teaching vs link practice.** Micro-teaching: one skill at a time. Link practice: several skills combined in a longer lesson with a larger group.
+- **Indirect vs direct influence (Flanders).** Indirect: categories 1 to 4 (accepting feelings, praising, using students' ideas, asking questions). Direct: 5 to 7 (lecturing, directing, criticising).
+- **Student response (8) vs student initiation (9).** Response answers the teacher. Initiation is talk the student starts.
+- **Stanford model vs Indian model.** Stanford: real pupils and videotape feedback. Indian: peers as pupils, feedback from supervisors and peers, no costly equipment; same cycle and one-skill principle.
+- **PCK vs TPACK.** PCK (Shulman) joins content and pedagogy. TPACK (Mishra and Koehler) adds technology.
+::endbox
+::further
+::sub Pedagogical content knowledge and TPACK
+Lee Shulman, in "Those Who Understand: Knowledge Growth in Teaching" (Educational Researcher, 1986), distinguished three kinds of content knowledge a teacher needs: subject matter knowledge, **pedagogical content knowledge** (शैक्षणिक विषयवस्तु ज्ञान) and curricular knowledge. Pedagogical content knowledge, PCK for short, is the special blend of content and pedagogy that a good teacher has for a particular topic: the most useful examples, analogies and explanations, and the difficulties learners usually have with that topic. It is distinct from knowing the subject and from general teaching skill. It is knowing how to make this subject understandable to these learners.
+**TPACK** (Technological Pedagogical Content Knowledge) was proposed by Mishra and Koehler in Teachers College Record in 2006. It extends Shulman's idea by adding technology: the knowledge a teacher needs lies at the intersection of technology, pedagogy and content. Do not confuse it with three other acronyms. **SAMR** classifies levels of technology use (substitution, augmentation, modification, redefinition); it does not describe teacher knowledge. **ADDIE** and **ASSURE** are models of instructional design.
+::sub More on the skills
+**Explaining.** Explaining means showing how statements are related. Words and phrases such as "because", "therefore", "hence" and "as a result" carry these relations and are called **explaining links**. An explanation that is a string of correct statements with no such links leaves listeners to guess the connections. Other components are clear beginning and concluding statements, fluency, and testing the learners' understanding. Planned repetition, which stresses key points for retention, does not supply causal links.
+**Probing.** Its components are:
+- **Prompting**: giving hints when the student gives no answer or a wrong answer.
+- **Seeking further information**: asking the student to add to or clarify a partly correct answer.
+- **Refocusing**: asking the student to relate a correct answer to another situation or topic.
+- **Redirection**: putting the same question to other students, to obtain more answers or viewpoints.
+- **Increasing critical awareness**: asking the student to justify the answer ("Why?", "How do you know?").
+**Wait time.** Mary Budd Rowe's studies of science classrooms found that teachers typically waited less than one second after asking a question before speaking again. When teachers waited about three seconds or more, students gave longer and more thoughtful answers, and more students answered. Calling only on volunteers does not ensure fair participation: volunteers are usually the same few confident students. Questions should be distributed across the class.
+::sub Phases and feedback in micro-teaching
+Micro-teaching as a training programme has three phases:
+1. **Knowledge acquisition phase**: the trainee learns about the skill by reading, discussion and observing a model lesson that demonstrates it.
+2. **Skill acquisition phase**: the trainee plans, teaches, receives feedback, re-plans and re-teaches, that is, goes through the cycle.
+3. **Transfer phase**: the trainee uses the skill in real classroom teaching.
+So watching and discussing a model lesson before attempting the skill belongs to the knowledge acquisition phase, not to skill acquisition.
+Of the sources of feedback, a **video recording** is regarded as the most objective. It shows exactly what happened, can be replayed and stopped at any point, and is free from the observer's memory and bias. Supervisors and peers give useful judgements, but these are filtered through their perception.
+Useful feedback is **specific, descriptive and tied to the skill practised**, and it points to a concrete next step. "Ten of your twelve questions asked for recall; add two that ask why" is useful feedback. "Your lesson was quite good" or "You need more confidence" gives the trainee nothing to act on.
+::sub Flanders: the rule of two-thirds and ratios
+From observations with his system Flanders stated a **rule of two-thirds**:
+1. about two-thirds of classroom time someone is talking;
+2. about two-thirds of that talk is teacher talk;
+3. about two-thirds of the teacher's talk is direct influence (lecturing, directing, criticising).
+So about two-thirds of the talk in a typical classroom is teacher talk, and the third part of the rule is about direct influence, not indirect. The rule shows how teacher-dominated ordinary classrooms are.
+::box worked
+Using the rule of two-thirds.
+> Share of class time that is teacher talk = 2/3 x 2/3 = 4/9, about 44 per cent
+> Share of class time that is direct teacher talk = 2/3 x 2/3 x 2/3 = 8/27, about 30 per cent (29.6)
+Reading an I/D ratio.
+> Indirect 200, direct 160: I/D = 200 / 160 = 1.25. Above 1, so the teacher's influence was more indirect than direct.
+> Indirect 90, direct 270: I/D = 90 / 270 = 0.33. Below 1, so more direct.
+::endbox
+::box check
+Q1. Which of the following is NOT reduced in micro-teaching?
+(A) The number of pupils
+(B) The detail of feedback
+(C) The duration of the lesson
+(D) The number of skills practised
+Q2. Arrange the steps of the micro-teaching cycle in order: 1. Re-feedback 2. Teach 3. Re-plan 4. Plan 5. Feedback 6. Re-teach
+(A) 4, 2, 3, 5, 6, 1
+(B) 4, 2, 5, 3, 6, 1
+(C) 2, 4, 5, 3, 6, 1
+(D) 4, 5, 2, 3, 6, 1
+Q3. A college of education runs Indian-model micro-teaching cycles (teach 6, feedback 6, re-plan 12, re-teach 6, re-feedback 6 minutes) in a session of 2 hours 24 minutes. How many complete cycles can it run?
+(A) 3
+(B) 5
+(C) 4
+(D) 6
+Q4. Match the skills in List I with their components in List II.
+::match
+List I || List II
+A. Probing || I. Moving about the room and changing the pitch of the voice
+B. Stimulus variation || II. Redirecting the same question to another student
+C. Explaining || III. Summarising the main points at the end
+D. Closure || IV. Using links such as "therefore" and "as a result"
+(A) A-II, B-I, C-IV, D-III
+(B) A-I, B-II, C-IV, D-III
+(C) A-II, B-I, C-III, D-IV
+(D) A-IV, B-I, C-II, D-III
+Q5. A Flanders record has 90 tallies in categories 1 to 4, 270 in 5 to 7, 180 in 8 and 9, and 60 in 10. Which of the following are correct? 1. Teacher talk is 60 per cent. 2. Student talk is 30 per cent. 3. The I/D ratio is 3.0. 4. About 30 minutes were observed. Choose the correct answer from the options given below:
+(A) 1 and 3 only
+(B) 2, 3 and 4 only
+(C) 1, 2 and 3 only
+(D) 1, 2 and 4 only
+Q6. Assertion (A): In Flanders' system, asking questions is classified as indirect influence. Reason (R): Questions invite students to participate in the lesson.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. Statement I: Shulman's pedagogical content knowledge is the same thing as a teacher's knowledge of the latest research in the discipline. Statement II: In TPACK, technology is added to Shulman's pairing of content and pedagogy.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q8. Which question is divergent?
+(A) "What is the full form of SWAYAM?"
+(B) "In which year was the University Grants Commission Act passed?"
+(C) "How might a village library change the reading habits of its young people?"
+(D) "What is 6 + 6 + 12 + 6 + 6?"
+::endbox
+::answers
+Q1. (B), because class size, lesson length and number of skills are all scaled down, but feedback stays immediate and detailed; it is the heart of the technique.
+Q2. (B), because the order is plan, teach, feedback, re-plan, re-teach, re-feedback. Option (A) puts re-planning before feedback.
+Q3. (C), because 2 hours 24 minutes = 144 minutes and 144 / 36 = 4 exactly. Taking the cycle as 30 minutes would give 4.8, and taking it as 24 would give 6.
+Q4. (A), because redirection is a component of probing, movement and voice changes are stimulus variation, explaining links belong to explaining, and summarising ends the lesson in closure.
+Q5. (D), because total = 600, teacher talk = 360 / 600 = 60 per cent, student talk = 180 / 600 = 30 per cent, and 600 tallies at 20 a minute = 30 minutes. The I/D ratio is 90 / 270 = 0.33, not 3.0; 3.0 is the inverted ratio.
+Q6. (A), because Flanders put asking questions (category 4) among the indirect categories precisely because questions open the way for student participation.
+Q7. (D), because PCK is knowing how to make a particular topic understandable to learners (examples, analogies, typical difficulties), not knowledge of new research; Statement II is true.
+Q8. (C), because it has many acceptable answers and asks students to predict and reason. The other three each have a single correct answer, even the one that needs a calculation.
+::endanswers
+
+::section 1.9 | Models of teaching
+::syllabus Teaching: Concept, Objectives, Levels of teaching (Memory, Understanding and Reflective), Characteristics and basic requirements
+::box footprint
+{{FP 1.9}}
+::endbox
+::h Core
+::sub What a model of teaching is
+A **model of teaching** (शिक्षण प्रतिमान) is a planned pattern for teaching that sets out what the lesson aims at, the steps it goes through, the roles of teacher and learners, how the teacher responds to learners, and what materials are needed. It is more complete than a method. The standard work is Models of Teaching by Bruce Joyce and Marsha Weil, first published in 1972 and revised many times since (later editions add Emily Calhoun as an author). Do not confuse the authors with other famous pairs: Bloom and Krathwohl are linked with the taxonomy of objectives, Flanders with interaction analysis, and Allen and Ryan with micro-teaching.
+::sub The elements of a model
+Joyce and Weil describe each model by a set of elements. Questions ask you to match each element with its meaning.
+::table widths=30,70
+|Element|Meaning|
+|Focus (केंद्र-बिंदु)|The central aim or frame of reference of the model: what it is for|
+|Syntax (संरचना)|The sequence of phases or steps through which the model proceeds|
+|Social system (सामाजिक प्रणाली)|The roles and relationships of teacher and students, and the norms of the class|
+|Principles of reaction (प्रतिक्रिया के सिद्धांत)|How the teacher responds to what learners say and do|
+|Support system (सहायक प्रणाली)|The special materials, facilities and conditions the model needs, beyond the usual skills of a teacher|
+Joyce and Weil also describe each model's instructional and nurturing effects, that is, what it teaches directly and what it develops along the way. The trap: "system" occurs in two names. The social system is about **people** (roles and relationships); the support system is about **materials** and facilities.
+::sub The four families
+Joyce and Weil grouped the models into four families, according to what each family mainly develops.
+::table widths=26,40,34
+|Family|What it develops|Examples|
+|Information-processing|How learners take in, organise and use information; concepts and thinking|Concept attainment (Bruner); inquiry training (Suchman); advance organiser (Ausubel); inductive thinking|
+|Social (social interaction)|Learning through working with others; democratic process and social values|Group investigation (Thelen); role playing; jurisprudential inquiry (Oliver and Shaver)|
+|Personal|The individual's self-understanding, self-worth and creativity|Non-directive teaching (Rogers); synectics (Gordon)|
+|Behavioural (behavioural systems)|Observable changes in behaviour through reinforcement|Contingency management, based on Skinner's operant conditioning|
+Pair each model with its person:
+- **Concept attainment model** (संप्रत्यय उपलब्धि प्रतिमान): based on Bruner's work on how people form concepts. Learners compare positive examples and negative examples (non-examples) to find the defining attributes of a concept.
+- **Inquiry training model** (पृच्छा प्रशिक्षण प्रतिमान): developed by Suchman. Learners are shown a puzzling event and investigate it by asking questions, so that they learn the process of inquiry.
+- **Advance organiser model** (अग्रिम संगठक प्रतिमान): based on Ausubel's theory of meaningful verbal learning. The teacher presents a broad introductory framework before the detailed material.
+- **Jurisprudential inquiry model**: by Oliver and Shaver, for analysing public policy issues and the values in conflict in them.
+Bruner and Ausubel are easily exchanged. Bruner goes with concept attainment; Ausubel goes with advance organisers.
+::box example
+In a political science class at a university in Kurukshetra, the teacher wants students to form the concept "federation". She writes two lists on the board without naming the concept. The "yes" list has India, the USA, Australia and Canada. The "no" list has France, Sri Lanka and Japan. Students guess what the "yes" countries share, test their guesses against new countries she adds, and finally state the idea: power divided by a constitution between a central government and units such as states. She names the concept, asks them to give their own examples, and then asks how they reached their answer. This is the concept attainment model, an information-processing model.
+::endbox
+::box confused
+- **Social system vs support system.** Social system: roles and relationships of people. Support system: materials and facilities.
+- **Syntax vs focus.** Syntax: the order of phases. Focus: the central aim.
+- **Syntax vs principles of reaction.** Syntax is the sequence of steps. Principles of reaction are how the teacher responds to learners within those steps.
+- **Concept attainment (Bruner) vs advance organiser (Ausubel).** Concept attainment uses examples and non-examples. Advance organiser gives a general framework before the detail.
+- **Inquiry training vs group investigation.** Inquiry training (Suchman, information-processing) trains an individual's questioning about a puzzling event. Group investigation (Thelen, social) rests on democratic group process.
+- **Inquiry training vs synectics.** Both begin with something unusual. Inquiry training trains questioning and explanation; synectics (Gordon, personal) develops creativity through analogy.
+- **Joyce and Weil vs Flanders vs Allen.** Joyce and Weil: models of teaching. Flanders: interaction analysis. Allen: micro-teaching.
+- **Glaser's model vs Gagné's events.** Glaser: four components of a teaching system. Gagné: nine events of a single lesson.
+::endbox
+::further
+::sub Concept attainment in more detail
+The syntax of the concept attainment model has three phases:
+1. **Presentation of data and identification of the concept**: the teacher presents labelled examples and non-examples; learners compare them, form hypotheses about the defining attributes, and state the concept.
+2. **Testing attainment of the concept**: learners identify further unlabelled examples as "yes" or "no", the teacher confirms and names the concept, and learners give examples of their own.
+3. **Analysis of thinking strategies**: learners describe how they reached the concept.
+::sub Synectics
+**Synectics** was developed by William J. J. Gordon (his book Synectics appeared in 1961). It is a personal-family model that develops creativity. Its aim is to "make the strange familiar and the familiar strange", breaking habitual ways of seeing. It uses three kinds of analogy: **direct analogy** (a simple comparison of two things), **personal analogy** (imagining oneself to be the object or idea) and **compressed conflict** (a two-word description whose words seem to fight each other).
+::sub Glaser's Basic Teaching Model
+Robert Glaser described (1962) a basic teaching model with four components in sequence:
+1. **Instructional objectives**: what the learner should be able to do at the end.
+2. **Entering behaviour**: what the learner already knows and can do at the start.
+3. **Instructional procedures**: the methods chosen to move the learner from entering behaviour to the objectives.
+4. **Performance assessment**: testing whether the objectives have been reached.
+The components are linked by **feedback loops**: the results of assessment are used to correct the earlier components. The component that comes immediately after objectives is entering behaviour. Procedures come third because they can be chosen only after the gap between entering behaviour and objectives is known.
+::sub Gagné's nine events of instruction
+Robert Gagné, in The Conditions of Learning (1965), set out nine events that a well-designed lesson passes through:
+1. Gaining attention
+2. Informing learners of the objective
+3. Stimulating recall of prior learning
+4. Presenting the stimulus (the new content)
+5. Providing learning guidance
+6. Eliciting performance
+7. Providing feedback
+8. Assessing performance
+9. Enhancing retention and transfer
+The list begins with gaining attention. The objective is stated before the content is presented, and feedback can only follow a performance.
+::box check
+Q1. Match the models in List I with the persons in List II.
+::match
+List I || List II
+A. Inquiry training || I. Thelen
+B. Group investigation || II. Rogers
+C. Non-directive teaching || III. Suchman
+D. Synectics || IV. Gordon
+(A) A-III, B-II, C-I, D-IV
+(B) A-I, B-III, C-II, D-IV
+(C) A-III, B-I, C-IV, D-II
+(D) A-III, B-I, C-II, D-IV
+Q2. In Joyce and Weil's description of a model, the special materials and facilities it requires form its:
+(A) syntax
+(B) support system
+(C) social system
+(D) focus
+Q3. Which of the following models belong to the information-processing family? 1. Concept attainment 2. Advance organiser 3. Jurisprudential inquiry 4. Inquiry training Choose the correct answer from the options given below:
+(A) 1, 2 and 4 only
+(B) 1 and 3 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q4. Arrange the components of Glaser's Basic Teaching Model in order: 1. Performance assessment 2. Instructional objectives 3. Instructional procedures 4. Entering behaviour
+(A) 2, 3, 4, 1
+(B) 4, 2, 3, 1
+(C) 2, 4, 3, 1
+(D) 2, 4, 1, 3
+Q5. Statement I: Synectics is a model of the personal family that uses analogies to develop creativity. Statement II: In the concept attainment model, learners compare examples and non-examples.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. Assertion (A): Gagné places "informing learners of the objective" before "presenting the stimulus". Reason (R): Gagné's first event of instruction is providing feedback.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+::endbox
+::answers
+Q1. (D), because Suchman developed inquiry training, Thelen group investigation, Rogers non-directive teaching and Gordon synectics.
+Q2. (B), because the support system lists materials and facilities. The social system is about roles and relationships; syntax is the order of phases.
+Q3. (A), because concept attainment, advance organiser and inquiry training deal with how learners process information. Jurisprudential inquiry belongs to the social family.
+Q4. (C), because objectives come first, then entering behaviour, then procedures, then performance assessment.
+Q5. (A), because both statements correctly describe the two models.
+Q6. (C), because the objective is indeed stated before the content, but the first event is gaining attention; feedback is the seventh.
+::endanswers

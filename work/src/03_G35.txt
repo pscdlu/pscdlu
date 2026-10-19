@@ -13,7 +13,7 @@ A **factor affecting teaching** (शिक्षण को प्रभावि
 |Teacher (शिक्षक)|What the teacher brings: knowledge, skill, personality, attitudes, expectations|Subject mastery, communication skill, warmth, enthusiasm, questioning skill, expectations of students|
 |Learner (शिक्षार्थी)|What the students bring|Prior knowledge, intelligence, aptitude, interest, motivation, maturation, anxiety, health, home background|
 |Support material (सहायक सामग्री)|The aids and resources used to teach a particular content|Charts, models, handouts, worksheets, slides, films, e-journals|
-|Instructional facilities (शैक्षणिक सुविधाएँ)|The infrastructure the institution provides for all teaching|Classrooms, laboratories, libraries, projectors, computer terminals, Wi-Fi network|
+|Instructional facilities (अनुदेशात्मक सुविधाएँ)|The infrastructure the institution provides for all teaching|Classrooms, laboratories, libraries, projectors, computer terminals, Wi-Fi network|
 |Learning environment (अधिगम वातावरण)|The physical and psychological surroundings of learning|Light, air, noise, seating; warmth, respect, freedom from fear|
 |Institution (संस्था)|The policies, leadership and organisation of the college or university|Timetable, academic calendar, class size, workload, evaluation policy, leadership, faculty development|
 ::sub How to place a factor in its group
@@ -40,7 +40,7 @@ Examiners at the harder levels like cases where two groups meet. Three patterns 
 2. **Material needs facilities.** E-journals are useless without terminals and a network to reach them (see 3.5).
 3. **Methods need learners.** The same method gives different results with different learners; this is the aptitude-treatment interaction (see 3.3).
 ::sub Links to other units
-The learner factors here connect with Chapter 2 (Learner's Characteristics). The communication side of the teacher and of noise in the classroom connects with Unit II (Research Aptitude is Unit II; Communication is Unit IV), where noise is treated as a barrier to communication. The institution factors connect with Unit X (Higher Education System), where bodies such as NAAC and the statutory councils of universities are studied.
+The learner factors here connect with Chapter 2 (Learner's Characteristics). The communication side of the teacher and of noise in the classroom connects with Unit IV (Communication), where noise is treated as a barrier to communication. The institution factors connect with Unit X (Higher Education System), where bodies such as NAAC and the statutory councils of universities are studied.
 ::box check
 Q1. Which of the following is an instructional facility and not support material?
 (A) A worksheet prepared for a lesson on demand curves
@@ -98,3 +98,635 @@ Q4. (C), because motivation, aptitude and prior knowledge reside in the students
 Q5. (A), because equipment is only one of six groups of factors; without a capable teacher, ready learners and a supportive climate it cannot produce learning, so R explains A.
 Q6. (D), because the timetable and sectioning are fixed by institutional policy, not by the learner or the surroundings of a particular class.
 ::endanswers
+
+::section 3.2 | Factors related to the teacher
+::syllabus Factors affecting teaching related to: Teacher
+::box footprint
+{{FP 3.2}}
+::endbox
+::h Core
+The teacher is the factor closest to the lesson. Teacher-related factors are the qualities that the teacher carries into every class. They fall into four groups.
+::sub 1. Knowledge: subject mastery
+**Subject mastery** (विषय पर अधिकार) means a deep and accurate command of the content. A teacher can explain clearly only what he or she understands well. Mastery lets the teacher choose the right example, answer an unexpected question and correct a misconception. But mastery is necessary, not sufficient. A brilliant scholar can still be a poor teacher.
+::sub 2. Skill: communication and questioning
+**Communication skill** (संप्रेषण कौशल) is the ability to put an idea into language, voice and examples that reach these particular learners. The clarity of an explanation depends most directly on two teacher factors together: command of the subject and command of the language of instruction. The teacher's age, length of service, social status, handwriting or dress have no direct bearing on clarity.
+**Questioning skill** (प्रश्न कौशल) also belongs to the teacher. Well-framed questions, spread across the whole class, with enough time to think, draw students into the lesson. Poor questioning, or questions put only to the front row, leaves most students silent.
+::sub 3. Personality and attitude
+A teacher's **personality** (व्यक्तित्व) shows in warmth, enthusiasm, fairness, patience and humour. Enthusiasm is infectious. A teacher who is warm, approachable and visibly interested in the subject arouses interest and effort, which is to say that he or she **motivates** the learners (अभिप्रेरणा), and builds trust. Warmth does not shorten the syllabus or reduce class size; its effect is on the learners' willingness to learn.
+::sub 4. Expectations: the Pygmalion effect
+What a teacher expects of a student can change what the student achieves. In *Pygmalion in the Classroom* (1968), Rosenthal and Jacobson reported a study in an American elementary school which they called "Oak School". They told teachers that certain pupils, in fact chosen at random, were likely to "bloom" intellectually during the year. When the pupils were retested, those named as bloomers had gained more on an intelligence test than the others. The explanation offered was that teachers, without knowing it, treated these pupils differently: more warmth, more attention, more chances to answer, more feedback.
+This is the **Pygmalion effect** (पिग्मेलियन प्रभाव): high teacher expectations tend to raise performance. It is a case of the **self-fulfilling prophecy** (स्वतः पूर्ण होने वाली भविष्यवाणी), an expectation that causes itself to come true. The lesson for you as a future teacher is plain: expect every student to learn, and show it in how you treat them.
+::table widths=30,70
+|Teacher factor|What it affects|
+|Subject mastery|Accuracy, choice of examples, ability to answer questions|
+|Communication and language skill|Clarity of explanation|
+|Questioning skill|Participation of students|
+|Warmth and enthusiasm|Motivation, interest, trust|
+|Expectations|Students' performance, through the self-fulfilling prophecy|
+::box example
+A teacher of B.Com. in a Sirsa college notices that she calls on the same five students every time because they "always know". After reading about teacher expectations, she starts a rule: every question goes to a name drawn from a box, and every student gets at least five seconds to think and a hint if needed. Within a month, several students from the back benches begin to answer. Nothing about their ability changed; her expectations and her questioning did.
+::endbox
+::box confused
+- **Pygmalion effect vs Golem effect.** Same mechanism, opposite direction. High expectations raise performance (Pygmalion); low expectations lower it (Golem).
+- **Pygmalion effect vs Hawthorne effect.** Pygmalion works through the teacher's expectations. Hawthorne works through the students' own awareness of being observed or given attention (see 3.6).
+- **Pygmalion effect vs halo effect.** Pygmalion changes the student's actual performance. The halo effect changes only the rater's judgement: one good trait colours the rating of others (see 3.6).
+- **Teacher efficacy vs teacher autonomy.** Efficacy is the teacher's belief in his or her own power to bring about learning. Autonomy is the freedom to take professional decisions.
+- **Subject mastery vs communication skill.** Mastery is knowing; communication is making it known. Clear explanation needs both.
+::endbox
+::further
+::sub The Golem effect
+The negative side of the self-fulfilling prophecy is the **Golem effect** (गोलेम प्रभाव). Babad, Inbar and Rosenthal named it in a 1982 study of biased and unbiased student teachers. When teachers expect little of some students, they tend to give them less time to answer, fewer hints, less praise and less challenging work. Their performance then falls, which seems to confirm the low expectation. A typical examination case: "A teacher expects little of a group, gives them less time and fewer hints, and their performance declines." That is the Golem effect, not the Pygmalion effect.
+::sub How the original study is judged today
+The 1968 study was criticised from the start; the testing expert Robert Thorndike, for example, questioned the quality of its test data. Later research accepts that teacher expectations do affect students, though usually less dramatically than the 1968 report suggested. For the examination, the attribution (Rosenthal and Jacobson, 1968) and the meaning (expectations act as a self-fulfilling prophecy) are what matter.
+::sub Teacher efficacy and related terms
+**Self-efficacy** is Bandura's term (1977) for a person's belief in his or her capacity to carry out the actions needed to reach a goal. Applied to teachers, **teacher efficacy** (शिक्षक प्रभावकारिता) is the teacher's confidence that he or she can bring about learning, even among difficult or unmotivated students. Tschannen-Moran and Woolfolk Hoy reviewed this idea in an influential 2001 paper. Teachers with high efficacy persist longer with struggling students and are more willing to try new methods. Keep the neighbouring terms apart:
+::table widths=26,74
+|Term|Meaning|
+|Teacher efficacy|Belief in one's own capacity to bring about learning|
+|Teacher autonomy|Freedom to make professional decisions about teaching|
+|Teacher accountability|Answerability to others for results|
+|Teacher burnout|Exhaustion and loss of enthusiasm after long stress|
+::sub Other teacher factors
+Books also list the teacher's attitude towards the profession and towards students, mental health, professional preparation and continuing professional development (see 1.10). These matter, but questions usually test the five factors in the Core table and the expectation effects.
+::box check
+Q1. A teacher's belief that she can help even unmotivated students to learn is called:
+(A) teacher accountability
+(B) teacher efficacy
+(C) teacher autonomy
+(D) teacher burnout
+Q2. Consider the following statements about teacher-related factors:
+1. A teacher's warmth and enthusiasm can raise students' motivation.
+2. A teacher's length of service directly determines the clarity of his explanations.
+3. A teacher's expectations can influence how well students perform.
+Which of the statements given above are correct?
+(A) 1 and 2 only
+(B) 2 and 3 only
+(C) 1 and 3 only
+(D) 1, 2 and 3
+Q3. Assertion (A): Students whom a teacher expects to do well often do better.
+Reason (R): Teachers tend to give more attention, time and encouragement to students of whom they expect more.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Match List I with List II:
+::match
+List I || List II
+A. Rosenthal and Jacobson || I. Self-efficacy
+B. Babad, Inbar and Rosenthal || II. Pygmalion in the Classroom
+C. Bandura || III. Golem effect
+D. Tschannen-Moran and Woolfolk Hoy || IV. Review of teacher efficacy (2001)
+Choose the correct answer from the options given below:
+(A) A-III, B-II, C-I, D-IV
+(B) A-II, B-III, C-IV, D-I
+(C) A-II, B-III, C-I, D-IV
+(D) A-I, B-III, C-II, D-IV
+Q5. A lecturer rarely calls on students from rural schools, waits only a second for their answers, and finds that their marks keep falling. This illustrates the:
+(A) Hawthorne effect
+(B) halo effect
+(C) Pygmalion effect in its positive form
+(D) Golem effect
+Q6. Given below are two statements:
+Statement I: Subject mastery is a teacher-related factor.
+Statement II: Subject mastery alone is enough to make teaching effective.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (B), because efficacy is the teacher's belief in his or her own capacity to bring about learning. Accountability is answerability, autonomy is freedom of decision, and burnout is exhaustion.
+Q2. (C), because warmth motivates and expectations act as self-fulfilling prophecies. Length of service has no direct bearing on clarity, which depends on mastery and language.
+Q3. (A), because differential treatment is the mechanism through which expectations become self-fulfilling, so R explains A.
+Q4. (C), because Rosenthal and Jacobson wrote Pygmalion in the Classroom (1968), Babad, Inbar and Rosenthal named the Golem effect (1982), Bandura introduced self-efficacy (1977), and Tschannen-Moran and Woolfolk Hoy reviewed teacher efficacy (2001).
+Q5. (D), because low expectations shown through less attention and less wait time lower performance, which is the Golem effect. Pygmalion is the positive direction.
+Q6. (C), because mastery belongs to the teacher but is necessary, not sufficient; communication, method and the learners also decide the result.
+::endanswers
+
+::section 3.3 | Factors related to the learner
+::syllabus Factors affecting teaching related to: Learner
+::box footprint
+{{FP 3.3}}
+::endbox
+::h Core
+Learner-related factors are those that lie in the students themselves. The test is simple: if the quality would go with the student to another college, another teacher and another room, it is a learner factor. Prior knowledge, motivation and aptitude are learner factors. The teacher's subject mastery is a teacher factor, and the seating arrangement belongs to the learning environment.
+::sub Prior knowledge and entry behaviour
+**Prior knowledge** (पूर्व ज्ञान) is what the learner already knows about the topic. New material is always interpreted in the light of it. The psychologist David Ausubel put this at the centre of his theory of meaningful learning. In *Educational Psychology: A Cognitive View* (1968) he wrote that the most important single factor influencing learning is what the learner already knows, and that the teacher should find this out and teach accordingly.
+In lesson planning the same idea is called **entry behaviour** (प्रवेश व्यवहार): the knowledge and skills the learner has before the lesson begins. Before planning a lesson, a teacher should first find out the learners' previous knowledge. It tells the teacher where to begin and which examples will make sense. A lesson pitched far above or far below this level fails.
+::sub Three kinds of learner characteristics
+::table widths=22,42,36
+|Kind|What it includes|Example in a question|
+|Cognitive (संज्ञानात्मक)|Intelligence, aptitude, prior knowledge, reasoning, memory, reading speed|"Level of intelligence", "previous knowledge"|
+|Affective (भावात्मक)|Interest, attitude, motivation, values, emotions such as anxiety|"Interest in the subject", "test anxiety"|
+|Psychomotor (मनोगत्यात्मक) and physical|Health, fatigue, sight and hearing, motor skill|"A tired learner", "poor eyesight"|
+Interest is a feeling of liking that draws a learner towards a subject, so it is **affective**. Intelligence, previous knowledge and reading speed are cognitive. Many books add **social** factors: home background, family education, language at home, peer group.
+::sub Emotional factors: anxiety
+Emotions are learner factors too. Severe **anxiety** (चिंता) uses up attention and working memory (the small mental workspace in which we hold and handle information at the moment). A capable student with severe test anxiety may therefore perform well below her ability. The factor at work is **emotional**: her cognitive ability is not in question, no physical cause is involved, and institutional factors lie outside the learner.
+::sub Physical condition
+A tired, hungry or unwell learner cannot sustain attention, and without attention little is learned. Fatigue reduces the efficiency of learning. Poor eyesight or hearing, if unnoticed, can look like inattention or slowness.
+::sub Maturation and readiness
+**Maturation** (परिपक्वता) is the natural unfolding of physical and mental capacities with age, independent of training. A learner must be mature enough for a task before teaching can succeed. This is the idea of **readiness** (तत्परता). Coaching, discipline and testing are outside influences on the learner, not maturation. In higher education, maturation shows in the capacity for abstract and reflective thinking, which develops through adolescence into early adulthood (see 2.1).
+::box example
+A teacher of Political Science at a university campus in Haryana begins the unit on federalism with a five-question quiz in Hindi and English. It shows that most students know the three lists of the Seventh Schedule by name, but few can say why a subject was placed in one list and not another. She drops the planned revision of the lists and begins with a case from the students' own district: who maintains the village road, the State or the Union? She has used their entry behaviour to decide where to begin.
+::endbox
+::box confused
+- **Maturation vs learning.** Maturation comes from growth with age; learning comes from experience and practice. Coaching produces learning, not maturation.
+- **Aptitude vs achievement (prior knowledge).** Aptitude is the potential to learn a field; prior knowledge is what has already been learned.
+- **Cognitive vs affective learner factors.** Intelligence, aptitude and prior knowledge are cognitive. Interest, attitude, motivation and anxiety are affective.
+- **Learner factor vs learning environment.** Anxiety inside the student is a learner factor; a fearful classroom climate that causes anxiety is a learning environment factor.
+- **Cultural capital vs aptitude.** Cultural capital is familiarity with educated culture gained at home; aptitude is the potential to learn. A first-generation student may have high aptitude and little cultural capital.
+::endbox
+::further
+::sub Cultural capital
+The French sociologist Pierre Bourdieu used the term **cultural capital** (सांस्कृतिक पूँजी) for the knowledge, language habits, tastes and familiarity with educated culture that families pass on and that schools and universities reward. In "The Forms of Capital" (1986) he described three states of it: embodied (lasting habits of mind and speech), objectified (cultural goods such as books and instruments) and institutionalised (educational qualifications).
+First-generation college students often struggle with the unwritten conventions of academic life: how to address a professor, how to write an assignment, how to use a library. In Bourdieu's terms, what they lack is cultural capital. They are not less able; they have had less exposure. Bridge courses, mentoring and explicit teaching of academic conventions address this home-background factor.
+::sub Aptitude-treatment interaction
+An **aptitude-treatment interaction** (अभिक्षमता-उपचार अंतःक्रिया, ATI) exists when the effect of a teaching method (the "treatment") depends on a characteristic of the learner (the "aptitude", used here in a wide sense for any learner characteristic). Lee J. Cronbach and Richard E. Snow surveyed this research in *Aptitudes and Instructional Methods* (1977). A pattern often reported is that highly structured teaching suits anxious learners and those with lower prior ability, while able, confident learners often do better with more freedom.
+The consequence is that the same method gives different results with different learners, and no method is best for all. Read a typical research case carefully. Suppose highly anxious students do better under structured teaching, less anxious students do better under unstructured teaching, and the overall averages of the two methods are equal. The sound conclusion is that method and learner trait interact. It is wrong to conclude that one method is better for all, and equally wrong to conclude that method has no effect: each method helped one group and hindered the other. The practical lesson is to match or vary methods.
+::box check
+Q1. Which of the following learner factors is affective?
+(A) Reasoning ability
+(B) Attitude towards the subject
+(C) Knowledge of basic terms
+(D) Speed of reading
+Q2. Which of the following are learner-related factors?
+1. A student's prior knowledge of the topic
+2. The college's library hours
+3. A student's maturation
+4. A student's anxiety before tests
+5. The teacher's command of English
+Choose the correct answer from the options given below:
+(A) 1, 3 and 4 only
+(B) 1, 2 and 3 only
+(C) 2, 4 and 5 only
+(D) 1, 3, 4 and 5 only
+Q3. Given below are two statements:
+Statement I: Maturation depends mainly on the amount of coaching a learner receives.
+Statement II: A learner's entry behaviour helps the teacher decide where to begin a lesson.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Assertion (A): No single method of teaching is the best for all learners.
+Reason (R): The effect of a method depends on its interaction with learner characteristics.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Match List I with List II:
+::match
+List I || List II
+A. Ausubel || I. Cultural capital
+B. Bourdieu || II. Aptitude-treatment interaction
+C. Cronbach and Snow || III. What the learner already knows
+D. Readiness || IV. Maturity sufficient for a task
+Choose the correct answer from the options given below:
+(A) A-III, B-II, C-I, D-IV
+(B) A-I, B-III, C-II, D-IV
+(C) A-III, B-I, C-IV, D-II
+(D) A-III, B-I, C-II, D-IV
+Q6. A first-generation student with high aptitude finds the conventions of academic writing unfamiliar. The most useful response is:
+(A) to move him to a lower course, since he lacks ability
+(B) to wait for maturation to remove the difficulty
+(C) to teach the conventions explicitly through mentoring or a bridge course
+(D) to ignore the matter, since home background does not affect learning
+Q7. In a study, two methods give equal overall average scores, but one helps anxious students and the other helps confident students. This shows that:
+(A) method has no effect on learning
+(B) method and learner characteristics interact
+(C) the first method is better for everyone
+(D) anxiety does not affect learning
+::endbox
+::answers
+Q1. (B), because attitude is a feeling towards something, which makes it affective. Reasoning, knowledge and reading speed are cognitive.
+Q2. (A), because prior knowledge, maturation and anxiety lie in the student. Library hours are institutional, and the teacher's English is a teacher factor.
+Q3. (D), because maturation is growth with age independent of training, so Statement I is false; entry behaviour does tell the teacher where to begin.
+Q4. (A), because the interaction between method and learner is exactly why no method suits all, so R explains A.
+Q5. (D), because Ausubel stressed what the learner already knows, Bourdieu named cultural capital, Cronbach and Snow surveyed aptitude-treatment interactions, and readiness means maturity sufficient for a task.
+Q6. (C), because the student lacks exposure, not ability; explicit teaching of the conventions supplies the missing cultural capital.
+Q7. (B), because equal averages hide opposite effects in two groups, which is an aptitude-treatment interaction, not an absence of effect.
+::endanswers
+
+::section 3.4 | Factors related to support material
+::syllabus Factors affecting teaching related to: Support material
+::box footprint
+{{FP 3.4}}
+::endbox
+::h Core
+**Support material** (सहायक सामग्री) is the set of aids and resources a teacher uses to teach a particular content: charts, maps, models, handouts, worksheets, slides, films, recordings, and digital resources such as e-journals and videos. Chapter 5 describes the kinds of aid. This section asks a different question: when does support material help teaching, and when does it get in the way?
+::sub Support material is distinct from instructional facilities
+Support material is made or chosen for a particular lesson or content. A worksheet prepared for one lesson is support material. **Instructional facilities** (अनुदेशात्मक सुविधाएँ) are the lasting infrastructure that the institution provides for all teaching: seminar halls, laboratories, libraries, computer terminals, the campus network. A computer laboratory with thirty terminals is a facility; the worksheet the students fill in on those terminals is support material.
+::sub Principles for selecting support material
+Good support material meets these criteria. Each is a separate principle.
+1. **Relevance to the objective.** The aid must serve what the lesson is meant to achieve. It is a means, not an end.
+2. **Suitability to the learners' level.** Material that is too difficult, or too childish, fails to communicate.
+3. **Accuracy and currency.** The content must be correct and up to date. An old map with outdated boundaries teaches error.
+4. **Visibility and legibility.** Every student, including those at the back, must be able to see and read it. Letters must be large and the layout uncrowded.
+5. **Simplicity.** One main idea per chart or slide. A crowded, text-heavy chart violates both legibility and simplicity.
+6. **Availability, cost and durability.** These are practical considerations, but they are secondary. A cheap, durable or novel aid that the class cannot read or understand has failed.
+Note that suitability and accuracy are two separate criteria. Neither explains the other: a chart may be perfectly accurate and still too advanced for the class.
+::sub Principles for using support material
+- **Prepare.** Check the aid beforehand; preview a film; know what you will point out.
+- **Show it at the right moment.** Display the aid when the point arises.
+- **Remove it afterwards.** An aid left on display all period competes with what follows.
+- **Do not overload.** Too many aids, however attractive, divide attention. More is not better.
+- **Integrate.** Talk about the aid, ask questions about it and link it to the objective. An aid shown without discussion leaves learning to chance.
+::box example
+A teacher of Geography at a college in Rohtak used to fill the board with six wall maps before each lecture on Indian agriculture. Students kept looking at the wrong map. Now she uses one large, clearly lettered map of rainfall zones, unrolls it when she reaches that point, asks three questions about it, and rolls it up before moving to cropping patterns. The aids are fewer, but they now do their work.
+::endbox
+::box confused
+- **Support material vs instructional facility.** A worksheet, chart or set of slides for a lesson is support material. A laboratory, seminar hall, projector or network is a facility.
+- **Attractiveness vs relevance.** An aid should be relevant first. Colour and novelty help only when the aid is already relevant, legible and suited to the learners.
+- **Suitability vs accuracy.** Suitability is about the learners' level; accuracy is about the truth of the content. Both are needed; neither is the reason for the other.
+- **Aid as means vs aid as end.** An aid used to serve the objective is a means. An aid displayed for its own sake has become an end and distracts.
+::endbox
+::further
+::sub Why too many aids hinder learning
+Each aid asks for the learner's attention. Working memory can handle only a few new elements at once, so when aids multiply, the load exceeds what the learner can process and the point of the lesson is lost. This idea, from cognitive load theory, is explained more fully in 5.1. It is the reason for the rule "one idea per aid, and one aid at a time".
+::sub Support material and the learner
+Support material connects with learner factors. The same chart may suit postgraduates and baffle first-year students; the same English handout may help some students and shut out others. Suitability to the learners' level is therefore not a separate concern from the learners; it is where support material and learner factors meet.
+::box check
+Q1. A teacher displays a chart with dense small print that most students cannot read. Which principle has been violated?
+(A) Economy of cost
+(B) Durability for reuse
+(C) Visibility and legibility
+(D) Novelty of design
+Q2. Which of the following is support material and not an instructional facility?
+(A) A seminar hall with a sound system
+(B) A handout of key terms for a lecture on inflation
+(C) A library with open shelves
+(D) A wireless network covering the campus
+Q3. Assertion (A): Support material should be accurate and up to date.
+Reason (R): Support material should be suited to the learners' level.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Which of the following are sound practices in using teaching aids?
+1. Showing the aid when the point it illustrates arises
+2. Keeping every aid on display throughout the period
+3. Choosing the aid according to the objective of the lesson
+4. Using as many aids as the time allows
+Choose the correct answer from the options given below:
+(A) 1 and 3 only
+(B) 2 and 4 only
+(C) 1, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q5. Given below are two statements:
+Statement I: An aid is a means to the objective of the lesson and not an end in itself.
+Statement II: The cost of an aid is the first criterion in choosing it.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. A teacher of first-year students uses a chart copied from a research monograph. It is accurate but full of technical symbols the students have never met. The chart fails mainly on:
+(A) accuracy
+(B) suitability to the learners' level
+(C) durability
+(D) availability
+::endbox
+::answers
+Q1. (C), because an aid that cannot be read fails in its purpose; cost, durability and novelty are secondary considerations.
+Q2. (B), because a handout prepared for a particular lecture is support material; halls, libraries and networks are infrastructure, that is, facilities.
+Q3. (B), because both are sound selection criteria, but suitability to level is not the reason for accuracy; they stand side by side.
+Q4. (A), because aids should serve the objective and be shown when needed. Constant display and overloading distract.
+Q5. (C), because an aid serves the objective, so Statement I is true; cost is a secondary consideration, so Statement II is false.
+Q6. (B), because the chart is accurate but pitched above the learners' level, so it does not communicate.
+::endanswers
+
+::section 3.5 | Factors related to instructional facilities
+::syllabus Factors affecting teaching related to: Instructional facilities
+::box footprint
+{{FP 3.5}}
+::endbox
+::h Core
+**Instructional facilities** (अनुदेशात्मक सुविधाएँ) are the physical resources an institution provides so that teaching can take place: classrooms and seminar halls, laboratories, workshops, libraries and reading rooms, language laboratories, computer terminals, projectors and smart boards, internet access and the campus network. They belong to the institution and serve all teachers and all courses.
+::table widths=30,70
+|Facility|What it makes possible|
+|Classroom and furniture|A place to meet, see, hear and write|
+|Laboratory and workshop|Handling apparatus, measuring, observing: practical skills|
+|Library and reading room|Independent reading, reference, research|
+|Language laboratory|Individual listening and speaking practice|
+|Projectors, smart boards|Showing images, video and computer output to a class|
+|Network, terminals, Wi-Fi|Access to e-journals, online courses, learning management systems|
+Keep facilities apart from the other groups. A sense of humour is a teacher characteristic. A high aptitude is a learner characteristic. A policy for revising the syllabus is an institutional or administrative matter. A well-equipped laboratory is an instructional facility.
+::sub Facilities limit what can be achieved
+Facilities decide which objectives can be reached at all. Suppose a science course has to be taught entirely through lectures because no laboratory exists. Knowledge of facts and principles (the **cognitive domain** (संज्ञानात्मक क्षेत्र)) can still be gained, though less vividly. But manipulative skills, such as handling apparatus, measuring and observing, belong to the **psychomotor domain** (मनोगत्यात्मक क्षेत्र) and cannot be developed at all without a laboratory. So the objectives most affected by a missing laboratory are psychomotor.
+::sub Facilities enable; they do not cause
+Facilities are **enabling conditions**: they make good teaching possible, but they do not produce it. Three common situations show this.
+1. **Equipment unused.** A college fits a projector in every room, yet teachers seldom use them. Facilities help only when teachers are trained and willing to use them. So institutions must provide training and support along with equipment.
+2. **ICT does not change methods by itself.** Many rooms with projectors continue with unchanged lecturing. Providing ICT facilities does not by itself change the method of teaching. Access is a **necessary but not sufficient** condition: use depends further on the teacher's skill, willingness and time, and on the institution's support.
+3. **Libraries unused.** A library can stand nearly empty when teaching does not require independent reading, when its hours are inconvenient, or when students lack library skills. The fact that libraries are classified as instructional facilities is true, but it explains none of this.
+::sub Material needs facilities
+Facilities and support material are distinct, and one cannot substitute for the other. Suppose an institution subscribes to a rich collection of e-journals, but students have neither campus Wi-Fi nor computer terminals. The support material (the e-journals) exists; what is missing is the means of access. The factor limiting learning is instructional facilities.
+::box example
+A university in Haryana receives a grant and installs smart boards in twenty classrooms. A year later a survey finds that most are used only as ordinary projector screens. The university then runs a three-day workshop in which teachers prepare one interactive lesson each, and sets up a help desk. Use rises in the following term. The facility was the same; the training and support made the difference.
+::endbox
+::box confused
+- **Facility vs support material.** The computer laboratory is a facility; the e-journal or worksheet used in it is support material.
+- **Facility vs learning environment.** The laboratory is a facility. Whether that laboratory is well lit, quiet and free from fear is a matter of the learning environment.
+- **Necessary vs sufficient.** Access to a facility is necessary for its use; it is not sufficient, because use also needs skill, willingness and support.
+- **Classification vs explanation.** In Assertion-Reason items, the statement "X is an instructional facility" is usually true but rarely explains why X is or is not used.
+::endbox
+::further
+::sub Facilities in Indian higher education
+Facilities vary widely between a well-funded central university and a rural affiliated college. Students in under-equipped colleges may still reach cognitive objectives through good lectures and reading, but practical skills and independent research suffer most. This is one reason why digital resources, such as online courses and open educational resources, matter so much for such colleges; they are discussed in 4.6 and 5.4.
+::sub Facilities and the teacher together
+In questions that combine two groups, the deciding idea is usually that facilities need teachers. A facility multiplies what a skilled, willing teacher can do; it cannot replace the teacher's planning and judgement.
+::box check
+Q1. Which of the following is an instructional facility?
+(A) A teacher's patience
+(B) A learner's interest
+(C) A reading room in the college library
+(D) A rule fixing the number of working days
+Q2. Assertion (A): Installing projectors in every classroom does not by itself change the way teachers teach.
+Reason (R): The use of a facility depends on teachers' skill, willingness and the support they receive.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. A Physics course is taught without any laboratory work. The objectives most seriously affected are:
+(A) knowledge of laws and definitions
+(B) skills of handling apparatus and measuring
+(C) appreciation of the history of science
+(D) recall of formulae
+Q4. Given below are two statements:
+Statement I: Access to a facility is a sufficient condition for its educational use.
+Statement II: Facilities and support material are distinct factors.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. A college buys access to an online database of journals, but its only computer room is locked most of the day. The factor limiting learning is:
+(A) support material
+(B) learner characteristics
+(C) instructional facilities
+(D) teacher's subject mastery
+Q6. Which of the following are likely reasons why a well-stocked library is little used?
+1. Teaching does not require independent reading
+2. Library hours clash with class hours
+3. Students have not been taught how to search the catalogue
+4. Libraries are instructional facilities
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 1 and 4 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+::endbox
+::answers
+Q1. (C), because a reading room is infrastructure provided by the institution. Patience is a teacher factor, interest a learner factor, and the rule on working days an institutional policy.
+Q2. (A), because the dependence of use on skill, willingness and support is exactly why equipment alone does not change teaching, so R explains A.
+Q3. (B), because manipulative skills belong to the psychomotor domain and need a laboratory; knowledge and recall can still be gained from lectures.
+Q4. (D), because access is necessary but not sufficient, so Statement I is false; facilities and material are indeed distinct.
+Q5. (C), because the material (the database) exists; the bottleneck is access to terminals, which is a facility.
+Q6. (A), because the first three explain non-use. Statement 4 is true but explains nothing about use.
+::endanswers
+
+::section 3.6 | Factors related to the learning environment
+::syllabus Factors affecting teaching related to: Learning environment
+::box footprint
+{{FP 3.6}}
+::endbox
+::h Core
+The **learning environment** (अधिगम वातावरण) is everything that surrounds the act of learning. It has two sides, and almost every question on this topic asks you to tell them apart.
+::table widths=24,40,36
+|Side|What it includes|What goes wrong|
+|Physical environment (भौतिक वातावरण)|Space, light, ventilation, temperature, furniture, seating arrangement, noise, cleanliness|Glare, heat, overcrowding, noise from the road, seats from which the board cannot be seen|
+|Psychological climate (मनोवैज्ञानिक वातावरण)|Relationships between teacher and students and among students; warmth, respect, trust, freedom from fear|Fear of ridicule or punishment, humiliating comparison, hostility|
+The psychological side is also called the **socio-emotional climate** or classroom climate (कक्षा का वातावरण). Lighting, ventilation and seating belong to the physical environment, not to the psychological climate, the curriculum or the evaluation system.
+::sub The physical environment: noise
+Attention is the gateway to learning, and noise competes for it. **Noise** (शोर) is therefore treated as a physical barrier in the learning environment. It lowers learning by distracting attention. It does not change intelligence or aptitude, which are relatively stable characteristics of the learner.
+In the language of communication (Unit IV), noise is a **barrier** that distorts or blocks the reception of the teacher's message. Parts of the message are lost on the way from sender to receiver, and attention is diverted. That is how excessive noise reduces learning: the communication explanation and the attention explanation describe the same mechanism.
+::sub The physical environment: seating
+Seating decides who can see whom, and so who talks to whom.
+- **Rows facing the board** and **tiered lecture halls** direct all attention to the front. They suit lectures and demonstrations.
+- **Circular or U-shaped seating** lets students see one another's faces, so they talk to one another and not only to the teacher. It suits discussion and seminars.
+- **Clusters of tables** suit group work.
+- Separate **individual cubicles** suit private study or testing, not discussion.
+::sub The psychological climate
+A **positive climate** shows mutual respect, warmth, open communication and shared purpose. Students feel safe to ask, to answer and to make mistakes. A negative climate is marked by fear, strict silence enforced by threat, constant competition and public ranking, or minimal interaction. These raise anxiety and reduce participation.
+A classroom in which students are afraid to ask questions has a poor psychological climate, even if the room is comfortable and the curriculum is sound. Fear of ridicule or punishment silences students.
+**Psychological safety** (मनोवैज्ञानिक सुरक्षा) is the shared feeling that one will not be humiliated for a question or a mistake. A teacher builds it by treating errors as useful steps in learning, not as failures to be ridiculed. It is not the same as a **laissez-faire** climate (हस्तक्षेप-रहित, in which the teacher withdraws guidance), nor an **authoritarian** climate (in which the teacher rules by command and fear), nor a climate of keen competition. A safe climate still has high expectations and active guidance.
+::sub Cooperation and competition
+Research generally favours **cooperative** classroom structures, in which students work towards shared goals, over **competitive** ones, in which one student's success is another's failure. Cooperation tends to give higher achievement and better relationships. But competition is not always harmful. Moderate, friendly competition, especially between groups whose members cooperate within the group, or a student competing against his or her own earlier record, can motivate without harm. A statement that competition "always" harms or "has no place" in a classroom is too absolute and therefore false.
+::sub Effects that colour what happens and how it is judged
+Four named effects appear often in questions. They are about the social and psychological side of the classroom and of classroom research.
+::table widths=22,48,30
+|Effect|What happens|Cause|
+|Hawthorne effect (हॉथोर्न प्रभाव)|Performance improves because people know they are being studied or given special attention|Awareness of being observed|
+|Pygmalion effect|Performance rises because the teacher expects it to (see 3.2)|Teacher's expectations|
+|John Henry effect|Members of a control group work harder to compete with the experimental group|Rivalry with the experimental group|
+|Halo effect (प्रभामंडल प्रभाव)|A favourable impression of one trait spreads to the rating of other, unrelated traits|Rater's general impression|
+The **Hawthorne effect** takes its name from studies made between 1924 and 1932 at the Hawthorne Works of the Western Electric Company in the United States. It threatens classroom experiments: students placed in a new programme may do better simply because they know they are being observed. The **halo effect** was named by the psychologist Edward Thorndike in 1920. A teacher impressed by neat handwriting who also rates the content of the answer too highly is showing the halo effect.
+::box example
+In a postgraduate seminar room at a university in Rohtak, the chairs are in rows and only three students speak. The teacher moves the chairs into a U-shape, sits among the students, and begins by saying, "There are no foolish questions here; a wrong answer is how we find the right one." When a student mixes up two concepts, she thanks him and asks the class how the two differ. By the third week most students speak. She changed one physical factor (seating) and one psychological factor (safety to err).
+::endbox
+::box confused
+- **Physical vs psychological environment.** Light, air, noise and seating are physical. Relationships, warmth and fear are psychological.
+- **Psychological safety vs laissez-faire.** Safety keeps guidance and high expectations; laissez-faire removes guidance.
+- **Hawthorne vs John Henry effect.** Hawthorne: the group that is studied improves because it is observed. John Henry: the control group improves because it competes.
+- **Hawthorne vs Pygmalion.** Hawthorne works through the students' awareness; Pygmalion through the teacher's expectations.
+- **Halo effect vs leniency error vs central tendency error.** Halo: one trait colours the rating of others in the same person. Leniency: rating everyone high. Central tendency: rating everyone near the middle.
+- **Cooperative vs competitive climate.** Cooperation is generally better for achievement and relationships; moderate friendly competition can still motivate.
+::endbox
+::box fact
+- The **Hawthorne effect** is named after studies conducted from 1924 to 1932 at the Western Electric Company's Hawthorne Works. Later re-analyses of the original data found weaker evidence than the popular story suggests, but the term remains standard in research methods (checked October 2026).
+- The **John Henry effect** was named by Gary Saretsky in 1972, after the legendary American steel-driver who tried to outwork a steam drill.
+- The **halo effect** was named by Edward Thorndike in "A Constant Error in Psychological Ratings" (1920).
+::endbox
+::further
+::sub Climate and participation: two separate components
+Keep the two sides of the environment apart in Assertion-Reason items. "A threatening classroom climate lowers participation" is true, and the reason is psychological: students fear ridicule or punishment. "Lighting and ventilation affect attention" is also true, but it concerns the physical side. Both statements are true, but the second does not explain the first.
+::sub The action zone
+Observational studies of traditional classrooms, notably Adams and Biddle's *Realities of Teaching* (1970), found that most teacher-student interaction takes place with students seated at the front and down the centre of the room. This T-shaped region is called the **action zone** (क्रिया क्षेत्र). Students outside it tend to receive fewer questions and less feedback. Later studies have not always confirmed the effect equally strongly, but the general finding stands: front and centre students interact most with the teacher, while circular seating increases student-to-student talk. The claim that back-row students "always participate more" reverses the usual finding.
+::sub Cooperation research
+A widely cited review by Johnson, Maruyama, Johnson, Nelson and Skon (1981) pooled 122 studies and found that cooperation produced higher achievement than interpersonal competition or individual work. Cooperation combined with competition between groups did about as well as pure cooperation. This is the evidence behind the rule "cooperation within groups, friendly competition between them".
+::sub Other rating errors
+Rating errors matter wherever teachers judge students: in viva voce, practical examinations, internal assessment and observation of teaching. Besides the halo effect, the **leniency error** (rating everyone generously), the **severity error** (rating everyone harshly), and the **error of central tendency** (avoiding the extremes and rating everyone near the middle) are the common ones. Clear rubrics and rating each trait for all students before moving to the next trait reduce them (see Chapter 6).
+::box check
+Q1. Which of the following belong to the physical environment of a classroom?
+1. Ventilation
+2. Fear of ridicule
+3. Seating arrangement
+4. Noise from the street
+5. Mutual respect
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 1, 3 and 4 only
+(C) 2, 4 and 5 only
+(D) 1, 3, 4 and 5 only
+Q2. Students in a new remedial programme score higher in the first month mainly because they know researchers are watching their class. This is the:
+(A) halo effect
+(B) Pygmalion effect
+(C) Hawthorne effect
+(D) John Henry effect
+Q3. Assertion (A): Students participate more when the teacher treats errors as steps in learning.
+Reason (R): Psychological safety removes the fear of humiliation that silences students.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Match List I with List II:
+::match
+List I || List II
+A. Halo effect || I. Rating all students near the middle
+B. Leniency error || II. One impressive trait colours other ratings
+C. Central tendency error || III. Control group works harder to compete
+D. John Henry effect || IV. Rating all students generously
+Choose the correct answer from the options given below:
+(A) A-II, B-IV, C-I, D-III
+(B) A-IV, B-II, C-I, D-III
+(C) A-II, B-I, C-IV, D-III
+(D) A-II, B-IV, C-III, D-I
+Q5. Given below are two statements:
+Statement I: Circular seating encourages students to talk to one another.
+Statement II: In traditional rows, students at the back usually interact most with the teacher.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. Assertion (A): Cooperative classroom structures tend to favour learning.
+Reason (R): Competition of every kind is harmful and should be removed from classrooms.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. Noise around a classroom mainly reduces learning by:
+(A) lowering the intelligence of the learners
+(B) changing the aptitude of the learners
+(C) distracting attention and blocking reception of the message
+(D) altering the curriculum
+Q8. A teacher who wants a debate among forty students should arrange the seating in:
+(A) fixed rows facing the board
+(B) a tiered lecture gallery
+(C) a U-shape or circle
+(D) separate study cubicles
+::endbox
+::answers
+Q1. (B), because ventilation, seating and street noise are physical. Fear of ridicule and mutual respect are psychological.
+Q2. (C), because the improvement comes from awareness of being observed. Pygmalion would need teacher expectations, and John Henry concerns a control group competing.
+Q3. (A), because safety from humiliation is the reason students dare to take part, so R explains A.
+Q4. (A), because halo spreads one impression, leniency rates everyone high, central tendency rates everyone in the middle, and John Henry is the control group's rivalry.
+Q5. (C), because seeing faces encourages student-to-student talk; in rows it is the front and centre (the action zone), not the back, that interacts most.
+Q6. (C), because the Assertion is supported by research, but the Reason is too absolute: moderate, friendly competition can motivate.
+Q7. (C), because noise is a physical barrier to attention and communication; it does not change stable learner traits or the curriculum.
+Q8. (C), because seeing one another's faces encourages discussion; rows and galleries focus attention on the front.
+::endanswers
+
+::section 3.7 | Factors related to the institution
+::syllabus Factors affecting teaching related to: Institution
+::box footprint
+{{FP 3.7}}
+::endbox
+::h Core
+Institution-related factors (संस्थागत कारक) are the policies, structures, leadership and climate of the college or university. They set the limits within which every teacher plans. A teacher chooses examples, questions, tone of voice and style. The institution fixes admissions, sections, class size, the timetable, the academic calendar, the teaching load, the rules of evaluation and the support given to teachers. These factors operate in every institution, public or private.
+::table widths=30,70
+|Institutional factor|How it affects teaching|
+|Academic calendar and timetable|How much time there is, and when; the length and spacing of periods|
+|Class size and teacher-student ratio|How much individual attention is possible|
+|Workload and non-teaching duties|Time and energy left for preparation and students|
+|Curriculum and evaluation policy|What is taught and how it is taught|
+|Leadership and administrative support|Freedom and resources to innovate|
+|Institutional climate|Teacher morale|
+|Faculty development|Growth of teachers' knowledge and skill|
+|Quality assurance (for example the IQAC)|Planning, monitoring and improvement of teaching|
+::sub Class size
+As **class size** (कक्षा का आकार) grows, the teacher has less time for each student, so individual guidance, interaction and feedback suffer. A very large class mainly makes it difficult to give individual attention. A lecture, an announcement of the syllabus or a common written test can still be given to a large group, which is why the lecture dominates large classes. Class size is decided by the institution through its admission and sectioning policies.
+::sub Time: calendar, timetable and workload
+The academic calendar and timetable are decided mainly by the institution, not by learners, parents or publishers. **Workload** (कार्यभार) is also institutional. Heavy clerical and administrative duties take time from lesson preparation, feedback on assignments and contact with students, and they add to fatigue. They do not change admissions or the syllabus; their effect is on the time and energy left for teaching.
+::sub Curriculum: who frames the syllabus
+In an Indian university the syllabus of a subject is usually framed and revised by the **Board of Studies** (अध्ययन मंडल) of that subject. It consists of teachers of the subject, usually with outside experts. Its recommendations go to the **Academic Council** (विद्या परिषद), the university's main academic body, for approval. The Finance Committee deals with money, the Building Committee with construction, and a Selection Committee with appointments; none of them frames syllabi. The exact composition and powers are laid down in each university's statutes, so details differ from university to university.
+::sub Evaluation policy and teaching to the test
+What the institution examines, and how, strongly shapes what happens in class. When everything depends on a final examination, teachers and students concentrate on likely questions and neglect skills and topics that are not examined. This narrowing is called **teaching to the test** (परीक्षा-केंद्रित शिक्षण). It is an institution-related constraint on method. In the other direction, an assessment policy that rewards projects, presentations or internal assessment can encourage innovation in teaching.
+::sub Leadership, climate and morale
+A supportive head and administration help teaching mainly by giving teachers freedom and resources to innovate, and by encouraging professional development. They cannot remove the need for teachers to plan lessons, use their judgement or evaluate students; those remain the teacher's work.
+**Institutional climate** (संस्थागत वातावरण) is the general atmosphere of the institution: the style of leadership, recognition of good work, participation of teachers in decisions and relations among staff. It shapes teacher morale. Note that the institution also fixes the academic calendar, but that function says nothing about morale.
+::sub Subject mastery is not institutional
+Subject mastery is a characteristic of the teacher. An institution can support it, by recruiting well and providing faculty development, but the mastery itself resides in the teacher. So it remains a teacher-related factor.
+::box example
+A college in Fatehabad has two sections of B.A. Part I English, of 140 students each. Teachers lecture and set the same test; no one reads individual essays. After the college splits each section into two groups of 70, reduces its teachers' admission-duty hours, and allows 25 per cent of marks for a portfolio of short essays, teachers begin returning written comments on every essay. The teachers did not change; the institution changed what was possible.
+::endbox
+::box confused
+- **Board of Studies vs Academic Council.** The Board of Studies frames the syllabus of one subject; the Academic Council approves courses, syllabi and academic regulations for the whole university.
+- **Academic Council vs IQAC.** The Academic Council approves academic matters; the IQAC plans, guides and monitors quality on a continuing basis.
+- **Institutional factor vs teacher factor.** Class size, timetable, workload and evaluation policy are institutional; examples, questions, tone and subject mastery are the teacher's.
+- **Institutional climate vs classroom climate.** Institutional climate is the atmosphere among staff and leadership, which shapes teacher morale. Classroom climate is the atmosphere in one class, which shapes student participation (see 3.6).
+::endbox
+::box fact
+- **IQAC.** The National Assessment and Accreditation Council (NAAC) asks every accredited institution to set up an **Internal Quality Assurance Cell** (आंतरिक गुणवत्ता आश्वासन प्रकोष्ठ, IQAC) as a measure for sustaining quality after accreditation. Through the IQAC the institution submits an **Annual Quality Assurance Report** (AQAR) to NAAC each year (checked October 2026).
+- NAAC's accreditation framework has been under revision. Do not rely on the grading scale printed in older books; check the current position on NAAC's website before the examination.
+::endbox
+::further
+::sub The Internal Quality Assurance Cell
+The IQAC is the institution's own body for quality. Its tasks include developing benchmarks for academic and administrative work, collecting and analysing feedback from students and other stakeholders, organising workshops and faculty development, documenting good practices, and preparing the AQAR. It is an institution-related factor in the quality of teaching: where the IQAC works well, teaching is planned, observed and improved; where it exists only on paper, it changes nothing.
+::sub Faculty development
+Opportunities for faculty development, such as orientation and refresher programmes, workshops, conference leave and online courses, are an institutional factor. An institution that supports its teachers' growth improves teaching over time. This links with 1.10 (the teacher's professional growth).
+::sub Teacher-student ratio
+The teacher-student ratio of a whole institution is not the same as class size: a college may have a good overall ratio and still run some very large sections. Both are set by institutional policy, and both affect how much individual attention a student receives.
+::box check
+Q1. Which of the following is decided at the level of the institution?
+(A) The analogy a teacher uses to explain a concept
+(B) The number of students admitted to each section
+(C) The pace of a teacher's speech
+(D) The follow-up question a teacher asks
+Q2. In a university, the syllabus of a subject is usually framed by the:
+(A) Finance Committee
+(B) Selection Committee
+(C) Board of Studies of that subject
+(D) Building Committee
+Q3. Consider the following statements about institution-related factors:
+1. Institution-related factors operate only in government colleges.
+2. The teacher-student ratio is an institutional factor.
+3. An examination policy that rewards only memorised answers can discourage innovation in teaching.
+4. A teacher's mastery of the subject is an institution-related factor.
+Which of the statements given above are correct?
+(A) 1 and 2 only
+(B) 2 and 3 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q4. Assertion (A): Teacher morale is higher in institutions where teachers take part in decisions and good work is recognised.
+Reason (R): The institution fixes the dates of the academic calendar.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Match List I with List II:
+::match
+List I || List II
+A. Board of Studies || I. Approves courses and academic regulations of the university
+B. Academic Council || II. Prepares the Annual Quality Assurance Report
+C. IQAC || III. Frames the syllabus of a subject
+D. Selection Committee || IV. Recommends candidates for appointment
+Choose the correct answer from the options given below:
+(A) A-I, B-III, C-II, D-IV
+(B) A-III, B-I, C-II, D-IV
+(C) A-III, B-II, C-I, D-IV
+(D) A-III, B-I, C-IV, D-II
+Q6. When a college judges its teachers only by their students' final examination results, the most likely effect on teaching is:
+(A) wider use of projects and fieldwork
+(B) teaching narrowed to likely examination questions
+(C) smaller classes
+(D) higher salaries for teachers
+Q7. Given below are two statements:
+Statement I: A very large class makes it hard to give individual feedback.
+Statement II: A very large class makes it impossible to deliver a lecture.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (B), because admission and sectioning are institutional policy. The analogy, pace and follow-up question are the teacher's choices.
+Q2. (C), because the Board of Studies frames the syllabus and sends it to the Academic Council for approval; the other committees deal with money, buildings and appointments.
+Q3. (B), because ratio and examination policy are institutional. Such factors operate in all institutions, and subject mastery resides in the teacher.
+Q4. (B), because morale depends on institutional climate; fixing the calendar is a true institutional function but does not explain morale.
+Q5. (B), because the Board of Studies frames syllabi, the Academic Council approves academic matters, the IQAC prepares the AQAR, and the Selection Committee recommends appointments.
+Q6. (B), because exam-driven judgement pushes teachers towards teaching to the test.
+Q7. (C), because a lecture can still be delivered to a large group; what suffers is individual attention and feedback.
+::endanswers
+::chapteranswers

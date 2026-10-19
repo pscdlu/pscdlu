@@ -1,0 +1,179 @@
+::chapter 5 | Teaching Support System
+A teaching support system is everything a teacher uses, beyond voice and gesture, to help students learn: the chalkboard and the chart, the projector and the language laboratory, the learning management system and the open textbook. The syllabus groups these as traditional, modern and ICT-based. This chapter first explains why aids help and how they are classified, including Edgar Dale's Cone of Experience, and then takes the three groups in turn.
+
+::section 5.1 | Teaching aids: purposes, classification and Dale's Cone of Experience
+::syllabus Teaching Support System: Traditional, Modern and ICT based
+::box footprint
+{{FP 5.1}}
+::endbox
+::h Core
+A **teaching aid** (शिक्षण सहायक सामग्री) is any material or device that helps the teacher make an idea clear, concrete and memorable. The **teaching support system** (शिक्षण सहायक प्रणाली) is the whole set of such aids and the facilities that make them usable.
+::sub Why aids help
+- They make abstract ideas **concrete**: a model of the heart, a map of the monsoon.
+- They engage more than one **sense**, which holds attention and suits learners with different preferences.
+- They show what cannot be brought to class: the very large, the very small, the distant, the dangerous, the past.
+- They save time: a prepared diagram is quicker than a long description.
+- They add variety and interest, and so support motivation.
+But an aid teaches only when it is used well. It is a means, not an end (see 3.4).
+::sub Classification by the sense addressed
+This is the classification most often asked.
+::table widths=22,40,38
+|Type|Addresses|Examples|
+|Audio aids (श्रव्य सामग्री)|Hearing only|Radio, tape recorder, audio recording, podcast, language laboratory headphones|
+|Visual aids (दृश्य सामग्री)|Sight only|Chalkboard, chart, map, globe, model, specimen, flash card, flannel board, silent filmstrip, slides|
+|Audio-visual aids (दृश्य-श्रव्य सामग्री)|Both hearing and sight|Sound film, television, video, multimedia presentation with sound|
+A sound film or television appeals to both the ear and the eye at once. A tape recorder is an audio aid; a silent filmstrip and a flannel board are visual aids. Aids that involve more senses are generally thought to hold attention better and aid retention, provided they are not overloaded (see Going Further).
+::sub Classification as projected and non-projected
+- **Projected aids** (प्रक्षेपित सामग्री) need a projector to throw an image on a screen: slides, filmstrips, overhead transparencies, films, opaque projection by an episcope or epidiascope, and computer output through an LCD projector.
+- **Non-projected aids** (अप्रक्षेपित सामग्री) are seen directly: chalkboard, charts, maps, models, specimens, flash cards, flannel board, bulletin board.
+Be careful with the epidiascope. It can show a page of a book or a leaf, which looks like direct display, but it does so by projecting an enlarged image. It is itself a projector, so it is a projected aid.
+::sub Other classifications
+- **By dimension**: two-dimensional (charts, maps, photographs, which are flat) and three-dimensional (models, specimens, objects, globes, mock-ups, which have length, breadth and depth). See 5.2.
+- **By technology**: traditional, modern (audio-visual and projected equipment) and ICT-based. This is the syllabus's own grouping and the plan of this chapter.
+::table widths=24,38,38
+|Group (syllabus)|Typical aids|Section|
+|Traditional (पारंपरिक)|Chalkboard, charts, models, specimens, flash cards, flannel board, handouts|5.2|
+|Modern (आधुनिक)|Overhead projector, slide projector, epidiascope, radio, television, language laboratory|5.3|
+|ICT-based (आईसीटी आधारित)|Computer and LCD projector, smart class, multimedia, LMS, webinars, podcasts, wikis, OER|5.4|
+::sub Edgar Dale's Cone of Experience
+Edgar Dale, an American educator, introduced the **Cone of Experience** (अनुभव शंकु) in his book *Audiovisual Methods in Teaching* (first edition 1946). The cone arranges kinds of learning experience from the most **concrete** (मूर्त) at the broad base to the most **abstract** (अमूर्त) at the narrow top. At the base the learner does the thing; at the top the learner meets only words.
+In the third edition (1969), the version most often reproduced, the cone has eleven bands. Read them from the bottom (most concrete) to the top (most abstract):
+1. Direct, purposeful experiences (the base)
+2. Contrived experiences
+3. Dramatised experiences
+4. Demonstrations
+5. Study trips
+6. Exhibits
+7. Educational television
+8. Motion pictures
+9. Recordings, radio and still pictures
+10. Visual symbols
+11. Verbal symbols (the apex)
+::table widths=30,70
+|Band|What it means|
+|Direct, purposeful experiences|First-hand experience with real things, done for a purpose: growing a crop, conducting a survey. In Dale's words, experience that is seen, handled, tasted, touched, felt and smelled.|
+|Contrived experiences|Edited copies of reality: models, mock-ups, simulations, used when the real thing is too large, small, complex or dangerous|
+|Dramatised experiences|Taking part in a re-enactment: role play, a play, a mock parliament|
+|Demonstrations|Watching someone show how something is done|
+|Study trips|Visiting real places to observe: a factory, a museum, a field site|
+|Exhibits|Displays arranged for viewing: museum cases, exhibitions|
+|Educational television|Viewing broadcast or recorded television programmes|
+|Motion pictures|Films: moving images with sound|
+|Recordings, radio and still pictures|Sound alone, or a single fixed image (photograph, slide)|
+|Visual symbols|Charts, graphs, maps, diagrams: abstract signs that still show something to the eye|
+|Verbal symbols|Words, spoken or written, which bear no resemblance to what they stand for|
+Three positions settle most questions. The **base** is direct, purposeful experiences. The **apex** is verbal symbols, with visual symbols just below it. The band **immediately above contrived experiences** is dramatised experiences, and demonstrations come after that. So, for example, demonstrations, study trips and exhibits run in that order from more concrete to more abstract, and visual symbols are more abstract than motion pictures.
+Dale's point was that concrete experience supports abstract understanding. A teacher should give enough concrete experience for words to carry meaning, and the cone helps in choosing aids. It does not say that lower bands are always better.
+::box example
+A teacher of B.A. Economics in a Kurukshetra college is teaching "price determination". She starts with verbal symbols (a definition), and the class is lost. Next year she reverses the order. Students first run a small mock market in class, buying and selling cards (a contrived and dramatised experience). They then watch a short film of a sabzi mandi (motion pictures), study a demand-supply graph (visual symbols), and only then write the definition (verbal symbols). She has moved up Dale's cone from concrete to abstract.
+::endbox
+::box confused
+- **Concrete vs abstract in the cone.** Lower means more concrete, higher means more abstract. Direct experience is the base; verbal symbols are the apex.
+- **Study trip vs demonstration.** A study trip feels more "real", but in Dale's cone it lies above demonstrations, not below.
+- **Visual symbols vs verbal symbols.** Visual symbols (charts, maps, graphs) still show something to the eye and lie just below verbal symbols, which are the most abstract.
+- **Visual symbols vs still pictures.** A photograph resembles its object (still pictures band); a graph is an abstract sign (visual symbols band).
+- **Projected vs non-projected.** Ask whether a projector throws the image on a screen. The epidiascope, OHP and slide projector are projected; flash cards, charts, models and the flannel board are not.
+- **Audio vs audio-visual.** Radio and tape recorder are audio; television and sound film are audio-visual; a silent filmstrip is visual.
+::endbox
+::box fact
+- **The cone's editions.** Dale introduced the cone in 1946 (first edition of *Audiovisual Methods in Teaching*) with ten bands, including "dramatic participation" and "field trips" and no television. The second edition (1954) renamed dramatic participation as "dramatised experiences" and added television. The third edition (1969) gives the eleven bands above, with "study trips" and "educational television", and relates the cone to Bruner's three modes of learning (checked October 2026).
+- **The percentages are not Dale's.** The popular claim that "we remember 10 per cent of what we read, 20 per cent of what we hear, 30 per cent of what we see..." is often printed on or beside Dale's cone. Dale's cone contains no such numbers, and the figures have no known research basis. Subramony, Molenda, Betrus and Thalheimer traced this "mythical retention chart" and its attachment to Dale's cone in a 2014 article in *Educational Technology*. If you see percentages on a cone, the diagram has been altered.
+::endbox
+::further
+::sub The cone and Bruner's three modes
+In the 1969 edition, Dale related his cone to the three modes of learning proposed by the psychologist Jerome Bruner in 1966: **enactive** (learning by doing), **iconic** (learning through observation of images) and **symbolic** (learning through abstractions such as words and symbols). The cone is read in three parts:
+::table widths=26,44,30
+|Bruner's mode|Bands of Dale's cone|Kind of learning|
+|Enactive (क्रियात्मक)|Direct, contrived and dramatised experiences|Doing|
+|Iconic (प्रतिमात्मक)|Demonstrations, study trips, exhibits, educational television, motion pictures, recordings, radio and still pictures|Observing|
+|Symbolic (प्रतीकात्मक)|Visual symbols and verbal symbols|Symbolising|
+The word "visual" in "visual symbols" tempts students to choose iconic. But charts, graphs and maps are abstract signs; the iconic band consists of pictures and observed events. The two topmost bands belong to the symbolic mode.
+::sub What Dale did and did not claim
+Dale called the cone a "visual analogy", a picture to help thinking, not a ranking of media by effectiveness. He warned that too much reliance on concrete experience may actually obstruct meaningful generalisation, and that realistic experiences can be costly in time and effort. His advice was to balance concrete and abstract experiences. The cone carried no numbers, and Dale reported no experiments on retention. The retention percentages were added by others. Older trainers' manuals and many websites still print them under Dale's name; they are wrong.
+::sub Integrating an aid with the lesson
+An aid becomes support material, not entertainment, only when it is integrated with the lesson. For a film or video:
+1. **Preview** it and choose the relevant part.
+2. **Prepare** the class: tell them what to look for and give guiding questions.
+3. **Show** the relevant part, pausing where useful.
+4. **Follow up** with discussion that links what was seen to the objectives.
+Screening a film in full without comment, choosing the longest film available, or using a film in place of the planned lesson leaves learning to chance.
+::sub Too many aids: cognitive load
+**Cognitive load theory** (संज्ञानात्मक भार सिद्धांत) holds that working memory can handle only a few new elements at once. Every aid makes demands on it. When aids and stimuli multiply, the load exceeds capacity, attention is drawn away from the objective, and learning suffers. So using too many teaching aids in a single lesson can hinder learning, and overload of working memory is the reason. The same idea underlies the design principles for slides in 5.4.
+::sub Choosing an aid: objective and audience
+Choose the aid by two questions: what must the learners perceive, and how many are they? To show 100 students how the valves of the heart open and close in sequence, the objective concerns movement over time, which only a moving image can show, and the class is large, which calls for projection. An animation shown through a projector is the right choice. A preserved specimen is real but static and too small for a hundred students; a wall chart and flash cards are also static.
+::box check
+Q1. Which of the following is an audio-visual aid?
+(A) Tape recorder
+(B) Flannel board
+(C) Television
+(D) Silent filmstrip
+Q2. Arrange the following bands of Dale's Cone of Experience from the most concrete to the most abstract:
+1. Motion pictures
+2. Dramatised experiences
+3. Verbal symbols
+4. Study trips
+5. Visual symbols
+Choose the correct answer from the options given below:
+(A) 2, 1, 4, 5, 3
+(B) 2, 4, 1, 3, 5
+(C) 2, 4, 1, 5, 3
+(D) 4, 2, 1, 5, 3
+Q3. Assertion (A): The retention percentages often printed on Dale's cone are reliable findings from Dale's research.
+Reason (R): Dale's cone arranges experiences by degree of abstraction.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Match the bands of Dale's cone in List I with Bruner's modes in List II:
+::match
+List I || List II
+A. Contrived experiences || I. Symbolic
+B. Exhibits || II. Enactive
+C. Verbal symbols || III. Iconic
+D. Recordings, radio and still pictures || IV. Iconic
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-I, D-IV
+(B) A-III, B-II, C-I, D-IV
+(C) A-I, B-III, C-II, D-IV
+(D) A-II, B-I, C-III, D-IV
+Q5. Which of the following are projected aids?
+1. Epidiascope
+2. Flash card
+3. Overhead transparency
+4. Filmstrip
+5. Flannel board
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 4 and 5 only
+(C) 3, 4 and 5 only
+(D) 1, 3 and 4 only
+Q6. Assertion (A): Crowding a lesson with many aids can reduce learning.
+Reason (R): Working memory can process only a limited number of new elements at a time.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. The band of Dale's cone that lies immediately below demonstrations is:
+(A) contrived experiences
+(B) dramatised experiences
+(C) study trips
+(D) exhibits
+Q8. Given below are two statements:
+Statement I: The base of Dale's cone consists of direct, purposeful experiences.
+Statement II: Dale held that more concrete experience is always better for every learner.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (C), because television addresses both sight and hearing. A tape recorder is audio, and a flannel board and silent filmstrip are visual.
+Q2. (C), because the order up the cone is dramatised experiences, study trips, motion pictures, visual symbols, verbal symbols.
+Q3. (D), because the percentages are not Dale's and have no research basis, so A is false; R correctly describes the cone.
+Q4. (A), because contrived experiences are enactive, exhibits and still pictures iconic, and verbal symbols symbolic.
+Q5. (D), because the epidiascope, overhead transparency and filmstrip all need projection; flash cards and the flannel board are seen directly.
+Q6. (A), because overload of limited working memory is the mechanism by which too many aids harm learning.
+Q7. (B), because the order from the base is direct, contrived, dramatised, then demonstrations.
+Q8. (C), because the base is direct experience, but Dale warned that too much reliance on concrete experience can obstruct generalisation.
+::endanswers

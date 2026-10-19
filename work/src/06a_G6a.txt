@@ -1,0 +1,521 @@
+::chapter 6 | Evaluation Systems
+The last part of Unit I in the syllabus reads: "Evaluation Systems: Elements and Types of evaluation, Evaluation in Choice Based Credit System in Higher education, Computer based testing, Innovations in evaluation systems." This chapter follows that sentence phrase by phrase.
+"Elements of evaluation" is taught in 6.1 (what measurement, assessment and evaluation are, and how they fit together). The tools that carry out evaluation, and what makes them good, follow in 6.2 (qualities of a good test), 6.4 (tools, test items and item analysis) and 6.5 (how to read and calculate test scores).
+"Types of evaluation" is taught in 6.3 (formative, summative, diagnostic, placement, norm- and criterion-referenced) and continued in 6.6 (continuous and comprehensive evaluation, and grading).
+"Evaluation in Choice Based Credit System in Higher education" is 6.7. "Computer based testing" is 6.8. "Innovations in evaluation systems" is 6.9.
+Sections 6.2, 6.4 and 6.5 contain calculations. Each is taught as a method: the steps, a worked example, the usual slips, and practice questions that become harder as you go. Read them with a pencil in hand.
+
+::section 6.1 | Elements of evaluation
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.1}}
+::endbox
+::h Core
+::sub Four words that look alike: test, measurement, assessment, evaluation
+Examiners often give you four words that sound similar and ask which is narrowest, which is broadest, or which one a statement illustrates. Learn them as a ladder.
+A **test** (परीक्षण) is an instrument: a set of questions or tasks given to the learner. A question paper is a test. A test is a thing, not a process.
+**Measurement** (मापन) is the process of assigning numbers to a performance according to fixed rules. When the teacher marks the paper and writes 68 out of 100, she has measured. Measurement answers the question "how much?". It is quantitative (मात्रात्मक). It does not say whether 68 is good or bad.
+**Testing** and **scoring** are simply the ways in which that number is obtained: giving the test, then marking it. They belong to measurement.
+**Assessment** (आकलन) is wider than measurement. It means gathering evidence about learning and making sense of it. The evidence may be numerical (marks) or descriptive (a teacher's notes on how a student argued in a seminar). Tests, observation, assignments and projects are all ways of assessing.
+**Evaluation** (मूल्यांकन) is the widest term. It uses the evidence of measurement and assessment and adds a **value judgement** (मूल्य-निर्णय): a judgement of worth, made against objectives or standards. "Her 68 per cent shows very good progress this term" is evaluation, because it judges.
+::table widths=22,40,38
+|Term|What it is|Example|
+|Test|An instrument: a set of tasks|The internal assessment question paper|
+|Measurement|Assigning numbers by rules; answers "how much?"|"Ravi scored 68 out of 100."|
+|Assessment|Gathering and interpreting evidence, numerical and descriptive|Marks plus notes on Ravi's seminar presentation|
+|Evaluation|Judging worth against objectives; includes the others|"Ravi's 68 is a good performance for his class and meets the course objective."|
+Two orders are asked. From narrowest to broadest: measurement, assessment, evaluation. From instrument to process to judgement: test, measurement, evaluation. In both, evaluation comes last, because it includes what comes before it.
+A short formula that many books give is: evaluation = measurement + value judgement. A fuller form, which Indian textbooks attribute to the American educationist Norman E. Gronlund, is:
+> Evaluation = quantitative description (measurement) + qualitative description (non-measurement) + value judgements
+The words to notice are "qualitative description". Evaluation does not use numbers alone. An **anecdotal record** of how a student behaved in a group discussion, or a teacher's observation of her laboratory work, is qualitative evidence. Evaluation uses both kinds, and the judgement of worth is what turns description into evaluation. So if a question asks what Gronlund adds to the two descriptions, the answer is value judgements, not statistical analysis or norms (statistics belong to the quantitative description).
+Two traps follow from this. First, measurement is never "judgemental" or "qualitative"; it is quantitative. Second, evaluation is never narrower than measurement; it is the broader term, because it contains measurement and qualitative description and judgement. Appraisal is another word for judging worth, so it sits with evaluation, not with measurement.
+::sub The evaluation triangle and the steps of evaluation
+Evaluation is not an event at the end of a course. It is tied to what the teacher set out to do. This idea comes from Ralph W. Tyler, whose book *Basic Principles of Curriculum and Instruction* (1949) asked four questions: what purposes should education seek, what learning experiences can attain them, how can those experiences be organised, and how can we tell whether the purposes are being attained.
+Indian textbooks draw this as the **evaluation triangle** (मूल्यांकन त्रिभुज), with three corners:
+- **Objectives** (उद्देश्य): the changes in the learner that the teacher wants to bring about.
+- **Learning experiences** (अधिगम अनुभव): the teaching and activities provided to bring those changes about.
+- **Evaluation** (मूल्यांकन): finding out how far the changes have actually taken place.
+Each corner affects the other two. Objectives decide what experiences are planned and what is evaluated. Evaluation results show whether the experiences worked, and may lead the teacher to revise the objectives or the experiences. The triangle is not "teacher, learner, curriculum" (that is the three-cornered view of the teaching process) and not "input, process, output" (that describes any system).
+From the triangle comes the order of the steps of evaluation:
+1. Formulating the objectives (in terms of the behaviour expected of the learner).
+2. Providing learning experiences suited to those objectives.
+3. Applying the tools of evaluation (tests, observation, assignments) to collect evidence.
+4. Interpreting the results, and using them to improve teaching.
+Objectives always come first, because without them there is nothing to judge against.
+::sub Functions of evaluation
+The results of evaluation are used for different purposes. Four are commonly listed:
+- **Instructional function**: feedback to the teacher on how well the teaching worked and to the learner on what still needs work.
+- **Administrative function** (प्रशासनिक कार्य): decisions about promotion, selection, certification and the award of degrees.
+- **Guidance function** (निर्देशन कार्य): helping a student make educational and vocational choices, for example which elective courses suit her strengths.
+- **Research function**: supplying data for studies of teaching, curricula and learners.
+To tell them apart, ask who uses the result and for what. If the result helps a student choose a course or a career, it is guidance. If it improves the teaching of the current course, it is instructional. If it decides promotion, it is administrative.
+::sub Why every measurement contains error
+Learning cannot be seen directly. We cannot open a student's mind and count what she knows. We give her a sample of tasks and infer her learning from her performance. So educational measurement is **indirect**.
+Because it is indirect, it always contains some error. The test samples only some topics; the student may be tired or anxious; two examiners may mark differently. The score the student actually gets is called the **obtained score** (प्राप्त अंक). The score she would get if there were no error at all is the **true score** (सत्य प्राप्तांक). Classical test theory puts it simply:
+> obtained score = true score + error
+No educational measurement is free of error. That is why we need the ideas of reliability and of the standard error of measurement, which are taught in 6.2.
+::box example
+At a government college in Sirsa, Dr Meena gives her BA Part II English class a 25-mark test on *Macbeth*. She marks the scripts: Arjun gets 18 (measurement). She also notes in her register that Arjun spoke well in the class discussion on the witches but could not support his points with quotations (qualitative description). She writes on his script: "Good grasp of the play; now practise using evidence from the text" (value judgement). Together these make evaluation. Because her objective at the start of the unit was "students will support an interpretation with evidence from the text", she can see that this objective has not yet been met for Arjun, and she plans one more class on quoting. Objectives, learning experiences and evaluation have worked as a triangle.
+::endbox
+::box confused
+- Measurement vs evaluation: measurement gives a number ("72 out of 100") and stops; evaluation adds a judgement of worth ("very good progress"). If the statement only reports a quantity, it is measurement.
+- Assessment vs evaluation: assessment gathers and interprets evidence; evaluation judges the worth of what the evidence shows. Evaluation includes assessment.
+- Test vs measurement: a test is the instrument; measurement is the process of assigning numbers to performance on it.
+- Evaluation triangle vs teaching triangle: the evaluation triangle is objectives, learning experiences, evaluation; teacher, learner, curriculum is a different idea.
+- Instructional vs guidance function: improving teaching and learning of the present course is instructional; helping a student choose courses or careers is guidance.
+::endbox
+::further
+::sub More on the qualitative side
+Qualitative tools used in evaluation include anecdotal records, observation schedules, interviews, portfolios and self-reports. They are taught in 6.4. Remember only that a score, a percentile rank or a standard score is quantitative, while an anecdotal record is qualitative.
+::sub Measurement error, again
+Three main sources of error appear in questions: the sampling of content (the paper happens to ask what the student did or did not revise), the condition of the examinee (illness, anxiety, fatigue), and scoring (different examiners, or the same examiner on different days). Because every obtained score carries error, an obtained score should be read as an estimate. "Statement I: a test score is an indirect measure from which learning is inferred. Statement II: because it is indirect, it always contains some error." Both statements are true.
+::sub Evaluating programmes: the CIPP model
+So far we have spoken of evaluating students. Programmes, courses and institutions are evaluated too. A well-known model for this is the **CIPP model** of Daniel Stufflebeam, developed in the United States in the 1960s. Its four letters name four kinds of evaluation:
+::table widths=20,45,35
+|Letter|What is evaluated|Question it answers|
+|Context|Needs, problems and goals of the setting|What needs to be done?|
+|Input|Resources, plans and strategies available|How should it be done?|
+|Process|Implementation of the plan|Is it being done as planned?|
+|Product|Outcomes and results|Did it succeed?|
+The CIPP model is called decision-oriented, because each part feeds a decision for those who manage the programme. Do not confuse it with invented expansions such as "Content, Instruction, Practice, Performance" or "Curriculum, Input, Pedagogy, Product". Only Context, Input, Process and Product are correct. Tyler's approach, by contrast, is objectives-based: it asks how far the stated objectives have been reached.
+::box check
+Q1. Which of the following statements is an example of evaluation, not merely of measurement?
+(A) Sunita answered 42 of the 60 items correctly.
+(B) Sunita took 55 minutes to complete the paper.
+(C) Sunita's score of 70 shows that she has met the unit's objectives well.
+(D) Sunita obtained 70 marks out of 100.
+Q2. Arrange the following in order from the narrowest to the broadest in scope:
+1. Evaluation
+2. Measurement
+3. Assessment
+Choose the correct answer from the options given below:
+(A) 2, 3, 1
+(B) 3, 2, 1
+(C) 2, 1, 3
+(D) 1, 3, 2
+Q3. Given below are two statements:
+Statement I: Measurement assigns numbers to performance according to rules and does not judge whether the performance is good or bad.
+Statement II: Evaluation may use qualitative information such as anecdotal records along with measurement.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Match List I (function of evaluation) with List II (use of the result):
+::match
+List I || List II
+A. Instructional || I. Deciding which students are promoted to the next semester
+B. Administrative || II. Advising a student on a suitable elective
+C. Guidance || III. Data for a study of reading habits of first-year students
+D. Research || IV. Telling the teacher which topic must be re-taught
+Choose the correct answer from the options given below:
+(A) A-IV, B-I, C-II, D-III
+(B) A-I, B-IV, C-II, D-III
+(C) A-IV, B-II, C-I, D-III
+(D) A-II, B-I, C-IV, D-III
+Q5. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
+Assertion (A): Every score on an educational test contains some error.
+Reason (R): Learning is inferred from performance on a sample of tasks and is not observed directly.
+In the light of the above statements, choose the correct answer:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Arrange the steps of the evaluation process in the correct order:
+1. Applying tools of evaluation
+2. Formulating objectives
+3. Interpreting results
+4. Providing learning experiences
+Choose the correct answer from the options given below:
+(A) 2, 1, 4, 3
+(B) 4, 2, 1, 3
+(C) 2, 4, 1, 3
+(D) 2, 4, 3, 1
+Q7. In the CIPP model of programme evaluation, the letter "I" stands for:
+(A) Instruction
+(B) Implementation
+(C) Interpretation
+(D) Input
+::endbox
+::answers
+Q1. (C), because only (C) passes a judgement of worth against objectives. (A), (B) and (D) report quantities (items, time, marks), which is measurement.
+Q2. (A), because measurement only assigns numbers, assessment gathers and interprets evidence, and evaluation judges worth and includes both.
+Q3. (A), because measurement stops at the number, and evaluation combines quantitative and qualitative description with a value judgement.
+Q4. (A), because re-teaching is instructional, promotion is administrative, choice of elective is guidance and data for a study is research. (C) wrongly swaps promotion and guidance.
+Q5. (A), because both are true and the indirect, sampled nature of measurement is exactly why error is always present.
+Q6. (C), because objectives come first, then learning experiences, then tools are applied, then results are interpreted. (D) interprets before collecting evidence.
+Q7. (D), because CIPP stands for Context, Input, Process and Product. Implementation is what the Process part studies, but it is not the name of a letter.
+::endanswers
+
+::section 6.2 | Qualities of a good test
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.2}}
+::endbox
+::h Core
+::sub The four qualities
+A good test has four main qualities: **validity** (वैधता), **reliability** (विश्वसनीयता), **objectivity** (वस्तुनिष्ठता) and **usability** (व्यावहारिकता), also called practicability. Standardised tests also have **norms** (मानक): tables of how a reference group performed, so that a score can be compared with that group. Learn one sentence for each quality.
+::table widths=22,40,38
+|Quality|The question it asks|A quick test of the idea|
+|Validity|Does the test measure what it claims to measure?|A reasoning test that mainly rewards fast reading is not valid.|
+|Reliability|Does it give consistent results?|The same students get similar scores if tested again under similar conditions.|
+|Objectivity|Is the score free of the examiner's personal judgement?|Two examiners give the same mark to the same answer.|
+|Usability|Can it be given, scored and interpreted without undue time, cost or difficulty?|A valid test that costs too much to give is of little use.|
+**Validity is the most important quality.** A test that measures the wrong thing is useless for its purpose, however consistent, objective or cheap it may be.
+::sub Validity and its types
+Validity always means: does the test measure what it is meant to measure? Anything that lets something else affect the scores lowers validity. Suppose a mathematics test is written in long, difficult English. Students weak in English lose marks for a reason that has nothing to do with mathematics. The test is now partly a reading test. Its validity falls, even though its scoring key is perfectly clear (objectivity is unaffected).
+There are several kinds of evidence of validity. Learn each with its question.
+- **Content validity** (विषयवस्तु वैधता): do the items represent the course content and objectives in proper proportion? It is ensured by preparing a **blueprint** (a table that spreads marks over topics and objectives) before the items are written, and judged by checking the items against the syllabus or blueprint.
+- **Criterion-related validity**: do the scores agree with some other measure (a criterion) of the same ability? It has two kinds, which differ only in timing.
+- **Concurrent validity** (समवर्ती वैधता): the criterion is available now. A new short reading test is given in the same week as a well-established reading test, and the two sets of scores correlate highly.
+- **Predictive validity** (भविष्यसूचक वैधता): the criterion lies in the future. Scores on an entrance or aptitude test are later found to forecast the students' grades in the course. Predictive validity is essential for entrance and aptitude tests.
+- **Construct validity** (संरचना वैधता): do the scores reflect the theoretical quality (the construct) that the test claims to measure, such as intelligence, creativity or anxiety? A construct cannot be seen directly, so this evidence is built up through correlations with related measures and through factor analysis.
+- **Face validity** (आभासी वैधता): does the test look, on the surface, as if it measures what it should, to candidates and lay observers? This is an impression, not validity in the technical sense. It matters because it affects how seriously candidates take the test.
+Remember the timing pair with two words: "now" is concurrent, "later" is predictive.
+::sub Reliability and how it is estimated
+Reliability is consistency. A reliable test gives similar results when the same students are tested again under similar conditions, or when the test is scored by another examiner, or when another version of the test is used.
+Reliability is usually expressed as a **reliability coefficient** (विश्वसनीयता गुणांक). It is found by correlating two sets of scores, and it runs from 0 (no consistency) to 1 (perfect consistency). The nearer to 1, the more reliable the test. It is not a percentage of marks, a percentile or a grade point.
+The methods differ in what two sets of scores are correlated:
+::table widths=24,38,38
+|Method|What is done|What it shows|
+|Test-retest (परीक्षण-पुनर्परीक्षण विधि)|The same test is given twice to the same group, with a gap between the two sittings|Coefficient of stability: steadiness of scores over time|
+|Parallel forms or equivalent forms (समानांतर प्रारूप विधि)|Two equivalent versions of the test are given to the same group|Coefficient of equivalence; if given after an interval, stability and equivalence together|
+|Split-half (अर्ध-विच्छेद विधि)|The test is given once, divided into two halves (usually odd and even items), and the halves are correlated; the Spearman-Brown formula then gives the reliability of the whole test|Internal consistency|
+|Kuder-Richardson (rational equivalence)|The test is given once; formulas KR-20 and KR-21 use the item data of a test scored 1 or 0|Internal consistency|
+|Inter-rater or scorer reliability|Two or more examiners independently mark the same scripts|Agreement between scorers|
+A sorting rule helps. Two administrations: test-retest (same test twice) and parallel forms (two versions). One administration: split-half and Kuder-Richardson. Scorers: inter-rater.
+**Longer tests are more reliable.** A longer test samples the ability more fully, so the chance errors on single items tend to cancel out. Other things being equal, adding good items raises reliability. Very short tests are usually unreliable. The Spearman-Brown formula expresses this link between length and reliability (see Going Further).
+::sub How reliability and validity are related
+Learn this pair of sentences: **a test can be reliable without being valid, but it cannot be valid without being reliable.**
+Picture a weighing scale that always reads two kilograms too much. It is consistent (reliable), but it gives the wrong weight (not valid). In the same way, a test may give very consistent scores while it measures memory for trivial details instead of the reasoning it claims to measure. It is reliable but not valid.
+The reverse, "valid but not reliable", cannot occur. If a test gives inconsistent scores, they are largely error, and a test made largely of error cannot be measuring its target accurately. So reliability is **necessary but not sufficient** for validity.
+::sub Objectivity and usability
+**Objectivity** means that the score does not depend on who marks the paper. Different examiners, or the same examiner at different times, give the same score to the same answer. Multiple-choice items are highly objective, because the key decides the mark. Essay answers are less objective, because marking needs judgement. Objectivity supports reliability, since scorer bias is one source of inconsistent scores.
+**Usability** or practicability covers the practical side: time needed, cost, ease of giving and scoring, clear instructions, and ease of interpreting the results.
+::box example
+The Department of History at a university in Haryana is choosing an entrance test for its MA programme. The committee asks four questions. Do the scores of past entrants forecast their first-semester grades (predictive validity)? Does the paper sample all the BA topics in proportion, as the blueprint says (content validity)? Would a candidate get a similar score if she sat a parallel version a week later (reliability)? Can 600 candidates be tested in two hours and the answers machine-scored (usability and objectivity)? A paper with long essays only would fail the last two questions; a paper of 100 well-made multiple-choice items with a careful blueprint would pass all four.
+::endbox
+::box confused
+- Reliability vs validity: reliability is consistency; validity is measuring the right thing. Reliable but not valid is possible; valid but not reliable is not.
+- Objectivity vs reliability: objectivity is about the scorer; reliability is about the consistency of scores more generally. Objectivity is one support of reliability.
+- Content vs face validity: content validity is judged systematically against a blueprint; face validity is only the surface impression.
+- Concurrent vs predictive validity: both compare the test with a criterion; the criterion is available now for concurrent and later for predictive.
+- Construct vs content validity: content validity asks whether the course is sampled; construct validity asks whether the theoretical trait is reflected.
+- Test-retest vs parallel forms: one test given twice gives stability; two equivalent versions give equivalence.
+- Split-half vs Kuder-Richardson: both use one administration and give internal consistency; split-half correlates two halves and needs the Spearman-Brown correction, while KR uses item-level right/wrong data.
+- Standard error of measurement vs standard deviation: SEM is the error band around one person's score; SD is the spread of scores across the group.
+::endbox
+::further
+::sub Method 1: the Spearman-Brown formula (split-half reliability)
+When a test is split into halves, the correlation between the halves is the reliability of a half-length test. The full test is twice as long, so it is more reliable. The formula, published in 1910 by Charles Spearman and William Brown in separate papers in the *British Journal of Psychology*, corrects for this.
+Steps:
+1. Find r, the correlation between the two halves.
+2. Full-test reliability = 2r / (1 + r).
+::box worked
+Example 1. The odd-item and even-item halves of a test correlate at 0.70. Find the reliability of the whole test.
+> Full-test reliability = 2 x 0.70 / (1 + 0.70)
+> = 1.40 / 1.70
+> = 0.82 (to two decimal places)
+The general form is for a test made n times as long: reliability = n r / (1 + (n - 1) r).
+Example 2. A test has reliability 0.50. It is made three times as long with similar items. Predict the new reliability.
+> New reliability = 3 x 0.50 / (1 + 2 x 0.50)
+> = 1.50 / 2.00
+> = 0.75
+::endbox
+::sub Method 2: the Kuder-Richardson formulas
+G. F. Kuder and M. W. Richardson published these formulas in *Psychometrika* in 1937. They use a single administration of a test whose items are scored 1 (right) or 0 (wrong). The symbols are: k = number of items; p = proportion answering an item correctly; q = 1 - p; s² = variance of the total scores (the square of their standard deviation); M = mean of the total scores.
+> KR-20 = [k / (k - 1)] x [1 - (sum of pq over all items) / s²]
+> KR-21 = [k / (k - 1)] x [1 - M (k - M) / (k s²)]
+KR-21 is a shortcut. It needs only the mean and the variance, and it assumes that all items are of equal difficulty. When items differ in difficulty, KR-21 comes out lower than KR-20. KR-20 is a special case of Cronbach's alpha, the coefficient used when items are not scored simply right or wrong.
+::box worked
+Example 3 (KR-21). A 40-item test has a mean of 24 and a standard deviation of 6, so s² = 36.
+> k / (k - 1) = 40 / 39 = 1.026
+> M (k - M) / (k s²) = 24 x 16 / (40 x 36) = 384 / 1440 = 0.267
+> KR-21 = 1.026 x (1 - 0.267) = 1.026 x 0.733 = 0.75 (to two decimal places)
+Example 4 (KR-20). Six students take a 5-item test. Their totals are 5, 4, 3, 2, 1 and 0. The proportions correct on the five items are 5/6, 4/6, 3/6, 2/6 and 1/6.
+> Mean of totals = 2.5; variance s² (dividing by 6) = 2.917
+> sum of pq = 0.139 + 0.222 + 0.250 + 0.222 + 0.139 = 0.972
+> KR-20 = (5/4) x (1 - 0.972 / 2.917) = 1.25 x 0.667 = 0.83
+> KR-21 for the same data = (5/4) x (1 - 2.5 x 2.5 / (5 x 2.917)) = 0.71, lower than KR-20 because the items differ in difficulty
+::endbox
+::sub Method 3: the standard error of measurement
+Every obtained score contains error (6.1). The **standard error of measurement** (मापन की मानक त्रुटि), SEM, tells how far a person's obtained scores would spread around her true score if she could be tested again and again. It turns the reliability coefficient into a band of marks.
+Steps:
+1. SEM = SD x square root of (1 - r), where SD is the standard deviation of the test scores and r is the reliability coefficient.
+2. Obtained score plus or minus 1 SEM gives a band within which the true score probably lies (about 68 times in 100).
+3. Obtained score plus or minus 2 SEM (strictly 1.96 SEM) gives a band with about 95 per cent confidence.
+::box worked
+Example 5. A test has SD = 10 and reliability 0.91. Ravi obtains 62.
+> SEM = 10 x square root of (1 - 0.91) = 10 x square root of 0.09 = 10 x 0.3 = 3
+> 68 per cent band: 62 - 3 to 62 + 3, that is, 59 to 65
+> 95 per cent band: 62 plus or minus 1.96 x 3 = 62 plus or minus 5.88, that is, about 56 to 68
+The higher the reliability, the smaller the SEM. If r were 1, SEM would be 0: no error at all.
+::endbox
+Strictly speaking, the band is built around the obtained score, so it tells us where the true score probably lies, not that it certainly lies there.
+::sub Method 4: the ceiling on validity
+A test cannot correlate with any criterion more highly than it correlates with itself. The square root of the reliability coefficient is called the **index of reliability**, and it is the highest validity coefficient the test can reach.
+::box worked
+Example 6. A test has reliability 0.81. Its validity can be at most the square root of 0.81 = 0.90. With reliability 0.49, the ceiling is 0.70; with 0.36, it is 0.60.
+This is a ceiling only. Actual validity coefficients are usually much lower.
+::endbox
+::box slips
+- Reporting the half-test correlation as the reliability of the whole test. The full test is always more reliable than its halves (0.60 becomes 0.75).
+- Writing 2r / (1 + 2r) or 2r / 2 instead of 2r / (1 + r).
+- Forgetting the square root in the SEM: with r = 0.91 the error factor is the square root of 0.09, which is 0.3, not 0.09.
+- Taking the reliability itself (0.64) as the ceiling on validity; the ceiling is its square root (0.80).
+- Confusing SD (spread across a group) with SEM (error around one person's score).
+::endbox
+::sub When split-half goes wrong: speed tests
+A **power test** has items of increasing difficulty and enough time for everyone to attempt all of them. A **speed test** has easy items and too little time, so the score depends on how many items the student reaches. On a pure speed test a student who reaches 37 items gets about 19 odd items and 18 even items right. The two halves are almost identical for every student, so the odd-even correlation is close to 1 whatever the real reliability. (A computer simulation of 200 such students, run for this guide, gave an odd-even correlation of 0.997.) Split-half therefore gives a spuriously high reliability on speed tests. Test-retest or parallel forms should be used for speeded tests. Split-half is suitable for power tests.
+::sub Why the group matters: restriction of range
+A reliability coefficient is not fixed for a test. It depends on how widely the scores of the group are spread. In classical test theory, reliability is the share of true-score variance in the total variance of scores:
+> reliability = 1 - (error variance / total variance)
+Suppose the error variance is 9 in every group. In a mixed-ability group the total variance is 90, so reliability = 1 - 9/90 = 0.90. In a group of only top students, the scores bunch together and the total variance is 22.5, so reliability = 1 - 9/22.5 = 0.60. The test has not changed; the group has. This is **restriction of range**. A homogeneous group gives a lower coefficient.
+::sub Validity threats named by Messick
+In a well-known account of validity, Messick (1989) named two main threats to validity:
+- **Construct under-representation**: the test is too narrow and leaves out important parts of what it should measure. A research methodology course aims at designing studies, but its examination asks only for definitions.
+- **Construct-irrelevant variance**: scores are affected by something outside the construct. A mathematics test in difficult English measures reading ability too; an essay test may reward handwriting.
+In short: something essential missing is under-representation; something extra measured is irrelevant variance.
+::sub The trade-off in performance assessment
+Suppose a teacher-education programme replaces a written test on methods of teaching with an observed classroom lesson judged on a rubric. Observing real teaching gives direct evidence of the skill, so validity rises. But one lesson is a small sample, observers differ, and observation takes much time, so reliability and practicability fall. Rubrics, trained observers and several observations reduce the loss. The general rule: performance tasks are stronger on validity and weaker on reliability; objective tests are the reverse.
+::box check
+Q1. A test is given once, divided into odd and even items, and the two half-scores are correlated at 0.80. By the Spearman-Brown formula, the reliability of the whole test is about:
+(A) 0.80
+(B) 0.40
+(C) 0.89
+(D) 0.64
+Q2. Match List I (method) with List II (what it yields):
+::match
+List I || List II
+A. Test-retest || I. Agreement between independent examiners
+B. Parallel forms || II. Coefficient of stability
+C. Kuder-Richardson || III. Coefficient of equivalence
+D. Inter-rater || IV. Internal consistency from one administration
+Choose the correct answer from the options given below:
+(A) A-III, B-II, C-IV, D-I
+(B) A-II, B-III, C-IV, D-I
+(C) A-II, B-III, C-I, D-IV
+(D) A-IV, B-III, C-II, D-I
+Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
+Assertion (A): A test can be highly reliable and still have low validity.
+Reason (R): Reliability is necessary but not sufficient for validity.
+In the light of the above statements, choose the correct answer:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Scores on a college's aptitude test in June are compared with the same students' grades at the end of the first year. The evidence sought is:
+(A) concurrent validity
+(B) content validity
+(C) face validity
+(D) predictive validity
+Q5. A test has a standard deviation of 8 and a reliability coefficient of 0.75. A student obtains 50. Within which band does her true score lie, with about 68 per cent confidence?
+(A) 48 to 52
+(B) 46 to 54
+(C) 42 to 58
+(D) 44 to 56
+Q6. Consider the following statements:
+1. The split-half method needs only one administration of the test.
+2. The split-half method is the best choice for a pure speed test.
+3. Adding more good items to a test generally raises its reliability.
+4. A reliability coefficient tends to fall when the group tested is very homogeneous.
+Choose the correct answer from the options given below:
+(A) 1, 3 and 4 only
+(B) 1 and 2 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q7. A test has a reliability coefficient of 0.49. The highest validity coefficient it can have is:
+(A) 0.24
+(B) 0.70
+(C) 0.49
+(D) 0.98
+Q8. Given below are two statements:
+Statement I: A history examination that asks only for dates, though the course aims at historical argument, suffers from construct under-representation.
+Statement II: Face validity is established by correlating test scores with a later criterion.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (C), because 2 x 0.80 / (1 + 0.80) = 1.60 / 1.80 = 0.89. Choosing 0.80 reports the half-test correlation, which is always lower than the full-test reliability.
+Q2. (B), because test-retest gives stability, parallel forms give equivalence, Kuder-Richardson gives internal consistency from one sitting, and inter-rater gives agreement between examiners.
+Q3. (A), because both are true, and the fact that reliability does not guarantee validity is exactly why a consistent test can still measure the wrong thing.
+Q4. (D), because the criterion (first-year grades) comes later. If both measures had been taken at the same time, it would be concurrent validity.
+Q5. (B), because SEM = 8 x square root of 0.25 = 8 x 0.5 = 4, and 50 plus or minus 4 gives 46 to 54. (D) uses 8 x 0.75 = 6, which forgets the square root.
+Q6. (A), because statement 2 is wrong: on a pure speed test the odd and even halves are nearly identical, so split-half gives a spuriously high estimate.
+Q7. (B), because the ceiling is the square root of the reliability, which is 0.70. (C) repeats the reliability itself.
+Q8. (C), because the narrow examination leaves out an essential part of the construct, while face validity is only a surface impression; correlation with a later criterion is predictive validity.
+::endanswers
+
+::section 6.3 | Types of evaluation
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.3}}
+::endbox
+::h Core
+Evaluation is classified in two main ways. The first asks **when and why** it is done: before, during or after teaching, and for what purpose. This gives placement, formative, diagnostic and summative evaluation. The second asks **against what** a score is compared: other students, a fixed standard, or the student's own earlier work. This gives norm-referenced, criterion-referenced and ipsative evaluation. Keep the two classifications apart in your mind.
+::sub By timing and purpose: four types
+**Placement evaluation** (स्थापन मूल्यांकन) is done **before** instruction. It finds the learner's entry behaviour: what she already knows and can do, and whether she has the prerequisites for the course. Its results are used to decide where she should begin, for example a beginner, intermediate or advanced group in a language course. A placement pre-test answers two questions: does the learner have the prerequisites, and has the learner already achieved the outcomes of the unit? Learners who have already mastered the unit should skip ahead or be given enrichment or advanced work. Teaching them the same unit again wastes their time.
+**Formative evaluation** (रचनात्मक मूल्यांकन) is done **during** instruction, while teaching and learning are still going on. Its purpose is feedback: to tell the learner how she is progressing and the teacher how well the teaching is working, so that both can improve before the course ends. It is often informal: oral questions, class quizzes, short class tests, observation, and comments on drafts returned for revision. It is not meant for final grades.
+**Diagnostic evaluation** (निदानात्मक मूल्यांकन) looks for the **causes** of learning difficulties that persist in spite of ordinary teaching and feedback. Formative evaluation shows that a student is weak in, say, subtraction; diagnostic evaluation finds out why, using specially designed tests and close observation. Diagnosis is not an end in itself. It is followed by **remedial teaching** (उपचारात्मक शिक्षण) aimed at exactly the cause found.
+**Summative evaluation** (योगात्मक मूल्यांकन) is done at the **end** of a unit, term or course. It sums up how far the objectives have been achieved. Its results are used for grades, promotion and certification. It is usually formal and high-stakes: a final examination, a year-end examination, a degree viva voce.
+::table widths=18,20,32,30
+|Type|When|Purpose|Typical tools or uses|
+|Placement|Before instruction|Find entry behaviour; decide starting point and grouping|Pre-test, entry test|
+|Formative|During instruction|Monitor progress; feedback to learner and teacher|Quiz, oral questions, comments on drafts, observation|
+|Diagnostic|During instruction, when difficulties persist|Find causes of persistent difficulties; plan remedy|Specially designed diagnostic test, interview|
+|Summative|End of unit, term or course|Certify achievement; grade; promote|Term-end or year-end examination, final viva|
+Norman E. Gronlund, as Indian B.Ed. texts quote him, put the formative-diagnostic difference in a picture: formative evaluation gives "first aid" for simple learning problems, while diagnostic evaluation searches for the underlying causes of problems that do not respond to first aid.
+::sub Use decides the label
+The same instrument can be formative or summative. What decides the label is how the results are used, not what the test looks like.
+- A mid-semester unit test given only to find weak areas for re-teaching is **formative**, even though it looks like an examination.
+- A term-end examination used to decide promotion is **summative**.
+- A mid-term test returned with detailed comments, whose marks also count for part of the final grade, is **both**: the comments are a formative use and the marks a summative use.
+So when a question asks "which distinguishes formative from summative evaluation?", the answer is the use of results to modify instruction still in progress. External setting, whole-course coverage and final grades are typical of summative evaluation but do not define formative evaluation.
+::sub Do not confuse diagnostic with prognostic
+A **diagnostic test** locates the specific difficulties of a learner and their causes now. A **prognostic test** (पूर्वानुमानात्मक परीक्षण) forecasts how well a person is likely to do in a subject or course in the future; "prognosis" means forecast. It is used in guidance and selection. An **aptitude test** measures potential for a particular field, and an **intelligence test** measures general mental ability.
+::sub By frame of reference: norm, criterion, self
+A raw score needs something to be compared with. There are three possible yardsticks.
+A **norm-referenced test** (मानक-संदर्भित परीक्षण), NRT, interprets a score by comparing it with the scores of other students in a group. Results are given as ranks, percentiles or standard scores. "Rina scored higher than 85 per cent of her class" is a norm-referenced statement. Competitive examinations for a fixed number of seats work this way: the success of one candidate depends on how others perform.
+A **criterion-referenced test** (निकष-संदर्भित परीक्षण), CRT, compares performance with a fixed standard or a defined set of tasks, whatever others do. "Rina solved 17 of the 20 problems", "Rina typed 40 words a minute" and "Rina crossed the pass standard of 50 per cent" are criterion-referenced statements. A driving-licence test is the common example: everyone who meets the standard passes, however many candidates there are.
+**Ipsative assessment** (स्व-संदर्भित आकलन), also called self-referenced assessment, compares a learner with her own earlier performance. A teacher who compares each student's present essay with the essay she wrote two months earlier, and grades the improvement, is using ipsative assessment.
+::table widths=22,26,26,26
+|Point|Norm-referenced|Criterion-referenced|Ipsative|
+|Compared with|Other learners|A fixed standard or task domain|The learner's own earlier work|
+|Typical report|Rank, percentile rank|Mastery or non-mastery; percentage of objectives mastered|Progress or gain|
+|Example|Admission of the top 100 in an entrance test|Driving test; licence for all who reach 70 per cent|Improvement since the last assignment|
+|What floats|The cut-off mark floats with rank|The number who pass floats|Nothing is compared with others|
+Two consequences are asked often. First, certifying that a learner has mastered minimum competencies needs a criterion-referenced test. A norm-referenced test is built to spread scores out for ranking, and a high rank does not show that the competencies have been mastered. Second, a percentile rank is norm-referenced, while the percentage of objectives mastered is criterion-referenced. The two words sound alike but belong to opposite systems.
+Many selection examinations combine both. "Qualified candidates must score at least 40 per cent, and must be among the top 6 per cent of those who do" uses a criterion (the fixed 40 per cent, which any number may reach) and then a norm (the top 6 per cent, which depends on rank).
+::sub Assessment for, of and as learning
+These three phrases are now common. Lorna Earl used all three in her book *Assessment as Learning* (2003).
+- **Assessment for learning** (अधिगम के लिए आकलन): the teacher gathers evidence during learning and uses it to adjust teaching. This is formative assessment.
+- **Assessment of learning** (अधिगम का आकलन): records and reports what has been achieved at the end. This is summative assessment.
+- **Assessment as learning** (अधिगम के रूप में आकलन): the students themselves monitor their work against criteria, judge their own drafts, and set goals. It is self-assessment and self-regulation.
+The deciding question between "for" and "as" is: who uses the evidence? If the teacher uses it to adjust teaching, it is for learning. If the students use it to regulate their own learning, it is as learning.
+::sub Internal and external evaluation
+**Internal evaluation** (आंतरिक मूल्यांकन) is carried out by the teachers of the institution itself, often continuously through the term. **External evaluation** (बाह्य मूल्यांकन) is carried out by examiners or an agency from outside, usually at the end. External evaluation is usually summative; internal evaluation can serve formative and summative purposes.
+::box example
+In the first week of the BA English (Honours) programme at a college in Hisar, Dr Kaur gives a placement test of grammar. Five students already score above 90 per cent; she gives them an advanced writing project in place of the grammar unit. During the unit she runs a five-minute quiz every Friday (formative). One student, Pooja, keeps writing "he goed" and "she taked" even after feedback. Dr Kaur sets her a short special task with twenty past-tense verbs and finds that Pooja adds "-ed" to every verb, regular or not (diagnostic). She then teaches irregular verbs in groups (remedial). The end-semester examination gives the final grade (summative). The university's rule that a student must get at least 40 per cent to pass is criterion-referenced; the gold medal for the top scorer is norm-referenced.
+::endbox
+::box confused
+- Formative vs summative: formative improves learning while it is going on; summative certifies achievement at the end. The use of results decides the label, not the instrument.
+- Formative vs diagnostic: formative shows that a weakness exists and gives quick feedback; diagnostic finds the cause of a persistent difficulty and leads to remedial teaching.
+- Diagnostic vs prognostic: diagnostic finds causes of present errors; prognostic forecasts future performance.
+- Placement vs diagnostic: placement looks at entry behaviour before instruction to decide the starting point; diagnosis searches for causes of difficulties that persist.
+- Norm-referenced vs criterion-referenced: comparison with other learners vs comparison with a fixed standard. In NRT the cut-off floats; in CRT the number passing floats.
+- Percentile rank vs percentage of objectives mastered: norm-referenced vs criterion-referenced.
+- Criterion-referenced vs ipsative: a fixed external standard vs the learner's own earlier work.
+- Assessment for learning vs assessment as learning: the teacher uses the evidence vs the students use it themselves.
+::endbox
+::further
+::sub Who introduced the terms
+**Michael Scriven** introduced the terms formative and summative evaluation in 1967, in his essay "The methodology of evaluation". He was writing about the evaluation of **curricula and programmes**: formative evaluation improves a curriculum while it is being developed; summative evaluation judges the finished curriculum. **Bloom, Hastings and Madaus**, in their *Handbook on Formative and Summative Evaluation of Student Learning* (1971), applied the terms to **student learning**, especially within mastery learning, where short formative tests are given after each learning unit. So the order is: Scriven, curriculum; Bloom and colleagues, student learning. An option that reverses the order is wrong.
+**Robert Glaser** introduced the distinction between norm-referenced and criterion-referenced measurement in a 1963 article in the *American Psychologist* on instructional technology and the measurement of learning outcomes. He argued that new forms of instruction needed tests that showed whether a learner had reached a specified level of performance, not merely her rank. **Ralph W. Tyler** is known for the objectives-based approach to evaluation (6.1). Do not give Tyler or Glaser credit for formative and summative, or Scriven credit for criterion-referenced measurement.
+::sub How NRT and CRT differ in construction
+Because a norm-referenced test exists to rank people, it needs a wide spread of scores. Its items are chosen to be of middle difficulty and to discriminate well between able and weak students. An item that every examinee answers correctly (or that nobody answers correctly) adds nothing to the differences between people and is dropped from an NRT.
+A criterion-referenced test exists to show mastery. Its items are chosen to represent the tasks in the defined domain. If every student answers an item correctly, that may simply show that teaching succeeded, and the item is kept. Results are reported as mastery or non-mastery. After effective teaching, CRT scores are not normally distributed; they bunch at the high end (skewed towards high scores). A normal spread is what an NRT aims at, not a CRT.
+How is a CRT cut-off fixed? Often by expert judgement of what a minimally competent candidate can do. In the **Angoff method** (Angoff, 1971), each judge estimates, for each item, the probability that a just-competent candidate will answer it correctly; the estimates are summed and averaged across judges to give the cut-off. A rank-based quota works the opposite way: the proportion who succeed is fixed in advance, and the cut-off mark is whatever the last selected candidate scored.
+Three further points:
+- A criterion-referenced test can be summative. A final mastery test is both.
+- Norm-referencing is a way of interpreting scores, not a property of standardised tests alone. A classroom teacher who ranks her class is interpreting her own test in a norm-referenced way.
+- The same scores can be given both interpretations. A score of 70 per cent can be read against a pass mark (criterion) or converted to a percentile rank (norm).
+::sub Purpose and user decide the label, again
+A term-end examination decides the students' grades, so for them it is summative. If the department later analyses the item-wise results and uses them to redesign the teaching of the course for the next batch, the same results serve a formative purpose for the course. The examination is summative for these students but formative for the course.
+::sub The steps of diagnosis, and reading error patterns
+Educational diagnosis follows a fixed order:
+1. Identify the students who are having difficulty.
+2. Locate the specific areas of difficulty.
+3. Find the causes of the difficulty.
+4. Plan remedial instruction.
+The cause cannot be looked for until the area has been located, and remedy cannot be planned until the cause is known. Remedy without diagnosis only repeats the teaching that has already failed.
+A diagnostic test contains **many items on each narrow sub-skill**, so that a pattern of errors can be identified reliably for each sub-skill. Diagnostic tests are generally not used for awarding grades; that is a separate feature, not the reason for having many items.
+Read the pattern of errors. Careless errors are irregular: different mistakes in different places. A **systematic** error is the same wrong procedure applied every time, and it shows a misconception. A student who writes 64 - 27 = 43 and 52 - 18 = 46 is subtracting the smaller digit from the larger in each column (7 - 4 = 3, 6 - 2 = 4; 8 - 2 = 6, 5 - 1 = 4), whichever number it belongs to. That is a misconception about regrouping ("borrowing"), not carelessness and not low ability. The remedy is to re-teach place value and regrouping, for example with concrete material such as bundles of ten sticks. Pooja's "goed" and "taked" in the example above are a systematic error of the same kind.
+::sub Direct and indirect assessment in outcome-based education
+In **outcome-based education**, a course states its course outcomes, and the institution checks how far students attain them. Two kinds of tools are used.
+- **Direct assessment** (प्रत्यक्ष आकलन) examines actual student performance: tests, assignments, projects, laboratory work, examinations.
+- **Indirect assessment** (अप्रत्यक्ष आकलन) gathers opinions about learning: course-exit surveys of students, alumni surveys, employer surveys. A course-exit survey asking students how well they think they achieved the outcomes is indirect, because it records belief, not performance.
+Attainment is usually computed mainly from direct tools, with indirect tools as supporting evidence.
+::box worked
+Attainment of a course outcome. Target: at least 60 per cent of students should score 50 per cent or more on the questions linked to the outcome. In a class of 90, 63 students do so.
+> Attainment = 63 / 90 x 100 = 70 per cent
+> 70 per cent is above the target of 60 per cent, so the outcome is attained.
+Keep three numbers apart: the score level (50 per cent), the target (60 per cent of students) and the result (70 per cent of students). The number of students who reached the level (63) is not itself a percentage.
+::endbox
+::box check
+Q1. Match List I (type of evaluation) with List II (purpose):
+::match
+List I || List II
+A. Placement || I. Locating causes of a persistent difficulty
+B. Formative || II. Certifying achievement at the end
+C. Diagnostic || III. Deciding the starting point before instruction
+D. Summative || IV. Feedback while learning is in progress
+Choose the correct answer from the options given below:
+(A) A-III, B-IV, C-II, D-I
+(B) A-IV, B-III, C-I, D-II
+(C) A-III, B-IV, C-I, D-II
+(D) A-I, B-IV, C-III, D-II
+Q2. Given below are two statements:
+Statement I: A university that admits the top 50 scorers in its test, whatever their marks, is using the test in a criterion-referenced way.
+Statement II: A board that certifies every candidate who scores 60 per cent or more is using its test in a criterion-referenced way.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
+Assertion (A): Diagnostic evaluation is normally followed by remedial teaching.
+Reason (R): Diagnostic evaluation seeks the causes of persistent learning difficulties.
+In the light of the above statements, choose the correct answer:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Consider the following statements:
+1. The same test can be formative or summative depending on how its results are used.
+2. Assessment as learning means that students monitor and regulate their own learning.
+3. Summative evaluation is mainly used for daily feedback.
+4. Scores on a criterion-referenced test must be normally distributed.
+Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 1, 2 and 3 only
+(C) 2 and 4 only
+(D) 1, 3 and 4 only
+Q5. Arrange the following steps of educational diagnosis in order:
+1. Finding the causes of the difficulty
+2. Planning remedial instruction
+3. Identifying the students who have difficulty
+4. Locating the specific areas of difficulty
+Choose the correct answer from the options given below:
+(A) 3, 1, 4, 2
+(B) 3, 4, 2, 1
+(C) 4, 3, 1, 2
+(D) 3, 4, 1, 2
+Q6. The terms formative and summative evaluation were first used by Scriven in connection with:
+(A) the selection of teachers
+(B) the evaluation of curricula and programmes
+(C) mastery learning of students
+(D) criterion-referenced measurement
+Q7. A teacher tells a student, "Your score this month is twelve marks better than your score last month." This is:
+(A) norm-referenced interpretation
+(B) criterion-referenced interpretation
+(C) ipsative interpretation
+(D) placement evaluation
+Q8. For a course outcome, the target is that 60 per cent of students score at least half marks on the linked questions. In a class of 75, 42 students do so. Which is correct?
+(A) Attainment is 56 per cent; the outcome is not attained
+(B) Attainment is 42 per cent; the outcome is not attained
+(C) Attainment is 56 per cent; the outcome is attained
+(D) Attainment is 60 per cent; the outcome is just attained
+::endbox
+::answers
+Q1. (C), because placement decides the starting point, formative gives feedback during learning, diagnostic finds causes, and summative certifies at the end. (A) wrongly gives the causes to summative.
+Q2. (D), because admitting a fixed number by rank is norm-referenced; certifying all who reach a fixed standard is criterion-referenced.
+Q3. (A), because both are true, and remedy is planned precisely because diagnosis has found the cause.
+Q4. (A), because statement 3 is wrong (daily feedback is formative) and statement 4 is wrong (CRT scores are often bunched at the high end after good teaching).
+Q5. (D), because diagnosis goes: who has difficulty, where, why, and then remedy. (A) looks for causes before locating the area.
+Q6. (B), because Scriven wrote about curriculum and programme evaluation in 1967; Bloom and colleagues later applied the terms to student learning and mastery learning.
+Q7. (C), because the student is compared with her own earlier performance, not with others or with a fixed standard.
+Q8. (A), because 42 / 75 = 0.56, or 56 per cent of students, which is below the target of 60 per cent. (B) treats the number of students as a percentage.
+::endanswers

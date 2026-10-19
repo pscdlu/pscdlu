@@ -1,0 +1,508 @@
+::section 6.6 | Continuous and Comprehensive Evaluation and grading
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.6}}
+::endbox
+::h Core
+::sub What CCE means
+**Continuous and Comprehensive Evaluation (सतत एवं व्यापक मूल्यांकन)**, usually shortened to CCE, is a school-level scheme of evaluation (मूल्यांकन). Its name has two parts, and the examination often asks what each part means.
+- **Continuous** means that assessment (आकलन) goes on regularly through the whole year, during teaching, and not only in one examination at the end. Class work, assignments, quizzes, projects and observation all count. This is formative evaluation (रचनात्मक मूल्यांकन) built into daily teaching, together with periodic summative evaluation (योगात्मक मूल्यांकन).
+- **Comprehensive** means that assessment covers the whole child: both the **scholastic (शैक्षिक)** areas and the **co-scholastic (सह-शैक्षिक)** areas.
+Scholastic areas are the curricular subjects, such as languages, mathematics, science and social science, and the intellectual abilities developed through them. Co-scholastic areas are everything else that education is meant to develop: life skills (thinking, social and emotional skills), attitudes, values, health and physical education, and literary, artistic and cultural activities such as music, art, sports and games.
+Keep the two words apart. 'Continuous' is about time (regular, all through the year). 'Comprehensive' is about coverage (scholastic plus co-scholastic). Neither word is about written versus oral tests, internal versus external examiners, or school versus college. Those are tempting wrong options.
+::sub Where CCE comes from
+The Right of Children to Free and Compulsory Education Act, 2009 (the RTE Act) made this kind of evaluation a duty for elementary schools. Section 29(2)(h) of the Act says that the curriculum and evaluation procedure shall take into consideration "comprehensive and continuous evaluation of child's understanding of knowledge and his or her ability to apply the same". Notice that the Act puts 'comprehensive' first; the scheme is still commonly called CCE.
+The Central Board of Secondary Education (CBSE) introduced CCE with grades in Classes IX and X from the 2009--10 session. Under it, marks were replaced by grades, the year was divided into formative and summative assessments, and co-scholastic areas were graded on the report card. CBSE later ended the scheme for Class X and brought back a compulsory board examination from the 2017--18 session.
+::sub Why grades instead of marks
+**Grading (श्रेणीकरण)** means reporting performance in a few broad bands, each named by a letter grade, instead of exact marks. A student does not get 67 or 68; the student gets, say, B2.
+Why do this? Because marks look more precise than they are. Every examination has **measurement error (मापन त्रुटि)**: the same answer could get 66 from one examiner and 69 from another, or on another day. A difference of one or two marks between two students therefore tells us almost nothing. Fine marks invite students, parents and schools to treat these meaningless differences as real.
+Grades put students into broad bands. This brings three benefits that the examination likes to ask about.
+- It reduces over-fine distinctions and misclassification. Two students with 67 and 68 are in the same band, as they should be.
+- It reduces unhealthy competition for every single mark.
+- It reduces stress and fear of examinations.
+Grades do not remove the need for examinations. Some assessment is still needed to decide the grade. Nor do grades raise the pass percentage by themselves.
+::sub Absolute and relative grading
+There are two ways of deciding which student gets which grade. This pair is asked very often.
+In **absolute grading (निरपेक्ष श्रेणीकरण)** the grade boundaries are fixed in advance, in marks or per cent. For example, 80 per cent or more is A, 70 to 79 is B, and so on. Every student who crosses a boundary gets that grade, however many such students there are. If the whole class does well, the whole class can get A. The student is judged against a fixed standard. This is the logic of **criterion-referenced (निकष-संदर्भित)** interpretation.
+In **relative grading (सापेक्ष श्रेणीकरण)** the grade depends on the student's position in the group. For example, the top 10 per cent get A, the next 20 per cent get B, and so on. The proportions are fixed; the mark needed for each grade floats with the performance of the group. This is the logic of **norm-referenced (मानक-संदर्भित)** interpretation. Relative grading is also called **grading on the curve**, because the proportions are often taken from the normal (bell-shaped) curve.
+::table widths=22,39,39
+|Point|Absolute grading|Relative grading|
+|Fixed in advance|Mark boundaries for each grade|Proportion of students in each grade|
+|Grade depends on|The student's own marks against the standard|The student's rank in the group|
+|Can everyone get A?|Yes, if everyone reaches the standard|No; only the fixed top proportion|
+|Logic|Criterion-referenced|Norm-referenced|
+|Example|A for 80 per cent and above|A for the top 10 per cent|
+The chief objection to relative grading appears clearly in a small class of uniformly able students. Relative grading must spread the class over the whole range of grades. So small differences in marks are stretched, and some good students must receive low grades however well they have done. Absolute grading avoids this, because it uses a fixed standard. The opposite risk, everyone getting the top grade, belongs to lenient absolute grading, never to relative grading.
+In an analogy question, keep the order: relative grading is to absolute grading as norm-referenced interpretation is to criterion-referenced interpretation. The reversed pair is a common trap. Norm-referenced and criterion-referenced tests are taught fully in Section 6.3.
+::box example
+At a government college in Sirsa, a B.A. class of 40 takes an internal test in English. Dr Kaur announces in advance: 80 and above is A, 65 to 79 is B, 50 to 64 is C. Twelve students score above 80 and all twelve get A. This is absolute grading. In a parallel section, Dr Yadav decides that the top four students (10 per cent) will get A, whatever their marks. One student with 83 gets B, because four classmates scored higher. This is relative grading, or grading on the curve. The same mark has led to different grades because the rule is different.
+::endbox
+::box confused
+- Continuous and comprehensive. Continuous = regular, through the year (time). Comprehensive = scholastic plus co-scholastic (coverage).
+- Scholastic and co-scholastic. Scholastic = curricular subjects and the intellectual abilities they develop. Co-scholastic = life skills, attitudes, values, health and physical education, cultural activities.
+- Absolute and relative grading. Absolute = fixed mark boundaries, anyone can reach any grade (criterion-referenced). Relative = fixed proportions, grade depends on rank (norm-referenced).
+- Grading on the curve and criterion-referenced grading. On the curve = proportions fixed in advance, so it is norm-referenced, not criterion-referenced.
+- Direct and indirect grading. Direct = grade given straight from qualitative judgement. Indirect = marks first, then converted to grades.
+::endbox
+::box fact
+- RTE Act 2009, section 29(2)(h): evaluation procedure to provide for "comprehensive and continuous evaluation" (as of October 2026).
+- CBSE introduced CCE and grading in Classes IX and X from 2009--10 and ended it for Class X, restoring a compulsory board examination, from 2017--18. Older books still describe CCE as the current CBSE scheme.
+- The National Education Policy 2020 continues the idea in schools through regular, formative, competency-based assessment and a holistic progress card (see Section 6.9).
+::endbox
+::further
+::sub Direct and indirect grading
+Grades can be reached in two ways. In **direct grading (प्रत्यक्ष श्रेणीकरण)** the examiner does not award marks at all. The examiner reads the answer, judges its quality as a whole, and writes the grade straight away. Direct grading is quick and suits qualitative work, but it depends heavily on the examiner's judgement.
+In **indirect grading (अप्रत्यक्ष श्रेणीकरण)** marks are awarded first and then converted into grades. The conversion can follow fixed mark ranges (that is absolute grading) or the student's position in the group (that is relative grading). So absolute and relative grading are both forms of indirect grading.
+::sub The CBSE nine-point scale under CCE
+Students sometimes meet the CBSE scale in questions. Under CCE, scholastic areas in Classes IX and X were graded on a nine-point scale: A1 (91--100, grade point 10), A2 (81--90, 9), B1 (71--80, 8), B2 (61--70, 7), C1 (51--60, 6), C2 (41--50, 5), D (33--40, 4), E1 (21--32) and E2 (20 and below). E1 and E2 meant the student needed to improve. CBSE allowed an indicative percentage to be read off by multiplying the grade point average by 9.5.
+::box worked
+A Class X student under CCE had a cumulative grade point average of 8.4. What was the indicative percentage?
+> Indicative percentage = grade point average x 9.5
+> = 8.4 x 9.5 = 79.8 per cent
+::endbox
+This multiplier belongs to CBSE's school scheme only. It is not a rule of the university Choice Based Credit System, which is the subject of Section 6.7.
+::sub Limits of CCE in practice
+Teachers often found CCE heavy in record-keeping. Continuous assessment can turn into continuous testing, and co-scholastic grading can become a formality if teachers lack time and training. These are criticisms of how the scheme was carried out, not of its two principles.
+::box check
+Q1. In Continuous and Comprehensive Evaluation, the word 'continuous' refers mainly to:
+(A) assessment of both scholastic and co-scholastic areas
+(B) regular assessment spread through the whole year
+(C) assessment by both internal and external examiners
+(D) assessment through both written and oral tests
+Q2. Which of the following belong to the co-scholastic areas of CCE?
+1. Life skills
+2. Mathematics
+3. Values and attitudes
+4. Health and physical education
+5. Social science
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2 and 5 only
+(C) 1, 3 and 4 only
+(D) 1, 3, 4 and 5 only
+Q3. Given below are two statements:
+Statement I: In absolute grading, the number of students who can receive the top grade is fixed before the examination.
+Statement II: In relative grading, a student's grade depends on his or her position in the group.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Assertion (A): Reporting results in broad grades rather than exact marks can reduce misclassification of students.
+Reason (R): A difference of one or two marks between students often lies within the error of measurement.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. Match List I with List II.
+::match
+List I || List II
+A. Grade A for all who score 75 per cent or more || I. Direct grading
+B. Grade A for the top 15 per cent of the class || II. Indirect grading
+C. Examiner writes a grade without awarding marks || III. Absolute grading
+D. Marks awarded first and then converted into grades || IV. Relative grading
+Choose the correct answer from the options given below:
+(A) A-III, B-IV, C-I, D-II
+(B) A-IV, B-III, C-I, D-II
+(C) A-III, B-IV, C-II, D-I
+(D) A-I, B-II, C-III, D-IV
+Q6. A teacher of a small honours class in which all eight students are very able decides to give grades by a fixed distribution. The likely result is that:
+(A) every student will receive the top grade
+(B) the grades will not depend on any test
+(C) some capable students will receive low grades
+(D) the class average cannot be calculated
+::endbox
+::answers
+Q1. (B), because 'continuous' is about time: assessment goes on regularly through the year. Option (A) describes 'comprehensive', the other half of the name.
+Q2. (C), because life skills, values and attitudes, and health and physical education are co-scholastic. Mathematics and social science are curricular subjects, so they are scholastic.
+Q3. (D), because in absolute grading it is the mark boundaries that are fixed, not the number of students; any number can get the top grade. Statement II correctly describes relative grading.
+Q4. (A), because grades are less prone to misclassification precisely because small mark differences are mostly measurement error; R explains A.
+Q5. (A), because a fixed mark boundary is absolute grading, a fixed top proportion is relative grading, a grade without marks is direct grading, and marks converted into grades is indirect grading.
+Q6. (C), because a fixed distribution must spread even a uniformly able class over the grades, so some good students are pushed down. Everyone getting the top grade is the risk of lenient absolute grading, not of relative grading.
+::endanswers
+::section 6.7 | Evaluation in the Choice Based Credit System
+::syllabus Evaluation in Choice Based Credit System in Higher education
+::box footprint
+{{FP 6.7}}
+::endbox
+::h Core
+::sub What the Choice Based Credit System is
+The **Choice Based Credit System (विकल्प आधारित क्रेडिट प्रणाली)**, or CBCS, is the pattern of courses, credits and grades that the University Grants Commission (UGC) asked Indian universities to adopt through its guidelines of 2015. The abbreviation is often tested: it is Choice Based Credit System, not 'Course Based', 'Curriculum' or 'Scheme'.
+The guidelines came from the UGC, the body for university education. Do not confuse it with NCERT (school curriculum), NCTE (teacher education) or NAAC (assessment and accreditation of institutions).
+The system has three ideas in its name.
+- **Choice.** The student does not take a fixed package. Some courses are compulsory, but the student chooses others from a pool. The UGC describes this as a 'cafeteria' approach: students can take courses of their choice, learn at their own pace, take additional courses and follow an interdisciplinary path.
+- **Credit.** Every course carries a stated number of credits, which shows how much study it involves.
+- **Grades.** Performance in each course is reported as a letter grade with a grade point, and these are combined into averages for the semester and for the whole programme.
+Because every university states its courses in credits on a common pattern, credits earned in one institution can be counted by another. This is **credit transfer (क्रेडिट हस्तांतरण)**, and it allows students to move between institutions. Today this is done through the Academic Bank of Credits, described below. Credit transfer means credits, not marks, fees or teachers, moving from one institution to another.
+Under CBCS, performance is not reported in raw marks alone. It is reported through letter grades and grade points attached to credits, summarised as the SGPA for each semester and the CGPA over all semesters completed so far.
+::sub What a credit is
+A **credit (क्रेडिट)** is the unit by which course work is measured. The 2015 guidelines define it by the weekly teaching time: one credit is equivalent to one hour of teaching (lecture or tutorial) or two hours of practical work or field work per week, through a semester.
+So a credit tells us the weight of a course. A 4-credit course carries twice the weight of a 2-credit course when averages are calculated. A credit is not a fee, a rank or an attendance figure.
+To find the credits of a course, count lecture and tutorial hours one for one, and practical hours two for one.
+::box worked
+A course has 3 hours of lectures and 2 hours of practical work every week through the semester. How many credits does it carry?
+> Lecture: 3 hours x 1 credit per hour = 3 credits
+> Practical: 2 hours / 2 hours per credit = 1 credit
+> Total = 3 + 1 = 4 credits
+::endbox
+The newer UGC Curriculum and Credit Framework for Undergraduate Programmes (CCFUP, December 2022) says the same thing per semester rather than per week. In a semester of 15 weeks, one credit of theory means 15 hours of lecture or tutorial, and one credit of practical or field work means 30 hours. The National Credit Framework (NCrF) goes further and counts all 'notional learning hours', including self-study: 30 hours of learning make one credit, and a year of 1,200 hours makes 40 credits. Weekly or per semester, the answer to the worked example is the same: 4 credits.
+::sub Kinds of courses under CBCS (2015)
+The 2015 guidelines place courses in three groups. Many questions are built on this table.
+::table widths=26,74
+|Course type|What it is|
+|Core course (मूल पाठ्यक्रम)|Compulsory for every student of the programme, as a core requirement of the discipline.|
+|Elective course (वैकल्पिक पाठ्यक्रम)|Chosen from a pool. Three kinds: // **Discipline Specific Elective (DSE):** offered by the main discipline. // **Generic Elective (GE):** chosen generally from an unrelated discipline, to gain wider exposure. // **Dissertation/project:** a course for special or advanced knowledge that the student studies on his or her own with advisory support from a teacher.|
+|Ability Enhancement Course (क्षमता संवर्धन पाठ्यक्रम)|Two kinds: // **Ability Enhancement Compulsory Course (AECC):** Environmental Science, and English or MIL (Modern Indian Language) Communication, taken by all. // **Skill Enhancement Course (SEC) (कौशल संवर्धन पाठ्यक्रम):** value-based or skill-based courses chosen from a pool.|
+Three traps follow from this table.
+- An elective from an unrelated discipline is a Generic Elective. An elective from one's own discipline is a Discipline Specific Elective.
+- The two compulsory ability enhancement courses are Environmental Science and English/MIL Communication. A short skill-based course chosen from a pool, such as 'Technical Writing', is a Skill Enhancement Course, not an AECC. Both are 'enhancement' courses, but only the AECCs are fixed for all students.
+- In the 2015 classification a dissertation or project is an elective course carrying credits. Many programmes make a project compulsory in practice, but in the UGC table it sits under electives, not core.
+::sub Letter grades and grade points
+The UGC recommends a ten-point grading system. Learn this table exactly.
+::table widths=30,40,30
+|Letter grade|Descriptor|Grade point|
+|O|Outstanding|10|
+|A+|Excellent|9|
+|A|Very Good|8|
+|B+|Good|7|
+|B|Above Average|6|
+|C|Average|5|
+|P|Pass|4|
+|F|Fail|0|
+|Ab|Absent|0|
+Points to fix in memory:
+- O stands for Outstanding, not 'Ordinary' or 'Optional'.
+- Plain A is Very Good with 8 points. Excellent with 9 points is A+.
+- B is Above Average (6) and C is Average (5). The order of words can trick you: 'above average' is higher than 'average'.
+- P (Pass) is the lowest passing grade and carries 4 points, not 5.
+- F and Ab both carry 0. A student with F has failed and must reappear in the examination.
+- There is no D grade on the UGC scale. An earlier guide printed one; it is wrong.
+The UGC leaves universities free to decide the marks or grade needed to pass a course and the CGPA needed for a degree, taking into account the norms of professional councils. So individual universities may differ on pass marks, but the letters and points above are the UGC scale.
+::sub SGPA: the method
+The **Semester Grade Point Average (सेमेस्टर ग्रेड पॉइंट औसत)**, or SGPA, measures performance in one semester. It is a credit-weighted average.
+1. For each course, multiply its credits by the grade point earned. The result is the course's **credit points**. (Credits are multiplied, not added, divided or subtracted.)
+2. Add the credit points of all the courses of the semester.
+3. Add the credits of all the courses of the semester.
+4. Divide step 2 by step 3. Round to two decimal places, as the UGC guidelines require.
+In symbols, SGPA = sum of (Ci x Gi) / sum of Ci, where Ci is the number of credits of the ith course and Gi is the grade point scored in it. The denominator is the total credits, not the number of courses.
+::box worked
+This is the UGC's own illustration. Six courses: Course 1 (3 credits, A), Course 2 (4 credits, B+), Course 3 (3 credits, B), Course 4 (3 credits, O), Course 5 (3 credits, C), Course 6 (4 credits, B).
+> Credit points: 3 x 8 = 24; 4 x 7 = 28; 3 x 6 = 18; 3 x 10 = 30; 3 x 5 = 15; 4 x 6 = 24
+> Total credit points = 24 + 28 + 18 + 30 + 15 + 24 = 139
+> Total credits = 3 + 4 + 3 + 3 + 3 + 4 = 20
+> SGPA = 139 / 20 = 6.95
+::endbox
+::box worked
+A student earns A+ (9) in a 4-credit course, B (6) in a 4-credit course, O (10) in a 3-credit course, P (4) in a 2-credit course and B+ (7) in a 3-credit course.
+> Credit points: 4 x 9 = 36; 4 x 6 = 24; 3 x 10 = 30; 2 x 4 = 8; 3 x 7 = 21
+> Total credit points = 119; total credits = 16
+> SGPA = 119 / 16 = 7.4375, reported as 7.44
+> The simple average of the grade points, (9 + 6 + 10 + 4 + 7) / 5 = 7.2, is wrong: it gives the 2-credit course the same weight as the 4-credit ones.
+::endbox
+When all courses carry equal credits, the credits cancel out and the SGPA is simply the mean of the grade points. For four equal-credit courses with O, A+, B+ and P, the SGPA is (10 + 9 + 7 + 4) / 4 = 30 / 4 = 7.5.
+::sub CGPA: the method
+The **Cumulative Grade Point Average (संचयी ग्रेड पॉइंट औसत)**, or CGPA, measures performance over all the semesters completed so far. It is calculated in the same way, over all courses of all semesters: total credit points divided by total credits. If you are given each semester's SGPA and credits, first turn each SGPA back into credit points by multiplying by that semester's credits.
+::box worked
+The UGC's illustration of CGPA. Six semesters carry 20, 22, 25, 26, 26 and 25 credits, with SGPAs of 6.9, 7.8, 5.6, 6.0, 6.3 and 8.0.
+> Credit points: 20 x 6.9 = 138; 22 x 7.8 = 171.6; 25 x 5.6 = 140; 26 x 6.0 = 156; 26 x 6.3 = 163.8; 25 x 8.0 = 200
+> Total credit points = 969.4; total credits = 144
+> CGPA = 969.4 / 144 = 6.7319..., reported as 6.73
+::endbox
+::box worked
+Three semesters carry 22, 24 and 20 credits, with SGPAs of 6.8, 7.5 and 8.2.
+> Credit points: 22 x 6.8 = 149.6; 24 x 7.5 = 180; 20 x 8.2 = 164
+> Total = 493.6 over 66 credits
+> CGPA = 493.6 / 66 = 7.4787..., reported as 7.48
+> The simple average of the three SGPAs is 7.5, which is wrong because the semesters carry unequal credits.
+::endbox
+Both SGPA and CGPA appear on the transcript. SGPA belongs to one semester; CGPA to all semesters taken together, never to one course or only the final semester.
+::box slips
+- Dividing by the number of courses instead of the total credits.
+- Adding credits and grade points instead of multiplying them.
+- Averaging SGPAs (or a CGPA and a new SGPA) without weighting them by credits.
+- Using wrong grade points: P is 4 (not 5), A is 8 (not 9), B+ is 7, B is 6.
+- Inventing a D grade. The UGC scale has none.
+- Leaving a failed course out of the denominator when the question says to apply the UGC formula (see Going Further).
+::endbox
+::sub Multiple entry and exit, and the Academic Bank of Credits
+The National Education Policy 2020 and the UGC's CCFUP (2022) built a four-year undergraduate programme with **multiple entry and exit (बहु-प्रवेश एवं बहु-निकास)**. A student may leave after any year with an award and come back later.
+::table widths=40,60
+|Leaves after successfully completing|Award|
+|One year (two semesters)|Undergraduate certificate|
+|Two years (four semesters)|Undergraduate diploma|
+|Three years (six semesters)|Bachelor's degree|
+|Four years (eight semesters)|Bachelor's degree with honours, or honours with research|
+The usual trap is to swap the first two: one year gives a certificate, two years give a diploma.
+Credits make this possible. The **Academic Bank of Credits (एकेडमिक बैंक ऑफ क्रेडिट्स)**, or ABC, set up under the UGC (Establishment and Operation of Academic Bank of Credits in Higher Education) Regulations, 2021, is a digital store of credits. Credits earned by a student in recognised institutions are deposited in the student's account, can be transferred, and are later redeemed towards a certificate, diploma or degree. It works like a bank account for credits, which is why it supports multiple entry and exit.
+Keep it apart from the **National Academic Depository (राष्ट्रीय शैक्षणिक निक्षेपागार)**, or NAD. The NAD is a digital store of academic awards: degrees, diplomas, certificates and mark-sheets, lodged by institutions, which students and employers can retrieve and verify online through DigiLocker. In one line: ABC stores credits; NAD stores awards.
+::box example
+Ritu studies B.A. at a college affiliated to a state university in Haryana. In her first semester she takes four core papers of 4 credits each and the compulsory course in Environmental Science of 2 credits; she also chooses a generic elective in Economics. Her transcript shows A in Indian Writing in English (4 credits), B+ in Phonetics (4 credits), and so on, with an SGPA at the foot. At the end of the second year family needs force her to leave. Because her credits are lodged in her ABC account, she receives an undergraduate diploma and can return two years later to complete the degree. Her diploma itself is lodged in the NAD.
+::endbox
+::box confused
+- SGPA and CGPA. SGPA = one semester. CGPA = all semesters completed so far.
+- Credits and credit points. Credits = weight of the course. Credit points = credits x grade point.
+- Discipline Specific Elective and Generic Elective. DSE = from the main discipline. GE = from an unrelated discipline.
+- AECC and SEC. AECC = Environmental Science and English/MIL Communication, compulsory for all. SEC = skill- or value-based, chosen from a pool.
+- A and A+. A = Very Good, 8. A+ = Excellent, 9.
+- B and C. B = Above Average, 6. C = Average, 5.
+- P and F. P = Pass, 4 (lowest passing grade). F = Fail, 0 (as is Ab).
+- Certificate and diploma. Certificate after one year; diploma after two.
+- ABC and NAD. ABC stores credits; NAD stores awards (degrees, mark-sheets).
+- CBCS 2015 and CCFUP 2022. CBCS: core, DSE, GE, AECC, SEC. CCFUP: major, minor, multidisciplinary, AEC, SEC, VAC, internship.
+::endbox
+::box fact
+- UGC CBCS guidelines (2015): ten-point scale O, A+, A, B+, B, C, P, F, Ab with points 10, 9, 8, 7, 6, 5, 4, 0, 0; SGPA and CGPA rounded to two decimal places (checked October 2026). Some older books print a D grade; it is not on the UGC scale.
+- Credit: per week in the 2015 guidelines (one hour of lecture or tutorial, or two hours of practical, per week); per semester in CCFUP, December 2022 (15 hours theory or 30 hours practical per credit) (checked October 2026). NCrF counts 30 notional learning hours per credit.
+- Undergraduate course categories: the 2015 CBCS names (core, DSE, GE, AECC, SEC) are still the ones asked in CBCS questions; the CCFUP of December 2022 uses major, minor, multidisciplinary courses, AEC, SEC, value-added courses and internship (as of October 2026).
+- Academic Bank of Credits: UGC Regulations, 2021 (as of October 2026).
+::endbox
+::further
+::sub Failed and absent courses in the SGPA
+The UGC formula divides by "the sum of the number of credits of all the courses undergone by a student". Read as written, a course with F or Ab stays in the denominator with its full credits and adds nothing (0 points) to the numerator. So a failure pulls the SGPA down. The UGC's printed illustration does not itself contain an F row, and universities differ in how they record a course that is later cleared, but when a question says to apply the CBCS formula, keep the failed course in.
+::box worked
+A student fails a 4-credit course (F, 0), gets A (8) in a 4-credit course, B+ (7) in a 4-credit course and O (10) in a 2-credit course.
+> Credit points: 4 x 0 = 0; 4 x 8 = 32; 4 x 7 = 28; 2 x 10 = 20; total = 80
+> Credits of all courses taken = 4 + 4 + 4 + 2 = 14
+> SGPA = 80 / 14 = 5.714..., reported as 5.71
+> Leaving out the failed course gives 80 / 10 = 8.0, which is wrong under the UGC formula.
+::endbox
+When a failed course is later cleared and the new grade replaces F, only the numerator changes. Each grade point gained adds (credits of that course x points gained) to the total.
+::box worked
+Six courses of 4 credits each; grade points 9, 7, 7, 6, 8 and 0 (F). The student later clears the failed course with P (4).
+> Before: 4 x (9 + 7 + 7 + 6 + 8 + 0) = 148; 148 / 24 = 6.1666..., reported as 6.17
+> After: 4 x (9 + 7 + 7 + 6 + 8 + 4) = 164; 164 / 24 = 6.8333..., reported as 6.83
+> Rise = 16 extra credit points / 24 credits = 0.666..., about 0.67
+> Divide by the total credits of all six courses, not by the number of courses or the credits of one course.
+::endbox
+::sub Target-grade problems
+Examiners like to turn the formula round: what must a student score next to reach a target? The method is the same every time.
+1. Credit points already earned = credits so far x present CGPA.
+2. Credit points needed = total credits after the next semester x target CGPA.
+3. Points still required = step 2 minus step 1.
+4. Required SGPA = step 3 / credits of the next semester.
+::box worked
+A student has a CGPA of 6.4 over 60 credits. The next semester carries 24 credits. What SGPA will raise the CGPA to 6.8?
+> Points earned = 60 x 6.4 = 384
+> Points needed = (60 + 24) x 6.8 = 84 x 6.8 = 571.2
+> Still required = 571.2 - 384 = 187.2
+> Required SGPA = 187.2 / 24 = 7.8
+> The tempting answer 7.2 (since 6.8 is midway between 6.4 and 7.2) treats the two parts as equal; the earlier 60 credits outweigh the new 24.
+::endbox
+::box worked
+Five courses of equal credit. Four grades are already known: A (8), B+ (7), B (6) and A+ (9). What grade in the fifth course gives an SGPA of 7.4?
+> With equal credits, SGPA = mean of grade points
+> Total needed = 5 x 7.4 = 37
+> Known total = 8 + 7 + 6 + 9 = 30
+> Fifth course needs 37 - 30 = 7 points, which is B+
+::endbox
+The same reasoning tells you how far one good semester moves a CGPA. A strong semester added to many earlier credits moves the CGPA only a little, because the earlier credits weigh more.
+::sub Grade points and scales of measurement
+Letter grades only rank performance, so strictly they form an **ordinal scale (क्रमसूचक मापनी)**. Adding and averaging are meaningful only when the steps between values are equal, which is the property of an **interval scale (अंतराल मापनी)**. Calculating an SGPA therefore treats the grade points as if they formed at least an interval scale, with equal steps from P to C to B and so on. This is a convention that the whole system rests on. A nominal scale only names categories, and a ratio scale needs a true zero; neither describes what averaging assumes. Scales of measurement are treated in Section 6.5.
+::sub From CBCS 2015 to CCFUP 2022
+The CCFUP of December 2022 keeps credits, grades, SGPA and CGPA but renames and reshapes the course types for the four-year programme.
+::table widths=34,66
+|CCFUP 2022 category|What it covers|
+|Major|Courses in the main discipline, studied in depth (the place of the old core and DSE)|
+|Minor|Courses in another discipline or a vocational area|
+|Multidisciplinary courses (MDC)|Introductory courses in broad areas outside the major|
+|Ability Enhancement Courses (AEC)|Language and communication courses|
+|Skill Enhancement Courses (SEC)|Practical and job-related skills|
+|Value-Added Courses (VAC)|Courses such as environmental education, understanding India, and health and wellness|
+|Internship and research project|Summer internship; a research project or dissertation in the fourth year|
+So Environmental Science, which was an AECC in 2015, falls among the value-added courses in 2022, while language communication stays as the AEC. Answer a question by the framework it names. If it says 'CBCS' or 'UGC guidelines of 2015', use core, DSE, GE, AECC and SEC.
+::sub The National Higher Education Qualifications Framework
+The UGC's **National Higher Education Qualifications Framework (राष्ट्रीय उच्चतर शिक्षा अर्हता रूपरेखा)**, or NHEQF, places higher education qualifications on levels 4.5 to 8, each described by learning outcomes. Levels 1 to 4 belong to school education.
+::table widths=20,80
+|Level|Qualification|
+|4.5|Undergraduate certificate (one year)|
+|5|Undergraduate diploma (two years)|
+|5.5|Bachelor's degree (three years)|
+|6|Bachelor's degree (honours or honours with research, four years); postgraduate diploma|
+|6.5|Master's degree (two years after a three-year bachelor's, or one year after a four-year bachelor's)|
+|7|Master's degree such as M.E. or M.Tech. (two years after a four-year bachelor's)|
+|8|Doctoral degree|
+The doctorate is at level 8, the top of the higher education framework. Not every master's degree is at 6.5: the general master's is at 6.5, and a two-year master's after a four-year bachelor's, such as M.Tech., is at level 7.
+::box check
+Q1. Match List I (letter grade) with List II (grade point) on the UGC ten-point scale.
+::match
+List I || List II
+A. A+ || I. 4
+B. B || II. 9
+C. P || III. 6
+D. B+ || IV. 7
+Choose the correct answer from the options given below:
+(A) A-II, B-IV, C-I, D-III
+(B) A-II, B-III, C-I, D-IV
+(C) A-IV, B-III, C-II, D-I
+(D) A-II, B-I, C-III, D-IV
+Q2. In a semester a student obtains O in a 4-credit course, B in a 3-credit course, B+ in a 3-credit course and C in a 2-credit course. The SGPA is:
+(A) 7.00
+(B) 7.25
+(C) 7.42
+(D) 7.67
+Q3. Semester I carries 18 credits with an SGPA of 7.5 and Semester II carries 22 credits with an SGPA of 6.5. The CGPA after two semesters is:
+(A) 6.95
+(B) 7.00
+(C) 7.05
+(D) 6.90
+Q4. A student's CGPA is 7.2 over 90 credits. The next semester carries 30 credits. The SGPA needed in that semester to bring the CGPA to 7.5 is:
+(A) 7.8
+(B) 8.1
+(C) 8.4
+(D) 9.0
+Q5. A course has 3 lecture hours, 1 tutorial hour and 2 practical hours every week through the semester. Under the CBCS definition of a credit, it carries:
+(A) 4 credits
+(B) 5 credits
+(C) 6 credits
+(D) 3 credits
+Q6. Given below are two statements:
+Statement I: Under the UGC CBCS guidelines of 2015, Environmental Science is an Ability Enhancement Compulsory Course.
+Statement II: A Generic Elective is an elective offered by the student's own main discipline.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q7. Assertion (A): Dividing the total credit points of a semester by the number of courses gives a wrong SGPA when courses carry unequal credits.
+Reason (R): The SGPA is a credit-weighted average, so its denominator is the total credits.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q8. Which of the following statements are correct?
+1. The Academic Bank of Credits stores credits earned by a student and allows them to be redeemed for an award.
+2. The National Academic Depository stores degrees and mark-sheets in digital form.
+3. A student who leaves a four-year undergraduate programme after one year receives an undergraduate diploma.
+4. In the NHEQF the doctoral degree is placed at level 8.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1 and 3 only
+(D) 1, 2 and 4 only
+::endbox
+::answers
+Q1. (B), because A+ is 9, B (Above Average) is 6, P is 4 and B+ is 7.
+Q2. (C), because credit points are 4 x 10 + 3 x 6 + 3 x 7 + 2 x 5 = 40 + 18 + 21 + 10 = 89 over 12 credits, and 89 / 12 = 7.4166..., reported as 7.42. The simple mean of the grade points, 7.00, ignores the credits.
+Q3. (A), because 18 x 7.5 + 22 x 6.5 = 135 + 143 = 278 over 40 credits gives 6.95. The simple average 7.00 forgets that Semester II carries more credits.
+Q4. (C), because points earned are 90 x 7.2 = 648, points needed are 120 x 7.5 = 900, and the 252 still required over 30 credits give 8.4. The answer 7.8 wrongly treats the two parts as equal.
+Q5. (B), because lectures and tutorials count one credit per weekly hour (3 + 1 = 4) and two practical hours make one credit, so 4 + 1 = 5. Counting each practical hour as a credit gives the wrong answer 6.
+Q6. (C), because Environmental Science is one of the two AECCs, but a Generic Elective is taken from an unrelated discipline; one offered by the student's own discipline is a Discipline Specific Elective.
+Q7. (A), because the SGPA weights each course by its credits, so the correct denominator is total credits; R explains why A is true.
+Q8. (D), because statements 1, 2 and 4 are correct. Exit after one year earns a certificate; the diploma comes after two years.
+::endanswers
+::section 6.8 | Computer-based testing
+::syllabus Computer based testing
+::box footprint
+{{FP 6.8}}
+::endbox
+::h Core
+::sub What a computer-based test is
+In a **computer-based test (कंप्यूटर आधारित परीक्षण)**, or CBT, the questions appear on a computer screen and the candidate answers by clicking with a mouse or using the keyboard. The test is taken at a test centre on computers set up by the testing body. Responses are stored electronically and scored by the computer. CBT stands for Computer Based Test, not 'Centre Based' or 'Common Board'.
+The UGC NET is conducted by the **National Testing Agency (NTA)**, which the Government of India set up in November 2017 as an autonomous testing body registered as a society. The NTA conducted the UGC NET for the first time in December 2018, and it did so as a computer-based test. Before that the examination was conducted by the CBSE with paper and OMR sheets.
+::sub How the screen works
+A CBT screen has features that an OMR (optical mark recognition) answer sheet cannot offer.
+- A **question palette** shows the number of every question, coloured to show which are answered, not answered, not visited or marked for review.
+- An answer can be changed, cleared or **marked for review** any number of times until the test is submitted. On an OMR sheet a darkened circle cannot be altered.
+- An on-screen **timer** shows the time left, and the test closes itself at the end.
+The candidate does not choose the difficulty of the paper, cannot see a scoring key, and still needs a centre with a steady power supply.
+NTA and similar bodies put **mock tests** online before the examination. A mock test lets candidates practise the interface: moving between questions, marking and changing answers, using the palette and watching the timer. Its value is familiarity, which lowers anxiety and prevents marks being lost through handling errors. It does not show the actual questions, and it does not raise anyone's score by itself.
+::sub Advantages and limitations
+::table widths=50,50
+|Advantages|Limitations|
+|Responses recorded electronically, so scoring is quick and free from human marking error|Needs test centres, computers, power and network; technical failure can disrupt a session|
+|Results declared faster|Candidates differ in familiarity with computers (the digital divide)|
+|Questions and options can be shuffled from a question bank, so neighbours do not see the same item in the same place; copying becomes difficult|Identity checks and invigilation are still needed|
+|Every action is logged: time spent on each item, answer changes|Long reading on screen can tire some candidates|
+|Tests can run in many sessions on many days|Different sessions need different papers, which must then be equated|
+In a country like India the chief limitation is the **digital divide (डिजिटल विभाजन)**. A candidate from a rural or poor background who has seldom used a computer may lose marks for reasons that have nothing to do with the subject. That is a threat to fairness. Objective scoring, speed of results and shuffling of items are advantages, not limitations.
+Remember also what CBT cannot do. It changes how items are delivered and scored, not what they measure. A poorly written item stays poor on a screen, so the validity (वैधता) of the items must still be established by the test makers.
+::sub Normalisation across shifts
+A large CBT is held in several shifts, often over several days, with a different question paper in each shift. The papers cannot be made exactly equal in difficulty. So raw scores from different shifts cannot be compared directly. They are converted by a statistical procedure called **normalisation (सामान्यीकरण)**, usually into **percentile scores (शततमक अंक)**: a candidate's percentile shows the percentage of candidates in the same shift who scored at or below that candidate.
+Normalisation is the answer when a question asks how scores from different shifts are made comparable. Randomisation only shuffles questions within a paper. Negative marking only penalises guessing. Revaluation only rechecks scoring. None of them equates two different papers.
+::sub Adaptive testing
+In a **computerised adaptive test (कंप्यूटरीकृत अनुकूली परीक्षण)**, or CAT, the next question depends on the candidate's answers so far. The program estimates the candidate's ability after each response. A correct answer brings a harder item, a wrong answer an easier one. Each candidate therefore meets items suited to his or her level, and a precise score is reached with fewer items than a fixed test needs.
+::table widths=30,70
+|Kind of CBT|How the items are chosen|
+|Linear fixed-form|Every candidate in a session gets the same set of items, perhaps in shuffled order|
+|Linear-on-the-fly (LOFT)|A different form is assembled for each candidate before the test starts, but it does not change during the test|
+|Computerised adaptive|Each next item is chosen during the test according to the responses so far|
+LOFT and CAT both give candidates different items, so they are easily confused. The deciding point is adaptation during the test: only CAT adapts.
+::box example
+A student from a village near Fatehabad prepares for the UGC NET. She has used a smartphone but never a desktop computer. Her teacher at the college makes her take the NTA mock test three times in the computer laboratory. The first time she loses five minutes finding her way between the buttons and the question palette. By the third attempt she moves through the palette with ease. On the day of the examination none of her time goes on the interface. The mock test has not given her any questions in advance; it has removed a handicap that had nothing to do with her subject.
+::endbox
+::box confused
+- CBT and OMR testing. CBT = answers on screen, changeable until submission. OMR = darkened circles on paper, which cannot be altered.
+- Normalisation and randomisation. Normalisation = making scores from different papers comparable. Randomisation = shuffling the order of items or options.
+- Adaptive testing and linear-on-the-fly testing. CAT adapts each item to the responses during the test. LOFT builds a different form for each candidate before the test, without adapting.
+- Mock test and actual test. Mock = practice with the interface, different questions. Actual = the real paper.
+- Item response theory and classical test theory. IRT = item parameters independent of the group tested (needed for CAT). CTT = difficulty and discrimination indices that change with the group.
+::endbox
+::box fact
+- National Testing Agency: set up by the Government of India in November 2017 (as of October 2026).
+- First UGC NET conducted by the NTA: December 2018, in computer-based mode. Older books describe the NET as a paper-and-pencil test conducted by the CBSE.
+- The NTA held the June 2024 UGC NET in pen-and-paper mode; the examination was cancelled the next day and held again in computer-based mode in August-September 2024. Check the mode announced in the information bulletin for your own cycle.
+::endbox
+::further
+::sub Why adaptive tests need item response theory
+In an adaptive test, two candidates answer different items. To compare them, the computer must know how difficult and how discriminating each item is on a single scale that does not depend on who happened to take it. **Item response theory (एकांश अनुक्रिया सिद्धांत)**, or IRT, provides such item parameters (difficulty, discrimination and, in some models, guessing). The items of the bank are calibrated in advance on large samples, and the candidate's ability is estimated on the same scale.
+Classical test theory, the basis of the difficulty index and discrimination index taught in Section 6.4, gives values that change with the group tested. An item that looks easy in a strong group looks hard in a weak one. Such sample-dependent values cannot place candidates who took different items on one scale. That is why CAT depends on IRT, not on classical statistics alone. Bloom's taxonomy and Flanders' categories have nothing to do with calibration.
+::sub What percentiles across shifts assume
+When percentiles are worked out within each shift, the 90th percentile in Shift 1 is treated as equal to the 90th percentile in Shift 2. That is fair only if the candidates in each shift are of similar ability on average. The testing agency secures this by allotting candidates to shifts at random, from a large pool. The papers of different shifts are not identical; if they were, no normalisation would be needed. The assumption is about the candidates, not the papers.
+::sub What the log of responses offers
+Because a computer records every click, a testing agency can study how long candidates spend on each item and how often they change answers. Very short response times on hard items can signal guessing; patterns of identical answers can signal malpractice. Item statistics from the log also help to improve the question bank. This is a gain in information, not a guarantee of validity.
+::box check
+Q1. In a computer-based test, which of the following can a candidate do that an OMR sheet does not allow?
+(A) Choose an easier version of the question paper
+(B) Change a marked answer before final submission
+(C) See the answer key after each question
+(D) Take the test without any electricity
+Q2. Given below are two statements:
+Statement I: Computer-based testing removes the effect of unequal familiarity with computers among candidates.
+Statement II: Computer-based testing makes it possible to record the time a candidate spends on each item.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q3. Match List I with List II.
+::match
+List I || List II
+A. Normalisation || I. Shuffling the order of items and options
+B. Randomisation || II. Making scores of different shift papers comparable
+C. Adaptive testing || III. Practice with the test interface
+D. Mock test || IV. Next item chosen by the responses so far
+Choose the correct answer from the options given below:
+(A) A-II, B-I, C-III, D-IV
+(B) A-I, B-II, C-IV, D-III
+(C) A-II, B-I, C-IV, D-III
+(D) A-IV, B-I, C-II, D-III
+Q4. Assertion (A): A computerised adaptive test can reach a precise estimate of ability with fewer items than a fixed test.
+Reason (R): In an adaptive test every candidate answers the same items in the same order.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. A test in which a different form is assembled for each candidate before the test begins, but does not change during the test, is called:
+(A) linear-on-the-fly testing
+(B) computerised adaptive testing
+(C) linear fixed-form testing
+(D) open-book testing
+Q6. Which of the following are advantages of computer-based testing?
+1. Quick scoring and declaration of results
+2. Shuffling of questions to make copying difficult
+3. Freedom from the need for test centres
+4. A record of time taken on each item
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1, 3 and 4 only
+(D) 1, 2 and 4 only
+::endbox
+::answers
+Q1. (B), because a CBT answer can be changed, cleared or marked for review until submission, while a darkened OMR circle cannot be altered. A CBT candidate cannot choose the difficulty of the paper.
+Q2. (D), because unequal familiarity with computers is a limitation of CBT, not something it removes; but the computer does log time spent on each item.
+Q3. (C), because normalisation equates shift papers, randomisation shuffles items, adaptive testing chooses each item by earlier responses, and a mock test is practice with the interface.
+Q4. (C), because A is true but R is false: in an adaptive test candidates meet different items chosen by their own responses.
+Q5. (A), because a linear-on-the-fly test builds a separate form for each candidate in advance but does not adapt during the test; adaptation is the mark of CAT.
+Q6. (D), because quick scoring, shuffling and time logs are advantages; CBT still needs test centres.
+::endanswers
