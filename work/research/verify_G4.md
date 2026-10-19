@@ -28,3 +28,25 @@
 | 4.3: J. Lloyd Trump plan approx. 40% large group, 20% small group, 40% independent study | UNVERIFIED (knowledge; Trump and Baynham, Focus on Change, 1961) | -- | not checked |
 | 4.3: three kinds of tutorial (group, supervision, practical); supervision tutorial in Oxford/Cambridge tradition | UNVERIFIED (knowledge; Indian ET textbooks) | -- | not checked |
 | 4.3: buzz groups of about 4-6 | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: project method set out by William Heard Kilpatrick in 1918 (essay "The Project Method", Teachers College Record) | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: Kilpatrick definition "a whole-hearted purposeful activity proceeding in a social environment" | UNVERIFIED (knowledge; quoted in Indian textbooks; wording also in booklet S14-Q38) | -- | not checked |
+| 4.4: four steps purposing, planning, executing, evaluating/judging; some texts six steps (providing situation ... recording) | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: Kilpatrick four types: producer, consumer, problem, drill | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: J. A. Stevenson definition "a problematic act carried to completion in its natural setting"; P. B. Ballard "a bit of real life that has been imported into the school" | UNVERIFIED (knowledge; Indian textbooks) | -- | not checked |
+| 4.4: Helen Parkhurst Dalton Plan: assignments/contracts, subject laboratories | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: Montessori and Froebel early childhood | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: Dewey How We Think five steps of reflective thinking | UNVERIFIED (knowledge; Dewey 1910) | -- | not checked |
+| 4.4: H. E. Armstrong (Henry Edward Armstrong), chemistry professor in England, heuristic method; Greek "I find out" | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: case method Harvard Law School then Harvard Business School from 1920s | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: PBL McMaster University medical school, late 1960s, Howard Barrows | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: Polya How to Solve It four steps | UNVERIFIED (knowledge; Polya 1945) | -- | not checked |
+| 4.4: incident method = Paul Pigors | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: J. L. Moreno (Jacob Levy Moreno) psychodrama/sociodrama | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: mastery learning = Benjamin S. Bloom; formative tests ungraded, correctives, criterion-referenced | UNVERIFIED (knowledge; Bloom 1968 "Learning for Mastery") | -- | not checked |
+| 4.4: PSI/Keller Plan = Fred S. Keller, "Good-bye, Teacher..." (1968, Journal of Applied Behavior Analysis); five features | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: action research associated with Kurt Lewin; plan-act-observe-reflect spiral | UNVERIFIED (knowledge) | -- | not checked |
+| 4.4: micro-teaching linked with Stanford | UNVERIFIED (knowledge) | -- | not checked |
+| 4.5: flipped classroom popularised by Jonathan Bergmann and Aaron Sams, chemistry teachers in Colorado (Woodland Park High School), recording from 2007; book Flip Your Classroom (2012) | UNVERIFIED (knowledge; brief S4-Q12 also says 2007) | -- | not checked |
+| 4.5: Hase and Kenyon heutagogy; Siemens and Downes connectivism; Joyce and Weil models of teaching | UNVERIFIED (knowledge) | -- | not checked |
+| 4.5: Christensen Institute four blended models: rotation (incl. station, lab, individual rotation, flipped classroom), flex, a la carte, enriched virtual | UNVERIFIED (knowledge; Horn and Staker, Christensen Institute) | -- | not checked |
+| 4.5: Michael G. Moore transactional distance: dialogue, structure, learner autonomy | UNVERIFIED (knowledge; Moore 1993) | -- | not checked |

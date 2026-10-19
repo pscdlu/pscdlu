@@ -82,3 +82,68 @@ S17-Q50 -> 4.3 (Further, sub "Forum and fishbowl": forum).
 S18-Q39 -> 4.3 (Further, sub "The Trump Plan": 40/20/40).
 S19-Q20 -> 4.3 (Further, sub "What makes cooperation work": Slavin's two conditions, group goals and individual accountability).
 Booklet0 P5-Q6 -> 4.3 (Core, sub "Team teaching"; peer tutoring sub; micro-teaching not taught here, see 1.8; panel sub).
+
+## 4.4
+S1-Q2 -> 4.4 (Core, sub "The project method"): "set out by William Heard Kilpatrick in an essay of 1918 ... Dewey ... learning by doing"; Montessori, Froebel, Parkhurst distinguished.
+S2-Q25 -> 4.4 (Core, sub "The project method"): "learning by doing ... It replaces rote learning and passive listening".
+S2-Q42 -> 4.4 (Core, sub "Role play"): "take the parts of people ... act it out without a script".
+S3-Q16 -> 4.4 (Core, sub "The case method"): "developed at Harvard: first in the Law School, and then, from the 1920s, at Harvard Business School".
+S3-Q50 -> 4.4 (Core, sub "The problem-solving method"): steps 1-5; "The first step is always to identify the problem".
+S4-Q19 -> 4.4 (Core, sub "The project method"): four steps purposing, planning, executing, evaluating.
+S4-Q26 -> 4.4 (Core, sub "Simulation"): mock court, flight simulator, simulated teaching; "Working in a real workplace ... is an internship or apprenticeship, not a simulation."
+S5-Q33 -> 4.4 (Core, sub "The case method"): "study the facts, identify the issues, discuss alternatives and defend a decision".
+S5-Q40 -> 4.4 (Core, sub "The heuristic method"): H. E. Armstrong, "I find out"; Kilpatrick/Parkhurst/Montessori distinguished in project sub.
+S6-Q1 -> 4.4 (Core, sub "Role play"): "used for empathy, attitudes, communication and interpersonal skills ... not for recall or calculation".
+S6-Q16 -> 4.4 (Core, sub "Mastery learning"): fixed standard e.g. 80 per cent; "relies on criterion-referenced tests, not norm-referenced ranking".
+S6-Q22 -> 4.4 (Core, sub "The problem-solving method"): "develops reasoning and a scientific attitude; little use of rote memory".
+S7-Q8 -> 4.4 (Core, sub "The case method": "Case or project?"; project sub: tangible product).
+S7-Q39 -> 4.4 (Core, sub "Role play": "Learning comes in the debriefing ... Debriefing is the most important step").
+S8-Q15 -> 4.4 (Core, sub "Inductive, deductive and heuristic methods": triangle formula example = deductive; table incl. analytic).
+S8-Q23 -> 4.4 (Core, sub "The Personalised System of Instruction (Keller Plan)": features 1-5; "Skinner ... linear, Crowder ... branching, Bloom ... mastery learning, Keller ... PSI").
+S8-Q45 -> 4.4 (Core, sub "The project method": limitations "time ... incidental ... hard to use as the only method ... That Kilpatrick propounded it is true, but it does not explain this difficulty").
+S9-Q8 -> 4.4 (Core, sub "Mastery learning": formative test, not graded, correctives, second test, summative grades).
+S10-Q22 -> 4.4 (Core, sub "Inductive, deductive and heuristic methods": table rows and "Induction takes more time; deduction is suitable for practice and revision").
+S11-Q30 -> 4.4 (Core, sub "The project method": "promotes correlation among subjects ... does not follow a timetable of separate subject periods").
+S13-Q18 -> 4.4 (Core, sub "The heuristic method": "statement that the teacher supplies all the facts ... is false").
+S15-Q3 -> 4.4 (Core, sub "The problem-solving method": Dewey's five steps from How We Think).
+S15-Q15 -> 4.4 (Core: Parkhurst Dalton Plan in project sub; Armstrong heuristic) + 4.2 (Skinner linear) + 4.3 (Osborn brainstorming).
+S16-Q11 -> 4.4 (Core, subs "The case method" and "Role play": "A memorised script would turn it into a drama").
+S17-Q31 -> 4.4 (Core, sub "The problem-solving method": "Problem-solving and project compared ... They are not the same in every respect").
+S18-Q17 -> 4.4 (Core, sub "Problem-based learning": problem first, ill-structured, facilitator; "A physical product is not required").
+S18-Q33 -> 4.4 (Core, sub "Inductive, deductive and heuristic methods": "Induction ... conclusion ... is only probable").
+S19-Q17 -> 4.4 (Core, sub "Simulation": "used above all for skills, decisions and attitudes that are costly or risky ... must be followed by debriefing").
+S19-Q28 -> 4.4 (Core, sub "Inductive, deductive and heuristic methods": metals/copper syllogism = deduction, certain; abduction, analogy).
+S9-Q48 -> 4.4 (Further, sub "Kilpatrick's four types of project": consumer (aesthetic)).
+S10-Q39 -> 4.4 (Further, sub "Where problem-based learning began": McMaster, late 1960s, Barrows; case method Harvard; micro-teaching Stanford).
+S11-Q21 -> 4.4 (Further, subs "Variants of the case method" (in-basket) and "Psychodrama and sociodrama" (sociodrama, role reversal)); buzz session in 4.3.
+S12-Q4 -> 4.4 (Further, sub "Polya's four steps").
+S12-Q19 -> 4.4 (Further, sub "Mathetics and PSI side by side") + 4.2 (linear, branching, mathetics).
+S13-Q16 -> 4.4 (Further, sub "Psychodrama and sociodrama": "Classroom role play on social issues is sociodrama").
+S14-Q38 -> 4.4 (Further, sub "Three definitions of a project": Stevenson).
+S17-Q29 -> 4.4 (Further, sub "Variants of the case method": incident method, Paul Pigors).
+S20-Q8 -> 4.4 (Further, sub "Action research": Lewin, plan-act-observe-reflect; ex post facto and experiment distinguished).
+Booklet0 P3-Q22 -> 4.4 (Core: Kilpatrick project method; Armstrong heuristic; Parkhurst Dalton Plan) + 4.3 (Osborn brainstorming).
+
+## 4.5
+S1-Q28 -> 4.5 (Core, sub "The flipped classroom"): "Students meet new content before class, at home, usually through short recorded videos or readings."
+S2-Q9 -> 4.5 (Core, sub "Blended learning"): "planned mix of face-to-face classroom teaching and online learning".
+S3-Q35 -> 4.5 (Core, sub "The flipped classroom"): "Class time is then used for discussion, clearing doubts, problem-solving and application ... The lecture ... has moved out of the classroom in recorded form."
+S5-Q22 -> 4.5 (Core, sub "Blended learning"): "also called hybrid learning"; distance, programmed and mastery learning distinguished.
+S5-Q46 -> 4.5 (Core, sub "Synchronous and asynchronous learning"): live video class, webinar; recorded lectures, forums.
+S7-Q3 -> 4.5 (Core, sub "The flipped classroom": "sends the lower-order work (remembering and understanding) to home, and keeps the higher-order work ... for class").
+S8-Q20 -> 4.5 (Core, sub "Synchronous and asynchronous learning": forums, e-mail, recorded lectures; time for reflection).
+S10-Q20 -> 4.5 (Core, sub "Blended learning": keeps social presence, feedback, practical work; adds flexibility; still needs campus, devices, planning).
+S10-Q49 -> 4.5 (Core, table synchronous/asynchronous: live video class vs discussion forum).
+S11-Q28 -> 4.5 (Core, sub "Synchronous and asynchronous learning": "Asynchronous learning does not need everyone at the same time").
+S12-Q37 -> 4.5 (Core, sub "The flipped classroom": "A statement that 'in a flipped classroom new content is first presented through the teacher's lecture in class' is false").
+S15-Q41 -> 4.5 (Core, subs on synchronous/asynchronous, blended, and "MOOC types in brief") + 4.6 (Further, cMOOC/xMOOC).
+S16-Q3 -> 4.5 (Core, sub "Synchronous and asynchronous learning": synchronous = same time; webinar).
+S17-Q2 -> 4.5 (Core, sub "The flipped classroom": "Flipped and blended ... every flipped classroom is blended, but not every blended course is flipped").
+S18-Q28 -> 4.5 (Core, sub "Synchronous and asynchronous learning": "A quiz that may be taken at any time on Saturday is asynchronous").
+S19-Q39 -> 4.5 (Core, sub "Blended learning": "Because online activities can be done at any hour, outside the timetable, blended learning also extends learning time"; flipped is one model).
+S20-Q38 -> 4.5 (Core, sub "Synchronous and asynchronous learning": threaded discussion forum paragraph).
+S4-Q12 -> 4.5 (Further, sub "Where the flipped classroom came from": Bergmann and Sams, 2007, Flip Your Classroom; distractor pairs).
+S8-Q1 -> 4.5 (Further, sub "Models of blended learning": rotation model).
+S14-Q14 -> 4.5 (Further, sub "When students come unprepared").
+S20-Q27 -> 4.5 (Further, sub "Transactional distance": high structure and low dialogue = greatest distance).
+Booklet0 P3-Q6 -> 4.5 (Core, sub "The flipped classroom"); team teaching 4.3, programmed instruction 4.2, peer tutoring 4.3.

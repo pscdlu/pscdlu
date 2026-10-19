@@ -290,8 +290,8 @@ Choose the correct answer from the options given below:
 Q6. A first-generation student with high aptitude finds the conventions of academic writing unfamiliar. The most useful response is:
 (A) to move him to a lower course, since he lacks ability
 (B) to wait for maturation to remove the difficulty
-(C) to teach the conventions explicitly through mentoring or a bridge course
-(D) to ignore the matter, since home background does not affect learning
+(C) to ignore the matter, since home background does not affect learning
+(D) to teach the conventions explicitly through mentoring or a bridge course
 Q7. In a study, two methods give equal overall average scores, but one helps anxious students and the other helps confident students. This shows that:
 (A) method has no effect on learning
 (B) method and learner characteristics interact
@@ -304,7 +304,7 @@ Q2. (A), because prior knowledge, maturation and anxiety lie in the student. Lib
 Q3. (D), because maturation is growth with age independent of training, so Statement I is false; entry behaviour does tell the teacher where to begin.
 Q4. (A), because the interaction between method and learner is exactly why no method suits all, so R explains A.
 Q5. (D), because Ausubel stressed what the learner already knows, Bourdieu named cultural capital, Cronbach and Snow surveyed aptitude-treatment interactions, and readiness means maturity sufficient for a task.
-Q6. (C), because the student lacks exposure, not ability; explicit teaching of the conventions supplies the missing cultural capital.
+Q6. (D), because the student lacks exposure, not ability; explicit teaching of the conventions supplies the missing cultural capital.
 Q7. (B), because equal averages hide opposite effects in two groups, which is an aptitude-treatment interaction, not an absence of effect.
 ::endanswers
 
@@ -350,8 +350,8 @@ Support material connects with learner factors. The same chart may suit postgrad
 Q1. A teacher displays a chart with dense small print that most students cannot read. Which principle has been violated?
 (A) Economy of cost
 (B) Durability for reuse
-(C) Visibility and legibility
-(D) Novelty of design
+(C) Novelty of design
+(D) Visibility and legibility
 Q2. Which of the following is support material and not an instructional facility?
 (A) A seminar hall with a sound system
 (B) A handout of key terms for a lecture on inflation
@@ -388,7 +388,7 @@ Q6. A teacher of first-year students uses a chart copied from a research monogra
 (D) availability
 ::endbox
 ::answers
-Q1. (C), because an aid that cannot be read fails in its purpose; cost, durability and novelty are secondary considerations.
+Q1. (D), because an aid that cannot be read fails in its purpose; cost, durability and novelty are secondary considerations.
 Q2. (B), because a handout prepared for a particular lecture is support material; halls, libraries and networks are infrastructure, that is, facilities.
 Q3. (B), because both are sound selection criteria, but suitability to level is not the reason for accuracy; they stand side by side.
 Q4. (A), because aids should serve the objective and be shown when needed. Constant display and overloading distract.
@@ -439,8 +439,8 @@ In questions that combine two groups, the deciding idea is usually that faciliti
 Q1. Which of the following is an instructional facility?
 (A) A teacher's patience
 (B) A learner's interest
-(C) A reading room in the college library
-(D) A rule fixing the number of working days
+(C) A rule fixing the number of working days
+(D) A reading room in the college library
 Q2. Assertion (A): Installing projectors in every classroom does not by itself change the way teachers teach.
 Reason (R): The use of a facility depends on teachers' skill, willingness and the support they receive.
 (A) Both A and R are true and R is the correct explanation of A
@@ -463,8 +463,8 @@ In the light of the above statements, choose the correct answer:
 Q5. A college buys access to an online database of journals, but its only computer room is locked most of the day. The factor limiting learning is:
 (A) support material
 (B) learner characteristics
-(C) instructional facilities
-(D) teacher's subject mastery
+(C) teacher's subject mastery
+(D) instructional facilities
 Q6. Which of the following are likely reasons why a well-stocked library is little used?
 1. Teaching does not require independent reading
 2. Library hours clash with class hours
@@ -477,11 +477,11 @@ Choose the correct answer from the options given below:
 (D) 1, 2, 3 and 4
 ::endbox
 ::answers
-Q1. (C), because a reading room is infrastructure provided by the institution. Patience is a teacher factor, interest a learner factor, and the rule on working days an institutional policy.
+Q1. (D), because a reading room is infrastructure provided by the institution. Patience is a teacher factor, interest a learner factor, and the rule on working days an institutional policy.
 Q2. (A), because the dependence of use on skill, willingness and support is exactly why equipment alone does not change teaching, so R explains A.
 Q3. (B), because manipulative skills belong to the psychomotor domain and need a laboratory; knowledge and recall can still be gained from lectures.
 Q4. (D), because access is necessary but not sufficient, so Statement I is false; facilities and material are indeed distinct.
-Q5. (C), because the material (the database) exists; the bottleneck is access to terminals, which is a facility.
+Q5. (D), because the material (the database) exists; the bottleneck is access to terminals, which is a facility.
 Q6. (A), because the first three explain non-use. Statement 4 is true but explains nothing about use.
 ::endanswers
 
@@ -603,8 +603,8 @@ Q7. Noise around a classroom mainly reduces learning by:
 Q8. A teacher who wants a debate among forty students should arrange the seating in:
 (A) fixed rows facing the board
 (B) a tiered lecture gallery
-(C) a U-shape or circle
-(D) separate study cubicles
+(C) separate study cubicles
+(D) a U-shape or circle
 ::endbox
 ::answers
 Q1. (B), because ventilation, seating and street noise are physical. Fear of ridicule and mutual respect are psychological.
@@ -614,7 +614,7 @@ Q4. (A), because halo spreads one impression, leniency rates everyone high, cent
 Q5. (C), because seeing faces encourages student-to-student talk; in rows it is the front and centre (the action zone), not the back, that interacts most.
 Q6. (C), because the Assertion is supported by research, but the Reason is too absolute: moderate, friendly competition can motivate.
 Q7. (C), because noise is a physical barrier to attention and communication; it does not change stable learner traits or the curriculum.
-Q8. (C), because seeing one another's faces encourages discussion; rows and galleries focus attention on the front.
+Q8. (D), because seeing one another's faces encourages discussion; rows and galleries focus attention on the front.
 ::endanswers
 
 ::section 3.7 | Factors related to the institution

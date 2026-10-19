@@ -474,3 +474,310 @@ Q6. (A), because statements 1, 2 and 4 describe cooperative learning correctly. 
 Q7. (C), because thinking alone, then talking with a partner, then sharing with the class is Lyman's Think-Pair-Share.
 Q8. (A), because the Trump Plan gives about 20 per cent to small-group discussion and about 40 per cent each to large-group instruction and independent study.
 ::endanswers
+
+::section 4.4 | Learner-centred and activity methods
+::syllabus Methods of teaching in Institutions of higher learning: Teacher centred vs. Learner centred methods
+::box footprint
+{{FP 4.4}}
+::endbox
+::h Core
+The methods in this section put the learner to work: finding out, solving, making, deciding, acting. Most questions ask who devised a method, what its steps are in order, or how two similar methods differ.
+::sub The project method
+The **project method** (परियोजना विधि) was set out by **William Heard Kilpatrick** in an essay of 1918. Kilpatrick was a follower of **John Dewey**, and the method rests on Dewey's pragmatism and his idea of **learning by doing**. Kilpatrick defined a project as "a whole-hearted purposeful activity proceeding in a social environment".
+In the project method students carry out a purposeful, real-life task from start to finish: they choose it, plan it, do it and judge the result. It replaces rote learning and passive listening with the learners' own activity. A project normally ends in a tangible product: a report, a survey, a model, an exhibition.
+Kilpatrick's four steps, in order, are:
+1. **Purposing:** the students choose a project that has a real purpose for them.
+2. **Planning:** they decide how to carry it out.
+3. **Executing:** they do the work.
+4. **Evaluating** (judging): they review the result against the purpose with which they started.
+Some Indian textbooks add "providing a situation" before purposing and "recording" after evaluating, making six steps. The four central steps and their order stay the same.
+A project draws on several subjects at once. A project on village sanitation, for example, uses statistics, sociology, health science and report writing together. So the project method **promotes correlation** among subjects. This is possible because it does not follow a timetable of separate subject periods.
+Its limitations: projects take much time, and the knowledge gained is **incidental** and not in systematic order. So the method is hard to use as the only method for covering a prescribed syllabus. (That Kilpatrick propounded it is true, but it does not explain this difficulty.)
+Do not confuse Kilpatrick with others: **Maria Montessori** and **Friedrich Froebel** devised methods for early childhood education, and **Helen Parkhurst** devised the **Dalton Plan** (डाल्टन योजना), in which each pupil works through monthly assignments, or "contracts", at his or her own pace in subject rooms called laboratories.
+::sub The problem-solving method
+In the **problem-solving method** (समस्या समाधान विधि) learners meet a real problem and work towards a solution by the steps of scientific inquiry:
+1. Recognising and defining the problem.
+2. Collecting relevant data.
+3. Forming hypotheses (possible solutions).
+4. Testing the hypotheses.
+5. Drawing a conclusion.
+The first step is always to identify the problem: nothing can be collected or tested before that. The method develops reasoning and a scientific attitude; it makes little use of rote memory or mechanical drill.
+The method is based on John Dewey's analysis of reflective thinking in his book *How We Think*. Dewey's five steps are:
+1. A felt difficulty.
+2. Its location and definition.
+3. Suggestion of possible solutions.
+4. Reasoning out the bearings (implications) of each suggestion.
+5. Further observation or experiment, leading to acceptance or rejection of the suggestion.
+**Problem-solving and project compared.** Both involve purposeful activity by learners. But problem-solving is chiefly mental and ends in a solution or conclusion; a project is carried out in a real-life setting and ends in a tangible product. They are not the same in every respect.
+::sub Problem-based learning
+**Problem-based learning** (PBL) (समस्या आधारित अधिगम) is a modern form in which small groups of students learn through working on complex, real problems. Its marks are:
+- the problem comes **first**, before the relevant content is taught, and drives the learning;
+- the problems are **ill-structured**: open, with incomplete information and more than one possible answer;
+- the tutor acts as a **facilitator** of the group's process, not as a lecturer.
+A physical product is not required; that is a mark of the project method.
+::sub The heuristic method
+The **heuristic method** (अन्वेषण विधि) was advocated by **H. E. Armstrong** (Henry Edward Armstrong), a professor of chemistry in England, for the teaching of science. The word comes from the Greek for "I find out". The pupil is placed in the position of a **discoverer** and finds facts and principles by his or her own observation and experiment. The teacher sets problems and guides but tells as little as possible. A statement that "in the heuristic method the teacher supplies all the facts and conclusions" is false: that is the very practice the method opposes.
+::sub Inductive, deductive and heuristic methods
+::table widths=22,40,38
+|Method|Direction|When it suits|
+|Inductive|From particular examples to a general rule|Discovery and understanding; slower, because many examples are needed|
+|Deductive|From a general rule to particular cases|Application, practice and revision of an established rule; quicker|
+|Heuristic|The learner finds out by own inquiry|Developing scientific attitude; slow|
+|Analytic|From the unknown (what is to be proved) back to the known|Discovering how to prove or solve|
+|Synthetic|From the known to the unknown|Setting out a proof neatly|
+If a teacher states the formula for the area of a triangle and then has students solve problems with it, the method is deductive. If students measure many triangles and arrive at the formula themselves, it is inductive. Induction takes more time; deduction is suitable for practice and revision.
+There is also a point of logic. Induction goes from a limited number of instances to a general rule, so its conclusion claims more than the evidence contains and is only **probable**: a new case may always contradict it. Deduction applies a general premise to a particular case; if the premises are true and the form is valid, the conclusion is **certain**. "All metals expand on heating; copper is a metal; therefore copper expands on heating" is deduction. Two other forms appear as distractors: **abduction** infers the best explanation of what is observed, and **analogy** argues from resemblance.
+::sub The case method
+In the **case method** (व्यष्टि अध्ययन विधि) students study a **case**: a written account of a real or realistic problem situation. They study the facts, identify the issues, discuss alternatives and defend a decision. The method links theory with practice and develops analysis, judgement and decision-making.
+The case method was developed at **Harvard**: first in the Law School, and then, from the 1920s, at **Harvard Business School**, which made it famous for management education. It is now used in management, law, medicine and teacher education.
+**Case or project?** If students analyse a case already written up for them, it is the case method. If they go out, collect data and produce a report on a real task, it is a project.
+::sub Role play
+In **role play** (भूमिका निर्वाह) learners take the parts of people in a real or imagined situation and act it out **without a script**. Players are given a situation and a role and improvise. A memorised script would turn it into a drama (dramatisation).
+By acting as another person, a learner experiences that person's situation and feelings. Role play is therefore used for empathy, attitudes, communication and interpersonal skills, which belong to the affective domain, not for recall or calculation.
+The enactment only provides experience. Learning comes in the **debriefing**: players and observers discuss what happened, how the characters felt and what else could have been done, and link this to the objectives of the lesson. Debriefing is the most important step.
+::sub Simulation
+In **simulation** (अनुरूपण) learners practise a task in an artificial situation made to resemble the real one: a mock court (moot court) for law students, a flight simulator for pilots, a mock parliament, or simulated teaching among fellow trainees. Mistakes cost nothing, so learners can try, fail and get feedback before facing the real thing. Simulation is used above all for skills, decisions and attitudes that are costly or risky to practise in reality, such as flying, surgery or classroom teaching. Like role play, it must be followed by **debriefing**, where the experience is analysed and turned into learning. Working in a real workplace under a supervisor is an internship or apprenticeship, not a simulation.
+::sub Mastery learning
+**Mastery learning** (निपुणता अधिगम) was developed by **Benjamin S. Bloom**. Its idea is that nearly all learners can master what is taught if they are given enough time and the right help. The course is divided into units, and each unit has a fixed standard of mastery, for example 80 per cent, that every learner is expected to reach before moving on.
+After each unit, a short **formative test** shows each learner which objectives have and have not been mastered. These tests are not graded. Learners who fall short receive **correctives** (re-teaching, different materials, peer help) and then take a second, parallel test. Grades are given only by a later **summative test** (योगात्मक मूल्यांकन). Because performance is judged against a fixed standard, not against other learners, mastery learning relies on **criterion-referenced tests**, not norm-referenced ranking.
+::sub The Personalised System of Instruction (Keller Plan)
+The **Personalised System of Instruction** (PSI), also called the **Keller Plan** (वैयक्तिकृत अनुदेशन प्रणाली), was developed by the American psychologist **Fred S. Keller** and colleagues in the 1960s and described in his paper "Good-bye, Teacher..." (1968). It applies behavioural principles to a whole university course. Its features are:
+1. **Self-pacing:** each student moves through the course at his or her own speed.
+2. **Unit mastery:** the course is divided into units; a student must pass a test on one unit before going to the next. A student who fails simply studies again and retakes the test, with no penalty.
+3. **Proctors:** the unit tests are marked at once, and discussed with the student, by **proctors**, usually advanced students who have already done the course. This gives immediate feedback and a personal, social element.
+4. **Written materials:** the main content is in written study guides and readings, not in lectures.
+5. **Lectures for motivation only:** the few lectures and demonstrations are meant to inspire, not to convey essential content, and attendance is optional.
+Keep the names apart: Skinner is linked with linear programming, Crowder with branching programming, Bloom with mastery learning, and Keller with PSI. PSI and mastery learning share the idea of unit mastery, but in PSI each student goes at his or her own pace, while in Bloom's mastery learning the class usually moves together with group teaching, and correctives are given to those who need them.
+::box example
+In a B.Ed. college in Bhiwani, trainees run a project: they survey the number of out-of-school girls in two villages (purposing and planning with the teacher), collect the data (executing), present a report to the gram sabha and judge it against their aim (evaluating). In a management class at a university in Gurugram, students analyse a written case on a cooperative milk plant and defend a decision. In a law college, students argue a moot court, a simulation. In a sociology class, students role-play a meeting between a family and a panchayat member about a dowry dispute, and then spend twenty minutes in debriefing.
+::endbox
+::box confused
+- **Project and case method.** Project: students carry out a real task in the field and produce something. Case: students analyse a situation already written up.
+- **Project and problem-solving.** Both purposeful. Problem-solving is mainly mental and ends in a solution; a project is a real-life activity ending in a product.
+- **Project method and PBL.** PBL presents an ill-structured problem first, with a facilitator; a product is not required. A product is the mark of the project method.
+- **Role play and simulation.** Role play: acting a person's part, chiefly for empathy and attitudes. Simulation: practising a task in a situation built to resemble reality, chiefly for skills and decisions. Both need debriefing.
+- **Role play and dramatisation.** Role play is unscripted; dramatisation uses a learnt script.
+- **Heuristic and inductive.** Both move towards discovery, but heuristic means the learner finds things out by own experiment with minimal telling; inductive names the direction of reasoning, from examples to rule.
+- **Kilpatrick, Parkhurst, Armstrong, Montessori.** Project method; Dalton Plan; heuristic method; early childhood method.
+- **Mastery learning and PSI.** Bloom: class taught together, formative tests and correctives. Keller: each student self-paced through written units with proctors.
+- **Criterion-referenced and norm-referenced.** Mastery is judged against a fixed standard (criterion), not against other learners (norm).
+::endbox
+::further
+::sub Three definitions of a project
+- **Kilpatrick:** "a whole-hearted purposeful activity proceeding in a social environment".
+- **J. A. Stevenson:** "a problematic act carried to completion in its natural setting". Note the three ideas: a problem, completion, a natural setting.
+- **P. B. Ballard:** "a bit of real life that has been imported into the school".
+::sub Kilpatrick's four types of project
+1. **Producer (constructive) project:** making something, such as a model, a garden or a magazine.
+2. **Consumer (aesthetic) project:** enjoying and appreciating something, such as a poem, a piece of music or a painting.
+3. **Problem project:** solving an intellectual question.
+4. **Drill (specific learning) project:** mastering a skill or a body of knowledge.
+::sub Polya's four steps
+The mathematician George Polya, in *How to Solve It*, gave four steps of problem solving: **understand the problem**, **devise a plan**, **carry out the plan**, and **look back** (check the result and reflect on the method). Looking back is where the solver learns something to use in future problems.
+::sub Where problem-based learning began
+Problem-based learning was introduced in the medical school of **McMaster University**, Canada, in the late 1960s, by **Howard Barrows** and colleagues. Students first met a patient problem and then learnt the science they needed in order to deal with it. Keep apart: the case method with Harvard, PBL with McMaster, and micro-teaching with Stanford.
+::sub Variants of the case method
+- In the **incident method**, devised by **Paul Pigors**, the group receives only a short statement of an incident and must dig out the remaining facts by questioning the teacher, then define the issue and decide. It trains fact-finding as well as analysis. In an ordinary case study the facts are supplied in full.
+- In the **in-basket** (in-tray) exercise, a simulation, each trainee is given a pile of letters, memos and requests such as might lie on a manager's or principal's desk, and must deal with them under time pressure. The decisions are discussed afterwards.
+::sub Psychodrama and sociodrama
+**J. L. Moreno** (Jacob Levy Moreno), the founder of psychodrama, distinguished two forms of enactment. **Psychodrama** deals with the private problems of an individual and is used in therapy. **Sociodrama** deals with problems shared by a group or community, such as caste prejudice or dowry. Classroom role play on social issues is sociodrama. In **role reversal** two persons exchange roles, so that each sees the situation from the other's side.
+::sub Mathetics and PSI side by side
+In a matching item on individualised instruction, remember four lines: Skinner's linear programming, every learner passes through the same small steps; Crowder's branching programming, the learner's response decides the next frame; Gilbert's mathetics, the final step is mastered first and the learner works backwards; Keller's PSI, self-paced units, each passed with a proctor. (Programmed instruction and mathetics are explained in section 4.2.)
+::sub Action research
+A small project carried out to improve one's own practice often follows the cycle of **action research**, associated with **Kurt Lewin**: **plan, act, observe, reflect**, and then plan again, in a spiral. Its aim is to improve practice in one's own setting, not to produce general laws. Ex post facto research, by contrast, studies effects after the event without any intervention; an experiment manipulates a variable with a control group and aims at generalisation. Action research is taught more fully under Research Aptitude (Unit II).
+::box check
+Q1. Arrange Kilpatrick's steps of the project method in their correct order:
+1. Planning
+2. Evaluating
+3. Purposing
+4. Executing
+(A) 3, 1, 2, 4
+(B) 1, 3, 4, 2
+(C) 3, 1, 4, 2
+(D) 3, 4, 1, 2
+Q2. Match List I with List II:
+::match
+List I (Person) || List II (Associated with)
+A. Helen Parkhurst || I. Heuristic method
+B. H. E. Armstrong || II. Personalised System of Instruction
+C. Fred S. Keller || III. Dalton Plan
+D. Benjamin S. Bloom || IV. Mastery learning
+(A) A-III, B-I, C-II, D-IV
+(B) A-I, B-III, C-II, D-IV
+(C) A-III, B-I, C-IV, D-II
+(D) A-III, B-II, C-I, D-IV
+Q3. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): The project method helps learners see connections among different subjects.
+Reason (R): A real-life project draws on knowledge from several subjects at the same time.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Given below are two statements:
+Statement I: In role play, the players learn a written script by heart before the class.
+Statement II: Discussion after the enactment is where most of the learning in role play takes place.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. Consider the following statements about mastery learning:
+1. Formative tests after each unit are used to award final grades.
+2. Learners who do not reach the standard receive corrective help.
+3. Performance is judged against a fixed standard.
+4. It was developed by Benjamin S. Bloom.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1 and 4 only
+(D) 1, 2, 3 and 4
+Q6. A teacher gives students four sentences in the passive voice, asks them to find what the sentences have in common, and lets them state the rule for forming the passive. The method is:
+(A) deductive
+(B) inductive
+(C) synthetic
+(D) lecture-cum-demonstration
+Q7. Which statement about problem-based learning is NOT correct?
+(A) The problem is met before the relevant content is studied.
+(B) The tutor acts mainly as a facilitator.
+(C) The problems are usually open and ill-structured.
+(D) Every group must end with a physical product.
+Q8. A law college arranges a mock trial in which students act as judge, lawyers and witnesses, after which the teacher and students analyse the decisions taken. This is best described as:
+(A) simulation followed by debriefing
+(B) a symposium
+(C) programmed instruction
+(D) psychodrama
+::endbox
+::answers
+Q1. (C), because the order is purposing, planning, executing and evaluating (judging the result against the purpose).
+Q2. (A), because Parkhurst devised the Dalton Plan, Armstrong the heuristic method, Keller the Personalised System of Instruction and Bloom mastery learning.
+Q3. (A), because both are true and drawing on several subjects at once is exactly why the project method promotes correlation.
+Q4. (D), because role play is unscripted, so Statement I is false; debriefing is where the experience becomes learning, so Statement II is true.
+Q5. (B), because statements 2, 3 and 4 are correct. The formative tests in mastery learning are not graded; grades come from a later summative test.
+Q6. (B), because the students go from examples to the rule, which is induction.
+Q7. (D), because a physical product is the mark of the project method, not of PBL. The other three statements describe PBL correctly.
+Q8. (A), because a mock trial practises a real task in an artificial setting, and the analysis afterwards is debriefing. Psychodrama deals with an individual's private problems in therapy.
+::endanswers
+
+::section 4.5 | Off-line and on-line teaching; blended learning and the flipped classroom
+::syllabus Methods of teaching in Institutions of higher learning: Off-line vs. On-line methods
+::box footprint
+{{FP 4.5}}
+::endbox
+::h Core
+::sub Off-line and on-line teaching
+**Off-line teaching** (ऑफ़लाइन शिक्षण) is the ordinary face-to-face teaching of a classroom, laboratory or tutorial, where teacher and learners are physically together. **On-line teaching** (ऑनलाइन शिक्षण) uses the internet to connect teacher and learners who may be far apart. On-line teaching can be synchronous or asynchronous, and it can be mixed with face-to-face teaching in blended learning.
+::table widths=26,37,37
+|Point|Off-line (face-to-face)|On-line|
+|Place|Same room|Anywhere with a connection|
+|Time|Fixed timetable|Live (synchronous) or at the learner's convenience (asynchronous)|
+|Interaction|Immediate, with gestures and social presence|Through video, chat, forums, e-mail|
+|Practical work|Direct, in laboratory or field|Limited; virtual labs and simulations|
+|Needs|Campus, teachers, timetable|Devices, internet, digital skills, self-discipline|
+|Strength|Social presence, immediate feedback, practical work|Flexibility of time, place and pace; reach to large numbers|
+::sub Synchronous and asynchronous learning
+**Synchronous learning** (समकालिक अधिगम) happens at the same time for everyone: teacher and learners are online together and interact in real time. Examples: a live video class, a webinar, instant chat.
+**Asynchronous learning** (असमकालिक अधिगम) does not need everyone at the same time. Each learner takes part at a convenient time. Examples: recorded lectures, discussion boards or forums, e-mail, assignments, and a quiz that stays open over a day or a week. Asynchronous learning gives time for reflection before replying.
+The test is simple: must everyone be present at the same moment? If yes, synchronous; if no, asynchronous. A quiz that may be taken at any time on Saturday is asynchronous, because learners take it at different times.
+::table widths=50,50
+|Synchronous (same time)|Asynchronous (different times)|
+|Live video class|Recorded lecture|
+|Webinar|Discussion forum or board|
+|Instant chat|E-mail|
+|Live phone or video tutorial|Assignment or quiz open over a period|
+A **threaded discussion forum** comes closest to a seminar without requiring everyone at once: a paper or prompt is posted, and participants reply to it and to one another over several days. A webinar allows discussion only live. A podcast and a broadcast e-mail are one-way.
+::sub Blended learning
+**Blended learning** (मिश्रित अधिगम), also called **hybrid learning**, is a planned mix of face-to-face classroom teaching and online learning within one course, so that each mode does what it does best. It keeps the social presence, immediate feedback and practical work of the classroom and adds the flexibility, variety and self-pacing of online study. Because online activities can be done at any hour, outside the timetable, blended learning also extends learning time beyond the classroom.
+Blended learning still needs a campus, devices and, above all, careful planning of what is done in each mode. It does not remove the classroom, and it does not reduce planning.
+Distinguish it from three other terms that appear as options:
+- **Distance learning** separates teacher and learner for most of the course.
+- **Programmed learning** uses self-instructional frames (section 4.2).
+- **Mastery learning** requires each unit to be mastered before the next (section 4.4).
+::sub The flipped classroom
+In the **flipped classroom** (फ़्लिप्ड कक्षा) the usual order is reversed. Students meet new content **before class**, at home, usually through short recorded videos or readings. **Class time** is then used for discussion, clearing doubts, problem-solving and application, with the teacher and classmates at hand. The lecture has not disappeared; it has moved out of the classroom in recorded form.
+In terms of Bloom's taxonomy, the flipped classroom sends the lower-order work (remembering and understanding, the first exposure) to home, and keeps the higher-order work (applying, analysing, evaluating and creating) for class, where help is available. That is why a flipped classroom frees class time for higher-order activities. A statement that "in a flipped classroom new content is first presented through the teacher's lecture in class" is false: it describes the conventional classroom.
+**Flipped and blended.** Blended learning is the general idea of combining face-to-face and online learning. The flipped classroom is one model of blended learning. So every flipped classroom is blended, but not every blended course is flipped. Other blended arrangements, such as station rotation or the flex model, are not flipped.
+::sub MOOC types in brief
+Two kinds of MOOC (massive open online course) are often named in questions on online learning. **cMOOCs** are connectivist: learners build and share knowledge across networks. **xMOOCs** are structured, instructor-led courses of video lectures and quizzes on large platforms. Section 4.6 explains both.
+::box example
+In a B.Com. class of 70 at a college in Fatehabad, the teacher uploads a twelve-minute video on depreciation methods and a short reading on the college's learning portal on Sunday. Students watch it when convenient (asynchronous) and post questions on the course forum. In class on Tuesday, after a three-question entry quiz, groups solve depreciation problems on real company accounts while the teacher moves among them (flipped classroom). On Thursday evening she holds a live online doubt-clearing session (synchronous). The whole course, mixing class and online work, is blended learning.
+::endbox
+::box confused
+- **Synchronous and asynchronous.** Same time (live class, webinar, chat) against different times (recorded lecture, forum, e-mail).
+- **Blended and flipped.** Blended is the general mix of face-to-face and online; flipped is one blended model in which first exposure to content is online and class is for application.
+- **Blended and distance learning.** Blended keeps regular face-to-face classes; distance learning separates teacher and learner for most of the course.
+- **Flipped and conventional classroom.** Flipped: content at home, application in class. Conventional: content in class (lecture), application at home (homework).
+- **Hybrid and blended.** Two names for the same thing.
+::endbox
+::further
+::sub Where the flipped classroom came from
+The flipped classroom was popularised by **Jonathan Bergmann and Aaron Sams**, two chemistry teachers at a high school in Colorado, United States, who began recording their lectures for students in 2007 and later described the approach in their book *Flip Your Classroom*. Keep apart the pairs often offered as distractors: Hase and Kenyon (heutagogy), Siemens and Downes (connectivism), Joyce and Weil (models of teaching).
+::sub When students come unprepared
+A common difficulty in a flipped course is that some students arrive without having watched the video. If the teacher re-lectures the whole class each time, the incentive to prepare disappears and the class time is lost. The response most consistent with the model is to use a brief entry quiz or task that holds students accountable, and to go ahead with the planned activity, while the unprepared catch up.
+::sub Models of blended learning
+The Clayton Christensen Institute describes four main models of blended learning:
+- **Rotation model:** students rotate, on a fixed schedule or at the teacher's direction, between online learning and other modes such as small-group teaching or pen-and-paper work. Station rotation, lab rotation, individual rotation and the flipped classroom are sub-types of the rotation model.
+- **Flex model:** online learning is the backbone of the course, and teachers give face-to-face support flexibly as needed.
+- **A la carte (self-blend) model:** a student takes one or more courses entirely online, in addition to the usual courses on campus.
+- **Enriched virtual model:** students do most of their work remotely online and attend required face-to-face sessions from time to time.
+::sub Transactional distance
+In distance education (दूरस्थ शिक्षा), **Michael G. Moore** proposed the theory of **transactional distance**. The distance that matters, he argued, is psychological and communicative, not geographical. It depends on three variables: **dialogue** (interaction between teacher and learner), **structure** (how rigidly the course is laid out) and **learner autonomy**. Transactional distance is greatest when structure is high and dialogue is low; such a course demands the most autonomy from the learner. More dialogue reduces the distance.
+::box check
+Q1. Consider the following:
+1. A live webinar with questions in real time
+2. A discussion board on which students post over a week
+3. A recorded lecture watched at night
+4. Instant chat during an online class
+Choose the correct answer from the options given below. The synchronous forms are:
+(A) 1 and 2 only
+(B) 1 and 4 only
+(C) 2 and 3 only
+(D) 1, 3 and 4 only
+Q2. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): In a flipped classroom, class time is available for problem-solving and discussion.
+Reason (R): In a flipped classroom, learners meet new content through videos or readings before class.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. Given below are two statements:
+Statement I: Every blended course is a flipped classroom.
+Statement II: Blended learning removes the need for any face-to-face teaching.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Match List I with List II:
+::match
+List I (Model) || List II (Description)
+A. Rotation || I. Online learning is the backbone; teachers support as needed
+B. Flex || II. Students move on a schedule between online and other modes
+C. A la carte || III. Mostly remote online work with some required campus sessions
+D. Enriched virtual || IV. A student adds a fully online course to campus courses
+(A) A-I, B-II, C-IV, D-III
+(B) A-II, B-I, C-III, D-IV
+(C) A-II, B-I, C-IV, D-III
+(D) A-II, B-IV, C-I, D-III
+Q5. In terms of Bloom's taxonomy, the flipped classroom keeps for class time mainly:
+(A) remembering facts from the textbook
+(B) applying, analysing and evaluating
+(C) copying notes from the board
+(D) listening to the full lecture
+Q6. According to Moore, transactional distance is least when a course has:
+(A) high structure and low dialogue
+(B) low dialogue and low autonomy
+(C) much dialogue between teacher and learner
+(D) a large geographical distance
+Q7. A teacher wants her M.A. students to argue about a critical essay at length over a week, though they live in different districts and have different working hours. The most suitable tool is:
+(A) a live webinar
+(B) a threaded discussion forum
+(C) a podcast
+(D) a broadcast e-mail
+::endbox
+::answers
+Q1. (B), because a live webinar and instant chat need everyone present at the same moment. A discussion board and a recorded lecture are used at different times.
+Q2. (A), because both are true, and moving first exposure out of class is exactly what frees class time.
+Q3. (B), because the flipped classroom is only one model of blended learning, and blended learning keeps face-to-face teaching.
+Q4. (C), because rotation means moving between modes on a schedule; flex has online learning as backbone; a la carte adds a fully online course; enriched virtual is mostly remote.
+Q5. (B), because first exposure (remembering and understanding) happens at home, and the higher-order work is done in class.
+Q6. (C), because more dialogue reduces transactional distance. High structure with low dialogue gives the greatest distance.
+Q7. (B), because a threaded forum allows extended, reasoned exchange without everyone being present at once. A webinar needs everyone together, and a podcast and a broadcast e-mail are one-way.
+::endanswers

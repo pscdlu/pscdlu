@@ -378,6 +378,7 @@ Four further terms:
 - **Spontaneous recovery**: after a rest, the extinguished response returns for a while.
 - **Stimulus generalisation** (उद्दीपक सामान्यीकरण): a response conditioned to one stimulus is also produced by similar stimuli. A child frightened by one stern teacher becomes afraid of all teachers.
 - **Stimulus discrimination**: learning to respond only to the original stimulus, not to similar ones (fearing only that one teacher).
+- Do not confuse stimulus generalisation with **response generalisation**, in which one stimulus comes to produce several similar responses. In stimulus generalisation, several similar stimuli produce the same response.
 Classical conditioning explains **involuntary emotional reactions**. A student humiliated in a mathematics class may feel anxious on entering any mathematics classroom. The classroom, at first neutral, was paired with humiliation, which naturally produces distress; the classroom is now a conditioned stimulus for anxiety. This is classical, not operant, conditioning.
 ::sub Edward Thorndike: trial and error and the three laws
 E. L. Thorndike (Edward Lee Thorndike), an American psychologist, put hungry cats in a **puzzle box** with food outside. A cat tried many movements, and by chance one movement opened the door. Over many trials it dropped the useless movements and escaped faster. Thorndike concluded that learning is the "stamping in" of correct stimulus-response (S-R) connections by **trial and error** (प्रयास और त्रुटि). His theory is called **connectionism**.

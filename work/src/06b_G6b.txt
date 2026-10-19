@@ -506,3 +506,167 @@ Q4. (C), because A is true but R is false: in an adaptive test candidates meet d
 Q5. (A), because a linear-on-the-fly test builds a separate form for each candidate in advance but does not adapt during the test; adaptation is the mark of CAT.
 Q6. (D), because quick scoring, shuffling and time logs are advantages; CBT still needs test centres.
 ::endanswers
+::section 6.9 | Innovations in evaluation
+::syllabus Innovations in evaluation systems
+::box footprint
+{{FP 6.9}}
+::endbox
+::h Core
+::sub Why innovations are needed
+A single written examination at the end of a course tests mainly what a student can recall in three hours. It says little about what the student can do, how the student has grown, or how the student thinks about his or her own work. The innovations in this section try to fill these gaps. Most of them are tools of formative evaluation (रचनात्मक मूल्यांकन); some also change summative examinations.
+The National Education Policy 2020 states the direction plainly. In its words (paragraph 4.34), assessment should shift from one that is "summative and primarily tests rote memorization skills" to one that is "more regular and formative, is more competency-based, promotes learning and development", and "tests higher-order skills, such as analysis, critical thinking, and conceptual clarity". It also proposes a holistic, multidimensional progress card. The shift runs from summative rote testing towards regular, formative, competency-based assessment, never the other way.
+::sub Rubrics
+A **rubric (रूब्रिक, मूल्यांकन निर्देशिका)** is a scoring guide. It states the criteria on which a piece of work will be judged and describes what performance looks like at each level, for example excellent, good, fair and poor. A rubric makes marking transparent and consistent, and when it is shared in advance it tells students what is expected. A rubric is not a question bank, a timetable or a marks register.
+A rubric has three parts.
+- **Criteria**: the aspects of performance to be judged, such as content, organisation, language and referencing.
+- **Scale**: the levels of performance, such as 4 (excellent) to 1 (poor).
+- **Descriptors**: the wording in each cell that says what that level of that criterion looks like. Descriptors are what make two markers give the same score.
+There are two kinds of rubric.
+- An **analytic rubric** scores each criterion separately and describes levels for each. It gives a profile of strengths and weaknesses as well as a total. It is slower but diagnostic.
+- A **holistic rubric** describes levels of overall quality. The marker chooses the level that best fits the work as a whole and gives a single score. It is quick but gives little diagnostic feedback.
+Do not confuse either with a **checklist**, which only records whether a feature is present or absent, or an **anecdotal record**, which is a narrative note of an observed incident. Both are taught in Section 6.4.
+::sub Portfolios
+A **portfolio (पोर्टफोलियो)** is a purposeful collection of a student's work gathered over a period: drafts, assignments, projects, reflections. Because it covers time, it shows growth and process as well as finished products. Two features separate a portfolio from a mere folder of papers: the work is **selected** against stated criteria, and the student adds a **reflection** explaining why each piece was chosen and what it shows. Collecting everything without selection and reflection is only storage.
+An **e-portfolio** is a portfolio kept in electronic form: documents, presentations, audio and video, with the student's reflections and the teacher's comments. It can be shared online and updated over years. It is not an e-book, e-journal or e-library.
+::sub Open-book and on-demand examinations
+In an **open-book examination (खुली पुस्तक परीक्षा)** candidates may consult books and notes while answering. Since facts can be looked up, questions of recall lose their value. A good open-book paper asks candidates to apply, interpret, analyse and judge, so that the books serve as tools and not as answer keys. A paper that can be answered by copying passages tests only speed in finding pages. Open-book does not mean choosing one's own date, examiner or questions.
+In an **on-demand examination (मांग पर परीक्षा)** the learner takes the examination when he or she feels ready, instead of on a date fixed for everyone. A unique paper is generated for each sitting from a large **question bank (प्रश्न बैंक)** according to a blueprint, so that papers are of equal standard. The system suits open and distance learning; the National Institute of Open Schooling (NIOS) runs an On-Demand Examination. Its defining feature is freedom of timing. Adaptive testing (Section 6.8) also draws on an item bank, but its defining feature is that difficulty changes during the test.
+::sub Self-assessment and peer assessment
+In **self-assessment (स्व-आकलन)** students judge their own work against clear criteria. The main gain is awareness of what they have mastered and what they have not, so that they can plan their next steps. This awareness of one's own learning is **metacognition (अधिसंज्ञान)**. Self-assessment supplements the teacher's feedback (प्रतिपुष्टि); it is not a way of avoiding it, ranking oneself against classmates, or getting marks without study. It is mainly reflection and need not produce a grade at all.
+In **peer assessment (सहपाठी आकलन)** students judge one another's work against given criteria, usually with a rubric. It can be confined to comments that help a classmate improve a draft, without any marks. Its main benefit to the student who assesses is a clearer grasp of what good work looks like: applying the criteria to someone else's work makes the standard explicit in one's own mind and improves one's own later work. A lighter marking load is a benefit to the teacher, not to the learner.
+Peer marks can be distorted by friendship, rivalry and vague standards. Four remedies improve their reliability (विश्वसनीयता): a clear rubric that gives every marker the same criteria; anonymous marking; several markers per script, averaged; and training with sample scripts. Letting friends mark each other, leaving criteria to each marker or using one peer per script all make matters worse.
+::sub Performance-based and authentic assessment
+In **performance-based assessment (निष्पादन आधारित आकलन)** students show a skill by doing something: an experiment, a presentation, a field report, a moot court argument. It reveals skills that paper-and-pencil tests cannot show. Its weakness is on the scoring side: it takes longer to mark and depends on the judgement of the assessor, which is why rubrics are used. A multiple-choice test is quicker and more objective to score; a performance task is not.
+**Authentic assessment (प्रामाणिक आकलन)** goes one step further. The task reproduces real-life or work conditions: a real product, a real audience and often a real deadline, such as a news bulletin for the campus radio, a case analysis for a local firm, or a report for a panchayat. It shows what students can do with what they know.
+::table widths=30,70
+|Term|Deciding feature|
+|Authentic assessment|A task that reproduces real-world conditions|
+|Portfolio assessment|Work collected and selected over time, with reflection|
+|Ipsative assessment|The learner compared with his or her own earlier performance|
+|Objective assessment|Fixed-answer items such as multiple-choice|
+::sub Remote proctoring
+In online examinations **remote proctoring (दूरस्थ निरीक्षण)** lets candidates take a test from their own location while software, a human invigilator, or both, watch them through the webcam, microphone and screen. It verifies identity and flags suspicious behaviour, doing the work of an invigilator in an examination hall. It has nothing to do with sending papers by courier or evaluating scripts at a distant centre.
+::box example
+In the M.A. English programme at a state university, Dr Malik replaces one sessional test with a portfolio. Each student keeps drafts of three essays, the comments of two classmates on each draft (given with a four-criterion analytic rubric), and a final one-page reflection on how the writing changed. The students mark each other's drafts anonymously and only with comments. At the end, Dr Malik grades the portfolio with the same rubric, and a colleague second-marks a sample to check consistency. The students learn the criteria by using them, and the final grade rests on selected work and reflection, not on everything a student happened to write.
+::endbox
+::box confused
+- Analytic and holistic rubric. Analytic = separate score for each criterion, with a profile. Holistic = one overall score.
+- Rubric and checklist. Rubric = levels described for each criterion. Checklist = present or absent only.
+- Criteria and descriptors. Criteria = aspects judged. Descriptors = what each level of each aspect looks like.
+- Portfolio and folder. Portfolio = selected work with reflection. Folder = everything, unselected.
+- Open-book and on-demand examination. Open-book = books allowed during the test. On-demand = learner chooses when to take the test.
+- On-demand and adaptive testing. On-demand = choice of timing. Adaptive = difficulty changes during the test.
+- Self- and peer assessment. Self = judging one's own work. Peer = judging classmates' work.
+- Authentic and ipsative assessment. Authentic = real-world task. Ipsative = comparison with one's own earlier performance.
+- Positive and negative washback. Positive = a test that encourages desirable learning. Negative = a test that narrows teaching to what is tested.
+- Washback and practice effect. Washback = effect of a test on teaching and learning. Practice effect = score gain from having taken a test before.
+::endbox
+::box fact
+- National Education Policy 2020, paragraph 4.34: assessment to shift from summative, rote-memory testing to regular, formative, competency-based assessment testing higher-order skills (as of October 2026).
+- UGC document: Evaluation Reforms in Higher Educational Institutions (2019) (as of October 2026).
+::endbox
+::further
+::sub Kinds of portfolio
+::table widths=30,70
+|Kind|What it holds|
+|Working portfolio|Work in progress, including drafts|
+|Showcase (display) portfolio|The pieces the student selects as his or her best|
+|Assessment portfolio|Work chosen to show achievement of stated objectives, judged against criteria|
+Portfolios are strong in authenticity and in showing growth. Their weakness is in measurement: different assessors can judge the same portfolio very differently, so inter-rater reliability is low. The usual remedies are clear rubrics, training of raters, double marking and moderation meetings. Authenticity is the strength of the portfolio, not its weakness; negative marking and longer time limits have nothing to do with the problem.
+::sub Weighted rubric scores
+When the criteria of an analytic rubric carry different weights, multiply each criterion score by its weight and add.
+::box worked
+A rubric has three criteria weighted 50, 25 and 25 per cent, each scored on a four-point scale. A student gets 2, 4 and 4.
+> Weighted score = 0.50 x 2 + 0.25 x 4 + 0.25 x 4 = 1.0 + 1.0 + 1.0 = 3.0 out of 4
+> As a percentage: 3.0 / 4 x 100 = 75 per cent
+> The unweighted mean, (2 + 4 + 4) / 3 = 3.33, or 83.3 per cent, ignores the heavier first criterion.
+::endbox
+::sub Fair marks for group work
+Giving every member of a group the same mark lets those who did little benefit from the work of others (free riding). A fairer procedure combines a mark for the group product with peer ratings of each member's contribution, made against agreed criteria. One common way is to multiply the group mark by a contribution factor: the member's average peer rating divided by the group's average rating.
+::box worked
+A group project earns 70. Members' average peer ratings (out of 5) are Aman 4.5, Bela 4.0, Chetan 3.5 and Dev 2.0. The group average is 3.5.
+> Aman: 70 x 4.5 / 3.5 = 90
+> Bela: 70 x 4.0 / 3.5 = 80
+> Chetan: 70 x 3.5 / 3.5 = 70
+> Dev: 70 x 2.0 / 3.5 = 40
+::endbox
+::sub Washback
+**Washback (परीक्षा का पश्च प्रभाव)**, also called backwash, is the effect of a test on teaching and learning. It is **negative** when a test narrows the curriculum, for example when a high-stakes multiple-choice test makes teachers drill answering technique and drop extended writing. It is **positive** when the test encourages desirable learning, for example when an examination with open-ended problems makes teachers teach problem-solving. J. Charles Alderson and Dianne Wall examined the idea in their paper 'Does washback exist?' (1993). Samuel Messick counted such consequences of testing as part of a full account of validity (consequential validity). Washback is not the practice effect (score gain from retaking a test) or the halo effect (one impression colouring other judgements).
+::sub Comment-only feedback
+In a study published in 1988, the Israeli psychologist Ruth Butler gave school pupils one of three kinds of feedback on their work: comments only, grades only, or grades with comments. Those who received comments only improved most and stayed most interested. Those who received grades with comments did no better than those given grades alone: the grade drew attention away from the advice. Paul Black and Dylan Wiliam, whose review 'Inside the Black Box' (1998) made the case for formative assessment, drew on such findings in recommending comment-only marking of formative work. Two kinds of information seem better than one, but here they are not.
+::sub 360-degree feedback
+**360-degree feedback** collects judgements about a person from all around: from superiors, colleagues, those served, and the person himself or herself. In higher education it is used mainly to appraise teachers, combining feedback from students, peers and the head of department with the teacher's self-appraisal. Its strength is a rounder picture than any single source gives; its risk is that unguided raters repeat each other's biases, so criteria are needed here too.
+::sub Question banks
+A **question bank** is a large, classified store of items, each tagged by unit, objective, cognitive level and, after try-out, difficulty and discrimination. Papers can then be drawn from it according to a blueprint, so that different papers are comparable. Question banks make on-demand examinations, shuffled computer-based tests and adaptive tests possible. Their risk is exposure: an item seen too often becomes known.
+::sub Outcome-based assessment and the UGC's reform documents
+In **outcome-based education (परिणाम आधारित शिक्षा)** the programme first states its learning outcomes (अधिगम परिणाम): what a graduate should know and be able to do. Teaching and assessment are then aligned to those outcomes, and each question or task is checked against the outcome it is meant to measure. The UGC's Learning Outcomes-based Curriculum Framework (LOCF) and the NHEQF (Section 6.7) both describe qualifications in this way.
+The UGC's document Evaluation Reforms in Higher Educational Institutions (2019) applied these ideas to examinations in colleges and universities. It argued for continuous internal assessment alongside the end-semester examination, question papers linked to stated learning outcomes and spread across cognitive levels, and wider use of technology in setting papers and assessing scripts. Read it as the higher education counterpart of the school-level shift in NEP 2020.
+::box check
+Q1. Match List I with List II.
+::match
+List I || List II
+A. Holistic rubric || I. Records only whether a feature is present or absent
+B. Analytic rubric || II. One overall score for the whole work
+C. Checklist || III. Narrative note of an observed incident
+D. Anecdotal record || IV. Separate score for each criterion
+Choose the correct answer from the options given below:
+(A) A-IV, B-II, C-I, D-III
+(B) A-II, B-IV, C-I, D-III
+(C) A-II, B-IV, C-III, D-I
+(D) A-I, B-IV, C-II, D-III
+Q2. Assertion (A): Recall questions are of little value in an open-book examination.
+Reason (R): In an open-book examination candidates may consult books and notes while answering.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q3. Given below are two statements:
+Statement I: A showcase portfolio contains every piece of work a student has produced during the course.
+Statement II: The chief measurement weakness of portfolio assessment is low agreement among raters.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. A rubric has three criteria weighted 30, 30 and 40 per cent, each scored on a four-point scale. A student scores 4, 3 and 2. The weighted score as a percentage of the maximum is:
+(A) 72.5 per cent
+(B) 75 per cent
+(C) 80 per cent
+(D) 70 per cent
+Q5. Which of the following improve the reliability of peer assessment?
+1. A clear rubric shared with all markers
+2. Anonymous scripts
+3. Averaging the marks of several peer markers
+4. Allowing each marker to choose his or her own criteria
+Choose the correct answer from the options given below:
+(A) 1 and 4 only
+(B) 2, 3 and 4 only
+(C) 1, 2 and 3 only
+(D) 1, 2, 3 and 4
+Q6. After a university entrance test began to consist only of short factual multiple-choice items, coaching classes in a town stopped setting essays and drilled elimination tricks. This is an example of:
+(A) positive washback
+(B) the practice effect
+(C) the halo effect
+(D) negative washback
+Q7. A learner in an open schooling programme takes a mathematics paper on a date of her own choosing; the paper is generated for her from a large bank of items according to a blueprint. This is:
+(A) adaptive testing
+(B) on-demand examination
+(C) open-book examination
+(D) remote proctoring
+Q8. Research on formative feedback, such as Ruth Butler's, suggests that pupils' later performance improves most when they receive:
+(A) comments without grades
+(B) grades together with comments
+(C) grades without comments
+(D) their rank in the class
+::endbox
+::answers
+Q1. (B), because a holistic rubric gives one overall score, an analytic rubric scores each criterion, a checklist records presence or absence, and an anecdotal record narrates an incident.
+Q2. (A), because recall loses value exactly because the facts can be looked up; R explains A.
+Q3. (D), because a showcase portfolio holds only the pieces the student selects as best, while low inter-rater agreement is indeed the chief weakness of portfolios.
+Q4. (A), because 0.3 x 4 + 0.3 x 3 + 0.4 x 2 = 1.2 + 0.9 + 0.8 = 2.9 out of 4, which is 72.5 per cent. The unweighted mean, 3 out of 4 or 75 per cent, ignores the weights.
+Q5. (C), because a common rubric, anonymity and averaging several markers all reduce bias and error; letting each marker choose criteria makes marks less consistent.
+Q6. (D), because the test has narrowed teaching to what it tests, which is negative washback. The practice effect is a score gain from taking a test again.
+Q7. (B), because freedom to choose the date, with a paper drawn from a bank by blueprint, defines on-demand examination; adaptive testing changes difficulty during the test.
+Q8. (A), because comment-only feedback produced the most improvement, and adding a grade cancelled the benefit of the comments.
+::endanswers
+::chapteranswers

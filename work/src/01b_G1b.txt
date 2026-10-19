@@ -638,3 +638,97 @@ Q4. (C), because objectives come first, then entering behaviour, then procedures
 Q5. (A), because both statements correctly describe the two models.
 Q6. (C), because the objective is indeed stated before the content, but the first event is gaining attention; feedback is the seventh.
 ::endanswers
+
+::section 1.10 | Professional ethics and the teacher's professional growth
+::syllabus Teaching: Concept, Objectives, Levels of teaching (Memory, Understanding and Reflective), Characteristics and basic requirements
+::box footprint
+{{FP 1.10}}
+::endbox
+::h Core
+::sub Teaching as a profession
+A **profession** (व्यवसाय) is an occupation marked by four things: a body of specialised knowledge, a long period of training, a motive of service to society, and a **code of conduct** (आचार संहिता) that its members accept. Teaching has all four, which is why it is called a profession. A monthly salary, a post, a pay scale, a pension, long vacations, a classroom or a timetable are conditions of employment or of work. They are not marks of a profession.
+**Professional ethics** (व्यावसायिक नैतिकता) are the standards of right conduct that a profession expects of its members. For university and college teachers in India, the University Grants Commission has set out a Code of Professional Ethics, most recently as part of the UGC Regulations of 2018 on the appointment and qualifications of teachers. The code describes the teacher's duties under heads such as teachers and their responsibilities, teachers and students, teachers and colleagues, and teachers and authorities. Questions do not ask you to recite it. They describe a teacher's action and ask which value it breaks.
+::sub The values most often tested
+- **Impartiality** (निष्पक्षता) towards students. Every student must be treated justly, whatever their background, and above all in assessment. A teacher who gives extra internal marks to students who attend his private tuition breaks this value. The UGC code asks teachers to refrain from private tuition and coaching that interfere with their duties, because such work creates a conflict of interest.
+- **Confidentiality** (गोपनीयता). Teachers learn personal things about students, for example in guidance and counselling. They must keep these private, unless disclosure is needed to protect the student or others. Betraying a confidence destroys the trust on which counselling depends.
+- **Intellectual honesty.** Using another person's work as one's own is **plagiarism** (साहित्यिक चोरी). A teacher who puts a colleague's unpublished lecture notes into his own book without acknowledgement breaks intellectual honesty and the respect owed to colleagues.
+- **Integrity in examination work.** Teachers set papers, invigilate and evaluate. They must do this honestly and keep it confidential. A paper-setter who reveals questions to a relative commits a serious breach; personal relationships give no exemption, and "teacher autonomy" does not cover disclosure of confidential papers.
+- **Accountability.** Teachers answer for their work to students, colleagues and the institution. Evaluation in particular must be transparent and open to scrutiny.
+::sub Academic freedom
+**Academic freedom** (शैक्षणिक स्वतंत्रता) protects a teacher's freedom to inquire, to teach, to research and to publish: to present views supported by evidence even when they are controversial, to criticise established theories in the field, and to choose the methods by which a topic is taught. It is exercised within institutional obligations. It does **not** include freedom to ignore the prescribed curriculum, to skip classes, or to disregard the rules of evaluation. Nor does it give any right over other people's work: using a colleague's work without acknowledgement is plagiarism, not academic freedom. Freedom and accountability go together.
+::sub Professional growth
+A professional keeps learning. A teacher grows through reading in the subject, attending refresher and orientation programmes and workshops, doing and publishing research, reflecting on her own teaching (see 1.7), and learning from colleagues and students. This lifelong learning is called **continuous professional development** (सतत व्यावसायिक विकास), CPD for short.
+::box example
+At a college in Fatehabad, a student tells her English teacher, in a private meeting, that she is struggling because of trouble at home. That afternoon another teacher asks why the girl looks upset. The teacher says only that the student needs some support and that she is helping her, and keeps the details to herself. The same week a colleague offers her a set of unpublished notes on Indian English poetry; when she later uses some of the ideas in an article, she acknowledges him by name. In one week she has shown confidentiality and intellectual honesty.
+::endbox
+::box confused
+- **Academic freedom vs freedom from rules.** Academic freedom covers inquiry, expression and choice of method. It does not cover ignoring the curriculum or evaluation norms.
+- **Academic freedom vs plagiarism.** Freedom to publish one's own ideas gives no right to publish another's ideas as one's own.
+- **Confidentiality vs accountability.** Confidentiality keeps a student's personal information private. Accountability means answering for one's work to others.
+- **Marks of a profession vs conditions of employment.** Specialised knowledge, long training, service motive and a code of conduct are marks of a profession. Salary, post and facilities are conditions of employment.
+- **Teacher autonomy vs integrity in examinations.** Autonomy covers professional decisions in teaching. It never covers disclosing confidential examination material.
+- **Gift authorship vs ghost authorship.** Gift: a non-contributor is put in. Ghost: a real contributor is left out.
+- **Pre-service vs in-service (NEP 2020).** The four-year integrated B.Ed. is pre-service preparation. Fifty hours of CPD a year is in-service growth.
+::endbox
+::box fact
+- The National Education Policy 2020 expects every teacher to take part in at least 50 hours of continuous professional development each year, driven by the teacher's own interests. School principals and school complex leaders are also expected to take part in 50 hours or more a year. (Checked October 2026.)
+- The National Education Policy 2020 states that by 2030 the minimum degree qualification for school teaching will be a four-year integrated B.Ed. degree. (Checked October 2026; this is a target date, so check its progress before your examination.)
+- The UGC Code of Professional Ethics for university and college teachers that students now meet is the one in the UGC Regulations of 2018. Older books may quote an earlier version of the code.
+::endbox
+::further
+::sub NEP 2020 and the teacher's growth
+Two provisions of the National Education Policy 2020 are often paired in Assertion-Reason items. The policy expects continuous professional development for every teacher, at least 50 hours a year. Separately, it sets the four-year integrated B.Ed. as the minimum degree qualification for school teachers by 2030. Both are true, but they are separate provisions: one concerns in-service growth, the other pre-service preparation. Neither is the reason for the other.
+::sub Ethics of authorship
+Teachers who do research also owe honesty in publication. Authorship should reflect a real intellectual contribution to the work and carries responsibility for it.
+- **Gift (honorary) authorship**: a person who made no substantial contribution is listed as an author, for example a supervisor who places his name first on a paper written entirely by his research scholar.
+- **Ghost authorship**: the opposite fault; a person who did contribute is left off the list of authors.
+- **Salami slicing**: one study is cut into several small papers to increase the number of publications.
+- **Self-plagiarism**: reusing one's own published work as if it were new, without citing it.
+All four breach publication ethics. Research and publication ethics are taught more fully under Unit II (Research Aptitude).
+::box check
+Q1. Which of the following are marks of a profession? 1. Specialised body of knowledge 2. Long period of training 3. A pension scheme 4. A code of conduct accepted by members Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 3 and 4 only
+(C) 1, 2 and 4 only
+(D) 1, 2, 3 and 4
+Q2. A teacher tells the class what a student had shared with her privately about his health. The value she has broken is:
+(A) academic freedom
+(B) confidentiality
+(C) punctuality
+(D) accountability
+Q3. Statement I: Academic freedom allows a teacher to present evidence-based views that are controversial. Statement II: Academic freedom allows a teacher to set aside the evaluation rules of the university.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q4. Match the practices in List I with their names in List II.
+::match
+List I || List II
+A. A real contributor is left off the author list || I. Gift authorship
+B. A head of department who did no work is added as author || II. Salami slicing
+C. One study is split into five short papers || III. Self-plagiarism
+D. A teacher republishes her own old paper as new without citing it || IV. Ghost authorship
+(A) A-I, B-IV, C-II, D-III
+(B) A-IV, B-I, C-III, D-II
+(C) A-II, B-I, C-IV, D-III
+(D) A-IV, B-I, C-II, D-III
+Q5. Assertion (A): A teacher should not award marks in favour of students who attend his private coaching. Reason (R): The code of professional ethics requires just and impartial treatment of all students.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Assertion (A): NEP 2020 expects every teacher to take part in at least 50 hours of continuous professional development each year. Reason (R): NEP 2020 makes the four-year integrated B.Ed. the minimum degree qualification for school teachers by 2030.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+::endbox
+::answers
+Q1. (C), because specialised knowledge, long training and a code of conduct mark a profession. A pension is a condition of employment.
+Q2. (B), because personal information shared in confidence must be kept private unless disclosure protects the student or others.
+Q3. (C), because academic freedom protects evidence-based expression, but it is exercised within the institution's curriculum and evaluation rules.
+Q4. (D), because leaving out a contributor is ghost authorship, adding a non-contributor is gift authorship, splitting one study is salami slicing, and reusing one's own work uncited is self-plagiarism.
+Q5. (A), because favouring tuition students breaks impartiality, and the Reason states exactly the duty that is broken.
+Q6. (B), because both provisions are in the policy, but one concerns in-service growth and the other pre-service preparation; one does not explain the other.
+::endanswers
+::chapteranswers

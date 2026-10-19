@@ -81,7 +81,7 @@ A teacher of B.A. Economics in a Kurukshetra college is teaching "price determin
 ::endbox
 ::further
 ::sub The cone and Bruner's three modes
-In the 1969 edition, Dale related his cone to the three modes of learning proposed by the psychologist Jerome Bruner in 1966: **enactive** (learning by doing), **iconic** (learning through observation of images) and **symbolic** (learning through abstractions such as words and symbols). The cone is read in three parts:
+In the 1969 edition, Dale related his cone to the three modes of learning proposed by the psychologist Bruner in 1966: **enactive** (learning by doing), **iconic** (learning through observation of images) and **symbolic** (learning through abstractions such as words and symbols). The cone is read in three parts:
 ::table widths=26,44,30
 |Bruner's mode|Bands of Dale's cone|Kind of learning|
 |Enactive (क्रियात्मक)|Direct, contrived and dramatised experiences|Doing|
@@ -124,13 +124,13 @@ Reason (R): Dale's cone arranges experiences by degree of abstraction.
 (B) Both A and R are true but R is NOT the correct explanation of A
 (C) A is true but R is false
 (D) A is false but R is true
-Q4. Match the bands of Dale's cone in List I with Bruner's modes in List II:
+Q4. Match List I with List II:
 ::match
 List I || List II
-A. Contrived experiences || I. Symbolic
-B. Exhibits || II. Enactive
-C. Verbal symbols || III. Iconic
-D. Recordings, radio and still pictures || IV. Iconic
+A. Contrived experiences || I. Symbolic mode
+B. Exhibits || II. Enactive mode
+C. Verbal symbols || III. Iconic mode
+D. Bruner || IV. Proposed the three modes of learning (1966)
 Choose the correct answer from the options given below:
 (A) A-II, B-III, C-I, D-IV
 (B) A-III, B-II, C-I, D-IV
@@ -171,9 +171,391 @@ In the light of the above statements, choose the correct answer:
 Q1. (C), because television addresses both sight and hearing. A tape recorder is audio, and a flannel board and silent filmstrip are visual.
 Q2. (C), because the order up the cone is dramatised experiences, study trips, motion pictures, visual symbols, verbal symbols.
 Q3. (D), because the percentages are not Dale's and have no research basis, so A is false; R correctly describes the cone.
-Q4. (A), because contrived experiences are enactive, exhibits and still pictures iconic, and verbal symbols symbolic.
+Q4. (A), because contrived experiences are enactive, exhibits iconic and verbal symbols symbolic, and the three modes are Bruner's (1966).
 Q5. (D), because the epidiascope, overhead transparency and filmstrip all need projection; flash cards and the flannel board are seen directly.
 Q6. (A), because overload of limited working memory is the mechanism by which too many aids harm learning.
 Q7. (B), because the order from the base is direct, contrived, dramatised, then demonstrations.
 Q8. (C), because the base is direct experience, but Dale warned that too much reliance on concrete experience can obstruct generalisation.
 ::endanswers
+
+::section 5.2 | Traditional support
+::syllabus Teaching Support System: Traditional
+::box footprint
+{{FP 5.2}}
+::endbox
+::h Core
+**Traditional support** (पारंपरिक सहायक सामग्री) means the aids that need no electricity or electronic device: the chalkboard, charts, maps, pictures, models, specimens, flash cards, the flannel board, the bulletin board and printed handouts. They are cheap, always available and fully under the teacher's control.
+::sub The chalkboard
+The **chalkboard** (श्यामपट्ट) is one of the oldest and most widely used classroom aids. Smart boards, webinar tools and learning apps are ICT-based; the chalkboard is traditional.
+::table widths=50,50
+|Advantages|Limitations|
+|Cheap and always available; needs no power|The teacher's back is turned to the class while writing, so eye contact is lost|
+|Diagrams and arguments can grow step by step before the students' eyes|What is written must be rubbed off and cannot be stored|
+|Writing is slow, which keeps the teacher in step with the students' thinking|Poor handwriting or a crowded board defeats it|
+|Content can be altered at once in response to questions|Chalk dust; glare on a shiny board|
+The chalkboard's special strength is material that **unfolds during the lesson**: a derivation, a calculation, a grammatical analysis, a diagram built up stage by stage, at the class's pace. Material prepared in advance, such as a colour photograph, a recorded interview or a large table of data, is better handled by projected or digital aids. The usual examination limitation is the loss of eye contact while writing. "Cannot be used without electricity", "can show only matter printed in advance" and "too costly" are all false.
+Good chalkboard practice: plan the layout, write large and legibly, keep one part for key terms, stand aside so all can see, and turn to face the class while talking.
+::sub Charts, maps, pictures and other two-dimensional aids
+Charts, maps, graphs, posters and photographs are **two-dimensional** (द्वि-आयामी): they are flat. A good chart has one main idea, large lettering and an uncrowded layout (see 3.4).
+::sub Models, specimens and other three-dimensional aids
+**Three-dimensional aids** (त्रि-आयामी सामग्री) have length, breadth and depth and can be viewed from all sides: models, specimens, real objects, globes and mock-ups.
+- A **model** (प्रतिमान or मॉडल) is a recognisable representation of a real thing, enlarged, reduced or simplified. Models are used when the real object is too large (the solar system), too small (a cell), too costly, too dangerous or not accessible.
+- A **specimen** (नमूना) is a real object, a sample that represents its class: a rock, a leaf, an insect, a coin. It is not a representation; it is the real thing in sample form.
+::sub Flash cards
+A **flash card** (फ़्लैश कार्ड) is a small card carrying a word, picture, formula or question that is shown briefly to the class. Flash cards suit quick drill, revision and recall of vocabulary, definitions and number facts. They are simple, non-projected visual aids. They are not suited to the detailed study of long texts, and they do not project or record anything.
+::sub The flannel board
+A **flannel board** (फलालैन बोर्ड) is a board covered with flannel or a similar rough cloth. Cut-outs backed with rough material stick to it and can be added, moved or removed at will. So a display can be **built up step by step**: the parts of a sentence, the stages of a process, the members of a family tree. This advantage comes from the adhesive cut-outs. The flannel board is also a non-projected visual aid, but that classification does not explain the advantage: a printed chart is non-projected too, and cannot be built up.
+::sub Handouts
+A **handout** (हैंडआउट) is a printed sheet given to students. A good handout gives the structure of the lecture, key terms, definitions and diagrams. Students can then listen and think instead of copying, and the key material is accurate. It reduces the burden of note-taking. But it supports the lecture and further reading; it does not make attendance, the textbook or the library unnecessary, and it is not a script for the teacher to read from.
+::sub Why traditional aids still matter
+Traditional aids have not become irrelevant in ICT-enabled classrooms. They are inexpensive, always available, need no electricity, and stay under the teacher's direct control; a model can be handled as no screen image can. In a rural college with unreliable power they may be the only aids that work every day. Good teaching combines traditional and digital support.
+::box example
+A Botany teacher at a college in Jind brings a basket of real leaves (specimens) to her B.Sc. class, passes them round, and asks students to sort them by venation. She then shows a large model of a leaf in cross-section, since the real tissues are too small to see. On the chalkboard she builds a classification table row by row as students report their findings. At the end she gives a one-page handout with the table and key terms, so that students spend the period observing, not copying.
+::endbox
+::box confused
+- **Model vs specimen.** A model represents the real thing (enlarged, reduced or simplified). A specimen is the real thing, a sample of its class.
+- **Two-dimensional vs three-dimensional.** Charts, maps and photographs are flat. Models, specimens, globes and mock-ups have depth.
+- **Chalkboard vs prepared slide.** The chalkboard suits content that unfolds during the lesson; a slide suits content prepared in advance.
+- **Flannel board vs chart.** Both are non-projected visual aids, but only the flannel board lets a display be built up and rearranged.
+- **Handout as support vs handout as substitute.** A handout supports listening and reading; it does not replace them.
+::endbox
+::further
+::sub Kinds of three-dimensional aid
+::table widths=24,76
+|Aid|What it is|
+|Model|A representation of a real object, enlarged, reduced or simplified|
+|Working model|A model with moving parts that shows how the thing works|
+|Cut-away model|A model with part of the outside removed to show the inside, for example of an engine or the earth|
+|Mock-up|A simplified working replica of a device or system, used for training in its operation, for example a cockpit mock-up|
+|Diorama|A three-dimensional scene in miniature, with small figures and objects arranged in front of a painted background: a village, a battle, a habitat|
+|Specimen|A real object or sample that represents its class|
+|Globe|A three-dimensional model of the earth|
+A mock-up imitates the working of an apparatus for practice; a static miniature scene is a diorama. A cut-away model shows the inside of an object.
+::sub Other traditional aids
+- **Bulletin board** (सूचना पट्ट): a board for notices, clippings and student work, changed regularly.
+- **Wall charts of different kinds**: flow charts (stages of a process), tree charts (branching relationships), tabular charts, pie and bar charts.
+- **Puppets** and **real objects** (realia) are also traditional aids, useful for dramatised and direct experience.
+::sub Where traditional aids sit on Dale's cone
+Models, mock-ups and specimens belong to the lower, concrete part of Dale's cone (contrived and direct experiences). Charts, maps and graphs belong near the top (visual symbols). Pictures belong to the still-pictures band. So "traditional" does not mean "abstract": a specimen is among the most concrete aids a teacher can use.
+::box check
+Q1. Which of the following is a three-dimensional aid?
+(A) Wall map
+(B) Photograph
+(C) Globe
+(D) Bar chart
+Q2. Given below are two statements:
+Statement I: A specimen is a real object that represents its class.
+Statement II: A model is used when the real object is too large, too small or not accessible.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q3. Match List I with List II:
+::match
+List I || List II
+A. Diorama || I. Simplified working replica for training in operation
+B. Mock-up || II. Miniature scene before a painted background
+C. Cut-away model || III. Real sample of its class
+D. Specimen || IV. Shows the inside of an object
+Choose the correct answer from the options given below:
+(A) A-II, B-I, C-III, D-IV
+(B) A-I, B-II, C-IV, D-III
+(C) A-II, B-IV, C-I, D-III
+(D) A-II, B-I, C-IV, D-III
+Q4. Assertion (A): Traditional aids remain useful in classrooms that also have digital equipment.
+Reason (R): Traditional aids are cheap, need no electricity and remain under the teacher's control.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q5. For which purpose is the chalkboard better than a slide prepared in advance?
+(A) Showing a photograph of a painting
+(B) Working out a problem step by step in response to students' questions
+(C) Presenting a large statistical table
+(D) Playing an expert's recorded talk
+Q6. Assertion (A): A flannel board allows a diagram to be built up and rearranged during the lesson.
+Reason (R): A flannel board does not need a projector.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q7. Which of the following are limitations of the chalkboard?
+1. The teacher's back is turned to the class while writing
+2. It cannot be used without electricity
+3. What is written cannot be stored after it is rubbed off
+4. It can display only matter printed in advance
+Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 1 and 3 only
+(C) 2 and 4 only
+(D) 1, 3 and 4 only
+::endbox
+::answers
+Q1. (C), because a globe has length, breadth and depth. Maps, photographs and bar charts are flat.
+Q2. (A), because both statements are correct definitions.
+Q3. (D), because a diorama is a miniature scene, a mock-up a working replica for training, a cut-away model shows the inside, and a specimen is a real sample.
+Q4. (A), because cheapness, independence from power and teacher control are exactly why traditional aids stay useful, so R explains A.
+Q5. (B), because the board suits content that unfolds at the class's pace and can be altered; prepared images, tables and recordings suit projected or digital aids.
+Q6. (B), because the build-up comes from cut-outs sticking to flannel; not needing a projector is true but explains nothing about building up.
+Q7. (B), because the board needs no electricity and is written on during the lesson, so statements 2 and 4 are false.
+::endanswers
+
+::section 5.3 | Modern support
+::syllabus Teaching Support System: Modern
+::box footprint
+{{FP 5.3}}
+::endbox
+::h Core
+**Modern support** (आधुनिक सहायक सामग्री) in the syllabus means the electrical and electronic audio-visual equipment that came before the computer age and is still found in many colleges: projectors of various kinds, radio, television, audio and video recorders, and the language laboratory. Most need electricity. Many have now been replaced by the computer and LCD projector (5.4), but questions on them remain common.
+::sub Projectors: what each one projects
+The deciding question is always: what kind of material does this projector take, and how does the light reach the screen?
+::table widths=26,40,34
+|Device|What it projects|Key features|
+|Overhead projector (OHP) (शिरोपरि प्रक्षेपी)|Large transparent sheets (transparencies) laid flat on its glass stage|Bright image in a normally lit room; teacher faces the class and can write or point on the sheet|
+|Slide projector (diascope) (डायस्कोप)|Small mounted transparent slides, by light passing through them|Needs a darkened room|
+|Filmstrip projector|A strip of still frames on film, shown one by one|Visual; usually silent; darkened room|
+|Episcope (एपिस्कोप)|Opaque material (a page, picture, coin, leaf) by reflected light|Needs a darkened room; image less bright|
+|Epidiascope (एपिडायस्कोप)|Both opaque material and transparent slides|Combines episcope and diascope; darkened room|
+|LCD or LED projector|The output of a computer: slides, video, web pages|Works with a computer; the bridge to ICT (see 5.4)|
+::sub The overhead projector
+The **overhead projector** throws an enlarged image of a transparent sheet on to a screen behind the teacher. Its advantages over the slide projector are that the image is bright enough to use in a lit room, so students can take notes, and that the teacher faces the class while writing or pointing on the transparency. It is a projected visual aid. It cannot project opaque objects (that is the work of the episcope or epidiascope), it needs electricity, and it shows no motion or sound. It has now been largely replaced by the LCD projector connected to a computer.
+::sub Radio, television and recordings
+- **Radio** and the **tape recorder** (and other audio recorders) are audio aids. Educational radio brings expert talks and dramatised programmes to many places at once.
+- **Television** and **sound film** are audio-visual aids. Educational television brings demonstrations, visits and experts into the classroom.
+- Recordings let a lesson, a speech or a performance be replayed and studied.
+::sub The language laboratory
+A **language laboratory** (भाषा प्रयोगशाला) is a room with individual audio or computer stations, each with headphones and a microphone. Each learner listens to model speech, records his or her own response, and plays both back to compare, while the teacher monitors and speaks to individuals from a console. It is used primarily for practice in **listening and speaking** skills, the oral and aural skills that ordinary large classes cannot practise. It is an instructional facility, not a store of books, a statistics room or a science laboratory.
+::box example
+An English department in a college at Bhiwani still has an overhead projector. A teacher teaching sentence structure places a transparency of a long sentence on the stage and, facing the class with the lights on, brackets its clauses with a marker as students call them out. Later, in the department's language laboratory, each student records a reading of the same sentence, listens to a model recording, and records again, while the teacher listens in through the console.
+::endbox
+::box confused
+- **Episcope vs diascope.** The episcope projects opaque material by reflected light; the diascope (slide projector) projects transparent slides by light passing through them.
+- **Epidiascope vs OHP.** The epidiascope projects opaque objects and slides, in a dark room. The OHP projects large transparencies, in a lit room, with the teacher facing the class.
+- **Slide projector vs OHP.** Small mounted slides go in the slide projector; large writable sheets go on the OHP.
+- **OHP vs LCD projector.** The OHP projects transparencies; the LCD projector shows computer output.
+- **Language laboratory vs computer laboratory.** The language laboratory is for listening and speaking practice; a computer laboratory serves general computing.
+::endbox
+::further
+::sub The epidiascope in detail
+The name tells you what it does. *Epi* (upon) refers to the episcope, which projects opaque material, such as a page of a book, a picture, a coin or a specimen, by light reflected from its surface. *Dia* (through) refers to the diascope, which projects transparent slides by light passing through them. The **epidiascope** combines the two, so it can project opaque objects as well as transparent slides. It cannot project films with a sound track, play audio, or show computer files. Because reflected light is weak, it needs a darkened room. It is a projected visual aid.
+::sub Placing modern aids
+- **Projected visual**: OHP, slide projector, filmstrip projector, episcope, epidiascope.
+- **Audio**: radio, tape recorder, audio player.
+- **Audio-visual**: television, sound film projector, video player.
+- **Facility**: the language laboratory, a room with equipment, is better classed as an instructional facility (see 3.5).
+On Dale's cone, educational television and motion pictures are separate bands, and recordings, radio and still pictures share a band just above motion pictures (5.1).
+::box check
+Q1. Match List I with List II:
+::match
+List I || List II
+A. Episcope || I. Computer output
+B. Slide projector || II. Opaque pictures and objects
+C. Overhead projector || III. Small mounted transparent slides
+D. LCD projector || IV. Large transparencies on which the teacher can write
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-IV, D-I
+(B) A-III, B-II, C-IV, D-I
+(C) A-II, B-IV, C-III, D-I
+(D) A-IV, B-III, C-II, D-I
+Q2. An advantage of the overhead projector is that it:
+(A) projects opaque objects such as coins
+(B) shows moving pictures with sound
+(C) can be used in a lit room while the teacher faces the class
+(D) works without electricity
+Q3. Assertion (A): An epidiascope can project a page from a book.
+Reason (R): An epidiascope includes an episcope, which projects opaque material by reflected light.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. A language laboratory is primarily meant for:
+(A) storing audio-visual equipment
+(B) practising listening and speaking
+(C) analysing research data
+(D) printing study material
+Q5. Given below are two statements:
+Statement I: The episcope projects transparent slides by light passing through them.
+Statement II: The overhead projector has largely been replaced by the LCD projector.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q6. Which of the following are audio aids?
+1. Radio
+2. Tape recorder
+3. Television
+4. Filmstrip
+Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 1, 2 and 3 only
+(C) 3 and 4 only
+(D) 2 and 4 only
+::endbox
+::answers
+Q1. (A), because the episcope takes opaque material, the slide projector small slides, the OHP large writable transparencies, and the LCD projector computer output.
+Q2. (C), because the OHP gives a bright image in a lit room with the teacher facing the class. Opaque objects need an episcope, and the OHP needs power and shows no motion.
+Q3. (A), because the episcope part, using reflected light, is what lets the epidiascope project an opaque page, so R explains A.
+Q4. (B), because the language laboratory gives individual practice in listening and speaking.
+Q5. (D), because the episcope projects opaque material by reflected light (Statement I describes the diascope), and the OHP has largely given way to the LCD projector.
+Q6. (A), because radio and tape recorder address hearing only. Television is audio-visual and the filmstrip is visual.
+::endanswers
+
+::section 5.4 | ICT-based support
+::syllabus Teaching Support System: ICT based
+::box footprint
+{{FP 5.4}}
+::endbox
+::h Core
+**ICT** stands for **Information and Communication Technology** (सूचना एवं संचार प्रौद्योगिकी). It covers the digital tools used to create, store, send and receive information: computers, the internet, projectors, mobile devices and software. ICT-based support includes presentations, the smart classroom, multimedia, learning management systems, online meetings, podcasts, wikis and open educational resources. (Not "Integrated", "Internet" or "Information and Computer" Technology.)
+::sub Hardware in the classroom
+- An **LCD (or LED) projector** connected to a computer displays slides, videos and web pages on a screen for the whole class. A printer produces paper copies, a scanner converts paper into digital form, and a web camera captures video; none of these projects.
+- A **smart classroom** (स्मार्ट कक्षा) is a room equipped with digital teaching tools: a computer, a projector or interactive board, a sound system and an internet connection, so that the teacher can use multimedia and online resources in face-to-face teaching. It is not a class for selected students, not a class without a teacher, and not an online-only class. The teacher remains central; the technology supports the lesson.
+::sub Multimedia
+**Multimedia** (बहुमाध्यम) is the integration of several forms of content, namely text, still images, sound, video and animation, usually under computer control and often with interactivity. Because it addresses more than one sense, it can hold attention and suit learners with different preferences. It does not mean using several textbooks, one teacher teaching several subjects, or storing data on several computers.
+::sub Learning management systems
+A **learning management system** (अधिगम प्रबंधन प्रणाली, LMS) is software for delivering courses online and managing them: uploading material, enrolling students, collecting assignments with deadlines, running quizzes with automatic scoring, holding discussion forums, keeping a grade book, and reporting each learner's progress. Moodle, Google Classroom, Canvas and Blackboard are familiar examples.
+What distinguishes an LMS from a simple file-sharing service is the **tracking and reporting of each learner's progress**. Both can store and share files; only the LMS manages learning. This is what the word "management" refers to.
+**Moodle** stands for **Modular Object-Oriented Dynamic Learning Environment**. It is free and **open-source** (मुक्त स्रोत) software: any institution may download, install and modify it. Blackboard is a commercial product. Google Classroom and Microsoft Teams are proprietary services owned by companies, even when they are offered to institutions without charge. Free of charge is not the same as open source.
+An LMS automates routine tasks such as distributing material and scoring objective quizzes. This frees the teacher for designing learning, giving qualitative feedback, guiding discussion and supporting individuals. It does not remove the need for a teacher; those tasks need professional judgement.
+::sub Live and recorded: synchronous and asynchronous tools
+**Synchronous** (समकालिक) tools work in real time: everyone takes part at the same moment. **Asynchronous** (असमकालिक) tools let each learner take part at a time of his or her choosing.
+::table widths=22,50,28
+|Tool|What it is|Mode|
+|Webinar|"Web" + "seminar": a live online session in which a speaker presents to participants at different places, who ask questions by chat or audio|Synchronous|
+|Video conferencing|Live two-way audio and video among several places, so everyone can see, hear and question one another|Synchronous|
+|Webcast|A live or recorded broadcast of audio or video over the internet from one source to many viewers|One-to-many|
+|Podcast|A series of audio (or video) files distributed over the internet for listening on demand|Asynchronous|
+|Screencast|A recording of a computer screen, usually with narration|Asynchronous|
+|Blog|A web journal of dated posts, newest first|Asynchronous|
+|Wiki|A website whose pages any authorised user can create and edit through a browser, with a history of changes|Asynchronous, collaborative|
+|E-mail|Written messages; no sight, sound or immediacy|Asynchronous|
+So: to let students on three campuses see and question a guest expert at the same time, use **video conferencing**. For students to write and edit a shared set of pages together, use a **wiki**. For audio episodes students download and play whenever they wish, use a **podcast**. A webinar is not a recorded seminar, a website listing seminars, or a printed report.
+::sub Open educational resources
+**Open educational resources** (मुक्त शैक्षिक संसाधन, OER) are teaching and learning materials in any medium that are in the public domain or released under an open licence, so that anyone may use, adapt and redistribute them at no cost. Open textbooks, open courseware and openly licensed videos and images are examples. OER are not sold only through bookshops, restricted to enrolled students, or confined to print.
+::sub ICT does not guarantee learning
+ICT can present content through several media at once; that is true. But it does not automatically ensure better learning. Its effect depends on how the teacher designs and uses it. Poorly used slides or videos can make learners passive. A capability is not a guarantee.
+::box example
+A Commerce teacher at a university college in Sirsa sets up a Moodle course for her M.Com. class. Readings and short screencasts are uploaded each week; a ten-question quiz scores itself; the grade book shows who has not attempted it. Class time, freed from dictating notes, goes to case discussion. When a chartered accountant in Gurugram agrees to speak, the class joins him by video conference and puts questions live. The students then build a shared glossary of taxation terms on a wiki, and she uses openly licensed diagrams in her slides, crediting each source.
+::endbox
+::box confused
+- **Webinar vs podcast.** A webinar is live (synchronous); a podcast is listened to on demand (asynchronous).
+- **Wiki vs blog.** A wiki is edited jointly by many users; a blog is a journal of posts, usually by one author.
+- **Video conferencing vs webcast.** Video conferencing is two-way among several places; a webcast goes one way, from one source to many.
+- **LMS vs file sharing.** Both store files; only the LMS tracks and reports each learner's progress.
+- **Open source vs free of charge.** Moodle is open source (its code may be modified and shared). Google Classroom may cost nothing but is proprietary.
+- **Smart classroom vs online class.** A smart classroom is a face-to-face class with digital tools; an online class meets over the internet.
+- **OER vs free-to-read.** OER may be used, adapted and redistributed under an open licence; a free-to-read web page may still forbid copying and adaptation.
+::endbox
+::box fact
+- **Moodle** is distributed as free, open-source software under version 3 of the GNU General Public License, and its own source code gives the expansion "Modular Object-Oriented Dynamic Learning Environment" (checked October 2026).
+- **Creative Commons licences**: the current version is 4.0. Older materials may carry version 2.5 or 3.0 licences, which use the same letters with the same broad meanings (checked October 2026).
+::endbox
+::further
+::sub Creative Commons licence elements
+Most OER use **Creative Commons** (CC) licences. Each licence is built from four elements:
+::table widths=16,30,54
+|Code|Name|Condition|
+|BY|Attribution|You must give appropriate credit to the creator, link to the licence and indicate if changes were made|
+|SA|ShareAlike|If you adapt the material, you must distribute your version under the same licence|
+|NC|NonCommercial|You may not use the material for commercial purposes|
+|ND|NoDerivatives|You may not distribute modified versions|
+So a resource under CC BY-SA may be adapted by a teacher provided credit is given and the adaptation carries the same licence. It contains no bar on commercial use (that would need NC) and no bar on changes (that would need ND). Because the licence already grants permission, no individual written permission is needed.
+::sub The SAMR model
+The **SAMR model**, proposed by Puentedura, describes four levels of technology use in teaching:
+::table widths=22,78
+|Level|Meaning and example|
+|Substitution|Technology replaces an older tool with no functional change: students type an essay on a word processor instead of writing by hand, and nothing else changes|
+|Augmentation|Technology replaces a tool with functional improvement: the word processor's spell-check and easy revision|
+|Modification|Technology allows the task to be significantly redesigned: essays are shared online and revised after peer comments|
+|Redefinition|Technology allows new tasks that were previously inconceivable: students produce a multimedia documentary for an online audience|
+The first two levels are said to enhance a task; the last two to transform it.
+::sub Designing slides and multimedia: Mayer's principles
+Mayer's research on multimedia learning gives principles for designing slides and videos. Two are often tested.
+- **Coherence principle**: people learn better when extraneous material is left out. Interesting but irrelevant pictures, sounds or words, however attractive, compete for attention and reduce learning.
+- **Modality principle**: people learn better from graphics with spoken narration than from graphics with printed text on screen, because eye and ear then share the load.
+So "adding interesting but irrelevant pictures improves learning" is false, and "learners understand a diagram better with on-screen text than with narration" is also false. Both principles follow from the limited capacity of working memory (see 5.1).
+::sub Modes of computer-assisted instruction
+**Computer-assisted instruction** (कंप्यूटर सहायक अनुदेशन, CAI) is commonly described in these modes:
+- **Tutorial**: teaches new material through dialogue with the learner, presenting short units and asking questions. When it sends a learner to remedial material after a wrong answer, it follows the principle of **branching programming**, associated with Crowder, in which the path depends on the learner's response. A **linear** programme, associated with Skinner, has one fixed path for all (see 4.2).
+- **Drill and practice**: rehearses material already taught.
+- **Simulation**: models a real system so that learners can experiment with it.
+- **Instructional games**: practice within rules and competition.
+::sub Self-learning materials in open and distance learning
+In open and distance learning, the printed or digital **self-learning material** (स्व-अधिगम सामग्री, SLM) has to do the teacher's work, because the teacher is not present. It is therefore designed to be:
+- **self-explanatory**: clear without outside help;
+- **self-contained**: needing no other sources to follow;
+- **self-directed**: telling the learner what to do and in what order;
+- **self-motivating**: arousing and keeping interest;
+- **self-evaluating**: letting the learner check progress, through in-text "check your progress" questions with model answers at the end of the unit.
+In-text questions with answers serve the self-evaluating feature. Self-contained means that the unit needs no outside sources; it is a different feature.
+::box check
+Q1. Which of the following is an open-source learning management system?
+(A) Blackboard
+(B) Moodle
+(C) Microsoft Teams
+(D) Google Classroom
+Q2. Match List I with List II:
+::match
+List I || List II
+A. Webinar || I. Jointly edited web pages with a history of changes
+B. Podcast || II. Live online seminar
+C. Wiki || III. Web journal of dated posts
+D. Blog || IV. Audio episodes for listening on demand
+Choose the correct answer from the options given below:
+(A) A-II, B-IV, C-III, D-I
+(B) A-II, B-IV, C-I, D-III
+(C) A-IV, B-II, C-I, D-III
+(D) A-II, B-I, C-IV, D-III
+Q3. Assertion (A): A learning management system makes the teacher unnecessary.
+Reason (R): A learning management system can score objective quizzes automatically.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. A resource is released under CC BY-NC. A teacher may:
+(A) use it in a commercial coaching course without permission
+(B) adapt it for her class, giving credit, without commercial use
+(C) use it only if she adds no changes at all
+(D) use it only after obtaining written permission
+Q5. Students first used a word processor only in place of handwriting; now they post drafts online and revise them after peer comments. In the SAMR model they have moved from:
+(A) Augmentation to Redefinition
+(B) Substitution to Augmentation
+(C) Modification to Redefinition
+(D) Substitution to Modification
+Q6. Given below are two statements:
+Statement I: Removing decorative but irrelevant images from slides tends to improve learning.
+Statement II: An animation is understood better with on-screen text than with spoken narration.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q7. Which of the following are synchronous tools?
+1. Video conferencing
+2. Podcast
+3. Webinar
+4. Blog
+Choose the correct answer from the options given below:
+(A) 1 and 2 only
+(B) 2 and 4 only
+(C) 1 and 3 only
+(D) 1, 3 and 4 only
+Q8. In self-learning material, the feature that the unit can be followed without consulting any other source is called:
+(A) self-evaluating
+(B) self-motivating
+(C) self-directed
+(D) self-contained
+::endbox
+::answers
+Q1. (B), because Moodle is free, open-source software; Blackboard is commercial and Teams and Google Classroom are proprietary.
+Q2. (B), because a webinar is a live seminar, a podcast is on-demand audio, a wiki is jointly edited, and a blog is a journal of posts.
+Q3. (D), because automation of routine tasks is real, but design, feedback, discussion and individual support still need the teacher.
+Q4. (B), because BY requires credit and NC forbids commercial use; there is no ND, so adaptation is allowed, and the licence itself gives permission.
+Q5. (D), because replacing handwriting with no change is Substitution, and redesigning the task through online peer review is Modification.
+Q6. (C), because the coherence principle supports removing extraneous material, while the modality principle favours narration over on-screen text.
+Q7. (C), because video conferencing and webinars are live; podcasts and blogs are used at any time.
+Q8. (D), because self-contained means needing no outside sources; check-your-progress questions serve the self-evaluating feature.
+::endanswers
+::chapteranswers

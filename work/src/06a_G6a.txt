@@ -519,3 +519,443 @@ Q6. (B), because Scriven wrote about curriculum and programme evaluation in 1967
 Q7. (C), because the student is compared with her own earlier performance, not with others or with a fixed standard.
 Q8. (A), because 42 / 75 = 0.56, or 56 per cent of students, which is below the target of 60 per cent. (B) treats the number of students as a percentage.
 ::endanswers
+
+::section 6.4 | Tools and techniques of evaluation; item analysis
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.4}}
+::endbox
+::h Core
+::sub Techniques and tools
+A **technique** of evaluation is a way of collecting evidence: testing, observation, self-report, interview, peer rating. A **tool** (उपकरण) is the instrument used in that technique: a test, a checklist, a rating scale, a rubric, an anecdotal record, a cumulative record, a portfolio, a questionnaire. Some tools give **quantitative** evidence (test scores, percentile ranks, standard scores). Others give **qualitative** evidence (anecdotal records, observation notes, portfolios). Evaluation uses both (6.1).
+::sub Objective-type and essay-type items
+An **objective-type item** (वस्तुनिष्ठ प्रश्न) has one predetermined correct answer, so every examiner gives the same mark. Multiple-choice, true-false, matching and completion items are objective. Many can be answered in a short time, so they sample a wide syllabus, and they are quick and objective to score.
+An **essay-type item** (निबंधात्मक प्रश्न) asks for a long written answer that the student selects, organises and expresses in her own words. Only an essay shows whether a student can select, organise, integrate and express ideas, so essays can test higher abilities such as analysis and evaluation. Their two weaknesses are **limited sampling** (a paper has only a few questions, so it covers the syllabus narrowly) and **subjective scoring** (marks vary from examiner to examiner).
+::table widths=34,33,33
+|Point|Objective-type|Essay-type|
+|Sampling of content|Wide (many items)|Narrow (few questions)|
+|Scoring|Objective, quick|Subjective, slow|
+|What it tests best|Knowledge, understanding, application; with care, higher abilities|Organising and expressing ideas; argument|
+|Guessing|Possible, especially true-false|Little room|
+|Hard part for the teacher|Writing good items|Marking fairly|
+So objective tests are superior in sampling, objectivity of scoring and speed of scoring. Essay tests are superior in measuring organisation and expression of ideas. Note the common trap: essay tests do not sample the syllabus more widely; they sample it more narrowly.
+Objective items are of two kinds:
+- **Supply-type** or recall items: the student writes a word, number or phrase. Completion (fill in the blank) and short-answer items.
+- **Selection-type** or recognition items: the student chooses from given answers. True-false, matching and multiple-choice items.
+::sub The parts of an item
+A **multiple-choice item** (बहुविकल्पीय प्रश्न) has three parts. The **stem** poses the problem. The **key** is the correct option. The **distractors** (विकर्षक) are the plausible wrong options, meant to attract those who do not know the answer.
+A **matching item** has two columns. The entries of the first column, for which matches are to be found, are the **premises**. The entries of the second column, from which answers are chosen, are the **responses**. Giving more responses than premises reduces guessing by elimination. Stem, key and distractor belong to MCQs; premise and response belong to matching items.
+::sub Guessing and the limits of each item type
+On a true-false item a blind guess has a 50 per cent chance of being right, because there are only two choices. A four-option MCQ reduces this to 25 per cent; a five-option MCQ to 20 per cent. Supply-type items (essay, short answer, completion), where the student must write the answer, leave little room for guessing.
+::table widths=30,70
+|Item type|Characteristic limitation|
+|True-false|A blind guess succeeds half the time|
+|Matching|Suits only homogeneous material: sets of similar, related facts|
+|Essay|Scoring varies from examiner to examiner|
+|Multiple-choice|Writing several plausible distractors for each item is hard|
+::sub Rules for writing multiple-choice items
+- The stem should present a single, clearly stated problem.
+- The distractors should be plausible to a student who does not know the answer.
+- The key should be placed at random among the positions, with no regular pattern.
+- Options should be similar in length, grammar and detail, so the key does not stand out.
+- Options such as "all of the above" are best avoided: a candidate who recognises two correct options can choose it without knowing the rest.
+::sub The blueprint and the steps of test construction
+A **blueprint** (नील पत्र), also called a **table of specifications**, is a two-way table prepared before the items are written. One side lists the content units; the other lists the objectives (for example knowledge, understanding, application), and often the forms of question. Each cell shows how many marks go to that unit and objective. The blueprint makes the test sample the course in proper proportion, so it supports content validity (6.2). A marking scheme and a scoring key are prepared later, after the items are written.
+The steps of constructing an achievement test run in this order:
+1. Planning: objectives, content and blueprint.
+2. Writing the items.
+3. Trying out the test on a sample of students.
+4. Item analysis of the try-out responses.
+5. Assembling the final form, keeping good items and revising or dropping weak ones.
+Item analysis needs response data, so it can never come before the try-out.
+::sub Observation tools: checklist, rating scale, rubric
+- A **checklist** (जाँच सूची) records only whether a feature is present or absent: yes or no.
+- A **rating scale** (निर्धारण मापनी) records the degree of each feature on a numerical or verbal scale (1 to 5; poor to excellent).
+- A **rubric** (रूब्रिक) goes further. For each criterion it describes what performance at each level looks like. An **analytic rubric** scores each criterion separately; a **holistic rubric** gives one overall judgement.
+The test between a rating scale and a rubric is the descriptor. An instrument with criteria and a five-point scale, but no description of what each point means, is a rating scale.
+::sub Records: anecdotal, cumulative, portfolio
+- An **anecdotal record** (उपाख्यानात्मक अभिलेख) is a teacher's brief written description of a single significant incident in a student's behaviour. It is qualitative.
+- A **cumulative record** (संचयी अभिलेख) is a comprehensive, year-by-year account of a student kept by the institution: attendance, health, test scores, activities, teachers' remarks. It is used for guidance.
+- A **portfolio** (पोर्टफोलियो) is a collection of the student's own selected work, usually with her reflections on it.
+- A **sociogram** is a chart of the choices that members of a group make about one another (whom they would like to work with), showing who is popular, isolated, or part of a clique.
+::sub What item analysis is
+**Item analysis** (पद विश्लेषण) is done after a test has been tried out. For each item it finds:
+- the **difficulty index** (कठिनाई सूचकांक), also called the **facility value**: the proportion of examinees who answer the item correctly;
+- the **discrimination index** (विभेदन सूचकांक): how well the item separates high scorers from low scorers on the whole test;
+- how well each **distractor** is working.
+Read the facility value carefully. A facility value of 0.90 means 90 per cent answered correctly: the item is **very easy**. A value of 0.10 means a very difficult item. The name "difficulty index" misleads many students: the higher the value, the easier the item. Items with a facility value near 0.50 can discriminate best; very easy and very hard items discriminate poorly, because nearly everyone (or nearly no one) gets them right.
+In a norm-referenced test, an item that every examinee answers correctly contributes nothing to the differences between students, so it is dropped. In a criterion-referenced test the same item may be kept, because it may simply show that teaching succeeded (6.3).
+::box example
+Dr Rao prepares a 50-item objective test in Indian Polity for BA Part I at a college in Rohtak. She first draws a blueprint: five units down the side, knowledge, understanding and application across the top. She writes the items, tries them out on last year's students, and analyses each item. Item 17 has a facility value of 0.95: almost everyone got it right, so she makes it harder. In Item 23 more weak students than strong students chose the key, so she reads it again and finds that the stem is ambiguous. In Item 31 no one chose option (C), so she writes a more plausible distractor. Then she assembles the final test.
+::endbox
+::box confused
+- Stem, key, distractor vs premise, response: the first three are parts of an MCQ; the last two are the columns of a matching item.
+- Supply-type vs selection-type: the student writes the answer (completion, short answer) vs chooses it (true-false, matching, MCQ).
+- Blueprint vs marking scheme: the blueprint is planned before items are written and secures content validity; the marking scheme is prepared for the items once written.
+- Checklist vs rating scale vs rubric: present or absent; degree on a scale; degree with a description of each level.
+- Anecdotal vs cumulative record vs portfolio: one incident; the institution's year-by-year record; the student's own selection of work.
+- Facility value vs discrimination index: how many got it right vs whether the able got it right more often than the weak.
+- High difficulty index vs difficult item: a high facility value means an easy item.
+::endbox
+::further
+::sub Method 1: facility value and discrimination index
+Steps:
+1. Score all the scripts and arrange them in order of total score.
+2. Take the top 27 per cent as the **upper group** and the bottom 27 per cent as the **lower group**. Set the middle aside. T. L. Kelley (1939) showed that upper and lower groups of 27 per cent give the most efficient comparison. For 200 examinees, each group has 0.27 x 200 = 54 scripts; for 300, each has 81. (Upper and lower halves, or 25 or 33 per cent, are also used in some books; when a question gives the group sizes, simply use them.)
+3. For each item count RU (number right in the upper group) and RL (number right in the lower group). Let n be the number in one group.
+4. Facility value FV = (RU + RL) / (2n), that is, the number right in both groups divided by the total in both groups.
+5. Discrimination index DI = (RU - RL) / n, the difference divided by the size of **one** group. Equivalently, DI = proportion right in the upper group minus proportion right in the lower group.
+::box worked
+Example 1. Upper and lower groups have 30 students each. An item is answered correctly by 27 of the upper group and 15 of the lower group.
+> FV = (27 + 15) / (30 + 30) = 42 / 60 = 0.70
+> DI = (27 - 15) / 30 = 12 / 30 = 0.40
+A fairly easy item that discriminates well. Keep it.
+Example 2. Same groups. Upper group 12 right, lower group 18 right.
+> FV = (12 + 18) / 60 = 30 / 60 = 0.50
+> DI = (12 - 18) / 30 = -6 / 30 = -0.20
+A negative index: more low scorers than high scorers got it right. Something is wrong with the item: an ambiguous stem, a wrong key or a misleading option. Revise or drop it.
+Example 3. Same groups. Upper group 29 right, lower group 28 right.
+> FV = 57 / 60 = 0.95; DI = 1 / 30 = 0.03
+Very easy and almost no discrimination. In a norm-referenced test it adds little.
+::endbox
+How to read the discrimination index. It runs from -1 to +1. A value near zero means high and low scorers did equally well: the item fails to separate able from weak and needs revision. A negative value is a warning sign. A widely quoted rule of thumb, from the work of Ebel, is: 0.40 and above, very good; 0.30 to 0.39, reasonably good but may be improved; 0.20 to 0.29, marginal, usually needs revision; 0.19 and below, poor, to be revised or rejected.
+Why items near 0.50 discriminate best. With equal groups, the largest possible DI for an item is twice the smaller of FV and (1 - FV). Python gives these ceilings:
+::table widths=50,50
+|Facility value|Highest possible DI|
+|0.10 or 0.90|0.20|
+|0.30 or 0.70|0.60|
+|0.50|1.00|
+|1.00|0.00|
+::box slips
+- Dividing RU - RL by both groups together (60) instead of one group (30). In Example 1 that gives 12 / 60 = 0.20 instead of 0.40.
+- Giving the discrimination index when the facility value is asked, or the reverse.
+- Reading a high difficulty index as a hard item. FV 0.90 is very easy.
+- Counting those who got the item wrong: 30 right out of 100 gives FV 0.30, not 0.70.
+- Taking 25 per cent when the question says 27 per cent: 27 per cent of 200 is 54, not 50.
+::endbox
+::sub Method 2: distractor analysis
+A good distractor attracts more low scorers than high scorers, because it draws those who do not know the answer. Two warning signs:
+- A distractor chosen by **more high scorers than low scorers** may be defensible as a correct answer, or the item may be wrongly keyed. Review the item.
+- A distractor chosen by **more examinees than the key** is over-attractive; check it for ambiguity. It is certainly functioning, but perhaps too well.
+A distractor that almost nobody chooses is **non-functional**: it does no work. A common rule, following Haladyna and Downing (1993), counts a distractor as non-functional if fewer than 5 per cent of examinees choose it.
+::box worked
+Example 4. Forty students (upper 20, lower 20) answer a four-option item whose key is A.
+::table small
+|Option|Upper group|Lower group|Total|Per cent of 40|
+|A (key)|15|6|21|52.5|
+|B|0|1|1|2.5|
+|C|1|10|11|27.5|
+|D|4|3|7|17.5|
+> FV = 21 / 40 = 0.525; DI = (15 - 6) / 20 = 0.45
+> 5 per cent of 40 = 2 students. B, chosen by 1 student (2.5 per cent), is non-functional; rewrite it.
+> C works well: 10 low scorers, 1 high scorer.
+> D draws more high scorers (4) than low scorers (3). Check whether D could be defended as correct.
+::endbox
+::sub Method 3: correction for guessing and the chance score
+On objective tests a student may guess. The usual **correction for guessing** (formula scoring) assumes that every wrong answer came from a blind guess:
+> Corrected score S = R - W / (n - 1)
+Here R = number right, W = number wrong, n = number of options per item. **Omitted items are not counted**: they are neither rewarded nor penalised.
+The **chance score** is what a candidate would be expected to get by blind guessing on every item:
+> Chance score = number of items x 1 / (number of options)
+::box worked
+Example 5. Five-option items. A student has 50 right, 20 wrong and leaves 10 blank.
+> S = 50 - 20 / (5 - 1) = 50 - 5 = 45
+Example 6. True-false items (n = 2). A student has 60 right and 20 wrong.
+> S = 60 - 20 / 1 = 40
+Example 7. Chance scores. 100 five-option items: 100 x 1/5 = 20. 40 true-false items: 40 x 1/2 = 20. 60 four-option items: 60 x 1/4 = 15.
+A score close to the chance score shows no real knowledge.
+::endbox
+::box slips
+- Subtracting all the wrong answers (R - W) on a four-option test. The divisor is n - 1 = 3.
+- Dividing by n instead of n - 1.
+- Counting omitted items as wrong.
+- Using the wrong number of options for the chance score: 10 would be the chance score for 50 five-option items, not four-option items (12.5).
+::endbox
+::sub Two flaws that help the test-wise
+When the key is noticeably longer and more carefully qualified than the distractors, test-wise students learn to choose the longest option. The item then rewards test-wiseness instead of knowledge, which lowers its validity, and weak but test-wise students succeed, which lowers its discrimination. The cure is options of similar length, grammar and detail. "All of the above" is a similar giveaway.
+::sub Interpretive exercises and cloze tests
+An **interpretive exercise** gives introductory material (a passage, a table, a graph, a map) followed by several objective items that ask the examinee to interpret, infer and judge. Because the facts are supplied, the items test thinking, not recall. The reading comprehension and data interpretation sets of Paper 1 are interpretive exercises. A **cloze test** also uses a passage, but deletes words at regular intervals; the student fills the gaps. It measures reading comprehension, not a set of interpretive questions.
+::box check
+Q1. On an item, 24 of the 40 students in the upper group and 8 of the 40 in the lower group answer correctly. The facility value and discrimination index are, respectively:
+(A) 0.40 and 0.20
+(B) 0.40 and 0.40
+(C) 0.80 and 0.40
+(D) 0.32 and 0.16
+Q2. Match List I (term) with List II (description):
+::match
+List I || List II
+A. Premise || I. Plausible wrong option of an MCQ
+B. Distractor || II. Entry in the first column of a matching item
+C. Stem || III. The correct option
+D. Key || IV. Part of an MCQ that poses the problem
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-IV, D-I
+(B) A-II, B-I, C-IV, D-III
+(C) A-IV, B-I, C-II, D-III
+(D) A-I, B-II, C-IV, D-III
+Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
+Assertion (A): Essay tests are superior to objective tests in measuring the ability to organise and express ideas.
+Reason (R): Essay tests sample the content of a course more widely than objective tests.
+In the light of the above statements, choose the correct answer:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. On a test of four-option items, a student has 36 right, 15 wrong and 9 omitted. The score corrected for guessing is:
+(A) 21
+(B) 31
+(C) 33
+(D) 36
+Q5. Arrange the steps of constructing an achievement test in order:
+1. Trying out the test
+2. Preparing the blueprint
+3. Assembling the final form
+4. Writing the items
+5. Item analysis
+Choose the correct answer from the options given below:
+(A) 2, 4, 1, 5, 3
+(B) 4, 2, 1, 5, 3
+(C) 2, 4, 5, 1, 3
+(D) 2, 1, 4, 5, 3
+Q6. Consider the following statements:
+1. A rating scale without a description of each level is not a rubric.
+2. A cumulative record is a student's own selection of her best work.
+3. An anecdotal record describes a single significant incident.
+4. A checklist records only whether a feature is present or absent.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2 and 4 only
+(C) 1, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q7. An item analysis is to be done for 400 examinees using the upper and lower 27 per cent. How many scripts are there in each group?
+(A) 27
+(B) 108
+(C) 100
+(D) 216
+Q8. Item analysis shows that option (B) of an item, which is not the key, was chosen by 12 high scorers and 3 low scorers. The most likely conclusion is that:
+(A) option (B) is a well-functioning distractor
+(B) the item is too difficult for the group
+(C) option (B) may be defensible or the item may be wrongly keyed
+(D) option (B) is non-functional and should be removed
+::endbox
+::answers
+Q1. (B), because FV = (24 + 8) / 80 = 0.40 and DI = (24 - 8) / 40 = 16 / 40 = 0.40. (A) divides the difference by 80, both groups together.
+Q2. (B), because a premise is in the first column of a matching item, a distractor is a plausible wrong option, the stem poses the problem and the key is the correct option.
+Q3. (C), because the Assertion is true but the Reason is false: essay tests have few questions and sample the course narrowly.
+Q4. (B), because S = 36 - 15 / 3 = 36 - 5 = 31; the 9 omitted items are not counted. (A) subtracts all 15 wrong answers.
+Q5. (A), because planning (blueprint) comes first, then writing, try-out, item analysis and the final form. (C) puts item analysis before the try-out, which gives it no data.
+Q6. (C), because statement 2 describes a portfolio; a cumulative record is the institution's year-by-year record of the student.
+Q7. (B), because 0.27 x 400 = 108. (D) is both groups together.
+Q8. (C), because a working distractor attracts more low scorers than high scorers; when able students prefer it, the item needs review.
+::endanswers
+
+::section 6.5 | Reading test scores: a method chapter
+::syllabus Evaluation Systems: Elements and Types of evaluation
+::box footprint
+{{FP 6.5}}
+::endbox
+::h Core
+::sub A raw score means little by itself
+A **raw score** (अपरिष्कृत प्राप्तांक) is the number of marks a student actually gets. A raw score of 35 tells us almost nothing. Out of 40 or out of 100? Was the paper easy or hard? Did the others score 20 or 38? Was the pass mark 33? A raw score needs a **frame of reference** before it can be interpreted: either a **norm** (how others performed) or a **criterion** (a fixed standard). These are the two frames you met in 6.3. This section teaches the numbers used with the norm frame: averages, spread, percentile ranks, standard scores and correlation.
+::sub Method 1: mean, median and mode
+These are measures of **central tendency** (केंद्रीय प्रवृत्ति): each gives one number that represents the general level of a group.
+- The **mean** (माध्य) is the arithmetic average: add all the scores and divide by how many there are.
+- The **median** (माध्यिका) is the middle score when the scores are arranged in order. With an even number of scores, it is the average of the two middle scores.
+- The **mode** (बहुलक) is the score that occurs most often.
+::box worked
+Example 1. Ten students score: 12, 15, 15, 18, 20, 22, 24, 25, 28, 31.
+> Mean = sum / number = 210 / 10 = 21
+> Median: the scores are already in order; the two middle ones (5th and 6th) are 20 and 22; median = (20 + 22) / 2 = 21
+> Mode = 15 (it occurs twice)
+Example 2. Seven students score: 34, 41, 28, 50, 45, 39, 47.
+> First arrange in order: 28, 34, 39, 41, 45, 47, 50
+> Median = the 4th score = 41
+Example 3. Why the median is sometimes better. Seven scores: 40, 42, 45, 47, 48, 50, 95.
+> Mean = 367 / 7 = 52.4; median = 47
+> One very high score (95) pulls the mean up; the median is not affected. When a few extreme scores are present, the median represents the group better.
+::endbox
+::sub Method 2: the standard deviation
+Two classes can have the same mean and still be very different. One may be made of students who are all about average; another may mix very weak and very strong students. The **standard deviation** (मानक विचलन), SD, measures this spread: roughly, how far scores lie from the mean on average. A larger SD means a more varied group. (The range, the highest score minus the lowest, is a rougher measure of spread.)
+Steps:
+1. Find the mean.
+2. Subtract the mean from each score to get its deviation.
+3. Square each deviation.
+4. Add the squares and divide by the number of scores. This is the **variance**.
+5. Take the square root of the variance. This is the SD.
+::box worked
+Example 4. The ten scores of Example 1 (mean 21).
+> Deviations: -9, -6, -6, -3, -1, 1, 3, 4, 7, 10
+> Squares: 81, 36, 36, 9, 1, 1, 9, 16, 49, 100; sum = 338
+> Variance = 338 / 10 = 33.8
+> SD = square root of 33.8 = 5.81
+Some books divide by (N - 1) instead of N when the group is a sample from a larger population; that gives 338 / 9, and SD = 6.13. Examination questions at this level usually give the SD or use the simple form.
+::endbox
+How to read it. Two classes have the same mean of 60 on an entry test. In Class A the SD is 5; in Class B it is 15. Class A is fairly homogeneous: most students are near 60. Class B contains both very weak and very strong students. A lesson pitched at the average will miss many of them, so **Class B needs more differentiated instruction**. Equal means hide unequal spread.
+::sub Method 3: percentile and percentile rank
+A **percentile rank** (शततमक कोटि), PR, is the percentage of the group whose scores fall below a given score. A **percentile** (शततमक) is the reverse: the score below which a given percentage of the group falls. If Rina's percentile rank is 80, then 80 per cent of the group scored below her; her score is the 80th percentile of that group.
+::box worked
+Example 5. In a class of 40, 30 students score below Arjun.
+> PR = 30 / 40 x 100 = 75
+In a group of 60, 18 score below Meena: PR = 18 / 60 x 100 = 30.
+::endbox
+A percentile rank is a **norm-referenced** measure: it tells the position of a student among others. It is not the percentage of marks. Percentage of marks compares a score with the maximum possible; percentile rank compares it with other examinees. On a hard paper a student with 45 per cent marks may stand at the 80th percentile. "PR 80" does not mean that the student answered 80 per cent of the items correctly, nor that exactly 80 students scored lower.
+::box example
+In the internal assessment of MA Hindi at a university in Kurukshetra, Section A and Section B both average 18 out of 30. Dr Yadav finds that the SD is 2 in Section A and 6 in Section B. In Section B she forms small groups: some students work on basic reading of the prescribed poems, others on comparative criticism. Section A, much more uniform, she teaches mostly as a whole class. She also tells the students their percentile ranks within the class, and explains that "PR 70" means 70 per cent of the class scored below them, not that they got 70 per cent marks.
+::endbox
+::box confused
+- Percentile rank vs percentage of marks: position among others vs share of the maximum marks.
+- Percentile vs percentile rank: a score vs a percentage of the group below a score.
+- Mean vs median: the arithmetic average, pulled by extreme scores, vs the middle score, not affected by them.
+- Mean vs standard deviation: general level vs spread.
+- Standard deviation vs standard error of measurement: spread across the group vs error around one person's score (6.2).
+- Correlation vs causation: a correlation shows that two things go together, not that one causes the other.
+- Correlation coefficient vs shared variance: r = 0.60 means shared variance r² = 0.36, not 60 per cent.
+::endbox
+::further
+::sub Scales of measurement
+S. S. Stevens, in a 1946 paper in *Science* ("On the theory of scales of measurement"), described four levels of measurement (मापन के स्तर). Each level has all the properties of the one before it, plus one more.
+::table widths=18,42,40
+|Scale|What it allows|Example|
+|Nominal|Labels categories only; no order|Roll numbers, gender, stream (Arts, Science)|
+|Ordinal|Order, but unequal or unknown differences|Ranks: first, second, third in class|
+|Interval|Order and equal units, but no true zero|Temperature in degrees Celsius|
+|Ratio|Equal units and a true (absolute) zero|Height, weight, time taken|
+Ranks are ordinal. The gap between first and second need not equal the gap between second and third, so ranks are not interval.
+Test scores are not on a ratio scale. A ratio scale needs a true zero that means complete absence of the quality. A test samples only part of a subject, so a score of zero does not mean zero knowledge, and a score of 80 does not show twice the knowledge of a score of 40. Scores do show order (60 is more than 40); what they lack is an absolute zero.
+::sub Method 4: standard scores, z and T
+A **standard score** (मानक प्राप्तांक) re-expresses a raw score as its distance from the mean in units of the SD. It lets us compare scores from different tests.
+> z = (X - mean) / SD
+> T = 50 + 10z
+A z-score has a mean of 0 and an SD of 1. Scores above the mean have positive z, scores below have negative z. A T-score has a mean of 50 and an SD of 10, which removes the minus signs and most decimals.
+::box worked
+Example 6. A test has mean 60 and SD 8.
+> X = 72: z = (72 - 60) / 8 = 12 / 8 = 1.5; T = 50 + 10 x 1.5 = 65
+> X = 52: z = (52 - 60) / 8 = -8 / 8 = -1; T = 50 + 10 x (-1) = 40
+> X = 60: z = 0; T = 50
+Example 7. Which is the better performance? Kiran scores 72 in English (class mean 66, SD 4) and 80 in History (class mean 70, SD 10).
+> English: z = (72 - 66) / 4 = 1.5
+> History: z = (80 - 70) / 10 = 1.0
+> Her raw mark is higher in History, but relative to her classmates she did better in English.
+::endbox
+Standard scores are norm-referenced: they say where a student stands in the group.
+::sub Combining marks from different examiners: scaling
+Suppose Examiner A's marks have mean 70 and SD 5, and Examiner B's marks, for a comparable group, have mean 50 and SD 15. If raw marks are simply added, the examiner whose marks vary more decides the order of merit. Converting each set to standard scores first puts both on a common scale. This is the idea behind **scaling** or **moderation**.
+::box worked
+Example 8. Two students, P and Q.
+> P: A gives 75, B gives 50. Raw total = 125. z(A) = (75 - 70) / 5 = 1.0; z(B) = (50 - 50) / 15 = 0. Sum of z = 1.0
+> Q: A gives 65, B gives 65. Raw total = 130. z(A) = (65 - 70) / 5 = -1.0; z(B) = (65 - 50) / 15 = 1.0. Sum of z = 0
+> Raw totals put Q above P. Standard scores put P above Q. The raw ranking was decided by Examiner B's wider spread.
+::endbox
+::sub The normal curve
+Many sets of scores, when there are enough of them, are close to the bell-shaped **normal distribution** (प्रसामान्य वितरण): symmetrical, with mean, median and mode at the centre. The areas under the curve, computed in Python for this guide, are:
+::table widths=55,45
+|Region|Share of cases|
+|Between the mean and 1 SD on one side|34.13 per cent|
+|Within 1 SD on either side of the mean|68.27 per cent (about 68)|
+|Within 2 SD on either side|95.45 per cent (about 95)|
+|Within 3 SD on either side|99.73 per cent (about 99.7)|
+|Below +1 SD (z = 1)|84.13 per cent|
+|Beyond +2 SD on one side|2.28 per cent|
+::box worked
+Example 9. Suppose IQ scores in a population are normally distributed with mean 100 and SD 15.
+> IQ 85 to 115 is -1 SD to +1 SD: about 68 per cent of people.
+> IQ 70 to 130 is -2 SD to +2 SD: about 95 per cent.
+> IQ 115 is z = +1, so about 84 per cent of people lie below it, a percentile rank of about 84.
+::endbox
+::sub Method 5: correlation and shared variance
+**Correlation** (सहसंबंध) shows how far two sets of scores go together. The correlation coefficient r runs from -1 to +1. A positive r means high scores on one go with high scores on the other; a negative r means high goes with low; r near 0 means no linear relation. Reliability and criterion validity coefficients (6.2) are correlations.
+Steps for the product-moment correlation coefficient:
+1. Find the mean of X and the mean of Y.
+2. Find each deviation from its mean: dx and dy.
+3. Multiply each pair: dx x dy, and add the products.
+4. Square the dx values and add them; square the dy values and add them.
+5. r = (sum of dx dy) / square root of [(sum of dx²) x (sum of dy²)].
+::box worked
+Example 10. Five students: hours in the library per week (X) and marks out of 10 (Y).
+::table small
+|Student|X|Y|dx|dy|dx dy|
+|1|1|2|-2|-2|4|
+|2|2|4|-1|0|0|
+|3|3|3|0|-1|0|
+|4|4|6|1|2|2|
+|5|5|5|2|1|2|
+> Mean X = 3, mean Y = 4
+> Sum of dx dy = 8; sum of dx² = 10; sum of dy² = 10
+> r = 8 / square root of (10 x 10) = 8 / 10 = 0.80
+> Shared variance = r² = 0.64, or 64 per cent
+::endbox
+Two cautions. First, **correlation is not causation**. A correlation of +0.60 between attendance and marks shows that the two go together, moderately strongly. It does not show that attendance causes the marks: motivated students may both attend more and study more. Second, r is not a percentage. The share of variation in one variable that goes with variation in the other is the **shared variance**, r². For r = 0.60 it is 0.36 (36 per cent); for r = 0.50 it is 0.25; for r = -0.60 it is again 0.36.
+::box slips
+- Dividing the raw score by the SD without first subtracting the mean: (65 / 10) is not a z-score.
+- Forgetting the minus sign for scores below the mean.
+- Writing T = 10 + 50z instead of T = 50 + 10z.
+- Reading a percentile rank as a percentage of marks.
+- Calling r = 0.60 "60 per cent shared", or "60 per cent caused by". Shared variance is r² = 0.36.
+- Taking the 34 per cent (mean to 1 SD on one side) as the share within 1 SD on both sides (68 per cent).
+- Not arranging scores in order before finding the median.
+::endbox
+::box check
+Q1. Five students score 4, 7, 7, 9 and 13. The mean, median and mode are, respectively:
+(A) 7, 7, 8
+(B) 8, 7, 7
+(C) 8, 9, 7
+(D) 7, 8, 7
+Q2. A test has mean 50 and SD 4. A student who scores 58 has a z-score and a T-score of, respectively:
+(A) 2.0 and 70
+(B) 8.0 and 58
+(C) 2.0 and 52
+(D) 14.5 and 64.5
+Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
+Assertion (A): A raw score of 42 cannot be interpreted until we know how others performed or what standard was set.
+Reason (R): Raw scores must always be converted to T-scores before they are reported.
+In the light of the above statements, choose the correct answer:
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Match List I (example) with List II (scale of measurement):
+::match
+List I || List II
+A. Hostel room numbers || I. Ratio
+B. Merit list positions || II. Interval
+C. Temperature in degrees Celsius || III. Nominal
+D. Time taken to finish a race || IV. Ordinal
+Choose the correct answer from the options given below:
+(A) A-III, B-IV, C-II, D-I
+(B) A-IV, B-III, C-II, D-I
+(C) A-III, B-II, C-IV, D-I
+(D) A-III, B-IV, C-I, D-II
+Q5. In a normal distribution, approximately what percentage of cases lies between 2 SD below and 2 SD above the mean?
+(A) 34 per cent
+(B) 68 per cent
+(C) 99.7 per cent
+(D) 95 per cent
+Q6. The correlation between scores on a reading test and a writing test is 0.70. Which statement is correct?
+(A) Reading ability causes 70 per cent of writing ability.
+(B) About 49 per cent of the variation in one is shared with the other.
+(C) 70 per cent of the students are good at both.
+(D) The two abilities are unrelated.
+Q7. Two classes have the same mean score. Class X has an SD of 3 and Class Y an SD of 12. Given below are two statements:
+Statement I: Class Y is more heterogeneous than Class X.
+Statement II: Because the means are equal, the two classes need the same teaching plan.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q8. Examiner A's marks have mean 60 and SD 4; Examiner B's marks have mean 60 and SD 16, for comparable groups. If the raw marks of the two examiners are added to make a merit list:
+(A) both examiners will have equal influence on the order of merit
+(B) Examiner A will have greater influence because his marks vary less
+(C) Examiner B will have greater influence because his marks vary more
+(D) neither examiner will have any influence because the means are equal
+::endbox
+::answers
+Q1. (B), because the mean is 40 / 5 = 8, the middle score is 7 and 7 occurs twice. (A) puts the mean and mode in the wrong places.
+Q2. (A), because z = (58 - 50) / 4 = 2.0 and T = 50 + 10 x 2 = 70. (D) divides the raw score by the SD without subtracting the mean.
+Q3. (C), because a raw score needs a norm or a criterion to be meaningful, but there is no rule that it must be turned into a T-score; it may equally be read against a standard.
+Q4. (A), because room numbers only label, merit positions show order, Celsius has equal units but no true zero, and time has a true zero.
+Q5. (D), because about 95 per cent of cases lie within 2 SD either way. 68 per cent is within 1 SD.
+Q6. (B), because shared variance is r² = 0.49. Correlation does not show cause, and r is not a percentage of students.
+Q7. (C), because the larger SD shows a more varied class, which needs more differentiated teaching; equal means hide unequal spread.
+Q8. (C), because when raw marks are added, the set with the larger spread decides the ranking. Converting both to standard scores first removes this unfairness.
+::endanswers

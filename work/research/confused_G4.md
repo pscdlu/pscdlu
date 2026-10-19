@@ -21,3 +21,20 @@
 |Forum / panel|Forum: the audience talks from the floor; panel: experts on the platform talk|4.3|
 |Positive / negative interdependence|Cooperation: each succeeds only if others succeed; competition: one succeeds only if others fail|4.3|
 |Jigsaw / STAD|Jigsaw: members teach one another their parts; STAD: team scores from individual improvement points|4.3|
+|Project / case method|Project: real task in the field producing something; case: analysis of a situation already written up|4.4|
+|Project / problem-solving|Problem-solving is chiefly mental and ends in a solution; project is real-life activity ending in a product|4.4|
+|Project method / PBL|PBL: ill-structured problem first, facilitator, no product required; product is the mark of a project|4.4|
+|Role play / simulation|Role play: acting a person's part for empathy; simulation: practising a task in a reality-like setting for skills and decisions|4.4|
+|Role play / dramatisation|Role play is unscripted; dramatisation uses a learnt script|4.4|
+|Heuristic / inductive|Heuristic: learner discovers by own experiment, minimal telling; inductive: reasoning from examples to rule|4.4|
+|Kilpatrick / Parkhurst / Armstrong / Montessori|Project method / Dalton Plan / heuristic method / early childhood method|4.4|
+|Mastery learning / PSI|Bloom: class taught together with formative tests and correctives; Keller: self-paced written units with proctors|4.4|
+|Psychodrama / sociodrama|Psychodrama: individual's private problem, therapy; sociodrama: problem shared by a group|4.4|
+|Case study / incident method|Case: full facts given; incident (Pigors): brief incident, facts obtained by questioning|4.4|
+|Induction / deduction (logic)|Induction: instances to rule, conclusion probable; deduction: rule to case, certain if premises true|4.4|
+|Action research / ex post facto|Action research: plan-act-observe-reflect to improve own practice; ex post facto: studies effects after the event without intervention|4.4|
+|Synchronous / asynchronous|Same time (live class, webinar, chat) / different times (recorded lecture, forum, e-mail)|4.5|
+|Blended / flipped|Blended: general mix of face-to-face and online; flipped: one blended model with content online first, class for application|4.5|
+|Blended / distance learning|Blended keeps regular face-to-face classes; distance learning separates teacher and learner for most of the course|4.5|
+|Flipped / conventional classroom|Flipped: content at home, application in class; conventional: content in class, homework at home|4.5|
+|Rotation / flex model|Rotation: move between modes on a schedule; flex: online learning is the backbone with flexible support|4.5|
