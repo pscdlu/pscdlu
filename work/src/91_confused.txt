@@ -1,0 +1,4 @@
+::front Confusable Pairs at a Glance
+Every "Often confused" box in the guide is collected here, in the order of the sections. Cover the middle column and test yourself: can you state the deciding difference for each pair?
+::table small widths=30,58,12
+|Pair|The deciding difference|Section|

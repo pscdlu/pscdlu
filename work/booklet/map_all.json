@@ -5113,7 +5113,7 @@
 },
 {
 "id": "S12-Q19",
-"section": "4.2",
+"section": "4.4",
 "concept": "Linear, branching programming, mathetics and Keller's PSI",
 "must_teach": "Skinner's linear programming: all learners follow the same small steps. Crowder's branching: response decides next frame. Gilbert's mathetics: retrogressive (backward) chaining, final step mastered first. Keller's PSI: self-paced units each passed with a student proctor.",
 "format": "match",
@@ -7093,7 +7093,7 @@
 },
 {
 "id": "S16-Q39",
-"section": "4.4",
+"section": "1.6",
 "concept": "Analytic method works from unknown conclusion back to known data",
 "must_teach": "Analytic method proceeds from the unknown (conclusion) back to the known (data), showing why each step is taken; synthetic presents proof from data to conclusion; deduction applies a general rule to cases; induction goes from cases to rule.",
 "format": "scenario",

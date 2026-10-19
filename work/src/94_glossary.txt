@@ -1,0 +1,4 @@
+::front Bilingual Glossary
+English term, the Hindi term used in this guide, and a one-line meaning. Hindi terms follow NTA's Hindi syllabus where it uses a settled term, and otherwise the term standard in Hindi-medium textbooks.
+::table small widths=27,25,48
+|English|हिंदी|Meaning|
