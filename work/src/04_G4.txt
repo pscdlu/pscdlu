@@ -781,3 +781,205 @@ Q5. (B), because first exposure (remembering and understanding) happens at home,
 Q6. (C), because more dialogue reduces transactional distance. High structure with low dialogue gives the greatest distance.
 Q7. (B), because a threaded forum allows extended, reasoned exchange without everyone being present at once. A webinar needs everyone together, and a podcast and a broadcast e-mail are one-way.
 ::endanswers
+
+::section 4.6 | MOOCs, SWAYAM, SWAYAM PRABHA and other national digital initiatives
+::syllabus Off-line vs. On-line methods (Swayam, Swayamprabha, MOOCs etc.)
+::box footprint
+{{FP 4.6}}
+::endbox
+::h Core
+This section is mostly facts: names, full forms, who runs what, and a few figures. Learn the full forms exactly, and keep the platforms apart by what each one does. Figures that change are collected in the Fact watch box.
+::sub What a MOOC is
+A **MOOC** (massive open online course) (विशाल मुक्त ऑनलाइन पाठ्यक्रम) is a course offered through the internet to anyone who wishes to join. Take the name word by word:
+- **Massive:** there is no fixed limit on enrolment; thousands of learners anywhere can join the same course. It does not mean a long course, a large fee or large video files.
+- **Open:** anyone may enrol, without entry qualification and without being a student of a particular institution or place. Study is usually free; a fee is normally charged only for a certificate.
+- **Online:** the course is delivered through the internet.
+- **Course:** it is a real course, with instructors, a schedule (usually a few weeks), study material and assessments. "Open" does not mean that there are no instructors, no deadlines or no tests.
+MOOCs are video-centred: short recorded lectures are the core, with readings, quizzes and forums around them.
+Their best-known weakness is a **low completion rate**. Because enrolment is open and free, very large numbers register, many out of curiosity, and only a small proportion finish. Completion rates are commonly reported in single figures or low double figures (in per cent). Lack of personal contact, the self-discipline needed, and weak incentives are the usual reasons. Openness itself is one cause of low completion.
+::sub SWAYAM
+**SWAYAM** stands for **Study Webs of Active-Learning for Young Aspiring Minds**. It is India's national platform for MOOCs, set up by the **Ministry of Education** (then called the Ministry of Human Resource Development, MHRD). It was launched on 9 July 2017 by the President of India at a National Convention on Digital Initiatives, together with the SWAYAM PRABHA channels and the National Academic Depository.
+The main facts about SWAYAM:
+- It is designed around three principles of education policy: **access, equity and quality**.
+- Courses range from school level through undergraduate and postgraduate levels to skill and teacher-training courses.
+- Anyone may enrol, of any age, anywhere. There is no age bar, and it is not restricted to IIT students or to any group.
+- Learning is **free**. A learner who wants a certificate registers for a **proctored examination** (a supervised examination held at a centre, पर्यवेक्षित परीक्षा), for which a fee is charged, and must pass it.
+- Credits earned can be transferred (credit transfer, क्रेडिट अंतरण) to the learner's own university under UGC regulations (see below).
+- SWAYAM is one of the components of the Ministry of Education's **PM e-Vidya** programme for multi-mode access to digital education, along with DIKSHA, SWAYAM PRABHA, radio and podcasts.
+::sub The four quadrants of a SWAYAM course
+Every SWAYAM course is built in four parts, called the **four quadrants**:
+1. **e-Tutorial:** video lectures, with animations, simulations and demonstrations where useful.
+2. **e-Content:** reading material that can be downloaded or printed: notes, e-books, case studies.
+3. **Discussion forum:** an online forum where learners raise doubts and the course team and other learners answer them.
+4. **Assessment (self-assessment):** quizzes, assignments and tests.
+Printed correspondence lessons sent by post, residential workshops, weekly face-to-face contact classes and compulsory laboratory attendance are not quadrants; they belong to older distance education or to campus teaching. Books differ in the order in which they number the third and fourth quadrants; learn the four parts, not the numbers.
+::sub National Coordinators of SWAYAM
+SWAYAM courses are prepared through **National Coordinators** (राष्ट्रीय समन्वयक), each responsible for one sector. The Ministry of Education now lists ten:
+::table widths=40,60
+|National Coordinator|Sector|
+|NPTEL (National Programme on Technology Enhanced Learning)|Engineering|
+|UGC (University Grants Commission)|Non-technical postgraduate education|
+|CEC (Consortium for Educational Communication)|Non-technical undergraduate education|
+|AICTE (All India Council for Technical Education)|Self-paced and international courses|
+|IGNOU (Indira Gandhi National Open University)|Out-of-school students; diploma and certificate courses|
+|IIM Bangalore (IIMB)|Management studies|
+|NITTTR (National Institute of Technical Teachers Training and Research)|Teacher training|
+|NCERT (National Council of Educational Research and Training)|School education|
+|NIOS (National Institute of Open Schooling)|School education (open schooling)|
+|INI (Institutions of National Importance), coordinated by Banaras Hindu University|Courses from Institutions of National Importance, other than technology|
+For engineering, the answer is NPTEL; for undergraduate non-technical courses, CEC; for postgraduate non-technical courses, UGC.
+::sub SWAYAM PRABHA
+**SWAYAM PRABHA** is a group of **DTH (direct-to-home) television channels** that telecast curriculum-based educational programmes **24 hours a day, 7 days a week**. The signal is carried by the GSAT-15 satellite and uplinked from BISAG-N, Gandhinagar. The channels are free on **DD Free Dish**. New content of at least four hours is shown every day and repeated five more times, so learners can choose a convenient time. Content comes from NPTEL, the IITs, UGC, CEC, IGNOU, NCERT and NIOS, among others.
+SWAYAM PRABHA exists for learners who have a television and a dish but **no internet**. It needs no internet connection at the learner's end.
+In terms of communication, a television broadcast reaches a large, scattered audience through a mass medium, and viewers cannot reply through the same channel. SWAYAM PRABHA is therefore **one-way mass communication** (एकतरफ़ा जनसंचार). It has no quizzes, no examinations and no credits of its own; interaction comes through its web portal or through SWAYAM courses.
+::table widths=26,37,37
+|Point|SWAYAM|SWAYAM PRABHA|
+|What it is|Web platform for MOOCs|Group of DTH television channels|
+|Needs internet?|Yes|No (dish and television)|
+|Interaction|Two-way: forums, quizzes, assignments|One-way broadcast|
+|Assessment and credits|Proctored examination, certificate, credit transfer|None of its own|
+|Cost to learner|Free; fee only for certificate examination|Free on DD Free Dish|
+::sub Credit transfer: the UGC regulations
+The UGC has made regulations that let a student's own university count SWAYAM courses towards a degree. Under the **UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations, 2021**, an institution may allow up to **40 per cent** of the total courses offered in a particular programme in a semester to be taken through SWAYAM, and must give credit for them. The earlier Regulations of 2016 had allowed up to 20 per cent. (See the Fact watch box.) Credit transfer is thus a consequence of this regulatory permission.
+::sub NPTEL
+**NPTEL** (National Programme on Technology Enhanced Learning) was started in **2003** by seven Indian Institutes of Technology (Bombay, Delhi, Kanpur, Kharagpur, Madras, Guwahati and Roorkee) and the Indian Institute of Science, Bangalore, with funding from the Ministry of Education (then MHRD). It offers free online courses, chiefly in engineering and science but also in management and the humanities, with optional proctored examinations for certificates. It is the SWAYAM National Coordinator for engineering. It was not started by NCERT or by the IIMs.
+::sub Platforms for higher education and research
+::table widths=28,72
+|Initiative|What it does and who runs it|
+|e-PG Pathshala|Curriculum-based, interactive e-content for postgraduate subjects. An initiative under the National Mission on Education through ICT (NME-ICT) of the Ministry of Education, with content developed through the UGC and the portal run by the INFLIBNET Centre|
+|ePathshala|NCERT's portal and mobile app (developed by its Central Institute of Educational Technology, CIET) for school textbooks and other e-resources. Not to be confused with e-PG Pathshala|
+|Shodhganga|Repository of theses and dissertations submitted to Indian universities, maintained by the INFLIBNET Centre|
+|Shodhgangotri|Repository of synopses of approved or ongoing research (research in progress), also run by INFLIBNET|
+|ShodhShuddhi|INFLIBNET's service giving universities access to plagiarism-detection software|
+|National Digital Library of India (NDLI)|A single-window search platform for learning resources from many libraries and institutions, developed at IIT Kharagpur under NME-ICT|
+|Virtual Labs|Web-based, simulation-based laboratory experiments in science and engineering, under NME-ICT, by a consortium coordinated by IIT Delhi|
+|DIKSHA (Digital Infrastructure for Knowledge Sharing)|National platform for school education, led by NCERT under the Ministry of Education; e-content for students and training material for teachers; QR codes in textbooks link to it. Launched 5 September 2017|
+|INFLIBNET (Information and Library Network) Centre, Gandhinagar|An inter-university centre of the UGC that runs Shodhganga, Shodhgangotri, ShodhShuddhi, e-ShodhSindhu, Vidwan and IRINS, and implements One Nation One Subscription|
+|CEC (Consortium for Educational Communication), New Delhi|An inter-university centre of the UGC for electronic media. It coordinates the Educational Multimedia Research Centres (EMRCs) in universities, produces programmes for undergraduate subjects, and is a SWAYAM National Coordinator and a provider of SWAYAM PRABHA channels|
+|One Nation One Subscription (ONOS)|Nationwide access for government-funded institutions to scholarly e-journals of major international publishers through one central subscription, operational from 1 January 2025 and implemented by INFLIBNET|
+|NIRF (National Institutional Ranking Framework)|The Ministry of Education's ranking of higher education institutions; not a learning platform|
+Two quick sorting rules. Web-based services (SWAYAM, e-PG Pathshala, Virtual Labs, NDLI) need the internet at the learner's end; SWAYAM PRABHA through a dish does not. School-level services are DIKSHA and ePathshala; postgraduate e-content is e-PG Pathshala; theses are Shodhganga; synopses are Shodhgangotri.
+::box example
+A first-year M.A. Hindi student in a village near Sirsa has no reliable internet at home. She follows lectures on literature on a SWAYAM PRABHA channel through the family's DD Free Dish. In the college library, with internet, she reads e-PG Pathshala modules on her syllabus and searches Shodhganga for theses on Premchand. Next semester she enrols in a SWAYAM course on research methodology, studies it free, pays the fee for the proctored examination, and her university counts the credits under the UGC regulations.
+::endbox
+::box confused
+- **SWAYAM and SWAYAM PRABHA.** SWAYAM: web MOOCs with quizzes, examinations and credits; needs internet. SWAYAM PRABHA: one-way DTH television; no internet; no assessment.
+- **e-PG Pathshala and ePathshala.** e-PG Pathshala: postgraduate e-content (UGC, INFLIBNET, NME-ICT). ePathshala: NCERT's school textbooks and resources.
+- **Shodhganga and Shodhgangotri.** Shodhganga: submitted theses. Shodhgangotri: synopses of research in progress.
+- **Shodhganga and ShodhShuddhi.** Shodhganga stores theses; ShodhShuddhi gives plagiarism-detection software.
+- **DIKSHA and SWAYAM.** DIKSHA is mainly for school education and teacher training; SWAYAM offers courses from school to postgraduate level and beyond.
+- **NPTEL and NDLI.** NPTEL: online courses by IITs and IISc. NDLI: a digital library search platform (IIT Kharagpur).
+- **Virtual Labs and NDLI.** Virtual Labs: simulated experiments. NDLI: a library of learning resources.
+- **Massive and open.** Massive: unlimited numbers. Open: no entry requirements, usually free.
+::endbox
+::box fact
+**Fact watch (checked October 2026)**
+- **SWAYAM launch:** 9 July 2017, by the President of India, at the National Convention on Digital Initiatives (Ministry of Human Resource Development, now Ministry of Education). The same event launched 32 SWAYAM PRABHA channels and the National Academic Depository.
+- **SWAYAM National Coordinators: ten** (NPTEL, UGC, AICTE, CEC, IGNOU, IIMB, NITTTR, INI, NCERT, NIOS), as listed in the Ministry of Education's PIB backgrounder on PM e-Vidya of March 2026, with figures as of January 2026. Older books and older SWAYAM pages list **nine**, without INI; Banaras Hindu University was designated National Coordinator for Institutions of National Importance in 2025.
+- **SWAYAM PRABHA channels:** the service began in 2017 with **32** channels; later sources gave 34, and then **40**. In 2026 official sources disagree. The PIB backgrounder on PM e-Vidya of 10 March 2026, and a PIB document of June 2026, describe a group of **48** DTH channels. The SWAYAM PRABHA website and a PIB factsheet of August 2026 give **40**. The documents do not explain the difference. If a question names the March 2026 note, its figure is 48; if a question asks only "how many channels", look for 40 or 48 among the options and check the latest official figure before your examination.
+- **Credit transfer limit:** up to **40 per cent** of the total courses offered in a programme in a semester, under the UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations, 2021, notified in the Gazette of India on 25 March 2021. These replaced the Regulations of 2016 (notified 19 July 2016), which allowed up to **20 per cent**. No later amendment to the 40 per cent ceiling was found; a reply in the Lok Sabha in July 2026 still gave 40 per cent.
+- **Four quadrants:** e-Tutorial, e-Content, discussion forum, assessment. Revised SWAYAM Guidelines were approved by the SWAYAM Board in 2024 (circulated in May 2024) and describe a broader course framework; the four quadrants remain the description in Ministry of Education material of 2026 and the answer the examination expects.
+- **Certificate fee:** charged for the proctored examination; on NPTEL course pages it is usually Rs 1,000 per course, but the amount is set course by course.
+- **SWAYAM Plus:** a separate platform for industry-relevant and skill courses, launched in February 2024 and operated by IIT Madras. Do not confuse it with SWAYAM.
+- **ShodhShuddhi:** INFLIBNET's plagiarism-detection service began in 2019 with the software Urkund (later called Ouriginal). That contract ended on 30 September 2023, and the service has used DrillBit since 1 November 2023. It is meant for theses, synopses and research articles, through universities.
+- **One Nation One Subscription:** approved by the Union Cabinet on 25 November 2024 and operational from 1 January 2025, with INFLIBNET as implementing agency; about 13,000 e-journals of 30 international publishers for government-funded institutions. It builds on the e-ShodhSindhu consortium (formed in December 2015 by merging UGC-INFONET, N-LIST and INDEST-AICTE). Older books name e-ShodhSindhu as the national journal consortium.
+- **NDLI:** pilot from 2015; nationally launched on 19 June 2018.
+::endbox
+::further
+::sub cMOOCs and xMOOCs
+The first MOOCs were run by **George Siemens and Stephen Downes** on the principles of **connectivism** (संयोजनवाद), the theory that learning is the forming of connections across a network of people and resources. These are called **cMOOCs**. In a cMOOC much of the content is found, created, remixed and shared by the learners themselves, and the course acts as a hub of a network rather than as a fixed body of content. Because connectivism treats learning as network-building, learners must take responsibility for the content.
+**xMOOCs** came later. They are structured, instructor-led courses with a fixed syllabus of video lectures, quizzes and examinations, offered on large platforms such as Coursera, edX and SWAYAM. They are content-delivery courses.
+So "xMOOCs are based on connectivism" is false, and "cMOOCs follow a fixed syllabus of instructor-made video lectures" is also false: each statement gives one type the feature of the other.
+A **SPOC** (small private online course) uses MOOC-style materials, such as video lectures and automatic quizzes, for a limited, selected group, typically the students of one institution. It allows closer interaction and is often used in blended teaching on campus.
+::sub Reading a completion rate
+A completion rate is a fraction, and its meaning depends on the base (the denominator). Always say which base is used.
+::box worked
+A MOOC has 40,000 enrolments. 8,000 learners begin the first week's work. 2,400 complete the course.
+> Completion rate on enrolments = completers / enrolments = 2,400 / 40,000 = 0.06 = 6 per cent
+> Completion rate on starters = completers / starters = 2,400 / 8,000 = 0.30 = 30 per cent
+> Share of enrolled learners who ever started = 8,000 / 40,000 = 0.20 = 20 per cent
+The same course can be reported as having a 6 per cent or a 30 per cent completion rate. Neither is wrong; they answer different questions.
+::endbox
+::box slips
+- Dividing by the wrong base: the question says "on enrolments" or "on those who began"; read it twice.
+- Forgetting to multiply by 100 when the options are in per cent.
+- Dividing the larger number by the smaller (for example 40,000 / 2,400) and getting a figure above 100 per cent.
+::endbox
+::sub Parent and host institution
+The UGC's credit framework uses two terms. The **parent institution** is the one in which the student is enrolled; it incorporates the SWAYAM credits into the student's record. The **host institution** is the one whose faculty member offers the course on SWAYAM. If a student of University X takes a course taught by a professor of Institute Y, X is the parent and Y the host.
+::sub National Academic Depository and Academic Bank of Credits
+The **National Academic Depository** (NAD), launched on 9 July 2017 with SWAYAM, is a round-the-clock online store of academic awards, such as degrees, diplomas, certificates and mark-sheets, lodged by institutions and boards. Employers and institutions can verify them online. The UGC implements NAD with **DigiLocker** as its single depository. The **Academic Bank of Credits** (ABC) is different: it records the credits a student earns, so that they can be transferred and counted towards a degree (see section 6.7). NDLI is a library, and Shodhganga holds theses.
+::sub Vidwan and IRINS
+Two more INFLIBNET services:
+- **Vidwan:** a national database of profiles of experts, that is, scientists, researchers and faculty members, used for example to find experts for committees.
+- **IRINS** (Indian Research Information Network System): a web-based research information management system that institutions use to collect and show their faculty's publications and research activity.
+::sub The National Educational Technology Forum
+The National Education Policy 2020 proposes an autonomous body, the **National Educational Technology Forum** (NETF), to provide a platform for the free exchange of ideas on the use of technology to enhance learning, assessment, planning and administration. Do not confuse it with the **National Research Foundation**, which is meant to fund and promote research, or with the **National Testing Agency**, which conducts examinations such as UGC NET.
+::box check
+Q1. Match List I with List II:
+::match
+List I (Initiative) || List II (Function)
+A. Shodhgangotri || I. Plagiarism-detection software for universities
+B. ShodhShuddhi || II. Synopses of research in progress
+C. Vidwan || III. Single-window search for learning resources
+D. NDLI || IV. Database of expert profiles
+(A) A-II, B-I, C-III, D-IV
+(B) A-II, B-I, C-IV, D-III
+(C) A-I, B-II, C-IV, D-III
+(D) A-IV, B-I, C-II, D-III
+Q2. Consider the following statements about SWAYAM:
+1. Its full form is Study Webs of Active-Learning for Young Aspiring Minds.
+2. A learner must pay a fee to watch the video lectures.
+3. A certificate requires passing a proctored examination.
+4. Its courses are built on four quadrants, one of which is a discussion forum.
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2 and 4 only
+(C) 1, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q3. Given below are an Assertion (A) and a Reason (R):
+Assertion (A): SWAYAM PRABHA can serve learners who have no internet connection.
+Reason (R): SWAYAM PRABHA programmes are telecast on DTH channels received through a dish.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Given below are two statements:
+Statement I: cMOOCs are built on connectivism, with learners creating and sharing content across networks.
+Statement II: An xMOOC is a small private course offered only to the students of one college.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q5. On SWAYAM, the National Coordinator for non-technical postgraduate courses is:
+(A) NPTEL
+(B) CEC
+(C) UGC
+(D) NIOS
+Q6. A MOOC records 25,000 enrolments, of whom 5,000 begin the course and 1,000 complete it. The completion rate on those who began is:
+(A) 4 per cent
+(B) 5 per cent
+(C) 20 per cent
+(D) 25 per cent
+Q7. Under the UGC (Credit Framework for Online Learning Courses through SWAYAM) Regulations, 2021, the ceiling on courses through SWAYAM in a programme in a semester is:
+(A) 10 per cent
+(B) 20 per cent
+(C) 30 per cent
+(D) 40 per cent
+Q8. Which of the following is mainly meant for school education?
+(A) e-PG Pathshala
+(B) DIKSHA
+(C) Shodhganga
+(D) NPTEL
+::endbox
+::answers
+Q1. (B), because Shodhgangotri holds synopses, ShodhShuddhi gives plagiarism-detection software, Vidwan is the expert database and NDLI is the single-window library search.
+Q2. (C), because study on SWAYAM is free; a fee is charged only for the certificate examination. The full form, the proctored examination and the forum quadrant are correct.
+Q3. (A), because both are true and the DTH broadcast is exactly why no internet is needed.
+Q4. (C), because Statement I describes cMOOCs correctly, but Statement II describes a SPOC; an xMOOC is a structured, instructor-led course open to very large numbers.
+Q5. (C), because UGC handles non-technical postgraduate courses. NPTEL handles engineering and CEC non-technical undergraduate courses.
+Q6. (C), because 1,000 / 5,000 = 0.20, that is 20 per cent. On enrolments it would be 1,000 / 25,000 = 4 per cent, option (A), which uses the wrong base.
+Q7. (D), because the 2021 Regulations allow up to 40 per cent. The 20 per cent ceiling, option (B), belonged to the 2016 Regulations.
+Q8. (B), because DIKSHA, led by NCERT, serves school students and teachers. e-PG Pathshala is postgraduate, Shodhganga holds theses and NPTEL is mainly engineering.
+::endanswers
+::chapteranswers

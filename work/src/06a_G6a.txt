@@ -25,7 +25,7 @@ A **test** (परीक्षण) is an instrument: a set of questions or tasks
 |Assessment|Gathering and interpreting evidence, numerical and descriptive|Marks plus notes on Ravi's seminar presentation|
 |Evaluation|Judging worth against objectives; includes the others|"Ravi's 68 is a good performance for his class and meets the course objective."|
 Two orders are asked. From narrowest to broadest: measurement, assessment, evaluation. From instrument to process to judgement: test, measurement, evaluation. In both, evaluation comes last, because it includes what comes before it.
-A short formula that many books give is: evaluation = measurement + value judgement. A fuller form, which Indian textbooks attribute to the American educationist Norman E. Gronlund, is:
+A short formula that many books give is: evaluation = measurement + value judgement. A fuller form, which Indian textbooks attribute to Norman E. Gronlund, is:
 > Evaluation = quantitative description (measurement) + qualitative description (non-measurement) + value judgements
 The words to notice are "qualitative description". Evaluation does not use numbers alone. An **anecdotal record** of how a student behaved in a group discussion, or a teacher's observation of her laboratory work, is qualitative evidence. Evaluation uses both kinds, and the judgement of worth is what turns description into evaluation. So if a question asks what Gronlund adds to the two descriptions, the answer is value judgements, not statistical analysis or norms (statistics belong to the quantitative description).
 Two traps follow from this. First, measurement is never "judgemental" or "qualitative"; it is quantitative. Second, evaluation is never narrower than measurement; it is the broader term, because it contains measurement and qualitative description and judgement. Appraisal is another word for judging worth, so it sits with evaluation, not with measurement.
@@ -35,7 +35,7 @@ Indian textbooks draw this as the **evaluation triangle** (मूल्यां
 - **Objectives** (उद्देश्य): the changes in the learner that the teacher wants to bring about.
 - **Learning experiences** (अधिगम अनुभव): the teaching and activities provided to bring those changes about.
 - **Evaluation** (मूल्यांकन): finding out how far the changes have actually taken place.
-Each corner affects the other two. Objectives decide what experiences are planned and what is evaluated. Evaluation results show whether the experiences worked, and may lead the teacher to revise the objectives or the experiences. The triangle is not "teacher, learner, curriculum" (that is the three-cornered view of the teaching process) and not "input, process, output" (that describes any system).
+Each corner affects the other two. Objectives decide what experiences are planned and what is evaluated. Evaluation results show whether the experiences worked, and may lead the teacher to revise the objectives or the experiences. The triangle is not "teacher, learner, curriculum" (that is a different idea, about the parties to teaching) and not "input, process, output" (that describes any system).
 From the triangle comes the order of the steps of evaluation:
 1. Formulating the objectives (in terms of the behaviour expected of the learner).
 2. Providing learning experiences suited to those objectives.
@@ -68,7 +68,7 @@ At a government college in Sirsa, Dr Meena gives her BA Part II English class a 
 ::sub More on the qualitative side
 Qualitative tools used in evaluation include anecdotal records, observation schedules, interviews, portfolios and self-reports. They are taught in 6.4. Remember only that a score, a percentile rank or a standard score is quantitative, while an anecdotal record is qualitative.
 ::sub Measurement error, again
-Three main sources of error appear in questions: the sampling of content (the paper happens to ask what the student did or did not revise), the condition of the examinee (illness, anxiety, fatigue), and scoring (different examiners, or the same examiner on different days). Because every obtained score carries error, an obtained score should be read as an estimate. "Statement I: a test score is an indirect measure from which learning is inferred. Statement II: because it is indirect, it always contains some error." Both statements are true.
+Three main sources of error appear in questions: the sampling of content (the paper happens to ask what the student did or did not revise), the condition of the examinee (illness, anxiety, fatigue), and scoring (different examiners, or the same examiner on different days). Because every obtained score carries error, an obtained score should be read as an estimate. Put together: a test score is an indirect measure from which learning is inferred, and for that very reason it always contains some error. Both halves of that sentence are true.
 ::sub Evaluating programmes: the CIPP model
 So far we have spoken of evaluating students. Programmes, courses and institutions are evaluated too. A well-known model for this is the **CIPP model** of Daniel Stufflebeam, developed in the United States in the 1960s. Its four letters name four kinds of evaluation:
 ::table widths=20,45,35
@@ -89,8 +89,8 @@ Q2. Arrange the following in order from the narrowest to the broadest in scope:
 2. Measurement
 3. Assessment
 Choose the correct answer from the options given below:
-(A) 2, 3, 1
-(B) 3, 2, 1
+(A) 3, 2, 1
+(B) 2, 3, 1
 (C) 2, 1, 3
 (D) 1, 3, 2
 Q3. Given below are two statements:
@@ -109,10 +109,10 @@ B. Administrative || II. Advising a student on a suitable elective
 C. Guidance || III. Data for a study of reading habits of first-year students
 D. Research || IV. Telling the teacher which topic must be re-taught
 Choose the correct answer from the options given below:
-(A) A-IV, B-I, C-II, D-III
+(A) A-II, B-I, C-IV, D-III
 (B) A-I, B-IV, C-II, D-III
 (C) A-IV, B-II, C-I, D-III
-(D) A-II, B-I, C-IV, D-III
+(D) A-IV, B-I, C-II, D-III
 Q5. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
 Assertion (A): Every score on an educational test contains some error.
 Reason (R): Learning is inferred from performance on a sample of tasks and is not observed directly.
@@ -139,9 +139,9 @@ Q7. In the CIPP model of programme evaluation, the letter "I" stands for:
 ::endbox
 ::answers
 Q1. (C), because only (C) passes a judgement of worth against objectives. (A), (B) and (D) report quantities (items, time, marks), which is measurement.
-Q2. (A), because measurement only assigns numbers, assessment gathers and interprets evidence, and evaluation judges worth and includes both.
+Q2. (B), because measurement only assigns numbers, assessment gathers and interprets evidence, and evaluation judges worth and includes both.
 Q3. (A), because measurement stops at the number, and evaluation combines quantitative and qualitative description with a value judgement.
-Q4. (A), because re-teaching is instructional, promotion is administrative, choice of elective is guidance and data for a study is research. (C) wrongly swaps promotion and guidance.
+Q4. (D), because re-teaching is instructional, promotion is administrative, choice of elective is guidance and data for a study is research. (C) wrongly swaps promotion and guidance.
 Q5. (A), because both are true and the indirect, sampled nature of measurement is exactly why error is always present.
 Q6. (C), because objectives come first, then learning experiences, then tools are applied, then results are interpreted. (D) interprets before collecting evidence.
 Q7. (D), because CIPP stands for Context, Input, Process and Product. Implementation is what the Process part studies, but it is not the name of a letter.
@@ -466,8 +466,8 @@ In the light of the above statements, choose the correct answer:
 (C) Statement I is true but Statement II is false
 (D) Statement I is false but Statement II is true
 Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
-Assertion (A): Diagnostic evaluation is normally followed by remedial teaching.
-Reason (R): Diagnostic evaluation seeks the causes of persistent learning difficulties.
+Assertion (A): A pre-test given before a unit may show that some learners should skip the unit and take up advanced work.
+Reason (R): Placement evaluation checks whether learners have already achieved the intended outcomes of the unit.
 In the light of the above statements, choose the correct answer:
 (A) Both A and R are true and R is the correct explanation of A
 (B) Both A and R are true but R is NOT the correct explanation of A
@@ -512,7 +512,7 @@ Q8. For a course outcome, the target is that 60 per cent of students score at le
 ::answers
 Q1. (C), because placement decides the starting point, formative gives feedback during learning, diagnostic finds causes, and summative certifies at the end. (A) wrongly gives the causes to summative.
 Q2. (D), because admitting a fixed number by rank is norm-referenced; certifying all who reach a fixed standard is criterion-referenced.
-Q3. (A), because both are true, and remedy is planned precisely because diagnosis has found the cause.
+Q3. (A), because both are true, and it is precisely because placement evaluation checks for outcomes already achieved that it can send some learners ahead.
 Q4. (A), because statement 3 is wrong (daily feedback is formative) and statement 4 is wrong (CRT scores are often bunched at the high end after good teaching).
 Q5. (D), because diagnosis goes: who has difficulty, where, why, and then remedy. (A) looks for causes before locating the area.
 Q6. (B), because Scriven wrote about curriculum and programme evaluation in 1967; Bloom and colleagues later applied the terms to student learning and mastery learning.
@@ -527,7 +527,7 @@ Q8. (A), because 42 / 75 = 0.56, or 56 per cent of students, which is below the 
 ::endbox
 ::h Core
 ::sub Techniques and tools
-A **technique** of evaluation is a way of collecting evidence: testing, observation, self-report, interview, peer rating. A **tool** (उपकरण) is the instrument used in that technique: a test, a checklist, a rating scale, a rubric, an anecdotal record, a cumulative record, a portfolio, a questionnaire. Some tools give **quantitative** evidence (test scores, percentile ranks, standard scores). Others give **qualitative** evidence (anecdotal records, observation notes, portfolios). Evaluation uses both (6.1).
+A **technique** of evaluation is a way of collecting evidence: testing, observation, self-report, interview, peer rating. A **tool** is the instrument used in that technique: a test, a checklist, a rating scale, a rubric, an anecdotal record, a cumulative record, a portfolio, a questionnaire. Some tools give **quantitative** evidence (test scores, percentile ranks, standard scores). Others give **qualitative** evidence (anecdotal records, observation notes, portfolios). Evaluation uses both (6.1).
 ::sub Objective-type and essay-type items
 An **objective-type item** (वस्तुनिष्ठ प्रश्न) has one predetermined correct answer, so every examiner gives the same mark. Multiple-choice, true-false, matching and completion items are objective. Many can be answered in a short time, so they sample a wide syllabus, and they are quick and objective to score.
 An **essay-type item** (निबंधात्मक प्रश्न) asks for a long written answer that the student selects, organises and expresses in her own words. Only an essay shows whether a student can select, organise, integrate and express ideas, so essays can test higher abilities such as analysis and evaluation. Their two weaknesses are **limited sampling** (a paper has only a few questions, so it covers the syllabus narrowly) and **subjective scoring** (marks vary from examiner to examiner).
@@ -571,12 +571,12 @@ Item analysis needs response data, so it can never come before the try-out.
 ::sub Observation tools: checklist, rating scale, rubric
 - A **checklist** (जाँच सूची) records only whether a feature is present or absent: yes or no.
 - A **rating scale** (निर्धारण मापनी) records the degree of each feature on a numerical or verbal scale (1 to 5; poor to excellent).
-- A **rubric** (रूब्रिक) goes further. For each criterion it describes what performance at each level looks like. An **analytic rubric** scores each criterion separately; a **holistic rubric** gives one overall judgement.
+- A **rubric** goes further. For each criterion it describes what performance at each level looks like. An **analytic rubric** scores each criterion separately; a **holistic rubric** gives one overall judgement.
 The test between a rating scale and a rubric is the descriptor. An instrument with criteria and a five-point scale, but no description of what each point means, is a rating scale.
 ::sub Records: anecdotal, cumulative, portfolio
 - An **anecdotal record** (उपाख्यानात्मक अभिलेख) is a teacher's brief written description of a single significant incident in a student's behaviour. It is qualitative.
 - A **cumulative record** (संचयी अभिलेख) is a comprehensive, year-by-year account of a student kept by the institution: attendance, health, test scores, activities, teachers' remarks. It is used for guidance.
-- A **portfolio** (पोर्टफोलियो) is a collection of the student's own selected work, usually with her reflections on it.
+- A **portfolio** is a collection of the student's own selected work, usually with her reflections on it.
 - A **sociogram** is a chart of the choices that members of a group make about one another (whom they would like to work with), showing who is popular, isolated, or part of a clique.
 ::sub What item analysis is
 **Item analysis** (पद विश्लेषण) is done after a test has been tried out. For each item it finds:
@@ -601,7 +601,7 @@ Dr Rao prepares a 50-item objective test in Indian Polity for BA Part I at a col
 ::sub Method 1: facility value and discrimination index
 Steps:
 1. Score all the scripts and arrange them in order of total score.
-2. Take the top 27 per cent as the **upper group** and the bottom 27 per cent as the **lower group**. Set the middle aside. T. L. Kelley (1939) showed that upper and lower groups of 27 per cent give the most efficient comparison. For 200 examinees, each group has 0.27 x 200 = 54 scripts; for 300, each has 81. (Upper and lower halves, or 25 or 33 per cent, are also used in some books; when a question gives the group sizes, simply use them.)
+2. Take the top 27 per cent as the **upper group** and the bottom 27 per cent as the **lower group**. Set the middle aside. T. L. Kelley (1939) showed that upper and lower groups of 27 per cent give the most efficient comparison. For 200 examinees, each group has 0.27 x 200 = 54 scripts; for 300, each has 81. When a question gives the sizes of the groups, simply use them.
 3. For each item count RU (number right in the upper group) and RL (number right in the lower group). Let n be the number in one group.
 4. Facility value FV = (RU + RL) / (2n), that is, the number right in both groups divided by the total in both groups.
 5. Discrimination index DI = (RU - RL) / n, the difference divided by the size of **one** group. Equivalently, DI = proportion right in the upper group minus proportion right in the lower group.

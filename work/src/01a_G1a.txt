@@ -105,8 +105,8 @@ Q4. Given below are two statements.
 Statement I: A lesson on any subject can become indoctrination if beliefs are presented as beyond question and the learner is discouraged from examining them.
 Statement II: Instruction always requires a living teacher to be present with the learner.
 (A) Both Statement I and Statement II are true
-(B) Statement I is true but Statement II is false
-(C) Both Statement I and Statement II are false
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
 (D) Statement I is false but Statement II is true
 Q5. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
 Assertion (A): Arousing and sustaining motivation is a necessary function of teaching.
@@ -135,7 +135,7 @@ Q7. In Thomas F. Green's map of activities related to teaching, which activity l
 Q1. (C), because teaching is defined by its purpose of producing learning in another person. Syllabus coverage and discipline are means, and (D) includes accidental learning, which is not teaching.
 Q2. (A), because conditioning by-passes understanding, training builds skill by practice, instruction passes on organised knowledge, and teaching aims at understanding and judgement.
 Q3. (D), because Morrison speaks of mature and less mature personalities, Gage of interpersonal influence, Smith of a system of actions, and Amidon of classroom talk.
-Q4. (B), because indoctrination is decided by manner and aim, not subject; instruction can come through a programmed text, computer or broadcast with no teacher present.
+Q4. (C), because indoctrination is decided by manner and aim, not subject; instruction can come through a programmed text, computer or broadcast with no teacher present.
 Q5. (A), because the learner must do his or her own learning, which is exactly why the teacher must arouse and keep up motivation.
 Q6. (D), because statement 3 is false: much learning happens through experience and self-study without any teaching.
 Q7. (C), because training and conditioning shape behaviour, and training is the nearer to teaching as it still engages intelligence. Instructing is closest on the belief side, not the behaviour side.
@@ -212,12 +212,11 @@ List I (Operation) || List II (Phase)
 A. Fixing the objectives of a lesson || I. Interactive
 B. Perceiving the size and mood of the class || II. Post-active
 C. Selecting suitable testing devices || III. Pre-active
-D. Giving reinforcement to a correct answer || IV. Interactive
 Choose the correct answer from the options given below:
-(A) A-III, B-I, C-II, D-IV
-(B) A-II, B-I, C-III, D-IV
-(C) A-III, B-II, C-I, D-IV
-(D) A-I, B-III, C-II, D-IV
+(A) A-III, B-I, C-II
+(B) A-II, B-I, C-III
+(C) A-III, B-II, C-I
+(D) A-I, B-III, C-II
 Q3. In the analysis of teaching, content and methods of teaching are treated as:
 (A) independent variables
 (B) dependent variables
@@ -250,7 +249,7 @@ Q7. In an experiment comparing the lecture method with the seminar method on stu
 ::endbox
 ::answers
 Q1. (C), because the three phases are pre-active, interactive and post-active; there is no reactive phase.
-Q2. (A), because fixing objectives is planning (pre-active), sizing up and reinforcement happen in class (interactive), and choosing tests comes after teaching (post-active).
+Q2. (A), because fixing objectives is planning (pre-active), sizing up the class happens while facing it (interactive), and choosing tests comes after teaching (post-active).
 Q3. (D), because content and methods stand between teacher and learner and carry the teacher's influence. The teacher is independent and the learner dependent.
 Q4. (A), because the need to respond on the spot to learners' cues is precisely what makes interactive decisions spontaneous.
 Q5. (C), because the phases form a cycle in which evaluation feeds planning; experience shortens planning but does not remove it.
@@ -356,8 +355,8 @@ Statement I: An aim is broad and long-term, while an instructional objective is 
 Statement II: Verbs such as "know" and "appreciate" are preferred in behavioural objectives because they describe the learner's mind.
 (A) Both Statement I and Statement II are true
 (B) Both Statement I and Statement II are false
-(C) Statement I is false but Statement II is true
-(D) Statement I is true but Statement II is false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
 Q4. Given below are two statements, one labelled Assertion (A) and the other Reason (R).
 Assertion (A): In outcome-based education, assessment tasks must be aligned with the stated learning outcomes.
 Reason (R): The purpose of assessment in outcome-based education is to find out whether the intended outcomes have been attained.
@@ -389,7 +388,7 @@ Q7. The statements of what graduates are expected to achieve in their careers a 
 ::answers
 Q1. (C), because it states the learner's observable performance with a condition and a criterion. (A) is a teacher activity, (B) uses a vague verb, and (D) is only a topic.
 Q2. (B), because solving is what the learner does, the calculator is the circumstance, and eight out of ten is the standard.
-Q3. (D), because vague verbs cannot be observed; behavioural objectives need verbs like state, explain or solve.
+Q3. (C), because Statement I is true and Statement II is false: vague verbs cannot be observed; behavioural objectives need verbs like state, explain or solve.
 Q4. (A), because assessment exists to check whether outcomes are attained, and that is exactly why it must be aligned with them.
 Q5. (D), because Behaviour, Condition and Degree match Mager's performance, condition and criterion; Audience is the added letter.
 Q6. (A), because certification is an outcome of the examination system, not a function of teaching.
@@ -610,8 +609,8 @@ Q6. In the objective "Students will evaluate their own note-making strategies", 
 (C) Evaluate x procedural knowledge
 (D) Remember x metacognitive knowledge
 Q7. Given below are two statements.
-Statement I: Simpson's psychomotor taxonomy ends with Origination.
-Statement II: Harrow's psychomotor taxonomy begins with Imitation.
+Statement I: Simpson's psychomotor taxonomy ends with Naturalisation.
+Statement II: Harrow's psychomotor taxonomy begins with Reflex movements.
 (A) Both Statement I and Statement II are true
 (B) Both Statement I and Statement II are false
 (C) Statement I is true but Statement II is false
@@ -629,7 +628,7 @@ Q3. (C), because a value that governs conduct consistently over a long time is C
 Q4. (A), because changing data into another form is translation, which is one of the three forms of Comprehension; R explains A.
 Q5. (D), because Dave begins with Imitation; Perception is Simpson's first level.
 Q6. (A), because "evaluate" gives the process and "one's own strategies" is metacognitive knowledge.
-Q7. (C), because Harrow begins with Reflex movements; Imitation is Dave's first level.
+Q7. (D), because Simpson ends with Origination (Naturalisation is the last of Dave's levels), while Harrow does begin with Reflex movements.
 Q8. (B), because higher-order items are 4 + 3 + 3 = 10, and 10 / 25 x 100 = 40 per cent. (A) wrongly counts the Apply items: 14 / 25 = 56 per cent.
 ::endanswers
 
@@ -643,7 +642,7 @@ Q8. (B), because higher-order items are 4 + 3 + 3 = 10, and 10 / 25 x 100 = 40 p
 Teaching can be pitched at three **levels of teaching** (शिक्षण के स्तर). From the lowest to the highest they are:
 1. **Memory level** (स्मृति स्तर): learners commit facts to memory and reproduce them.
 2. **Understanding level** (बोध स्तर): learners see the relationships between facts and the general principles behind them, and can explain and use them.
-3. **Reflective level** (चिंतन स्तर): learners face a real problem, think it through critically, and reach and test their own conclusions.
+3. **Reflective level** (चिंतनशील स्तर): learners face a real problem, think it through critically, and reach and test their own conclusions.
 The levels form a **ladder**. Each higher level presupposes the one below it and includes it. You cannot understand facts you do not have, and you cannot reflect on a problem you do not understand. So the memory level is the base for the other two; the understanding level requires the memory level and prepares the ground for the reflective level; the reflective level is the highest and includes both lower levels. Memory-level teaching is never thrown away; it is built upon.
 What separates the levels is **the amount of thinking demanded of the learner**. Morris L. Bigge described teaching-learning situations as lying on a continuum from "thoughtless" to "thoughtful". Memory-level teaching demands the least thought, the understanding level more, and the reflective level the most. The levels are not defined by the length of the period, the size of the class, or the age of the teacher.
 Only these three are the standard levels. Labels such as "insight level" or "autonomous development level" in an option are not among the three levels the syllabus names.
@@ -792,8 +791,8 @@ Statement I: In the Herbartian steps, preparation ends with a statement of the a
 Statement II: Recitation is the last of the Herbartian steps.
 (A) Both Statement I and Statement II are true
 (B) Both Statement I and Statement II are false
-(C) Statement I is false but Statement II is true
-(D) Statement I is true but Statement II is false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
 Q7. A teacher of sociology gives her M.A. class survey figures showing that, in their district, the sex ratio is lower in richer families than in poorer ones -- the opposite of what most students expected. She asks them to suggest explanations and to say what evidence would test each. At which level is she teaching, and what is the first step she has secured?
 (A) Understanding level; generalisation
 (B) Memory level; preparation
@@ -817,7 +816,7 @@ Q2. (C), because memory-level methods are drill and recall, the understanding le
 Q3. (B), because both are true, but the link with Hunt does not explain the need for an open climate; that need comes from learners' freedom to doubt and test ideas.
 Q4. (D), because statement 2 is false: reflective-level motivation is mainly intrinsic, arising from the felt problem.
 Q5. (A), because organisation is the unaided written outline. Assimilation is supervised study; recitation is oral presentation.
-Q6. (D), because recitation is Morrison's last step; Herbart's last step is application.
+Q6. (C), because Statement I is true, but recitation is Morrison's last step; Herbart's last step is application.
 Q7. (C), because data that contradict the learners' beliefs create a genuine felt problem, the starting point of reflective-level teaching; asking for explanations and evidence moves towards hypotheses and testing.
 Q8. (D), because Dewey's order is felt difficulty, location and definition, suggestion, reasoning out its bearings, and observation and experiment.
 ::endanswers
