@@ -76,10 +76,10 @@ Q2. Arrange the following from the broadest to the narrowest:
 1. Technique
 2. Approach
 3. Method
-(A) 2, 3, 1
-(B) 3, 2, 1
-(C) 1, 3, 2
-(D) 2, 1, 3
+(A) 3, 2, 1
+(B) 1, 3, 2
+(C) 2, 1, 3
+(D) 2, 3, 1
 Q3. Consider the following methods:
 1. Lecture
 2. Role play
@@ -124,7 +124,7 @@ Q7. The pedagogy that the National Education Policy 2020 recommends for higher e
 ::endbox
 ::answers
 Q1. (C), because setting a task and guiding learners while they work is the facilitator's role. Reading out, dictating and demonstrating while students watch keep the teacher as transmitter.
-Q2. (A), because the approach is the underlying view of learning, a method organises whole lessons, and a technique is a small device used within a method.
+Q2. (D), because the approach is the underlying view of learning, a method organises whole lessons, and a technique is a small device used within a method.
 Q3. (B), because in role play, the case method and peer tutoring the learners do the main work. The lecture and dictation keep the teacher at the centre, so any option that contains 1 or 4 is wrong.
 Q4. (D), because the teacher's role changes to designer and guide but does not lose importance, so Statement I is false. A lecture is often the best way to give a large class an overview, so Statement II is true.
 Q5. (A), because both are true and the learner's own activity is the very reason for better retention.
@@ -758,9 +758,9 @@ D. Enriched virtual || IV. A student adds a fully online course to campus course
 (D) A-II, B-IV, C-I, D-III
 Q5. In terms of Bloom's taxonomy, the flipped classroom keeps for class time mainly:
 (A) remembering facts from the textbook
-(B) applying, analysing and evaluating
-(C) copying notes from the board
-(D) listening to the full lecture
+(B) copying notes from the board
+(C) listening to the full lecture
+(D) applying, analysing and evaluating
 Q6. According to Moore, transactional distance is least when a course has:
 (A) high structure and low dialogue
 (B) low dialogue and low autonomy
@@ -777,7 +777,7 @@ Q1. (B), because a live webinar and instant chat need everyone present at the sa
 Q2. (A), because both are true, and moving first exposure out of class is exactly what frees class time.
 Q3. (B), because the flipped classroom is only one model of blended learning, and blended learning keeps face-to-face teaching.
 Q4. (C), because rotation means moving between modes on a schedule; flex has online learning as backbone; a la carte adds a fully online course; enriched virtual is mostly remote.
-Q5. (B), because first exposure (remembering and understanding) happens at home, and the higher-order work is done in class.
+Q5. (D), because first exposure (remembering and understanding) happens at home, and the higher-order work is done in class.
 Q6. (C), because more dialogue reduces transactional distance. High structure with low dialogue gives the greatest distance.
 Q7. (B), because a threaded forum allows extended, reasoned exchange without everyone being present at once. A webinar needs everyone together, and a podcast and a broadcast e-mail are one-way.
 ::endanswers
@@ -935,8 +935,8 @@ Q2. Consider the following statements about SWAYAM:
 Choose the correct answer from the options given below:
 (A) 1, 2 and 3 only
 (B) 2 and 4 only
-(C) 1, 3 and 4 only
-(D) 1, 2, 3 and 4
+(C) 1, 2, 3 and 4
+(D) 1, 3 and 4 only
 Q3. Given below are an Assertion (A) and a Reason (R):
 Assertion (A): SWAYAM PRABHA can serve learners who have no internet connection.
 Reason (R): SWAYAM PRABHA programmes are telecast on DTH channels received through a dish.
@@ -974,7 +974,7 @@ Q8. Which of the following is mainly meant for school education?
 ::endbox
 ::answers
 Q1. (B), because Shodhgangotri holds synopses, ShodhShuddhi gives plagiarism-detection software, Vidwan is the expert database and NDLI is the single-window library search.
-Q2. (C), because study on SWAYAM is free; a fee is charged only for the certificate examination. The full form, the proctored examination and the forum quadrant are correct.
+Q2. (D), because study on SWAYAM is free; a fee is charged only for the certificate examination. The full form, the proctored examination and the forum quadrant are correct.
 Q3. (A), because both are true and the DTH broadcast is exactly why no internet is needed.
 Q4. (C), because Statement I describes cMOOCs correctly, but Statement II describes a SPOC; an xMOOC is a structured, instructor-led course open to very large numbers.
 Q5. (C), because UGC handles non-technical postgraduate courses. NPTEL handles engineering and CEC non-technical undergraduate courses.
