@@ -1,0 +1,202 @@
+::section 2.6 | Emotional characteristics and motivation
+::syllabus Learner's characteristics: characteristics of adolescent and adult learners (academic, social, emotional and cognitive)
+::box footprint
+{{FP 2.6}}
+::endbox
+::h Core
+A learner is not only a thinking mind. A learner also feels: hope, fear, boredom, pride, shame. These feelings, or emotions (संवेग), decide whether the learner starts a task, how hard she tries and how long she keeps going. The force that starts, directs and sustains behaviour towards a goal is called **motivation** (अभिप्रेरणा). This section explains the main theories of motivation that the examination asks about, and the emotional states, such as anxiety, that help or harm learning.
+::sub Intrinsic and extrinsic motivation
+**Intrinsic motivation** (आंतरिक अभिप्रेरणा) comes from within the learner. She studies because the subject is interesting, because she is curious, or because doing the task well is satisfying in itself. The reward is inside the activity.
+**Extrinsic motivation** (बाह्य अभिप्रेरणा) comes from outside the activity. The learner studies for marks, a prize, a scholarship, praise, a job, or to avoid punishment. The reward lies outside the activity of studying.
+A simple test decides the type: ask "would the learner still do it if the outside reward were removed?" If yes, the motivation is intrinsic. A student who studies hard only to win a scholarship is extrinsically motivated. A student who reads history at night because the past fascinates her is intrinsically motivated.
+Intrinsic motivation generally leads to deeper and longer-lasting learning. Extrinsic rewards work in the short run, but if they are overused they can weaken a learner's own interest. Going Further explains why.
+::table widths=30,35,35
+|Point|Intrinsic|Extrinsic|
+|Source|Inside the activity: interest, curiosity, satisfaction|Outside the activity: marks, prizes, praise, fear|
+|Example|Reading poetry because it moves you|Reading poetry because it is in the examination|
+|Effect|Deeper, more lasting learning|Quick results; interest may fade when rewards stop|
+::sub Maslow's hierarchy of needs
+Abraham Maslow, a humanistic psychologist, arranged human needs in a **hierarchy of needs** (आवश्यकता पदानुक्रम), usually drawn as a pyramid. From the base upwards the five levels are:
+1. Physiological needs: food, water, sleep, shelter.
+2. Safety needs: security, freedom from danger and fear.
+3. Love and belonging needs: friendship, acceptance, being part of a group.
+4. Esteem needs: self-respect, recognition, respect from others.
+5. Self-actualisation (आत्मसिद्धि): realising one's full potential, becoming all that one can be.
+Physiological needs form the base, and self-actualisation stands at the top. The main idea is that lower needs must be reasonably satisfied before higher needs begin to motivate behaviour. A hungry or frightened student finds it hard to attend to lessons. This is the thinking behind giving a mid-day meal to school children, and behind making a college campus safe and welcoming.
+Maslow divided the needs into two kinds. The four lower needs (physiological, safety, belonging and esteem) are **deficiency needs**. They arise from a lack, and once they are met they stop motivating; a person who has eaten is no longer driven by hunger. Self-actualisation is a **growth need** (also called a being need). It does not arise from a lack, and it goes on motivating, even growing stronger, as it is satisfied. Note the trap: esteem is the highest of the deficiency needs, but it is still a deficiency need.
+::sub Other names that appear beside Maslow
+Questions on Maslow often list other motivation theorists as distractors. Learn one line for each.
+- **Frederick Herzberg**: two-factor theory of work motivation (hygiene factors and motivators).
+- **David McClelland**: theory of achievement motivation (उपलब्धि अभिप्रेरणा); the need for achievement, written n-Ach.
+- **Carl Rogers**: humanistic psychology; the teacher as a facilitator of learning.
+- **Kurt Lewin**: field theory; studies of leadership styles (autocratic, democratic, laissez-faire).
+McClelland's need for achievement is the desire to do things well and to succeed against a standard of excellence. People high in n-Ach prefer tasks of moderate difficulty, where success is possible but not certain, and they want feedback on how they are doing. Very easy tasks give no sense of achievement, and very hard ones offer little chance of success.
+::sub Emotional intelligence
+**Emotional intelligence** (संवेगात्मक बुद्धि) is the ability to recognise, understand and manage one's own emotions and those of others. The term was introduced by Peter Salovey and John Mayer (1990). It was made popular by Daniel Goleman's book *Emotional Intelligence* (1995). Goleman's components are usually listed as five:
+- self-awareness: knowing one's own emotions;
+- self-regulation: managing them;
+- motivation: using emotions to pursue goals;
+- empathy: recognising and understanding the feelings of others;
+- social skills: handling relationships well.
+Do not confuse this with neighbouring names. Howard Gardner's interpersonal and intrapersonal intelligences (section 2.8) are related ideas but belong to a different theory, the theory of multiple intelligences. L. L. Thurstone proposed primary mental abilities, and Alfred Binet built the first intelligence test. If the question asks who popularised emotional intelligence, the answer is Goleman; if it asks who introduced the term, it is Salovey and Mayer.
+::sub Self-efficacy
+**Self-efficacy** (आत्म-प्रभावकारिता) is Albert Bandura's term for a person's belief in his or her own capability to succeed at a particular task. It is a belief, not the actual ability. Bandura showed that learners with high self-efficacy choose harder tasks, try harder and persist longer when they meet difficulty, whereas learners who doubt themselves give up early. The belief in one's capability is the mechanism: it influences how much effort is put in and how long it lasts. (Bandura's observational learning is taught in section 2.3.)
+::sub Anxiety and performance: the Yerkes-Dodson law
+**Anxiety** (दुश्चिंता) is a feeling of worry and tension about what may happen. A little anxiety before an examination is normal and can even help. The relation between arousal (alertness, tension) and performance is described by the **Yerkes-Dodson law**, named after Robert Yerkes and John Dodson (1908).
+The law describes an inverted U. As arousal rises from a low level, performance improves; it reaches a peak at a moderate, optimum level; beyond that, more arousal makes performance worse. The optimum is lower for difficult tasks than for easy ones. A bored, sleepy student does poorly; a moderately keyed-up student does best; a panicking student does poorly again.
+So two statements are true: moderate anxiety can help performance, and very high anxiety harms it. The statement "performance rises steadily as arousal rises" is false, because it would make extreme panic the best state of all.
+::box example
+In a B.A. first-year class at a district college in Haryana, Ms Kaur notices that several students from distant villages come without breakfast after a long bus journey and doze in the first period. Reading Maslow, she sees that their physiological needs are unmet. She persuades the college to open the canteen early with low-cost tea and snacks. Next, she makes the class safe for mistakes: no ridicule when an answer is wrong (safety and belonging). She praises specific improvement (esteem). Only then does she introduce an optional reading club for those who want to go further (growth). Before the semester test she tells the class, "Some nervousness is normal; it keeps you alert", and gives a short practice test so that anxiety stays moderate, not overwhelming.
+::endbox
+::box confused
+- Intrinsic and extrinsic motivation: is the reward inside the activity (interest, satisfaction) or outside it (marks, scholarship, fear)?
+- Deficiency and growth needs: physiological, safety, belonging and esteem stop motivating once met; self-actualisation keeps motivating. Esteem is the top deficiency need, not a growth need.
+- Introduced and popularised emotional intelligence: Salovey and Mayer introduced the term; Goleman popularised it.
+- Emotional intelligence and Gardner's personal intelligences: Goleman's EI is a separate theory; interpersonal and intrapersonal intelligences belong to Gardner's multiple intelligences.
+- Self-efficacy and self-esteem: self-efficacy is belief in capability for a task; self-esteem is a general feeling of one's worth.
+- Yerkes-Dodson: moderate arousal is best (inverted U), not "more is always better".
+::endbox
+::further
+::sub Weiner's attribution theory
+Bernard Weiner asked how learners explain their own successes and failures. The cause a learner names is an **attribution** (गुणारोपण). Weiner classified causes along two main dimensions: locus (is the cause inside the person or outside?) and stability (does it stay the same from one occasion to the next, or change?). He later added a third, controllability. The four classic causes fall as follows.
+::table widths=30,35,35
+|Cause|Locus|Stability|
+|Ability|Internal|Stable|
+|Effort|Internal|Unstable|
+|Task difficulty|External|Stable|
+|Luck|External|Unstable|
+A student who says "I failed because I did not work hard enough" names effort: internal and unstable. This is the healthiest attribution after failure, because effort can be changed next time. A student who says "I failed because I am not clever" names ability: internal and stable, which leads to hopelessness.
+::sub Locus of control and learned helplessness
+Julian Rotter's **locus of control** (नियंत्रण-स्थल) is where a person places the control of what happens to him. A learner with an internal locus believes results depend on his own effort and decisions; such learners take responsibility, work harder and persist. A learner with an external locus believes results depend on luck, fate, the teacher's favour or other people.
+**Learned helplessness** (अधिगत असहायता), described by Martin Seligman, is the state in which, after repeated failure that one could not control, a person comes to believe that nothing he does makes any difference. He then stops trying, even on tasks at which he could succeed. In students it shows as passivity and giving up. Graded tasks that guarantee early success, and teaching students to attribute results to effort and strategy, help to reverse it.
+Do not confuse learned helplessness with: test anxiety (fear that interferes with performance during a test; the student still tries); field dependence (a cognitive style, the tendency to perceive things as a whole and be influenced by surroundings); identity diffusion (one of James Marcia's identity statuses, an adolescent who has neither explored nor committed to an identity; see section 2.1).
+::sub Carol Dweck's mindsets
+Carol Dweck distinguished two beliefs about ability. In a **fixed mindset** (also called the entity theory), ability is a fixed quantity that cannot be changed. Learners with this belief avoid difficult tasks, to protect their image, and treat failure as proof of low ability. In a **growth mindset** (also called the incremental theory), ability grows with effort and good strategy. These learners welcome challenge and treat failure as information. Dweck found that praising effort and strategy ("you tried a new method and it worked") encourages a growth mindset, while praising intelligence ("you are so clever") encourages a fixed one. Remember: "incremental" is the technical name for growth, the opposite of fixed.
+::sub Achievement goals
+Achievement goal theory asks what a learner is trying to achieve when she works hard. A **mastery goal** (also called a learning goal) aims to understand and to improve one's own competence. A **performance goal** aims to demonstrate ability compared with others: to be seen as the brightest, or not to look stupid. A **work-avoidance goal** aims to get by with the least effort. Two students may work equally hard; the deciding question is why. Mastery goals go with deeper study strategies and with persistence after failure.
+::sub Atkinson and expectancy-value theory
+John Atkinson treated achievement behaviour as the result of two opposing motives: the motive to succeed (hope of success) and the motive to avoid failure (fear of failure). He also held that motivation depends on the expectancy of success and the value (incentive) of success.
+**Expectancy-value theory** (developed further by Jacquelynne Eccles and colleagues for school learning) states the idea simply: motivation = expectancy of success × value of the goal. Because the two are multiplied, if either is near zero the motivation is near zero. A student who values a course highly but is certain she cannot pass it will make little effort. This is why building confidence matters as much as showing the value of a subject.
+::sub Vroom's expectancy theory: a small calculation
+Victor Vroom stated a similar idea for work motivation, with three terms:
+- **Expectancy**: the belief that effort will lead to good performance (a probability from 0 to 1).
+- **Instrumentality**: the belief that good performance will lead to the outcome (0 to 1).
+- **Valence**: the value the person places on the outcome.
+Motivational force = expectancy × instrumentality × valence.
+::box worked
+A student is almost sure that effort will bring good marks (expectancy 0.9), fairly sure that good marks will bring a scholarship (instrumentality 0.5), but places no value at all on the scholarship (valence 0).
+> Force = 0.9 × 0.5 × 0 = 0
+Another student has expectancy 0.8, instrumentality 0.5 and valence 0.9.
+> Force = 0.8 × 0.5 × 0.9 = 0.36
+The terms are multiplied, not added or averaged. A zero anywhere makes the whole product zero: nobody strives for an outcome that has no value for him, however sure the path.
+::endbox
+::box slips
+- Adding the terms (0.9 + 0.5 + 0 = 1.4) or averaging them (about 0.47). The model multiplies.
+- Leaving the zero out of the product (0.9 × 0.5 = 0.45). A zero term cannot be dropped.
+::endbox
+::sub More needs theories: Herzberg, Alderfer, McClelland
+**Herzberg's two-factor theory** (motivation-hygiene theory) came from studies of people at work. **Hygiene factors**, such as salary, job security, supervision, company policy and working conditions, prevent dissatisfaction when they are adequate, but do not by themselves motivate. **Motivators**, such as achievement, recognition, responsibility, the work itself and growth, produce satisfaction and real motivation. For a college: a decent classroom and fair rules prevent complaints; interesting work and recognition make students want to learn.
+**Clayton Alderfer's ERG theory** condensed Maslow's five levels into three: existence, relatedness and growth.
+**McClelland's acquired-needs theory** names three needs: achievement, affiliation and power. They are learned through experience, not inborn, which is why McClelland held that achievement motivation can be developed through training.
+Maslow, too, did not say that a lower need must be completely satisfied before the next appears. He spoke of relative satisfaction: a need must be reasonably satisfied, and a person may be partly satisfied at several levels at once.
+::table widths=30,70
+|Theorist|Key terms to recognise|
+|Maslow|Physiological, safety, love and belonging, esteem, self-actualisation|
+|Alderfer|Existence, relatedness, growth (ERG)|
+|Herzberg|Hygiene factors and motivators|
+|McClelland|Needs for achievement, affiliation, power|
+|Vroom|Valence, instrumentality, expectancy|
+|Deci and Ryan|Autonomy, competence, relatedness|
+|Weiner|Attribution: locus, stability (and controllability)|
+|Atkinson|Motive to succeed and motive to avoid failure|
+|Bandura|Self-efficacy|
+::sub Self-determination theory and the overjustification effect
+Edward Deci and Richard Ryan's **self-determination theory** holds that intrinsic motivation flourishes when three basic psychological needs are met: **autonomy** (feeling that one acts by choice), **competence** (feeling effective) and **relatedness** (feeling connected to others). Note that "relatedness" also appears in Alderfer's ERG; the deciding word is "autonomy", which only Deci and Ryan use.
+Research in this tradition gives a balanced picture of rewards:
+- Expected tangible rewards (money, prizes) for a task that is already interesting can weaken intrinsic motivation.
+- Unexpected praise that carries information about performance ("your argument in the second paragraph is clear") tends to sustain intrinsic motivation.
+- Teaching that supports learners' autonomy (choices, reasons, respect for their views) promotes intrinsic motivation.
+- Extrinsic motivation is not always harmful. It is useful for tasks that are not interesting in themselves, and extrinsic reasons that the learner has accepted as his own work well.
+The **overjustification effect** is the name for the first point. When people are rewarded for something they already enjoy, they may come to see the reward as their reason for doing it; when the reward stops, their interest falls below its original level. Keep it apart from three other named effects:
+- **Hawthorne effect**: people change their behaviour because they know they are being observed or studied.
+- **Pygmalion effect**: learners tend to perform in line with what teachers expect of them (expectations become self-fulfilling).
+- **Zeigarnik effect**: unfinished tasks are remembered better than finished ones.
+::sub Bandura's four sources of self-efficacy
+Bandura named four sources from which learners build self-efficacy:
+1. **Mastery experiences**: one's own past successes. This is the strongest source, because it gives direct evidence of capability.
+2. **Vicarious experiences**: seeing similar others succeed ("if she can, so can I").
+3. **Verbal persuasion**: encouragement from a respected person.
+4. **Physiological and emotional states**: reading one's own calm or tension as a sign of capability or weakness.
+::sub Keller's ARCS model
+John Keller's **ARCS model** gives teachers four conditions for motivating learners:
+- **Attention**: gain and hold it, for example by opening with a puzzling case or a surprising fact.
+- **Relevance**: link the topic to learners' goals, such as their careers.
+- **Confidence**: arrange tasks so that learners expect to succeed, for example graded tasks with early success.
+- **Satisfaction**: let learners feel good about what they achieved, through rewards, recognition and chances to use what they have learnt.
+Confidence is about the expectation of success before and during the task; satisfaction is about the feeling after achievement.
+::box check
+Q1. A student reads Premchand's stories in her free time only because she enjoys them, though they are not in her syllabus. Her motivation is best described as:
+(A) extrinsic
+(B) intrinsic
+(C) instrumental
+(D) competitive
+Q2. Match List I with List II.
+::match
+List I (Theorist) || List II (Concept)
+A. Herzberg || I. Autonomy, competence and relatedness
+B. Deci and Ryan || II. Hygiene factors and motivators
+C. Alderfer || III. Locus and stability of causes
+D. Weiner || IV. Existence, relatedness and growth
+Choose the correct answer from the options given below:
+(A) A-II, B-I, C-IV, D-III
+(B) A-II, B-IV, C-I, D-III
+(C) A-III, B-I, C-IV, D-II
+(D) A-IV, B-I, C-II, D-III
+Q3. Assertion (A): A student who is in a state of panic before a difficult examination is likely to perform below her best.
+Reason (R): According to the Yerkes-Dodson law, performance falls when arousal rises beyond an optimum level, and the optimum is lower for difficult tasks.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q4. Which of the following are deficiency needs in Maslow's theory?
+1. Safety
+2. Esteem
+3. Self-actualisation
+4. Belongingness
+Choose the correct answer from the options given below:
+(A) 1 and 3 only
+(B) 2, 3 and 4 only
+(C) 1, 2 and 4 only
+(D) 1, 2, 3 and 4
+Q5. A learner has expectancy 0.6, instrumentality 0.5 and valence 0.8. By Vroom's model her motivational force is:
+(A) 0.24
+(B) 0.63
+(C) 1.90
+(D) 0.30
+Q6. Statement I: Daniel Goleman introduced the term emotional intelligence in 1990.
+Statement II: Self-awareness and empathy are among the components of emotional intelligence as Goleman described it.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q7. After a poor result a student says, "The paper was set far above our level." In Weiner's scheme the cause named is:
+(A) internal and stable
+(B) internal and unstable
+(C) external and unstable
+(D) external and stable
+Q8. A teacher wants to strengthen the self-efficacy of a student who has failed twice. Which step uses the strongest source of self-efficacy?
+(A) Telling him that he is capable
+(B) Showing him a video of a senior who once failed and later topped
+(C) Giving him a sequence of tasks on which he actually succeeds
+(D) Teaching him to relax his breathing before tests
+::endbox
+::answers
+Q1. (B), because the reward lies in the reading itself; nothing outside the activity drives it.
+Q2. (A), because Herzberg is hygiene and motivators, Deci and Ryan is autonomy-competence-relatedness, Alderfer is ERG and Weiner is attribution. "Relatedness" appears in both I and IV, but only Deci and Ryan have "autonomy".
+Q3. (A), because panic is arousal well past the optimum, and the optimum is lower for a difficult task; R states exactly why A happens.
+Q4. (C), because safety, esteem and belongingness are deficiency needs; self-actualisation is the growth need.
+Q5. (A), because 0.6 × 0.5 × 0.8 = 0.24. Adding gives 1.90 and averaging gives about 0.63; both are slips.
+Q6. (D), because the term was introduced by Salovey and Mayer; Goleman popularised it in 1995. Statement II is true.
+Q7. (D), because task difficulty lies outside the learner and stays the same from one occasion to the next.
+Q8. (C), because mastery experience, actual success, is the strongest source. (A) is verbal persuasion, (B) vicarious experience and (D) works on physiological states.
+::endanswers

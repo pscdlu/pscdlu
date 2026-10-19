@@ -1,0 +1,100 @@
+::chapter 3 | Factors Affecting Teaching
+The same lesson, taught by the same teacher, can succeed in one classroom and fail in another. This chapter explains why. The syllabus groups the influences on teaching under six heads: the teacher, the learner, support material, instructional facilities, the learning environment and the institution. Most questions on this topic ask you to place a given influence in the right group, so learn the boundaries between the groups as carefully as the groups themselves.
+
+::section 3.1 | The six groups of factors
+::syllabus Factors affecting teaching related to: Teacher, Learner, Support material, Instructional facilities, Learning environment and Institution
+::box footprint
+{{FP 3.1}}
+::endbox
+::h Core
+A **factor affecting teaching** (शिक्षण को प्रभावित करने वाले कारक) is anything that makes teaching more or less successful in bringing about learning (अधिगम). The syllabus names six groups of such factors. Learn them in this order, because the order moves outward from the people in the room to the organisation around them.
+::table widths=24,38,38
+|Group|What it covers|Typical examples|
+|Teacher (शिक्षक)|What the teacher brings: knowledge, skill, personality, attitudes, expectations|Subject mastery, communication skill, warmth, enthusiasm, questioning skill, expectations of students|
+|Learner (शिक्षार्थी)|What the students bring|Prior knowledge, intelligence, aptitude, interest, motivation, maturation, anxiety, health, home background|
+|Support material (सहायक सामग्री)|The aids and resources used to teach a particular content|Charts, models, handouts, worksheets, slides, films, e-journals|
+|Instructional facilities (शैक्षणिक सुविधाएँ)|The infrastructure the institution provides for all teaching|Classrooms, laboratories, libraries, projectors, computer terminals, Wi-Fi network|
+|Learning environment (अधिगम वातावरण)|The physical and psychological surroundings of learning|Light, air, noise, seating; warmth, respect, freedom from fear|
+|Institution (संस्था)|The policies, leadership and organisation of the college or university|Timetable, academic calendar, class size, workload, evaluation policy, leadership, faculty development|
+::sub How to place a factor in its group
+Ask two questions. First, where does the factor live: in the teacher, in the students, in the things used for one lesson, in the building and equipment, in the surroundings of the class, or in the rules and leadership of the institution? Second, who controls it? The teacher controls his or her own preparation and style. The institution controls admissions, timetables and equipment.
+- A projector is equipment provided for all classes, so it is an **instructional facility**. A set of slides prepared for one lesson is **support material**.
+- Noise from a nearby road is a condition around the class, so it belongs to the **learning environment**. A classroom where students fear ridicule also has a poor learning environment, on its psychological side.
+- The head's support for trying a new method is a matter of leadership, so it is an **institution** factor.
+- Home background, prior knowledge and motivation live in the students, so they are **learner** factors.
+::sub No single factor is enough
+The factors work together. A teacher may know the subject thoroughly and still fail, if he cannot explain it, if the method does not suit the class, or if the students lack the background to follow. So subject mastery is **necessary but not sufficient** for effective teaching. In the same way, the effect of a method depends partly on the **readiness** (तत्परता) of the learners, that is, whether they have the maturity and prior knowledge the method assumes. When a statement says that any one factor "alone ensures" or "is sufficient for" good teaching, doubt it.
+::box example
+In a government college in Hisar, a newly appointed lecturer in Economics has an excellent research record. Her first-year B.A. students come mostly from Hindi-medium schools and have never studied the subject. Her lectures, full of graphs and English terms, leave the class silent. Her subject mastery (a teacher factor) is not in question. The gap lies in the learners' prior knowledge and language (learner factors). Her lectures improve when she starts each topic with an example from the village market and adds a bilingual handout (support material). The college then gives her a smaller tutorial group on Saturdays (an institution decision).
+::endbox
+::box confused
+- **Support material vs instructional facilities.** Support material is made or chosen for a particular content (a chart, a worksheet, a film). Instructional facilities are lasting infrastructure the institution provides for all teaching (a laboratory, a library, a projector, the network).
+- **Learning environment vs instructional facilities.** The environment is the condition of the surroundings (light, noise, seating, emotional climate). Facilities are the equipment and spaces themselves. A dim room is an environment problem; the absence of a laboratory is a facilities problem.
+- **Learner factor vs teacher factor.** Ask in whom the quality resides. Prior knowledge belongs to the student; subject mastery belongs to the teacher.
+- **Necessary vs sufficient.** Necessary means "cannot succeed without it"; sufficient means "enough on its own". Subject mastery is necessary, not sufficient.
+::endbox
+::further
+::sub Interactions between the groups
+Examiners at the harder levels like cases where two groups meet. Three patterns recur.
+1. **Facilities need teachers.** A projector in every room does nothing if teachers are not trained or willing to use it (see 3.5).
+2. **Material needs facilities.** E-journals are useless without terminals and a network to reach them (see 3.5).
+3. **Methods need learners.** The same method gives different results with different learners; this is the aptitude-treatment interaction (see 3.3).
+::sub Links to other units
+The learner factors here connect with Chapter 2 (Learner's Characteristics). The communication side of the teacher and of noise in the classroom connects with Unit II (Research Aptitude is Unit II; Communication is Unit IV), where noise is treated as a barrier to communication. The institution factors connect with Unit X (Higher Education System), where bodies such as NAAC and the statutory councils of universities are studied.
+::box check
+Q1. Which of the following is an instructional facility and not support material?
+(A) A worksheet prepared for a lesson on demand curves
+(B) A computer laboratory with forty terminals
+(C) A chart of the parts of a flower
+(D) A set of slides on the Mughal administration
+Q2. Given below are two statements:
+Statement I: A teacher's subject mastery is sufficient for effective teaching.
+Statement II: The same method can work differently with learners who differ in prior knowledge.
+In the light of the above statements, choose the correct answer:
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+Q3. Match List I (influence on teaching) with List II (group of factors):
+::match
+List I || List II
+A. Noise from a construction site || I. Teacher
+B. Principal's encouragement of innovation || II. Learning environment
+C. Students' interest in the subject || III. Institution
+D. Teacher's skill in questioning || IV. Learner
+Choose the correct answer from the options given below:
+(A) A-II, B-III, C-IV, D-I
+(B) A-III, B-II, C-IV, D-I
+(C) A-II, B-III, C-I, D-IV
+(D) A-IV, B-III, C-II, D-I
+Q4. Which of the following are learner-related factors?
+1. Motivation of the students
+2. Seating arrangement of the room
+3. Aptitude of the students
+4. Teacher's enthusiasm
+5. Prior knowledge of the students
+Choose the correct answer from the options given below:
+(A) 1, 2 and 3 only
+(B) 2, 4 and 5 only
+(C) 1, 3 and 5 only
+(D) 1, 3, 4 and 5 only
+Q5. Assertion (A): A well-equipped classroom does not by itself ensure good teaching.
+Reason (R): The effect of teaching depends on several groups of factors acting together.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. The timetable and the size of each section in a college are best classed as factors related to the:
+(A) learner
+(B) learning environment
+(C) support material
+(D) institution
+::endbox
+::answers
+Q1. (B), because a laboratory is lasting infrastructure provided for all teaching. The worksheet, chart and slides are made for particular content, so they are support material.
+Q2. (D), because mastery is necessary but not sufficient, which makes Statement I false; Statement II states the accepted position that the effect of a method depends on the learners' readiness.
+Q3. (A), because noise is part of the learning environment, the principal's encouragement is institutional leadership, interest lives in the learner and questioning skill belongs to the teacher.
+Q4. (C), because motivation, aptitude and prior knowledge reside in the students. Seating belongs to the learning environment and enthusiasm to the teacher.
+Q5. (A), because equipment is only one of six groups of factors; without a capable teacher, ready learners and a supportive climate it cannot produce learning, so R explains A.
+Q6. (D), because the timetable and sectioning are fixed by institutional policy, not by the learner or the surroundings of a particular class.
+::endanswers

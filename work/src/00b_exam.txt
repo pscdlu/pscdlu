@@ -1,0 +1,28 @@
+::front This unit in the examination
+::h How many questions, and how they are marked
+Paper 1 has 50 compulsory questions. Each carries 2 marks, so the paper is out of 100. There is no negative marking, so never leave a question blank. Paper 1 and Paper 2 are taken together in one sitting of three hours, as a computer-based test.
+The syllabus has ten units, and the paper is designed to take **five questions from each unit**. So Teaching Aptitude is worth about 10 marks. Sometimes a sixth question touches this unit too, because a topic such as SWAYAM or classroom communication also belongs to the units on ICT, Communication or Higher Education.
+::h The formats you will meet
+The paper no longer asks only plain one-answer questions. In recent papers a large share of questions use these formats:
+- **Multiple-select.** Five numbered statements; you choose the option that lists the correct ones, such as "1, 3 and 4 only".
+- **Match the list.** Four items in List I to be matched with four in List II; you choose the option with the right set of pairs.
+- **Sequencing.** Four or five steps or stages to be put in order, such as the levels of Bloom's taxonomy or Piaget's stages.
+- **Two statements.** Statement I and Statement II; you decide whether each is true or false.
+- **Assertion and Reason.** You decide whether each statement is true, and then whether the Reason explains the Assertion.
+- **Classroom scenarios.** A short situation, and the question asks what the teacher should do or what kind of method or evaluation is being used.
+Every "Check yourself" in this guide uses these formats, with more room given to the harder ones.
+::h The topics that recur most
+A survey of what candidates have recalled from the papers set by NTA since December 2018, and of what the standard Paper 1 books treat as core, shows these topics coming back again and again, roughly in this order:
+1. Types of evaluation: formative and summative, norm-referenced and criterion-referenced, often as a classroom scenario (Section 6.3).
+2. Bloom's taxonomy and the domains of objectives (Section 1.4).
+3. SWAYAM, SWAYAM PRABHA and MOOCs (Section 4.6).
+4. Teacher-centred and learner-centred methods (Section 4.1).
+5. The levels of teaching: memory, understanding and reflective (Section 1.5).
+6. Learning theories and the learning process (Section 2.3).
+7. Effective teaching and "what should the teacher do" scenarios (Section 1.7).
+8. Group and cooperative methods such as seminar, symposium, panel and workshop (Section 4.3).
+9. Piaget, Vygotsky and other thinkers on cognitive development (Section 2.2).
+10. Micro-teaching and Flanders' Interaction Analysis (Section 1.8).
+11. The Choice Based Credit System and grading (Section 6.7).
+12. The nature of teaching and models of teaching (Sections 1.1 and 1.9).
+Each section of the guide opens with an **Exam footprint** line that tells you how often its topic is asked and in what form. Spend your time accordingly, but do not skip the rarer sections: the booklet, and sometimes the examination, will ask about them.

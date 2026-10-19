@@ -1,0 +1,153 @@
+::chapter 2 | Learner's Characteristics
+The syllabus asks you to know the "characteristics of adolescent and adult learners (academic, social, emotional and cognitive), individual differences". This chapter takes that one sentence apart, piece by piece, in nine sections. A learner (शिक्षार्थी) in a college or university is usually a late adolescent (किशोर) or a young adult, so we begin with who these learners are, and then look at each kind of characteristic in turn.
+::table widths=30,70
+|Syllabus phrase|Where this chapter teaches it|
+|adolescent and adult learners|2.1 (who the learner in higher education is: adolescence and early adulthood); 2.7 (adult learners and andragogy)|
+|cognitive characteristics|2.2 (how the learner thinks: Piaget, Vygotsky, Bruner, Ausubel, memory); 2.3 (how learners learn: the theories of learning)|
+|academic characteristics|2.4 (learning styles, study habits and self-regulation)|
+|social characteristics|2.5 (peers, groups and moral reasoning)|
+|emotional characteristics|2.6 (emotions and motivation)|
+|individual differences|2.8 (individual differences and intelligence); 2.9 (learners with diverse needs and inclusive teaching)|
+Read 2.1 first. Its picture of the late adolescent and the young adult is used in every later section.
+
+::section 2.1 | The learner in higher education: adolescence and early adulthood
+::syllabus Characteristics of adolescent and adult learners
+::box footprint
+{{FP 2.1}}
+::endbox
+::h Core
+::sub Who sits in a college classroom
+Most students join an undergraduate course at about seventeen or eighteen. This age falls in **late adolescence** (उत्तर किशोरावस्था). **Adolescence** (किशोरावस्था) is the period between childhood and adulthood. It begins with the bodily changes of puberty and ends when the young person takes on adult roles. The World Health Organization uses the range 10 to 19 years for adolescents. Postgraduate and research students, in their twenties, are mostly **young adults** (युवा वयस्क). So a college teacher teaches late adolescents and young adults, often in the same building.
+What do late adolescents bring to the classroom? Five things matter for the examination.
+- They can think in the abstract. They can reason about ideas, possibilities and hypotheses, not only about things they can see. (Piaget's formal operational stage; see 2.2.)
+- They are searching for an identity. They ask, "Who am I? What will I become?"
+- They want independence from parents, and this often brings conflict at home.
+- They are very sensitive to the opinion of their peers (friends of their own age), and they care about how they look. Body image matters to them.
+- Their emotions are intense and they change quickly. Emotional stability is not a mark of this age.
+From these follows a classroom rule. Because adolescents are self-conscious and hurt easily by criticism in front of others, correct them privately and with respect. Do not shame a student before the class.
+Adolescents also look for heroes. They idealise a sports star, a film actor, a leader or a teacher, and they day-dream about their own future roles. **Hero-worship** and **day-dreaming** are typical of adolescence. Both come from the search for identity and from strong feelings.
+::sub G. Stanley Hall: storm and stress
+G. Stanley Hall (Granville Stanley Hall), an American psychologist, wrote a large book called *Adolescence* (1904). He described adolescence as a period of **storm and stress** (तूफ़ान और तनाव). He meant rapid bodily growth, ups and downs of mood, the search for identity and conflict with parents and other authority. The phrase comes from the German *Sturm und Drang*. If a question asks which phrase "commonly describes" adolescence, the answer is storm and stress, not rest, stability, play or decline.
+Later research softened Hall's view. Not every adolescent goes through storm and stress, but such stress is more likely in adolescence than at other ages.
+::sub Erik Erikson: eight psychosocial stages
+Erik H. Erikson described the whole life span as eight stages in his book *Childhood and Society* (1950). His theory is called **psychosocial** (मनोसामाजिक) because each stage is a conflict between the person's needs and the demands of society. Each stage has a "crisis", named as a pair of opposites. Examiners use the other stages as distractors, so learn all eight in order.
+::table widths=10,40,50
+|No.|Crisis|Life period|
+|1|Trust versus mistrust|Infancy|
+|2|Autonomy versus shame and doubt|Early childhood (toddler)|
+|3|Initiative versus guilt|Pre-school years|
+|4|Industry versus inferiority|School age (about 6 to 12)|
+|5|Identity versus role confusion|Adolescence|
+|6|Intimacy versus isolation|Young adulthood|
+|7|Generativity versus stagnation|Middle adulthood|
+|8|Integrity versus despair|Old age|
+For adolescence the crisis is **identity versus role confusion** (पहचान बनाम भूमिका भ्रम). The young person tries to build a clear sense of who he or she is: values, beliefs, career, relationships. If this fails, the result is confusion about one's role in life. Erikson called this struggle the **identity crisis**.
+The next stage, **intimacy versus isolation**, belongs to young adulthood. It is about forming close, lasting relationships. Many postgraduate students are in this stage. But it is not the stage of adolescence. This is a favourite trap.
+::sub Robert Havighurst: developmental tasks
+Robert J. Havighurst gave the idea of **developmental tasks** (विकासात्मक कार्य). A developmental task is a task that society expects a person to master at a certain period of life. If the person masters it, he or she is happy and succeeds with later tasks. If not, there is unhappiness, disapproval by society and difficulty with later tasks. Havighurst set out these tasks in *Developmental Tasks and Education* (first edition 1948).
+His tasks for adolescence include:
+- forming new and more mature relations with age-mates of both sexes;
+- accepting one's body (physique) and using it effectively;
+- achieving emotional independence from parents and other adults;
+- preparing for a career (an economic career);
+- preparing for marriage and family life;
+- acquiring a set of values and an ethical system to guide behaviour;
+- desiring and achieving socially responsible behaviour.
+Keep the three names apart. **Havighurst**: developmental tasks. **Erikson**: psychosocial stages and the identity crisis. **Hall**: storm and stress.
+::sub James Marcia: four identity statuses
+James Marcia (1966) took Erikson's idea of identity and asked two questions about a young person.
+1. Has there been **exploration**? Has the person actively looked at different choices (courses, careers, beliefs)?
+2. Has there been **commitment**? Has the person firmly chosen?
+The answers give four **identity statuses** (पहचान स्थितियाँ).
+::table widths=25,20,20,35
+|Status|Exploration|Commitment|Example|
+|Identity diffusion|No|No|A student who has not thought about a career and has not chosen one|
+|Identity foreclosure|No|Yes|A student firmly set on the career his parents chose, without looking at any other|
+|Identity moratorium|Yes|No|A first-year student trying out courses, clubs and career ideas, not yet decided|
+|Identity achievement|Yes|Yes, after exploring|A student who explored several fields and then chose one with conviction|
+The word **moratorium** means a period of delay. Moratorium is common, and healthy, among students in their first years of college. **Foreclosure** means a door closed early: commitment without exploration.
+::sub University students are still forming an identity
+Erikson and Marcia both show that identity formation does not end at eighteen. It continues into the early twenties, especially for students who are still studying. So many university students are still consolidating their sense of identity.
+Do not mix this up with Kohlberg. Lawrence Kohlberg described stages of **moral reasoning** (see 2.5). Moral reasoning is a different part of development from identity. A true statement about Kohlberg does not explain a fact about identity.
+::sub Jeffrey Arnett: emerging adulthood
+Jeffrey Jensen Arnett proposed in 2000 that the years from about **eighteen to twenty-five** form a separate stage of life. He called it **emerging adulthood** (उभरती वयस्कता). In societies where marriage, parenthood and settled work come late, young people in these years are neither adolescents nor full adults. Arnett named five features:
+- identity explorations (in love, work and values);
+- instability (changes of residence, job and relationships);
+- self-focus;
+- feeling in-between (neither adolescent nor adult);
+- possibilities (a sense that many futures are still open).
+Most university students fall in this period. If a question asks who proposed "emerging adulthood", the answer is Arnett. Erikson described the identity crisis, Marcia the identity statuses, and Daniel Levinson the "seasons" of adult life (*The Seasons of a Man's Life*, 1978).
+::box example
+In a B.A. first-year class in Sirsa, Meena reads out her answer and a classmate laughs at a mistake. Meena goes silent for the rest of the week. Her teacher speaks to her alone after class, praises the good part of her answer and shows her the error kindly. Next week the teacher forms small groups so that every student speaks first to three peers before speaking to the whole class. The teacher has used two facts about late adolescents: they are sensitive to peer opinion, and they learn readily with peers when they feel safe.
+::endbox
+::box confused
+- **Identity versus role confusion** and **intimacy versus isolation.** Identity is the crisis of adolescence; intimacy is the crisis of young adulthood, the next stage.
+- **Industry versus inferiority** and **identity versus role confusion.** Industry is the school-age stage (about 6 to 12); identity is adolescence.
+- **Hall**, **Havighurst** and **Erikson.** Hall: storm and stress. Havighurst: developmental tasks. Erikson: psychosocial stages.
+- **Moratorium** and **diffusion.** Both lack commitment. In moratorium the person is actively exploring; in diffusion there is no exploration either.
+- **Foreclosure** and **achievement.** Both show commitment. In foreclosure there was no exploration before it; in achievement there was.
+- **Imaginary audience** and **personal fable** (Going Further). Imaginary audience: "everyone is watching me". Personal fable: "I am unique and nothing bad can happen to me".
+- **Arnett** and **Levinson.** Arnett: emerging adulthood (18 to 25). Levinson: seasons of adult life.
+::endbox
+::further
+::sub David Elkind: adolescent egocentrism
+David Elkind (1967) described a special kind of self-centredness in adolescents, which he called **adolescent egocentrism** (किशोर अहंकेंद्रिता). It appears when the young person first gains abstract thought and can think about what others think, but then wrongly assumes that others are thinking about him or her. It has two forms.
+- **Imaginary audience** (काल्पनिक दर्शक). The adolescent feels "on stage", as if others are always watching and judging. This explains self-consciousness about appearance, and the dread of being laughed at.
+- **Personal fable** (व्यक्तिगत कल्पित कथा). The adolescent believes that he or she is special, unique and invulnerable (cannot be harmed). "Accidents happen to other people, not to me." This lies behind risk-taking, such as riding without a helmet.
+Imaginary audience and personal fable are Elkind's terms. Foreclosure and moratorium are Marcia's identity statuses. A question may mix the two sets of terms in its options.
+::sub Applying Marcia to cases
+To place a student in Marcia's scheme, ask the two questions in order. First: is the student committed? If no, the answer is moratorium (if exploring) or diffusion (if not exploring). If yes, ask: did the commitment come after exploration? If yes, achievement; if no, foreclosure. A student who obeys the family's choice of career without considering anything else is in foreclosure, even if the choice is a good one.
+::sub Statuses are not fixed
+Marcia's statuses are not a ladder that everyone climbs once. A person can be achieved in one area (career) and foreclosed in another (religion), and can move from achievement back to moratorium when life changes. This is why identity work continues through the university years.
+::box check
+Q1. Which pairing of Erikson's crisis with its life period is correct?
+(A) Industry versus inferiority -- adolescence
+(B) Intimacy versus isolation -- adolescence
+(C) Identity versus role confusion -- adolescence
+(D) Integrity versus despair -- young adulthood
+Q2. Match List I with List II.
+::match
+List I || List II
+A. G. Stanley Hall || I. Developmental tasks
+B. Robert Havighurst || II. Emerging adulthood
+C. James Marcia || III. Storm and stress
+D. Jeffrey Arnett || IV. Identity statuses
+(A) A-III, B-I, C-IV, D-II
+(B) A-I, B-III, C-IV, D-II
+(C) A-III, B-I, C-II, D-IV
+(D) A-IV, B-I, C-III, D-II
+Q3. A second-year student has firmly decided to become a lawyer because her father is one. She has never considered any other career. In Marcia's terms her status is:
+(A) identity achievement
+(B) identity moratorium
+(C) identity diffusion
+(D) identity foreclosure
+Q4. Which of the following are typical of late adolescent learners? Choose the correct answer from the options given below:
+1. Ability to reason about hypotheses
+2. Steady, unchanging emotions
+3. Strong concern for peer opinion
+4. Wish for independence from parents
+(A) 1, 2 and 3 only
+(B) 1, 3 and 4 only
+(C) 2, 3 and 4 only
+(D) 1, 2, 3 and 4
+Q5. Assertion (A): A teacher should point out an undergraduate's mistakes privately rather than before the whole class.
+Reason (R): Adolescents are self-conscious and highly sensitive to how their peers see them.
+(A) Both A and R are true and R is the correct explanation of A
+(B) Both A and R are true but R is NOT the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Q6. Statement I: Elkind's "personal fable" is the adolescent's feeling of being constantly watched by others.
+Statement II: Arnett placed emerging adulthood roughly between eighteen and twenty-five years.
+(A) Both Statement I and Statement II are true
+(B) Both Statement I and Statement II are false
+(C) Statement I is true but Statement II is false
+(D) Statement I is false but Statement II is true
+::endbox
+::answers
+Q1. (C), because identity versus role confusion is Erikson's adolescent stage. Industry belongs to the school years, intimacy to young adulthood and integrity to old age.
+Q2. (A), because Hall described storm and stress, Havighurst developmental tasks, Marcia identity statuses and Arnett emerging adulthood.
+Q3. (D), because she is committed but has not explored any alternative. Commitment without exploration is foreclosure; achievement needs exploration first.
+Q4. (B), because abstract reasoning, peer sensitivity and the wish for independence mark late adolescence. Emotions in adolescence are intense and changeable, so statement 2 is wrong.
+Q5. (A), because the reason for private correction is exactly the adolescent's self-consciousness before peers.
+Q6. (D), because the feeling of being watched is the imaginary audience; the personal fable is the belief in being unique and invulnerable. Statement II is correct.
+::endanswers

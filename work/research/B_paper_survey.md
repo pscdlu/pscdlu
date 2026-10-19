@@ -72,3 +72,95 @@ Key to sources: [S1] PW June 2025 shift analyses (pw.live URLs above); [S2] JRF 
 | 6.8 Computer-based testing | Low | Single-answer | S8 |
 | 6.9 Innovations in evaluation (open-book, portfolio, rubrics, self and peer assessment, e-assessment) | Medium | Multiple-select; single-answer | S3 ("assessment tools"), S4 |
 
+## 2. Exam footprint lines (ready to print; each under 30 words)
+
+- **1.1** Asked often; usually a multiple-select item on what teaching is or aims at, or a statement contrasting teaching with indoctrination, conditioning or training.
+- **1.2** Asked occasionally; usually a match or sequence item placing activities in the pre-active, interactive or post-active phase, or naming the teacher and learner as variables.
+- **1.3** Asked occasionally; usually a multiple-select item on aims of teaching in higher education or a statement linking objectives to learning outcomes.
+- **1.4** Asked in most cycles; usually an item ordering the cognitive levels, matching levels to verbs, or identifying the domain an outcome belongs to.
+- **1.5** Asked in most cycles; usually a match-the-list of levels and thinkers or a two-statement item on the reflective level.
+- **1.6** Rarely asked directly; when it appears it is a single-answer item asking which maxim an example illustrates. Mainly supports scenario questions.
+- **1.7** Asked often; usually a classroom scenario asking what the teacher should do, or a multiple-select item on qualities of an effective teacher.
+- **1.8** Asked fairly often; usually a single-answer item on Flanders' interaction categories or a sequence of the micro-teaching cycle.
+- **1.9** Asked occasionally; usually a match-the-list of models with proponents or families, or a sequence of steps in a basic teaching model.
+- **1.10** Rarely asked directly; it supports scenario questions on the good teacher and Unit X items on higher-education governance.
+- **2.1** Asked occasionally; usually a multiple-select item on characteristics of adolescent or adult learners, or a match of stages of education with age groups.
+- **2.2** Asked fairly often; usually a sequence of Piaget's stages or a match of thinkers with ideas such as ZPD, scaffolding, advance organisers.
+- **2.3** Asked often; usually a match of theories and theorists, a sequence from Gagne's hierarchy or events, or an item on memory types.
+- **2.4** Rarely asked directly; it supports items on learner characteristics and learner-centred methods.
+- **2.5** Rarely asked directly; it supports multiple-select items on learner-related factors affecting teaching.
+- **2.6** Asked occasionally; usually a single-answer item separating intrinsic from extrinsic motivation, or ordering a needs hierarchy.
+- **2.7** Asked occasionally; usually a two-statement or assertion-reason item on how adults learn differently from children.
+- **2.8** Asked occasionally; usually a match of intelligence types with examples or a single-answer item on individual differences.
+- **2.9** Asked now and then; usually a scenario on accommodating a learner with special needs or a multiple-select item on inclusive practice.
+- **3.1-3.7** Asked occasionally; usually a multiple-select item sorting factors into teacher, learner, support, environment or institutional groups.
+- **4.1** Asked in most cycles; usually a multiple-select item picking learner-centred methods from a list, or a scenario contrasting the two approaches.
+- **4.2** Asked occasionally; usually a single-answer item on lecture or demonstration features, or matching programmed-instruction types with proponents.
+- **4.3** Asked fairly often; usually a match-the-list of group methods (seminar, symposium, panel, workshop) with their defining features.
+- **4.4** Asked occasionally; usually a match of methods (project, Dalton, Keller plan) with originators or a single-answer item on the project method.
+- **4.5** Asked occasionally; usually a two-statement or single-answer item defining blended or flipped learning.
+- **4.6** Asked in most cycles; usually a single-answer item on what a platform such as SWAYAM PRABHA offers, or a match of platforms with coordinating bodies.
+- **5.1** Asked occasionally; usually an item on who proposed the cone of experience or which experience sits at its concrete or abstract end.
+- **5.2** Rarely asked directly; it supports classification items on teaching aids.
+- **5.3** Rarely asked directly; it supports items classifying aids as traditional, modern or ICT-based.
+- **5.4** Asked occasionally; usually a single-answer item on an ICT tool for teaching, overlapping with the ICT unit.
+- **6.1** Asked occasionally; usually a two-statement item distinguishing measurement, assessment and evaluation.
+- **6.2** Asked occasionally; usually a match of test qualities (validity, reliability, objectivity) with definitions or ways of checking them.
+- **6.3** Asked in most cycles; usually a scenario asking which type of evaluation a teacher is using, or a match of types with purposes.
+- **6.4** Rarely asked directly; it supports single-answer items on objective versus essay items and what item analysis measures.
+- **6.5** Rarely asked directly; it supports Data Interpretation and Mathematical Reasoning items on averages and spread.
+- **6.6** Asked occasionally; usually a single-answer or two-statement item on continuous and comprehensive evaluation or grading.
+- **6.7** Asked fairly often; usually a single-answer or two-statement item on credits, grade points and the choice-based credit system.
+- **6.8** Rarely asked directly; it supports items on innovations in evaluation and online assessment.
+- **6.9** Asked occasionally; usually a multiple-select item on newer assessment practices such as portfolios, rubrics, open-book and peer assessment.
+
+## 3. Format profile of Unit I questions
+
+### How many Unit I questions per paper
+- Paper 1 has 50 compulsory questions worth 2 marks each, with no negative marking, in a 3-hour CBT shared with Paper 2. Sources: https://testbook.com/ugc-net/exam-pattern ; https://www.shiksha.com/exams/ugc-net-exam-pattern ; https://www.adda247.com/teaching-jobs-exam/ugc-net-exam-pattern/
+- **Five per unit is the design.** NTA's Paper 1 syllabus states that five questions of 2 marks each are set from each of the ten units, according to the syllabus guides at https://statchakravyuh.com/ugc-net/paper-1/ and https://oswaalbooks.com/blogs/ugc-net/ugc-net-paper-1-syllabus-2026-topic-wise-weightage-high-scoring-areas. Shiksha's re-exam report also records five questions per section (S5).
+- **The observed count is 5, sometimes 6.** Coaching analyses report "5-6" Teaching Aptitude questions per session (S6, S7; https://www.jrfadda.com/exams/ugc-net/ugc-net-subject-weightage/). Counts drift because some items straddle units: a SWAYAM item can be filed under ICT or Higher Education, and a classroom-communication item under Communication. The "good attempts" figures (4-5 in December 2025 and the re-exam, 7-8 in Testbook's June 2026 table) are attempt estimates, not question counts. The 7-8 figure exceeds five and probably counts overlapping communication and ICT items.
+- **Conclusion:** plan on five Unit I questions per paper (10 marks), with a sixth sometimes coming from an overlapping unit.
+
+### Item formats
+Formats documented in the sources:
+- match List I with List II, answered by a coded option (S14; https://www.oswaal360.com/pluginfile.php/10939/mod_folder/content/0/UGC/UGC%20NET%20Papaer%201-168_without%20CTC.pdf)
+- assertion (A) and reason (R) (same sources)
+- choosing the correct combination from several numbered statements (same sources)
+- scenario-based single-answer items (S6, S7)
+
+Coaching analyses say the share of statement, matching and assertion-reason items has grown, and that items have moved from definitions to application (S6; https://lawsikho.com/blog/ugc-net-paper-1-previous-year-questions/).
+
+**Estimated shares.** No source gives percentages. The shares below are my estimate from knowledge of NTA Paper 1 papers (lettered statements A-E answered as "choose the correct answer from the options given below"; "Given below are two statements"; "Arrange in the correct sequence"; "Match List I with List II"). They are not verified from documents in this session and should be checked against an official NTA PDF before printing.
+
+| Format | Earlier NTA cycles (Dec 2018 - 2022) | Recent cycles (2023 - 2026) |
+|---|---|---|
+| Single-answer (incl. scenario) | about 60-70% | about 30-40% |
+| Multiple-select (choose correct statements A-E) | about 10-15% | about 20-25% |
+| Match List I / List II | about 10% | about 15-20% |
+| Sequence / arrange | under 5% | about 5-10% (e.g. ordering Bloom levels, Piaget stages, learning events; the June 2026 "arrange the steps" item, S2) |
+| Two-statement (Statement I / Statement II) | under 5% | about 10% |
+| Assertion-Reason | about 5-10% | about 5-10% |
+
+For a five-question Unit I block, a typical recent paper might contain: two single-answer items (one of them a scenario), one multiple-select, one match-the-list, and one from sequence, two-statement or assertion-reason.
+
+## 4. Most recurrent Unit I topics, ranked
+
+1. Types of evaluation, especially formative vs summative and NRT vs CRT, often posed as a scenario (6.3).
+2. Bloom's taxonomy: ordering the levels, the domains, the revised version (1.4).
+3. Online platforms: SWAYAM, SWAYAM PRABHA, MOOCs, NPTEL and similar (4.6).
+4. Teacher-centred vs learner-centred methods (4.1).
+5. Levels of teaching: memory, understanding, reflective, with Herbart, Morrison and Hunt (1.5).
+6. Learning theories and the learning process: Gagne, memory types, cooperative learning (2.3).
+7. Effective teaching and classroom scenario items (1.7).
+8. Group methods and cooperative learning: seminar, symposium, panel, workshop, team teaching (4.3).
+9. Piaget and other cognitive-development thinkers (2.2).
+10. Teaching skills, micro-teaching and Flanders interaction analysis (1.8).
+11. CBCS and grading (6.7/6.6).
+12. Nature of teaching, including teaching vs indoctrination, and models of teaching (1.1/1.9).
+
+## Open gaps
+- No shift-wise topic list was found for Dec 2018 - Dec 2023 or for the August-September 2024 re-held June 2024 cycle.
+- No official NTA question PDF was opened.
+- The format percentages are estimates. To harden them, tally Unit I items in two or three official NTA question papers, for example a 2019 shift, a 2023 shift and a 2025 shift.
+- Book tables of contents were confirmed only at unit or chapter level, for McGraw-Hill, Pearson (older edition), Arihant and Oxford. The web-search budget ran out before Disha, Upkar, Ramesh and Trueman's Paper 1 contents could be checked.
