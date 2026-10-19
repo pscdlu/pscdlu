@@ -38,3 +38,14 @@
 |Blended / distance learning|Blended keeps regular face-to-face classes; distance learning separates teacher and learner for most of the course|4.5|
 |Flipped / conventional classroom|Flipped: content at home, application in class; conventional: content in class, homework at home|4.5|
 |Rotation / flex model|Rotation: move between modes on a schedule; flex: online learning is the backbone with flexible support|4.5|
+|SWAYAM / SWAYAM PRABHA|SWAYAM: web MOOCs with quizzes, exams, credits, needs internet; SWAYAM PRABHA: one-way DTH TV, no internet, no assessment|4.6|
+|e-PG Pathshala / ePathshala|e-PG Pathshala: postgraduate e-content (UGC, INFLIBNET, NME-ICT); ePathshala: NCERT school textbooks|4.6|
+|Shodhganga / Shodhgangotri|Submitted theses / synopses of research in progress|4.6|
+|Shodhganga / ShodhShuddhi|Thesis repository / plagiarism-detection software access|4.6|
+|DIKSHA / SWAYAM|DIKSHA: school education and teacher training; SWAYAM: courses school to PG and beyond|4.6|
+|NPTEL / NDLI|Online courses by IITs and IISc / digital library search platform (IIT Kharagpur)|4.6|
+|Massive / open (MOOC)|Massive: unlimited enrolment; open: no entry requirements, usually free|4.6|
+|cMOOC / xMOOC / SPOC|cMOOC: connectivist, learner networks (Siemens, Downes); xMOOC: structured instructor-led; SPOC: small private course for one group|4.6|
+|NAD / ABC|NAD stores degrees and mark-sheets for verification (DigiLocker); ABC records credits earned|4.6|
+|Parent / host institution|Parent: where the student is enrolled and credits are recorded; host: whose faculty offers the SWAYAM course|4.6|
+|NETF / NRF / NTA|NETF: forum on educational technology; NRF: funds research; NTA: conducts tests|4.6|

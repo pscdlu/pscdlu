@@ -147,3 +147,45 @@ S8-Q1 -> 4.5 (Further, sub "Models of blended learning": rotation model).
 S14-Q14 -> 4.5 (Further, sub "When students come unprepared").
 S20-Q27 -> 4.5 (Further, sub "Transactional distance": high structure and low dialogue = greatest distance).
 Booklet0 P3-Q6 -> 4.5 (Core, sub "The flipped classroom"); team teaching 4.3, programmed instruction 4.2, peer tutoring 4.3.
+
+## 4.6
+S1-Q34 -> 4.6 (Core, sub "SWAYAM PRABHA"): "a group of DTH (direct-to-home) television channels that telecast ... 24 hours a day"; confused box SWAYAM vs SWAYAM PRABHA.
+S1-Q41 -> 4.6 (Core, sub "SWAYAM": full form, national MOOC platform; table: Shodhganga theses, ShodhShuddhi plagiarism, NIRF ranking).
+S2-Q4 -> 4.6 (Core, sub "NPTEL"): 2003, seven IITs and IISc, government funding.
+S2-Q19 -> 4.6 (Core, sub "SWAYAM": "set up by the Ministry of Education (then ... MHRD)"; National Coordinators table).
+S3-Q3 -> 4.6 (Core, sub "What a MOOC is": "Massive: there is no fixed limit on enrolment").
+S4-Q7 -> 4.6 (Core, table "Platforms": e-PG Pathshala postgraduate e-content; ePathshala school; Virtual Labs; ShodhShuddhi plagiarism).
+S4-Q22 -> 4.6 (Core, sub "SWAYAM": "Learning is free ... certificate ... proctored examination, for which a fee is charged"; credit transfer).
+S5-Q25 -> 4.6 (Core, sub "What a MOOC is": "Open ... without entry qualification ... 'Open' does not mean that there are no instructors, no deadlines or no tests").
+S6-Q11 -> 4.6 (Core, sub "SWAYAM": full form; access, equity, quality; sub "The four quadrants").
+S6-Q31 -> 4.6 (Core, table "Platforms", DIKSHA row: school education, NCERT, QR codes, launched 5 September 2017).
+S7-Q49 -> 4.6 (Core, sub "NPTEL" and table rows Shodhganga, Virtual Labs, NDLI).
+S8-Q36 -> 4.6 (Core, National Coordinators table: NPTEL engineering; "For engineering, the answer is NPTEL").
+S9-Q7 -> 4.6 (Core, table row CEC: "inter-university centre of the UGC for electronic media ... EMRCs ... SWAYAM National Coordinator ... SWAYAM PRABHA").
+S9-Q16 -> 4.6 (Core, sub "The four quadrants": discussion forum; printed lessons, contact classes, compulsory lab not quadrants).
+S9-Q18 -> 4.6 (Core, sub "What a MOOC is": "best-known weakness is a low completion rate ... Lack of personal contact, the self-discipline needed, and weak incentives").
+S11-Q11 -> 4.6 (Core: e-PG Pathshala row (NME-ICT, UGC); Shodhganga INFLIBNET; NPTEL "was not started by NCERT"; DIKSHA school).
+S12-Q1 -> 4.6 (Core, table rows e-PG Pathshala, Shodhganga, Shodhgangotri, DIKSHA, Virtual Labs; "Two quick sorting rules").
+S13-Q2 -> 4.6 (Core, sub "SWAYAM": free; proctored exam with fee; access, equity, quality; "not restricted to IIT students").
+S13-Q46 -> 4.6 (Fact watch, "SWAYAM PRABHA channels": "If a question names the March 2026 note, its figure is 48"; began with 32; site and Aug 2026 factsheet 40).
+S14-Q20 -> 4.6 (Core, sub "What a MOOC is": low completion; "Openness itself is one cause of low completion").
+S14-Q29 -> 4.6 (Core: SWAYAM credit transfer; SWAYAM PRABHA DTH; ONOS row; Shodhgangotri row; Fact watch ONOS).
+S15-Q24 -> 4.6 (Core, sub "Credit transfer: the UGC regulations": 40 per cent under 2021; 20 per cent under 2016; Fact watch).
+S15-Q28 -> 4.6 (Core, sub "SWAYAM PRABHA": "exists for learners who have a television and a dish but no internet"; "Two quick sorting rules").
+S16-Q47 -> 4.6 (Core, sub "SWAYAM PRABHA": no internet, DD Free Dish, "no quizzes, no examinations and no credits of its own"; comparison table).
+S17-Q38 -> 4.6 (Core, table row ePathshala (NCERT, CIET) vs e-PG Pathshala; confused box).
+S18-Q2 -> 4.6 (Core, sub "Credit transfer": "Credit transfer is thus a consequence of this regulatory permission").
+S18-Q32 -> 4.6 (Core, "Two quick sorting rules": web-based services need internet; SWAYAM PRABHA through dish does not).
+S20-Q7 -> 4.6 (Core, sub "SWAYAM": no age bar; school to postgraduate; proctored examination; component of PM e-Vidya).
+S20-Q29 -> 4.6 (Core, sub "SWAYAM PRABHA": "one-way mass communication").
+S7-Q27 -> 4.6 (Further, sub "cMOOCs and xMOOCs": cMOOC, Siemens and Downes; SPOC).
+S10-Q41 -> 4.6 (Further, sub "cMOOCs and xMOOCs": SPOC paragraph).
+S11-Q34 -> 4.6 (Further, sub "Parent and host institution").
+S12-Q26 -> 4.6 (Further, sub "cMOOCs and xMOOCs": "'xMOOCs are based on connectivism' is false, and 'cMOOCs follow a fixed syllabus ...' is also false").
+S16-Q27 -> 4.6 (Further, sub "National Academic Depository and Academic Bank of Credits").
+S16-Q45 -> 4.6 (Core, National Coordinators table, ten; Fact watch "SWAYAM National Coordinators: ten ... Older books ... nine").
+S17-Q33 -> 4.6 (Further, sub "cMOOCs and xMOOCs": "Because connectivism treats learning as network-building, learners must take responsibility for the content").
+S19-Q2 -> 4.6 (Further, sub "Reading a completion rate": worked box and slips; check Q6).
+S19-Q23 -> 4.6 (Core table rows Shodhganga, ShodhShuddhi; Further sub "Vidwan and IRINS").
+S19-Q45 -> 4.6 (Further, sub "The National Educational Technology Forum": NETF; NRF and NTA distinguished).
+Booklet0 P5-Q14 -> 4.6 (Core, sub "The four quadrants": e-Tutorial, e-Content, discussion forum, assessment; residential workshop and printed correspondence lessons are not quadrants).
