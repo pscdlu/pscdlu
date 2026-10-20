@@ -1,1 +1,2 @@
 - Hindi: use चिंतनशील स्तर for reflective level (NTA usage); harmonise in all src files at assembly.
+- After V4: remove June 2024 cycle bullet in 6.8 Fact watch (do not name exam cycles).
