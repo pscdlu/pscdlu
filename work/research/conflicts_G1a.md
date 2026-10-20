@@ -25,3 +25,10 @@ WebFetch could not resolve any host, and the shared WebSearch budget (200 calls 
 ## Statements kept but not web-verified (editor please recheck)
 - Understanding-level motivation given as "extrinsic and intrinsic" in the comparison table (1.5); standard Indian B.Ed texts, not checked this session. No booklet item depends on it.
 - Years: Smith 1960, Amidon and Hunter 1967, Gage 1978 book, Mager 1962, Tyler 1949, Gagné 1965, Simpson 1966/1972, Harrow 1972, Ausubel (not dated in text).
+
+## Verification pass V1 (20 Oct 2026)
+- Definitions table (S3-Q41, S10-Q9, S13-Q47): wordings found only in Indian e-content/slides. Table now introduced as "the forms in which Indian textbooks and examination papers quote these definitions"; years dropped for Gage, Smith, Amidon (Amidon and Hunter's book is catalogued as 1966, not 1967). Keys unaffected.
+- S12-Q29 (Green): continuum not found in a reliable source; text now says Indian textbooks credit the map to Green. Key unaffected.
+- S9-Q6 (RCEM): Mysore origin seen only in slides/Scribd; text now "Indian teacher-education texts describe ...". Key unaffected.
+- S14-Q39 (Bigge "tool use"): phrase not found; text now "Indian textbooks, following Bigge, describe ...".
+- Jackson phases: verified (Cambridge UP excerpt): Jackson 1968 named preactive and interactive; postactive added by Clark and Peterson (1986).

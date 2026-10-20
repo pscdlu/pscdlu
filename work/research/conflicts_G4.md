@@ -27,3 +27,14 @@ WebFetch could not resolve any host and the proxy refused direct downloads (403)
 - PM e-Vidya launch date (17 May 2020, secondary only) -- not stated.
 - Number of SWAYAM PRABHA channels coordinated by CEC (11, per one digest) -- not stated.
 - **S19-Q43 (NEP 2020 pedagogy).** The list "experiential, holistic, integrated, inquiry-driven, discovery-oriented, learner-centred, discussion-based, flexible, and ... enjoyable" is, to my knowledge, NEP 2020 para 4.4 (school curriculum and pedagogy); the higher-education chapters speak in the same spirit (faculty freedom, formative assessment). The booklet attaches the list to higher education. Key (B) is safe either way. Guide wording avoids tying the list to a specific HE paragraph. Not web-checked (budget exhausted).
+
+## V3 verification pass (20 October 2026)
+| booklet id | what the booklet needs | what the guide now does | reason / source |
+|---|---|---|---|
+| S18-Q39 | Trump Plan 40/20/40 | Guide keeps the 40/20/40 split as "the split usually taught for the examination" and says only the 20 per cent small-group share is confirmed; answer "small-group discussion = smallest share" unaffected | Michigan Daily 1960 (digital.bentley.umich.edu) confirms 20% small group; no source found for 40/40 |
+| S14-Q38 | Stevenson: "problematic act carried to completion in its natural setting" | Kept, framed "as quoted in Indian teacher-education material"; variant "most natural setting" noted. Ballard definition removed | Wording seen only in college/B.Ed. material; Sage entry paraphrases Stevenson as "a problematic act carried to completion" |
+| S9-Q48 | Kilpatrick's "consumer (aesthetic)" project | Kilpatrick's four purposes (make, enjoy, solve, acquire) stated as his; producer/consumer/problem/drill presented as "labels usually used for the examination" | Sage project-method entry; jkirkpatrick.net. Labels not confirmed |
+| S1-Q2, S14-Q38 | Kilpatrick definition | Quotation spelling corrected to "wholehearted" | Sage; education-uk.org Kilpatrick 1918 |
+| S12-Q19 | Mathetics = retrogressive chaining | Kept; added that not every mathetics lesson runs backwards | Harless (NCJRS) calls "teaches everything backwards" a misconception |
+| (none) | Crowder first name | "Norman A." dropped | Not confirmed |
+| (none) | Group Investigation and Thelen | Thelen dropped from 4.3 (still in 01b via Joyce and Weil, owned by another group) | Thelen seen only in B.Ed. slides/college PDF |

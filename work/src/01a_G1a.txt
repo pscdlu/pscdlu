@@ -16,13 +16,13 @@ Philosophers say teaching is **triadic**: someone (the teacher) teaches somethin
 Do not mix this up with a second "tripolar" idea found in Indian textbooks. There, the three poles of the educative process are **educational objectives, learning experiences and evaluation**; Indian books usually link this triad with B. S. Bloom. The first triad names the persons and the content; the second names the stages of planned education. If a question asks for the "three focal points of teaching", the answer is teacher, learner and subject matter.
 Note also: the fact that teaching is a profession is a true social fact, but it does not explain why teaching is triadic. The triadic structure comes from the meaning of the word, not from teaching being a job.
 ::sub Famous definitions
-The examination often gives a definition and asks who wrote it. Learn the key phrase in each.
+The examination often gives a definition and asks who wrote it. The wordings below are the forms in which Indian textbooks and examination papers quote these definitions; learn the key phrase in each.
 ::table widths=22,48,30
 |Thinker|Definition (key words)|How to remember|
 |H. C. Morrison (1934)|"An intimate contact between a more mature personality and a less mature one, designed to further the education of the latter."|Two personalities: mature and less mature|
-|N. L. Gage (1963)|"A form of interpersonal influence aimed at changing the behaviour potential of another person."|Influence and behaviour potential|
-|B. O. Smith (1960)|"A system of actions intended to induce learning."|System of actions|
-|Edmund Amidon (with Hunter, 1967)|"An interactive process, primarily involving classroom talk, between teacher and pupils."|Interaction and classroom talk|
+|N. L. Gage|"A form of interpersonal influence aimed at changing the behaviour potential of another person."|Influence and behaviour potential|
+|B. O. Smith|"A system of actions intended to induce learning."|System of actions|
+|Edmund Amidon (with Hunter)|"An interactive process, primarily involving classroom talk, between teacher and pupils."|Interaction and classroom talk|
 Gage's definition has two parts worth noticing: it involves two persons (one influences the other), and it involves intention (it is "aimed at" change). Morrison's stresses the personal relationship. Smith's stresses a planned set of actions. Amidon's stresses talk in the classroom, which is why his name is also linked with the analysis of classroom interaction (see 1.8).
 ::sub Teaching and learning
 Teaching and learning are related, but they are two different processes. **Learning** is a relatively permanent change in behaviour that comes from experience or practice. Learning is both a process (what goes on while one learns) and a product (what one has learnt at the end).
@@ -62,17 +62,17 @@ In a B.A. political science class at a government college in Hisar, Dr Meena exp
 ::endbox
 ::further
 ::sub Green's topology of teaching
-The American philosopher Thomas F. Green drew a map of activities related to teaching. He put teaching in the middle and two families of activities on either side.
+Indian textbooks present a map of activities related to teaching which they credit to the American philosopher Thomas F. Green (author of *The Activities of Teaching*, 1971). It puts teaching in the middle and two families of activities on either side.
 - On one side are activities that shape **behaviour**: training, and further away, conditioning.
 - On the other side are activities that shape **knowledge and belief**: instructing, and further away, indoctrinating.
 On each side the first activity (training; instructing) is closer to teaching because it still engages the learner's intelligence. The second (conditioning; indoctrinating) lies farthest from teaching. A trap: conditioning and indoctrinating are both farthest from teaching, but they are on different sides; one shapes behaviour and the other belief.
 ::sub Task sense and achievement sense
-Philosophers notice that the word "teach" is used in two ways. This idea comes from Gilbert Ryle's distinction between "task" words and "achievement" words.
+Philosophers notice that the word "teach" is used in two ways. Philosophers of education usually trace this to Gilbert Ryle's distinction between "task" words and "achievement" words.
 - In the **task sense**, to teach is to try to bring about learning. One may teach in this sense even if nobody learns ("I taught all afternoon but they learnt nothing").
 - In the **achievement sense**, to say "I taught them the theorem" claims success: it implies that they learnt it.
-John Dewey made the achievement point with a comparison: teaching is like selling. Nobody can be said to have sold anything unless someone has bought it; in the same way, teaching in the achievement sense implies learning.
+A comparison usually credited to John Dewey makes the achievement point: teaching is like selling. Nobody can be said to have sold anything unless someone has bought it; in the same way, teaching in the achievement sense implies learning.
 ::sub Scheffler and the learner's judgement
-Israel Scheffler, in *The Language of Education* (1960), argued that teaching in the full sense respects the learner's independent judgement. The teacher gives reasons and is willing to have them examined. This is the line between teaching and indoctrination: an indoctrinator wants belief without examination. So three things are true of teaching together: it is intentional, it presupposes a learner, and in the task sense it need not end in learning.
+Israel Scheffler, author of *The Language of Education* (1960) and *Reason and Teaching* (1973), is known for stressing critical thought and the learner's independent judgement: teaching in the full sense respects that judgement. The teacher gives reasons and is willing to have them examined. This is the line between teaching and indoctrination: an indoctrinator wants belief without examination. So three things are true of teaching together: it is intentional, it presupposes a learner, and in the task sense it need not end in learning.
 ::box check
 Q1. Which of the following is the best description of teaching?
 (A) Completing the prescribed syllabus within the session
@@ -217,7 +217,7 @@ Choose the correct answer from the options given below:
 (B) A-II, B-I, C-III
 (C) A-III, B-II, C-I
 (D) A-I, B-III, C-II
-Q3. In the analysis of teaching, content and methods of teaching are treated as:
+Q3. In the analysis of teaching as a process (the teacher, the learner and what lies between them), content and methods of teaching are treated as:
 (A) independent variables
 (B) dependent variables
 (C) extraneous variables
@@ -293,8 +293,8 @@ Robert F. Mager's book *Preparing Objectives for Programmed Instruction* (1962),
 Full objective: "Given an outline map of India (condition), the student will mark the major rivers (performance) with no more than one error (criterion)."
 Do not confuse Mager with other names often placed in the options:
 - Benjamin Bloom: the taxonomy of educational objectives (1.4).
-- Ralph Tyler: principles of curriculum, *Basic Principles of Curriculum and Instruction* (1949).
-- Robert Gagné: *The Conditions of Learning* (1965).
+- Ralph Tyler: principles of curriculum, *Basic Principles of Curriculum and Instruction*.
+- Robert Gagné: *The Conditions of Learning*.
 ::sub The ABCD format
 A later format adds one letter to Mager's three parts.
 - **A**udience: who the learner is ("B.Sc. first-year students").
@@ -322,7 +322,7 @@ Norman E. Gronlund suggested a two-step way of writing objectives. First write a
 - **Enabling objectives** are the smaller, intermediate skills that lead up to it. They are found by **task analysis**: breaking the final task into its component skills.
 - Elliot Eisner proposed **expressive objectives**. These describe an educational encounter -- a visit, a reading, a performance -- without fixing in advance what the outcome must be. They suit the arts, where a unique response is the point.
 ::sub The RCEM approach
-The **RCEM approach** was developed at the Regional College of Education, Mysore (now the Regional Institute of Education, Mysuru). It sorts objectives into four categories: **knowledge, understanding, application and creativity**. Instead of Bloom-style action verbs, it states objectives through specified **mental processes**, such as recalling, recognising, seeing relationships, classifying, inferring and predicting.
+Indian teacher-education texts describe the **RCEM approach** as developed at the Regional College of Education, Mysore (now the Regional Institute of Education, Mysuru, a constituent unit of NCERT). It sorts objectives into four categories: **knowledge, understanding, application and creativity**. Instead of Bloom-style action verbs, it states objectives through specified **mental processes**, such as recalling, recognising, seeing relationships, classifying, inferring and predicting.
 ::sub Levels of outcome in OBE
 Outcome-based programmes in Indian colleges, especially those accredited by the National Board of Accreditation, use four related terms.
 ::table widths=35,65
@@ -416,7 +416,7 @@ To decide the domain, look at the verb that carries the objective. "Values hones
 |Bloom and others, *Taxonomy of Educational Objectives, Handbook I*|Cognitive|1956|
 |Krathwohl, Bloom and Masia, *Handbook II*|Affective|1964|
 |Anderson and Krathwohl (editors), revised taxonomy|Cognitive (revised)|2001|
-|E. J. Simpson; R. H. Dave; A. J. Harrow|Psychomotor (three separate schemes)|Simpson 1966 and 1972; Dave 1970; Harrow 1972|
+|E. J. Simpson; R. H. Dave; A. J. Harrow|Psychomotor (three separate schemes)|Simpson 1972; Dave (usually dated 1970); Harrow 1972|
 Bloom's group did not finish a psychomotor handbook; the psychomotor schemes came from others. Robert Gagné, sometimes offered in the options, is known for *The Conditions of Learning*, not for a taxonomy of the affective domain.
 ::sub The cognitive domain: Bloom's original (1956)
 Six levels, from simple to complex. Each level builds on the ones below it.
@@ -735,7 +735,7 @@ Herbart's own four stages were clearness (presenting the new idea clearly), asso
 - The mastery test at the end of assimilation is the turning point. A learner who falls short does not move on to organisation; he or she returns to supervised study with corrective help and is tested again. Only when mastery is shown do organisation and recitation follow.
 - Morrison's plan is an early form of the later movements for **mastery learning** and individualised instruction.
 ::sub Bigge on understanding
-Bigge described understanding in two complementary ways. First, it is seeing the relationship between particulars (facts) and generalisations (principles). Second, it is seeing the **"tool use"** of a fact: what it can be used for in reaching a goal. A student understands a formula when he or she knows what it is for and when to use it. Remembering the exact words in which it was taught is a memory-level outcome.
+Indian textbooks, following Bigge, describe understanding in two complementary ways. First, it is seeing the relationship between particulars (facts) and generalisations (principles). Second, it is seeing the **"tool use"** of a fact: what it can be used for in reaching a goal. A student understands a formula when he or she knows what it is for and when to use it. Remembering the exact words in which it was taught is a memory-level outcome.
 ::sub Dewey's five steps of reflective thinking
 John Dewey, in *How We Think* (1910), analysed a complete act of reflective thought into five logically distinct steps:
 1. A **felt difficulty**.

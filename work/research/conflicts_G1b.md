@@ -33,3 +33,8 @@ The shared web-search budget ran out part-way through, WebFetch could not resolv
 
 ## Booklet answer keys
 No booklet answer key was found to conflict with a verified fact.
+
+## Verification pass V1 (20 Oct 2026)
+- S16-Q1, S11-Q16 (model persons): attributions (Suchman, Thelen, Oliver and Shaver, Rogers) seen only in Indian college notes and slides. Text now says "the person that Indian textbooks and examination papers link with it". Keys unaffected.
+- S15-Q11: Mitzel (1960) now verified (presage/process/product criteria, Encyclopedia of Educational Research) and added; Dunkin and Biddle's context variables verified.
+- S7-Q21, S18-Q24 (36 minutes) and probing components: confirmed from university/college teacher-education material (Gauhati Univ CDOE, Lucknow Univ, CEC) - still no Passi/NCERT primary.

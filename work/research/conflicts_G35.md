@@ -34,3 +34,12 @@ No booklet answer key was found to be wrong.
 - OER definition (public domain or open licence; use, adapt, redistribute at no cost) - matches UNESCO 2019 wording as commonly quoted, but UNESCO page not reachable.
 - Unit cross-references: Unit IV = Communication, Unit X = Higher Education System (3.1).
 - Hindi terms: all marked std-unverified except those taken from research/A_syllabus_hindi.md; none checked against NTA Hindi PDF or CSTT.
+
+## D. V3 verification pass (20 October 2026) on section C items
+- SAMR (Puentedura; four levels; enhancement vs transformation): VERIFIED - hippasus.com SAMR_AResearchPerspective.pdf (Puentedura's own); scholars.georgiasouthern.edu SAMR framework; eschoolnews 2015 interview. No text change.
+- Mayer coherence and modality principles: VERIFIED - finaid.jsu.edu Cognitive Theory of Multimedia Learning; research.birmingham.ac.uk "modality principle in multimedia learning"; Cambridge CLT handbook chapter. No text change.
+- Cognitive load theory (limited working memory): VERIFIED - Cambridge (Castro-Alonso & Sweller chapter); research.ou.nl "Foundations of multimedia learning". No text change.
+- CAI branching = Crowder, linear = Skinner: VERIFIED - edutechwiki.unige.ch Programmed_instruction; sk.sagepub.com programmed-instruction; LIDT pressbooks. No text change.
+- OER definition (public domain or open licence; no-cost use, adaptation, redistribution): VERIFIED - en.unesco.org/themes/building-knowledge-societies/oer; en.wikipedia.org/wiki/Open_educational_resources (2002 UNESCO forum coinage). No text change.
+- S1-Q43 Pygmalion criticism (Robert Thorndike; later effects smaller): VERIFIED - en.wikipedia.org/wiki/Pygmalion_in_the_Classroom; discovermagazine.com "Being honest about the Pygmalion effect"; Elashoff & Snow 1971 (gwern.net copy); sites.rutgers.edu/lee-jussim chapter 3. No text change.
+- Still NOT checked (budget): five features of SLM; generic media definitions (general knowledge); severity error; unit cross-references; Hindi terms.

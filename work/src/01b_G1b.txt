@@ -74,7 +74,7 @@ Now the four methods can be matched with their direction of reasoning, a favouri
 |Synthetic|Known to unknown|
 Two traps. First, deduction applies a general rule to cases; it is not the same as analysis, which works backwards from a conclusion. Second, the synthetic method, not the analytic, is the one that runs from known to unknown.
 ::sub The bases of the maxims
-Harder items ask on what idea a maxim rests. Known to unknown rests on Herbart's doctrine of apperception (new ideas are learnt through the mass of ideas already in the mind). Whole to part rests on the Gestalt view that wholes are perceived before parts. Simple to complex rests on the grading of tasks by difficulty. Particular to general rests on inductive reasoning. Known to unknown is also consistent with Ausubel's stress on the learner's prior knowledge.
+Harder items ask on what idea a maxim rests. The explanations usually given are these. Known to unknown rests on Herbart's doctrine of apperception (new ideas are learnt through the mass of ideas already in the mind). Whole to part rests on the Gestalt view that wholes are perceived before parts. Simple to complex rests on the grading of tasks by difficulty. Particular to general rests on inductive reasoning. Known to unknown is also consistent with Ausubel's stress on the learner's prior knowledge.
 ::box check
 Q1. Which of the following is an accepted maxim of teaching?
 (A) From general to particular
@@ -188,7 +188,7 @@ Jacob Kounin's research on classroom management (published as Discipline and Gro
 - **Momentum**: keeping the lesson moving at a suitable pace, without slowdowns such as dwelling on a point longer than needed.
 - **Smoothness**: moving through the lesson and from one activity to the next without abrupt breaks or irrelevant digressions.
 ::sub Presage, process and product variables
-Research on teacher effectiveness often uses the model set out by Dunkin and Biddle in The Study of Teaching (1974). It classifies variables as follows.
+Research on teacher effectiveness often uses the model set out by Dunkin and Biddle in The Study of Teaching (1974). The terms presage, process and product had been used earlier by Harold E. Mitzel (1960, in the Encyclopedia of Educational Research) for criteria of teacher effectiveness; Dunkin and Biddle's model also includes context variables. It classifies variables as follows.
 ::table widths=22,78
 |Variable|Meaning and examples|
 |Presage|What the teacher brings to teaching: formative experiences, training, qualifications, personality traits|
@@ -429,7 +429,7 @@ At a college of education in Rohtak, B.Ed. trainees practise the skill of reinfo
 ::further
 ::sub Pedagogical content knowledge and TPACK
 Lee Shulman, in "Those Who Understand: Knowledge Growth in Teaching" (Educational Researcher, 1986), distinguished three kinds of content knowledge a teacher needs: subject matter knowledge, **pedagogical content knowledge** (शैक्षणिक विषयवस्तु ज्ञान) and curricular knowledge. Pedagogical content knowledge, PCK for short, is the special blend of content and pedagogy that a good teacher has for a particular topic: the most useful examples, analogies and explanations, and the difficulties learners usually have with that topic. It is distinct from knowing the subject and from general teaching skill. It is knowing how to make this subject understandable to these learners.
-**TPACK** (Technological Pedagogical Content Knowledge) was proposed by Mishra and Koehler in Teachers College Record in 2006. It extends Shulman's idea by adding technology: the knowledge a teacher needs lies at the intersection of technology, pedagogy and content. Do not confuse it with three other acronyms. **SAMR** classifies levels of technology use (substitution, augmentation, modification, redefinition); it does not describe teacher knowledge. **ADDIE** and **ASSURE** are models of instructional design.
+**TPACK** (Technological Pedagogical Content Knowledge) was proposed by Mishra and Koehler in Teachers College Record in 2006. It extends Shulman's idea by adding technology: the knowledge a teacher needs lies at the intersection of technology, pedagogy and content. Do not confuse it with three other acronyms. **SAMR**, proposed by Ruben Puentedura, classifies levels of technology use (substitution, augmentation, modification, redefinition); it does not describe teacher knowledge. **ADDIE** and **ASSURE** are models of instructional design.
 ::sub More on the skills
 **Explaining.** Explaining means showing how statements are related. Words and phrases such as "because", "therefore", "hence" and "as a result" carry these relations and are called **explaining links**. An explanation that is a string of correct statements with no such links leaves listeners to guess the connections. Other components are clear beginning and concluding statements, fluency, and testing the learners' understanding. Planned repetition, which stresses key points for retention, does not supply causal links.
 **Probing.** Its components are:
@@ -546,7 +546,7 @@ Joyce and Weil grouped the models into four families, according to what each fam
 |Social (social interaction)|Learning through working with others; democratic process and social values|Group investigation (Thelen); role playing; jurisprudential inquiry (Oliver and Shaver)|
 |Personal|The individual's self-understanding, self-worth and creativity|Non-directive teaching (Rogers); synectics (Gordon)|
 |Behavioural (behavioural systems)|Observable changes in behaviour through reinforcement|Contingency management, based on Skinner's operant conditioning|
-Pair each model with its person:
+Pair each model with the person that Indian textbooks and examination papers link with it:
 - **Concept attainment model** (संप्रत्यय उपलब्धि प्रतिमान): based on Bruner's work on how people form concepts. Learners compare positive examples and negative examples (non-examples) to find the defining attributes of a concept.
 - **Inquiry training model** (पृच्छा प्रशिक्षण प्रतिमान): developed by Suchman. Learners are shown a puzzling event and investigate it by asking questions, so that they learn the process of inquiry.
 - **Advance organiser model** (अग्रिम संगठक प्रतिमान): based on Ausubel's theory of meaningful verbal learning. The teacher presents a broad introductory framework before the detailed material.
@@ -619,7 +619,7 @@ Q4. Arrange the components of Glaser's Basic Teaching Model in order: 1. Perform
 (B) 4, 2, 3, 1
 (C) 2, 4, 3, 1
 (D) 2, 4, 1, 3
-Q5. Statement I: Synectics is a model of the personal family that uses analogies to develop creativity. Statement II: In the concept attainment model, learners compare examples and non-examples.
+Q5. Statement I: In Joyce and Weil's classic grouping, synectics is a model of the personal family that uses analogies to develop creativity. Statement II: In the concept attainment model, learners compare examples and non-examples.
 (A) Both Statement I and Statement II are true
 (B) Both Statement I and Statement II are false
 (C) Statement I is true but Statement II is false

@@ -192,7 +192,7 @@ If a learner checks each answer immediately after writing it, the principle at w
 ::sub Linear and branching programmes
 There are two main styles of programme.
 In **linear programming** (रेखीय अभिक्रमण), developed by Skinner, every learner passes through the same fixed sequence of small frames, one after another. The steps are kept very small so that the learner's responses are almost always correct and therefore reinforced; errors are kept to a minimum. Responses are **constructed**: the learner writes the answer. Only the pace varies from learner to learner; the path is the same for all.
-In **branching programming** (शाखीय अभिक्रमण), developed by **Norman A. Crowder**, frames are larger. Each frame ends with a **multiple-choice** question. The choice the learner makes decides the next frame. A correct choice takes the learner forward; a wrong choice leads to a **remedial frame** that explains the error and then returns the learner to the main sequence. Errors are not avoided; they are used for diagnosis. Crowder called this intrinsic programming. Because the route depends on each learner's responses, both the path and the pace are individualised, so branching adjusts to individual differences better than linear programming.
+In **branching programming** (शाखीय अभिक्रमण), developed by **Crowder**, frames are larger. Each frame ends with a **multiple-choice** question. The choice the learner makes decides the next frame. A correct choice takes the learner forward; a wrong choice leads to a **remedial frame** that explains the error and then returns the learner to the main sequence. Errors are not avoided; they are used for diagnosis. Crowder called this intrinsic programming. Because the route depends on each learner's responses, both the path and the pace are individualised, so branching adjusts to individual differences better than linear programming.
 ::table widths=28,36,36
 |Feature|Linear (Skinner)|Branching (Crowder)|
 |Size of frame|Small|Larger|
@@ -215,7 +215,7 @@ In a B.Sc. Chemistry class of 60 at a college in Hisar, the teacher first gives 
 ::sub Why the five principles hang together
 Each principle of programmed instruction follows from operant conditioning. Small steps make correct responses likely. Active responding produces the behaviour to be reinforced. Immediate confirmation is the reinforcement. Self-pacing lets each learner respond only when ready. Student testing makes sure that the steps really are small enough for real learners. In an Assertion-Reason item, "programmed instruction allows learners to proceed at their own pace" is true, while "in programmed instruction the pace is fixed by the teacher for the whole class" is false.
 ::sub Mathetics
-A third style of programming, **mathetics**, was developed by Thomas F. Gilbert. It uses **retrogressive chaining**: a chain of steps is taught backwards, so that the final step is mastered first, then the step before it, and so on. In this way the learner always ends a practice by completing the whole task. If a matching item asks for "the final step is mastered first, working backwards", the answer is mathetics. The other self-paced plan often listed with programmed instruction, the Personalised System of Instruction (the Keller Plan), is taught in section 4.4.
+A third style of programming, **mathetics**, was developed by Thomas F. Gilbert, who defined it as the systematic application of reinforcement theory to the analysis and construction of complex behaviour. It is best known for **retrogressive (backward) chaining**: a chain of steps is taught backwards, so that the final step is mastered first, then the step before it, and so on. In this way the learner always ends a practice by completing the whole task. (Gilbert used backward chaining where a task is a chain of steps; not every mathetics lesson is taught backwards.) If a matching item asks for "the final step is mastered first, working backwards", the answer is mathetics. The other self-paced plan often listed with programmed instruction, the Personalised System of Instruction (the Keller Plan), is taught in section 4.4.
 ::sub When the lecture still wins
 Two true statements are often paired in a way that tempts you to link them. "The lecture is suitable for introducing a new topic to a large class" is true because of economy, not because of participation. "The lecture is weak for skills" is true because the learner does not practise, not because the class is large. Read every Reason and ask whether it gives the cause.
 ::box check
@@ -387,7 +387,7 @@ In a **fishbowl**, a small inner circle of students discusses an issue while the
 ::sub More cooperative learning techniques
 - **Think-Pair-Share**, devised by **Frank Lyman**: each student thinks alone about a question, then discusses it with a partner, then pairs share with the class. It gives every student a chance to take part, even in a large class.
 - **STAD (Student Teams-Achievement Divisions)**, developed by **Robert Slavin**: the teacher presents the lesson; students study in mixed teams; each takes an individual quiz; team scores are based on **improvement points**, that is, how far each member improves on his or her own past average. Weak students can contribute as much as strong ones.
-- **Group Investigation**, associated with Herbert Thelen and developed by Shlomo and Yael Sharan: groups choose sub-topics, plan and carry out an inquiry, and present their findings.
+- **Group Investigation**, developed by Shlomo and Yael Sharan: groups choose sub-topics, plan and carry out an inquiry, and present their findings.
 - **Jigsaw** (Aronson), described in the Core.
 ::sub What makes cooperation work
 David W. Johnson and Roger T. Johnson list five essentials of cooperative learning:
@@ -402,7 +402,7 @@ The Johnsons also distinguish three goal structures:
 - **No interdependence (individualistic work):** my result is unaffected by others.
 From his review of research, Robert Slavin concluded that group work raises achievement most reliably when two conditions are present: **group goals** (or group rewards) and **individual accountability**, so that the team's success depends on the learning of every member. If only the group product is assessed, some members do the work and others ride free.
 ::sub The Trump Plan
-Team teaching is associated with **J. Lloyd Trump**, who proposed reorganising the timetable roughly as follows: about 40 per cent of students' time in **large-group instruction** by the most competent teacher, about 20 per cent in **small-group discussion**, and about 40 per cent in **independent study**. Teachers work as a team and are deployed according to their strengths. The two largest shares, therefore, go to large-group instruction and independent study.
+Team teaching is associated with **J. Lloyd Trump**, who proposed reorganising the secondary-school timetable around **large-group instruction** by the most competent teacher, **small-group discussion**, and **independent study**. Reports of the plan from the time give only about 20 per cent of students' time to small-group discussion, with the larger shares going to large-group instruction and independent study. The split usually taught for the examination is roughly 40 per cent large-group, 20 per cent small-group and 40 per cent independent study; of these figures only the 20 per cent for small groups could be confirmed in a source of the period. Teachers work as a team and are deployed according to their strengths.
 ::box check
 Q1. Match List I with List II:
 ::match
@@ -472,7 +472,7 @@ Q4. (C), because team teaching does use each teacher's strengths, but it needs m
 Q5. (B), because the rapporteur records and reports the proceedings. The convener organises, the moderator conducts a panel, and the discussant comments on a paper.
 Q6. (A), because statements 1, 2 and 4 describe cooperative learning correctly. Statement 3 describes a competitive structure (negative interdependence), not cooperation.
 Q7. (C), because thinking alone, then talking with a partner, then sharing with the class is Lyman's Think-Pair-Share.
-Q8. (A), because the Trump Plan gives about 20 per cent to small-group discussion and about 40 per cent each to large-group instruction and independent study.
+Q8. (A), because the Trump Plan gives only about 20 per cent of students' time to small-group discussion, less than either large-group instruction or independent study (usually taught as about 40 per cent each).
 ::endanswers
 
 ::section 4.4 | Learner-centred and activity methods
@@ -483,14 +483,13 @@ Q8. (A), because the Trump Plan gives about 20 per cent to small-group discussio
 ::h Core
 The methods in this section put the learner to work: finding out, solving, making, deciding, acting. Most questions ask who devised a method, what its steps are in order, or how two similar methods differ.
 ::sub The project method
-The **project method** (परियोजना विधि) was set out by **William Heard Kilpatrick** in an essay of 1918. Kilpatrick was a follower of **John Dewey**, and the method rests on Dewey's pragmatism and his idea of **learning by doing**. Kilpatrick defined a project as "a whole-hearted purposeful activity proceeding in a social environment".
+The **project method** (परियोजना विधि) was set out by **William Heard Kilpatrick** in an essay of 1918. Kilpatrick was a follower of **John Dewey**, and the method rests on Dewey's pragmatism and his idea of **learning by doing**. Kilpatrick defined a project as "a wholehearted purposeful activity proceeding in a social environment".
 In the project method students carry out a purposeful, real-life task from start to finish: they choose it, plan it, do it and judge the result. It replaces rote learning and passive listening with the learners' own activity. A project normally ends in a tangible product: a report, a survey, a model, an exhibition.
 Kilpatrick's four steps, in order, are:
 1. **Purposing:** the students choose a project that has a real purpose for them.
 2. **Planning:** they decide how to carry it out.
 3. **Executing:** they do the work.
 4. **Evaluating** (judging): they review the result against the purpose with which they started.
-Some Indian textbooks add "providing a situation" before purposing and "recording" after evaluating, making six steps. The four central steps and their order stay the same.
 A project draws on several subjects at once. A project on village sanitation, for example, uses statistics, sociology, health science and report writing together. So the project method **promotes correlation** among subjects. This is possible because it does not follow a timetable of separate subject periods.
 Its limitations: projects take much time, and the knowledge gained is **incidental** and not in systematic order. So the method is hard to use as the only method for covering a prescribed syllabus. (That Kilpatrick propounded it is true, but it does not explain this difficulty.)
 Do not confuse Kilpatrick with others: **Maria Montessori** and **Friedrich Froebel** devised methods for early childhood education, and **Helen Parkhurst** devised the **Dalton Plan** (डाल्टन योजना), in which each pupil works through monthly assignments, or "contracts", at his or her own pace in subject rooms called laboratories.
@@ -563,11 +562,11 @@ In a B.Ed. college in Bhiwani, trainees run a project: they survey the number of
 - **Criterion-referenced and norm-referenced.** Mastery is judged against a fixed standard (criterion), not against other learners (norm).
 ::endbox
 ::further
-::sub Three definitions of a project
-- **Kilpatrick:** "a whole-hearted purposeful activity proceeding in a social environment".
-- **J. A. Stevenson:** "a problematic act carried to completion in its natural setting". Note the three ideas: a problem, completion, a natural setting.
-- **P. B. Ballard:** "a bit of real life that has been imported into the school".
+::sub Definitions of a project
+- **Kilpatrick:** "a wholehearted purposeful activity proceeding in a social environment".
+- **J. A. Stevenson**, as quoted in Indian teacher-education material: "a problematic act carried to completion in its natural setting" (some versions read "its most natural setting"). Note the three ideas: a problem, completion, a natural setting.
 ::sub Kilpatrick's four types of project
+Kilpatrick grouped projects by purpose: to make or do something, to enjoy something aesthetic, to solve a problem, and to acquire a skill or item of knowledge. The labels usually used for the examination are:
 1. **Producer (constructive) project:** making something, such as a model, a garden or a magazine.
 2. **Consumer (aesthetic) project:** enjoying and appreciating something, such as a poem, a piece of music or a painting.
 3. **Problem project:** solving an intellectual question.
@@ -709,7 +708,7 @@ In a B.Com. class of 70 at a college in Fatehabad, the teacher uploads a twelve-
 ::endbox
 ::further
 ::sub Where the flipped classroom came from
-The flipped classroom was popularised by **Jonathan Bergmann and Aaron Sams**, two chemistry teachers at a high school in Colorado, United States, who began recording their lectures for students in 2007 and later described the approach in their book *Flip Your Classroom*. Keep apart the pairs often offered as distractors: Hase and Kenyon (heutagogy), Siemens and Downes (connectivism), Joyce and Weil (models of teaching).
+The flipped classroom was popularised by **Jonathan Bergmann and Aaron Sams**, two chemistry teachers at a high school in Colorado, United States, who began recording their lectures for students in 2007 and later described the approach in their book *Flip Your Classroom*. A similar "inverted classroom" had already been described by the economists Lage, Platt and Treglia in 2000. Keep apart the pairs often offered as distractors: Hase and Kenyon (heutagogy), Siemens and Downes (connectivism), Joyce and Weil (models of teaching).
 ::sub When students come unprepared
 A common difficulty in a flipped course is that some students arrive without having watched the video. If the teacher re-lectures the whole class each time, the incentive to prepare disappears and the class time is lost. The response most consistent with the model is to use a brief entry quiz or task that holds students accountable, and to go ahead with the planned activity, while the unprepared catch up.
 ::sub Models of blended learning
@@ -887,7 +886,7 @@ A first-year M.A. Hindi student in a village near Sirsa has no reliable internet
 ::endbox
 ::further
 ::sub cMOOCs and xMOOCs
-The first MOOCs were run by **George Siemens and Stephen Downes** on the principles of **connectivism** (संयोजनवाद), the theory that learning is the forming of connections across a network of people and resources. These are called **cMOOCs**. In a cMOOC much of the content is found, created, remixed and shared by the learners themselves, and the course acts as a hub of a network rather than as a fixed body of content. Because connectivism treats learning as network-building, learners must take responsibility for the content.
+The term MOOC was coined in 2008, usually credited to Dave Cormier (some sources add Bryan Alexander), for the course "Connectivism and Connective Knowledge" (CCK08), run by **George Siemens and Stephen Downes** through the University of Manitoba on the principles of **connectivism** (संयोजनवाद), the theory that learning is the forming of connections across a network of people and resources. These are called **cMOOCs**. In a cMOOC much of the content is found, created, remixed and shared by the learners themselves, and the course acts as a hub of a network rather than as a fixed body of content. Because connectivism treats learning as network-building, learners must take responsibility for the content.
 **xMOOCs** came later. They are structured, instructor-led courses with a fixed syllabus of video lectures, quizzes and examinations, offered on large platforms such as Coursera, edX and SWAYAM. They are content-delivery courses.
 So "xMOOCs are based on connectivism" is false, and "cMOOCs follow a fixed syllabus of instructor-made video lectures" is also false: each statement gives one type the feature of the other.
 A **SPOC** (small private online course) uses MOOC-style materials, such as video lectures and automatic quizzes, for a limited, selected group, typically the students of one institution. It allows closer interaction and is often used in blended teaching on campus.
