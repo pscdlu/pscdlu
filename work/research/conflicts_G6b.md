@@ -28,3 +28,6 @@ Web verification was severely limited in this session. WebFetch failed with DNS 
 - NEP 2020 paragraph 4.34 quotation.
 - Butler (1988); Black and Wiliam, Inside the Black Box (1998); Alderson and Wall, 'Does washback exist?' (1993); Messick consequential validity.
 - UGC document title "Evaluation Reforms in Higher Educational Institutions" (2019) and its summarised recommendations; UGC LOCF.
+
+## Verification pass V4 (20 October 2026)
+All RECHECK items above were re-searched (24 WebSearch calls). Verified: RTE s.29(2)(h); CBSE 2017-18 restoration; CBSE nine-point scale and 9.5 multiplier; CCFUP (12 Dec 2022) credit hours and categories; NCrF 30 h/credit; ABC Regulations 2021; NAD/DigiLocker; NHEQF levels incl. 6 (PG diploma), 6.5 and 7 (M.E./M.Tech.) — S20-Q26 note now verified; NTA (Cabinet 10 Nov 2017); first NTA UGC NET Dec 2018 CBT; June 2024 NET OMR/cancelled/CBT re-test; NEP para 4.34; NIOS ODE; Butler 1988; UGC Evaluation Reforms (Dec 2019); LOCF; CBCS 'cafeteria'; exit awards. Corrected: CBSE 2009-10 = grading in IX-X with CCE beginning in Class IX. Hedged: Black and Wiliam comment-only link; June 2024 'next day'; Evaluation Reforms recommendations narrowed; first names of Alderson, Wall, Messick dropped. See verifypass_V4.md.

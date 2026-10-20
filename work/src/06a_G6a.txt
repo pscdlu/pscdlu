@@ -266,7 +266,7 @@ This is a ceiling only. Actual validity coefficients are usually much lower.
 - Confusing SD (spread across a group) with SEM (error around one person's score).
 ::endbox
 ::sub When split-half goes wrong: speed tests
-A **power test** has items of increasing difficulty and enough time for everyone to attempt all of them. A **speed test** has easy items and too little time, so the score depends on how many items the student reaches. On a pure speed test a student who reaches 37 items gets about 19 odd items and 18 even items right. The two halves are almost identical for every student, so the odd-even correlation is close to 1 whatever the real reliability. (A computer simulation of 200 such students, run for this guide, gave an odd-even correlation of 0.997.) Split-half therefore gives a spuriously high reliability on speed tests. Test-retest or parallel forms should be used for speeded tests. Split-half is suitable for power tests.
+A **power test** has items of increasing difficulty and enough time for everyone to attempt all of them. A **speed test** has easy items and too little time, so the score depends on how many items the student reaches. On a pure speed test a student who reaches 37 items gets about 19 odd items and 18 even items right. The two halves are almost identical for every student, so the odd-even correlation is close to 1 whatever the real reliability. (A computer simulation of 200 such students, run for this guide, gave an odd-even correlation above 0.99.) Split-half therefore gives a spuriously high reliability on speed tests. Test-retest or parallel forms should be used for speeded tests. Split-half is suitable for power tests.
 ::sub Why the group matters: restriction of range
 A reliability coefficient is not fixed for a test. It depends on how widely the scores of the group are spread. In classical test theory, reliability is the share of true-score variance in the total variance of scores:
 > reliability = 1 - (error variance / total variance)
@@ -298,7 +298,7 @@ Choose the correct answer from the options given below:
 (D) A-IV, B-III, C-II, D-I
 Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
 Assertion (A): A test can be highly reliable and still have low validity.
-Reason (R): Reliability is necessary but not sufficient for validity.
+Reason (R): Consistent scores do not by themselves show that a test measures what it is meant to measure.
 In the light of the above statements, choose the correct answer:
 (A) Both A and R are true and R is the correct explanation of A
 (B) Both A and R are true but R is NOT the correct explanation of A
@@ -904,7 +904,7 @@ Q2. A test has mean 50 and SD 4. A student who scores 58 has a z-score and a T-s
 (A) 2.0 and 70
 (B) 8.0 and 58
 (C) 2.0 and 52
-(D) 14.5 and 64.5
+(D) 14.5 and 195
 Q3. Given below are two statements, one labelled Assertion (A) and the other Reason (R):
 Assertion (A): A raw score of 42 cannot be interpreted until we know how others performed or what standard was set.
 Reason (R): Raw scores must always be converted to T-scores before they are reported.

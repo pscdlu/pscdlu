@@ -417,7 +417,7 @@ NTA and similar bodies put **mock tests** online before the examination. A mock 
 In a country like India the chief limitation is the **digital divide (डिजिटल विभाजन)**. A candidate from a rural or poor background who has seldom used a computer may lose marks for reasons that have nothing to do with the subject. That is a threat to fairness. Objective scoring, speed of results and shuffling of items are advantages, not limitations.
 Remember also what CBT cannot do. It changes how items are delivered and scored, not what they measure. A poorly written item stays poor on a screen, so the validity (वैधता) of the items must still be established by the test makers.
 ::sub Normalisation across shifts
-A large CBT is held in several shifts, often over several days, with a different question paper in each shift. The papers cannot be made exactly equal in difficulty. So raw scores from different shifts cannot be compared directly. They are converted by a statistical procedure called **normalisation (सामान्यीकरण)**, usually into **percentile scores (शततमक अंक)**: a candidate's percentile shows the percentage of candidates in the same shift who scored at or below that candidate.
+A large CBT is held in several shifts, often over several days, with a different question paper in each shift. The papers cannot be made exactly equal in difficulty. So raw scores from different shifts cannot be compared directly. They are converted by a statistical procedure called **normalisation (सामान्यीकरण)**, usually into **percentile scores (शततमक अंक)**: a candidate's percentile shows the percentage of candidates in the same shift who scored at or below that candidate. (Section 6.5 defines percentile rank as the percentage scoring below a score; both conventions are in use, so read the definition given in the question.)
 Normalisation is the answer when a question asks how scores from different shifts are made comparable. Randomisation only shuffles questions within a paper. Negative marking only penalises guessing. Revaluation only rechecks scoring. None of them equates two different papers.
 ::sub Adaptive testing
 In a **computerised adaptive test (कंप्यूटरीकृत अनुकूली परीक्षण)**, or CAT, the next question depends on the candidate's answers so far. The program estimates the candidate's ability after each response. A correct answer brings a harder item, a wrong answer an easier one. Each candidate therefore meets items suited to his or her level, and a precise score is reached with fewer items than a fixed test needs.
@@ -440,7 +440,7 @@ A student from a village near Fatehabad prepares for the UGC NET. She has used a
 ::box fact
 - National Testing Agency: set up by the Government of India in November 2017 (as of October 2026).
 - First UGC NET conducted by the NTA: December 2018, in computer-based mode. Older books describe the NET as a paper-and-pencil test conducted by the CBSE.
-- The NTA held the June 2024 UGC NET in pen-and-paper mode; the Ministry of Education cancelled it within days and it was held again in computer-based mode in August-September 2024. Check the mode announced in the information bulletin for your own cycle.
+- The mode of the examination is fixed for each cycle by the NTA's information bulletin. It has been computer-based in normal practice since December 2018, but check the mode announced in the bulletin for your own cycle.
 ::endbox
 ::further
 ::sub Why adaptive tests need item response theory
