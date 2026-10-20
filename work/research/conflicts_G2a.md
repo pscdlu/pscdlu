@@ -20,3 +20,14 @@ All 115 set items and 5 Booklet 0 items in the G2a brief were read with their ke
 - Kolb's later nine-style inventory (KLSI 4.0): not needed by any item, not verified, omitted.
 - Exact page numbers for Vygotsky quotations: omitted.
 - Marton and Säljö deep/surface approaches: omitted (no item depends on it; not verified).
+
+## Verification pass V2 (20 Oct 2026): booklet-dependent items kept but not web-confirmed
+- S20-Q2: Vygotsky's two-children example could not be found in search results. Guide now says "A classic illustration, usually credited to Vygotsky himself". Key unaffected.
+- S4-Q36: MKO origin not confirmed; guide now says the term "is widely used by later writers". Mead's "generalised other" seen in one university archive source only.
+- S9-Q43: Thorndike's revision of the law of exercise confirmed (Britannica; Univ. of Idaho notes); "law of belongingness" not found in results, kept.
+- S17-Q47: Ausubel's progressive differentiation / integrative reconciliation not found in results, kept.
+- S12-Q5 and S6-Q4: Lewin B = f(P, E), life space, leadership styles not found in results, kept.
+- S20-Q43: Kolb's "relatively stable but changeable" styles not found in results, kept.
+- S10-Q34: Havighurst's fuller adolescent task list still not confirmed, kept.
+- S20-Q12: second connectivism principle ("capacity to know more ...") seen only as part of a cited eight-principle list, wording not seen; kept.
+- S11-Q36: attribution to Piaget's 1972 paper removed; the general point (formal reasoning not used uniformly) kept.

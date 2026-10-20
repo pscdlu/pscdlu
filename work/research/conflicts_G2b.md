@@ -24,3 +24,10 @@
 - IQ classification bands (e.g. "superior", "borderline"): omitted; labels vary between test manuals.
 - Full list of 21 disabilities: only examples printed, since the Schedule could not be read directly.
 - Current UDL Guidelines version number: omitted.
+
+## Verification pass V2 (20 Oct 2026): booklet-dependent items kept but not web-confirmed
+- S20-Q24: "achievement motivation can be developed through training" (McClelland) not found in results; kept.
+- S17-Q41: work-avoidance goals not found in results (mastery vs performance goals confirmed via Mueller & Dweck 1998); kept.
+- S13-Q48, S14-Q13: Knowles's learning contract and later continuum view not searched (budget); kept.
+- Knowles's sixth assumption ("need to know") as a later addition: four early assumptions and a fifth (motivation, 1984) confirmed; the sixth not seen; Check-yourself 2.7 Q1 relies on it.
+- RTE Act 2009 and ages 6-14 not searched (budget); editor to confirm.

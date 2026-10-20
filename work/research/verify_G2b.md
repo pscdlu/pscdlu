@@ -96,3 +96,6 @@ IMPORTANT LIMITATION. In this session WebFetch could not resolve any host (DNS f
 | 0.9*0.5*0 | 0.0 | 2.6 Vroom worked |
 | 0.8*0.5*0.9 | 0.36 | 2.6 Vroom worked |
 | 0.6*0.5*0.8 | 0.24 (sum 1.9, mean 0.633) | 2.6 CY Q5 |
+
+## Verification pass V2 (20 Oct 2026)
+PENDING rows above were rechecked; outcomes and sources are in research/verifypass_V2.md.

@@ -79,3 +79,6 @@ Method note (19 October 2026). WebFetch and curl were blocked by the session pro
 | Kohlberg: three levels, six stages; Heinz dilemma; most adolescents and adults conventional | PENDING | | |
 | Piaget: heteronomous and autonomous morality | PENDING | | |
 | Carol Gilligan, *In a Different Voice* (1982), ethic of care | PENDING | | |
+
+## Verification pass V2 (20 Oct 2026)
+PENDING rows above were rechecked; outcomes and sources are in research/verifypass_V2.md.

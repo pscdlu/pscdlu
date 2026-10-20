@@ -527,7 +527,7 @@ Q2. (A), because CA = 90 months and MA = 112 months; 112 ÷ 90 × 100 = 124.4. R
 Q3. (C), because MA = 80 × 15 ÷ 100 = 12 years.
 Q4. (C), because Cattell is fluid and crystallised, Guilford the three dimensions, Gardner multiple intelligences and Sternberg the triarchic theory.
 Q5. (A), because mental age levels off while chronological age keeps rising, and deviation IQs use mean 100 and SD 15 within each age group.
-Q6. (C), because A is true but R is false: individual differences are differences of both degree and kind.
+Q6. (C), because A is true but R is false: individual differences are differences of both degree (more or less of the same ability) and kind (different interests, styles and talents). Older books that say "of degree, not of kind" give only half the picture.
 Q7. (B), because classifying plants and animals is naturalistic intelligence, the eighth, added later.
 Q8. (D), because about 68 per cent lie between 85 and 115, so about 32 per cent lie outside, half of them (about 16 per cent) above 115.
 ::endanswers
@@ -674,8 +674,8 @@ Statement II: A learner with dyslexia usually has below-average general intellig
 (D) Statement I is false but Statement II is true
 Q6. A teacher records her lectures as videos for an online course. Which pair of measures serves learners with visual impairment and learners with hearing impairment respectively?
 (A) Captions; a front seat
-(B) Audio description and screen-reader-friendly notes; captions
-(C) Captions; audio description
+(B) Alt text and screen-reader-friendly notes; captions
+(C) Captions; alt text
 (D) Large print; Braille
 Q7. In Tomlinson's terms, a teacher who gives weaker readers a simplified version of a text while stronger readers read the original is differentiating the:
 (A) product
@@ -689,7 +689,7 @@ Q2. (B), because statements 1, 2 and 4 follow the Act; the employment figure is 
 Q3. (D), because dyslexia is reading, dysgraphia handwriting, dyscalculia number and dyspraxia movement.
 Q4. (D), because placement alone is integration; R is true and describes what inclusion needs.
 Q5. (C), because underachievement is a gap between ability and attainment, while dyslexia occurs despite average or above-average intelligence.
-Q6. (B), because spoken descriptions and readable notes reach those who cannot see, and captions reach those who cannot hear. Option (C) reverses the pair.
+Q6. (B), because alt text and screen-reader-friendly notes reach those who cannot see, and captions reach those who cannot hear. Option (C) reverses the pair.
 Q7. (C), because the material through which learners reach the ideas is varied; the activities (process) and the way of showing learning (product) stay the same.
 ::endanswers
 ::chapteranswers
