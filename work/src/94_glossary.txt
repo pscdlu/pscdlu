@@ -93,7 +93,7 @@ English term, the Hindi term used in this guide, and a one-line meaning. Hindi t
 |core course|मूल पाठ्यक्रम|Compulsory course of the programme|
 |correlation|सहसंबंध|degree to which two sets of scores go together|
 |credit|क्रेडिट|Unit measuring course work by teaching hours|
-|credit transfer|क्रेडिट अंतरण|counting credits earned elsewhere towards one's degree|
+|credit transfer|क्रेडिट हस्तांतरण|counting credits earned elsewhere towards one's degree|
 |criterion-referenced|निकष-संदर्भित|Judged against a fixed standard|
 |criterion-referenced test|निकष-संदर्भित परीक्षण|interprets a score against a fixed standard|
 |critical reflection|आलोचनात्मक चिंतन|examining one's own assumptions|
@@ -353,7 +353,7 @@ English term, the Hindi term used in this guide, and a one-line meaning. Hindi t
 |remote proctoring|दूरस्थ निरीक्षण|Online invigilation by webcam and screen|
 |reversibility|उत्क्रमणीयता|mentally undoing an action|
 |role play|भूमिका निर्वाह|learners act out roles unscripted, followed by discussion|
-|rote learning|रटन अधिगम|learning by repetition without meaning|
+|rote learning|रटंत अधिगम|learning by repetition without meaning|
 |rubric|रूब्रिक (मूल्यांकन मानदंड-तालिका)|Scoring guide with criteria, levels, descriptors|
 |scaffolding|आलंबन, पाड़|temporary support withdrawn as learner gains competence|
 |schema|स्कीमा, मानसिक संरचना|organised pattern of thought|

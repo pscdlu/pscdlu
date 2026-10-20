@@ -11,7 +11,6 @@ The year is given only where the guide gives one. Where the guide says that a li
 |Arnett, Jeffrey Jensen|Emerging adulthood (about 18 to 25)|2000|2.1|
 |Ausubel, David|Meaningful reception learning; advance organiser; subsumption; "what the learner already knows"|1968 (*Educational Psychology: A Cognitive View*)|2.2, 3.3|
 |Bandura, Albert|Observational learning (Bobo doll); attention, retention, reproduction, motivation; social cognitive theory; self-efficacy|1977 (self-efficacy)|2.3, 2.6, 3.2|
-|Bergmann, Jonathan and Sams, Aaron|Popularised the flipped classroom (*Flip Your Classroom*)|2007 (began recording lectures)|4.5|
 |Bigge, Morris L.|Three levels of teaching; "thoughtless" to "thoughtful"; *Learning Theories for Teachers*; with Hunt, *Psychological Foundations of Education* (1962)|1964|1.5|
 |Binet, Alfred (with Théodore Simon)|First workable intelligence scale; mental age|1905|2.8|
 |Bloom, Benjamin S.|*Taxonomy of Educational Objectives, Handbook I* (cognitive, with others); mastery learning; with Hastings and Madaus, formative and summative applied to student learning (1971)|1956|1.4, 4.4, 6.3|
@@ -19,15 +18,12 @@ The year is given only where the guide gives one. Where the guide says that a li
 |Bruner, Jerome|Discovery learning; enactive, iconic, symbolic modes; spiral curriculum (*The Process of Education*, 1960); concept attainment model; scaffolding (with Wood and Ross, 1976)|1960; 1966 (*Toward a Theory of Instruction*)|1.9, 2.2|
 |Cattell, Raymond|Fluid and crystallised intelligence||2.8|
 |Chickering and Gamson|Seven principles for good practice in undergraduate education|1987|1.7|
-|Cronbach, Lee J. and Snow, Richard E.|Aptitude-treatment interaction (*Aptitudes and Instructional Methods*)|1977|3.3|
-|Cross, K. Patricia|Situational, institutional and dispositional barriers to adult learning||2.7|
 |Crowder|Branching programming (intrinsic programming)||4.2|
 |Dale, Edgar|Cone of Experience (*Audiovisual Methods in Teaching*)|1946 (first edition); 1969 (third edition)|5.1|
 |Das, J. P., Naglieri, Jack and Kirby, John|PASS theory of intelligence, drawing on A. R. Luria||2.8|
 |Dave, R. H.|Psychomotor taxonomy: five levels, Imitation to Naturalisation|usually dated 1970|1.4|
 |Deci, Edward and Ryan, Richard|Self-determination theory: autonomy, competence, relatedness||2.6|
 |Dewey, John|Reflective thinking in five steps (*How We Think*); learning by doing; progressive education; basis of project and problem-solving methods|1910 (*How We Think*)|1.5, 2.3, 4.4|
-|Dunkin and Biddle|Presage, context, process and product variables (*The Study of Teaching*)|1974|1.7|
 |Dweck, Carol|Fixed (entity) and growth (incremental) mindsets||2.6|
 |Elkind, David|Adolescent egocentrism: imaginary audience and personal fable|1967|2.1|
 |Erikson, Erik H.|Eight psychosocial stages; identity crisis (*Childhood and Society*)|1950|2.1|
@@ -60,7 +56,6 @@ The year is given only where the guide gives one. Where the guide says that a li
 |Kolb, David A.|Experiential learning cycle; diverging, assimilating, converging, accommodating styles (*Experiential Learning*)|1984|2.4|
 |Kounin, Jacob|Withitness, overlapping, momentum, smoothness (*Discipline and Group Management in Classrooms*)|1970|1.7|
 |Krathwohl, Bloom and Masia|Affective taxonomy, *Handbook II*: Receiving to Characterisation|1964|1.4|
-|Kuder, G. F. and Richardson, M. W.|KR-20 and KR-21 reliability formulas|1937|6.2|
 |Lewin, Kurt|Leadership styles (with Lippitt and White, 1939); field theory, B = f(P, E); action research|1939 (leadership studies)|1.7, 2.3, 4.4|
 |Mager, Robert F.|Three-part objective: performance, condition, criterion (*Preparing Objectives for Programmed Instruction*)|1962|1.3|
 |Marcia, James|Identity statuses: diffusion, foreclosure, moratorium, achievement|1966|2.1|
@@ -71,7 +66,6 @@ The year is given only where the guide gives one. Where the guide says that a li
 |Morrison, Henry Clinton|Understanding level; unit plan and mastery formula (*The Practice of Teaching in the Secondary School*); teaching as contact of "a more mature personality and a less mature one"|1926 (the book); 1934 (the definition)|1.1, 1.5|
 |Osborn, Alex F.|Brainstorming (*Applied Imagination*)||4.3|
 |Parkhurst, Helen|Dalton Plan||4.4|
-|Pashler, McDaniel, Rohrer and Bjork|Review finding little sound evidence for the meshing hypothesis of learning styles|2008|2.4|
 |Passi, B. K.|Indian model of micro-teaching (with NCERT)||1.8|
 |Pavlov, Ivan|Classical conditioning||2.3|
 |Piaget, Jean|Four stages; schema, assimilation, accommodation, equilibration; cognitive constructivism; heteronomous and autonomous morality||2.2, 2.5|
@@ -99,7 +93,6 @@ The year is given only where the guide gives one. Where the guide says that a li
 |Vygotsky, Lev|Zone of proximal development; social constructivism; private and inner speech (*Mind in Society*)|1978 (in English)|2.2|
 |Wechsler, David|Deviation IQ (mean 100, SD 15)||2.8|
 |Yerkes and Dodson|Inverted-U law of arousal and performance|1908|2.6|
-|Zimmerman, Barry|Self-regulation cycle: forethought, performance, self-reflection||2.4|
 ::sub Levels, stages and sequences to learn in order
 Each order runs from first to last, or from lowest to highest, as the guide teaches it.
 ::table small widths=26,62,12
@@ -323,7 +316,7 @@ Work every formula as the guide's worked examples do, with the steps written out
 |Chance score = number of items x 1 / number of options|Expected score by blind guessing|6.4|
 |Mean = sum of scores / number of scores|Median is the middle score after ordering; mode the most frequent|6.5|
 |Variance = sum of squared deviations from the mean / N; SD = square root of variance|Some books divide by N - 1 for a sample|6.5|
-|PR = number scoring below / number in group x 100|Percentile rank as defined in 6.5 (6.8 notes the "at or below" convention used for shift percentiles)|6.5, 6.8|
+|PR = number scoring below / number in group x 100|Percentile rank as defined in 6.5 (6.8 notes the "at or below" convention used in normalisation)|6.5, 6.8|
 |z = (X - mean) / SD; T = 50 + 10z|X raw score|6.5|
 |r = (sum of dx dy) / square root of [(sum of dx²) x (sum of dy²)]|dx, dy deviations from the means of X and Y|6.5|
 |Shared variance = r²|r = 0.60 gives 0.36|6.5|
