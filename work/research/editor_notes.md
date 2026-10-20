@@ -1,2 +1,4 @@
 - Hindi: use चिंतनशील स्तर for reflective level (NTA usage); harmonise in all src files at assembly.
 - After V4: remove June 2024 cycle bullet in 6.8 Fact watch (do not name exam cycles).
+- After V1/V2 finish: apply qa_solve_A.md fixes (1.9 Q5, 2.8 Q6, 2.9 Q6, 1.2 Q3, 3.7 letter rebalance).
+- After V4 finishes: apply qa_solve_B.md fixes (6.5 Q2 option D; 6.2 Q3 reason; 6.2 simulation figure; 6.8 percentile note).
