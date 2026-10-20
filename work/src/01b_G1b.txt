@@ -539,7 +539,7 @@ Joyce and Weil describe each model by a set of elements. Questions ask you to ma
 |Support system (सहायक प्रणाली)|The special materials, facilities and conditions the model needs, beyond the usual skills of a teacher|
 Joyce and Weil also describe each model's instructional and nurturing effects, that is, what it teaches directly and what it develops along the way. The trap: "system" occurs in two names. The social system is about **people** (roles and relationships); the support system is about **materials** and facilities.
 ::sub The four families
-Joyce and Weil grouped the models into four families, according to what each family mainly develops.
+Joyce and Weil grouped the models into four families, according to what each family mainly develops. The names in brackets in the last column are the developers that Indian teacher-education books and examination papers attach to each model; learn them in that form. (Group investigation in its later cooperative-learning form is credited to Shlomo and Yael Sharan; see Section 4.3.)
 ::table widths=26,40,34
 |Family|What it develops|Examples|
 |Information-processing|How learners take in, organise and use information; concepts and thinking|Concept attainment (Bruner); inquiry training (Suchman); advance organiser (Ausubel); inductive thinking|

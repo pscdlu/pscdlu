@@ -36,7 +36,7 @@ Erik H. Erikson described the whole life span as eight stages in his book *Child
 |1|Trust versus mistrust|Infancy|
 |2|Autonomy versus shame and doubt|Early childhood (toddler)|
 |3|Initiative versus guilt|Pre-school years|
-|4|Industry versus inferiority|School age (about 6 to 12)|
+|4|Industry versus inferiority|School age|
 |5|Identity versus role confusion|Adolescence|
 |6|Intimacy versus isolation|Young adulthood|
 |7|Generativity versus stagnation|Middle adulthood|
@@ -82,7 +82,7 @@ In a B.A. first-year class in Sirsa, Meena reads out her answer and a classmate 
 ::endbox
 ::box confused
 - **Identity versus role confusion** and **intimacy versus isolation.** Identity is the crisis of adolescence; intimacy is the crisis of young adulthood, the next stage.
-- **Industry versus inferiority** and **identity versus role confusion.** Industry is the school-age stage (about 6 to 12); identity is adolescence.
+- **Industry versus inferiority** and **identity versus role confusion.** Industry is the school-age stage; identity is adolescence.
 - **Hall**, **Havighurst** and **Erikson.** Hall: storm and stress. Havighurst: developmental tasks. Erikson: psychosocial stages.
 - **Moratorium** and **diffusion.** Both lack commitment. In moratorium the person is actively exploring; in diffusion there is no exploration either.
 - **Foreclosure** and **achievement.** Both show commitment. In foreclosure there was no exploration before it; in achievement there was.
@@ -197,9 +197,9 @@ Vygotsky's best-known idea is the **zone of proximal development**, or ZPD (स�
 The ZPD is the **distance (gap) between the actual level and the potential level**. It is neither level itself. It is the gap between what a learner can do alone and what he or she can do with guidance. Vygotsky wrote about this in work published in English as *Mind in Society* (1978).
 Teaching is most fruitful when it is aimed at the zone. If a learner cannot solve a problem alone but solves it after a few hints, that problem lies within the ZPD.
 Vygotsky argued that good learning runs **ahead of** development and leads it. Instruction aimed at the zone awakens abilities that are still maturing. Compare Piaget, for whom development sets the limits of learning.
-Vygotsky's own illustration makes the zone clear. Two children both solve problems at the eight-year level when alone. With help, one reaches the nine-year level and the other the twelve-year level. Their actual development is the same, but their zones differ: one year and four years. So they need different teaching, and a test of unaided work alone would hide the difference.
+A classic illustration, usually credited to Vygotsky himself, makes the zone clear. Two children both solve problems at the eight-year level when alone. With help, one reaches the nine-year level and the other the twelve-year level. Their actual development is the same, but their zones differ: one year and four years. So they need different teaching, and a test of unaided work alone would hide the difference.
 ::sub The more knowledgeable other and scaffolding
-The person who gives the help is often called the **more knowledgeable other** (MKO). It may be a teacher, a parent, a capable classmate, or even a tool such as a computer program. The term was made popular by later writers to describe Vygotsky's idea. Do not confuse it with the **generalised other**, which is G. H. Mead's term for the attitudes of society that a person takes in.
+The person who gives the help is often called the **more knowledgeable other** (MKO). It may be a teacher, a parent, a capable classmate, or even a tool such as a computer program. The term is widely used by later writers to describe Vygotsky's idea. Do not confuse it with the **generalised other**, which is G. H. Mead's term for the attitudes of society that a person takes in.
 The help itself is called **scaffolding** (आलंबन, पाड़). Scaffolding is temporary support: hints, prompts, models, questions, breaking a task into steps. Like a builder's scaffold, it is removed gradually as the learner becomes able to work alone. So scaffolding is not extra homework, a fixed syllabus or a grade.
 Peer tutoring works on the same principle. A peer who is slightly ahead can give hints within the tutee's zone, so peer tutoring can promote the tutee's cognitive development.
 ::sub Jerome Bruner: discovery and three modes
@@ -251,7 +251,7 @@ A teacher of B.Sc. physics in Hisar begins a unit on energy with a five-minute o
 - Piaget **underestimated young children**. With simpler, more familiar tasks, children show abilities earlier than he reported (Margaret Donaldson, *Children's Minds*, 1978).
 - He gave **less weight to social and cultural influences** than Vygotsky did.
 - The **ages are not fixed and universal**. They vary with culture, schooling and experience.
-- **Not all adults use formal operations in all fields.** Piaget himself later accepted (in a 1972 paper) that many adolescents and adults use formal reasoning mainly in fields they know well. So it is false to say that every adolescent reaches formal operations at eleven and uses them uniformly in every subject. Chronological age is only a rough guide, and many adolescents still reason concretely in unfamiliar subjects.
+- **Not all adults use formal operations in all fields.** Many adolescents and adults reason formally in fields they know well but less so in unfamiliar ones. So it is false to say that every adolescent reaches formal operations at eleven and uses them uniformly in every subject. Chronological age is only a rough guide, and many adolescents still reason concretely in unfamiliar subjects.
 ::sub Piaget and Vygotsky on children's self-talk
 A five-year-old talks aloud while doing a puzzle. **Piaget** called this **egocentric speech**: a sign that the child cannot yet take another's point of view, which fades with development. **Vygotsky** called it **private speech**: a tool by which the child plans and regulates action, which later turns inward to become inner speech, or thought. Know the two readings and who holds each.
 ::sub More on Bruner
@@ -282,7 +282,7 @@ Four effects with names:
 |Serial position effect|Items at the beginning (primacy) and at the end (recency) of a list or lecture are recalled best; those in the middle worst. So put key points at the start and the end.|
 |Von Restorff effect|An item that stands out (is distinctive) is recalled better, whatever its position.|
 |Zeigarnik effect|Unfinished tasks are recalled better than finished ones.|
-|Hawthorne effect|People change their behaviour because they know they are being observed (from studies at the Hawthorne Works of the Western Electric Company in the 1920s and 1930s).|
+|Hawthorne effect|People change their behaviour because they know they are being observed (named after studies at the Hawthorne Works of the Western Electric Company).|
 ::box check
 Q1. Arrange Piaget's stages in the order in which they appear.
 1. Concrete operational
@@ -453,7 +453,7 @@ In a B.Com. class in Rohtak, students who come late are greeted coldly and fall 
 ::endbox
 ::further
 ::sub More on Thorndike
-Thorndike later added subsidiary laws, among them the **law of belongingness**: a connection is learnt more easily when the response seems to belong with the stimulus. He also revised the law of exercise: he found that practice alone does not improve performance unless the learner gets knowledge of results. Drill and revision in classrooms still rest on the law of exercise, but practice works best with feedback.
+Thorndike later added subsidiary laws, among them the **law of belongingness**: a connection is learnt more easily when the response seems to belong with the stimulus. He also revised the law of exercise: he found that mere repetition does little to strengthen a connection unless the response has some effect, such as the learner getting knowledge of results. Drill and revision in classrooms still rest on the law of exercise, but practice works best with feedback.
 ::sub Schedules and resistance to extinction
 **Continuous reinforcement** gives the fastest learning at first, but the behaviour dies out fastest once reinforcement stops, because its absence is noticed at once. **Variable-ratio** schedules produce responding that is most **resistant to extinction**, because the learner cannot tell when reinforcement has stopped. Fixed-ratio and fixed-interval schedules are more predictable.
 A language-learning app that awards points immediately after every correct answer is using **immediate positive reinforcement**, as Skinner recommended for programmed learning. If it also gives an occasional surprise bonus after an unpredictable number of answers, that bonus follows a **variable-ratio schedule**, which keeps the learner responding.
@@ -469,7 +469,7 @@ A language-learning app that awards points immediately after every correct answe
 ::sub Kurt Lewin: field theory
 Kurt Lewin's **field theory** states that behaviour is a function of the person and the psychological environment: **B = f(P, E)**. The person and the environment as that person perceives it together form the **life space**. Learning is a change in the cognitive structure of the life space. Teachers should therefore attend to the learner's perceived situation, goals and barriers. Lewin's field theory opposed Thorndike's connectionism (practice and effect). Lewin is also known for studies of leadership styles.
 ::sub Tolman: cognitive maps
-Rats that had explored a maze took a new, shorter route to the food when their usual path was blocked. Tolman explained that they had learnt the layout of the maze, a mental picture he called a **cognitive map**, not a fixed chain of turns. A chain of habits would have sent them down the old, blocked path. His view is called **purposive behaviourism** or **sign learning**.
+Rats that had explored a maze took a new, shorter route to the food when their usual path was blocked. Tolman explained that they had learnt the layout of the maze, a mental picture he called a **cognitive map**, not a fixed chain of turns. A chain of habits would have sent them down the old, blocked path.
 ::sub Bandura: social cognitive theory
 Bandura later called his theory **social cognitive theory**. Its central principle is **reciprocal determinism**: personal factors (beliefs, expectations), behaviour and environment all influence one another. A student's belief that she can do well makes her work harder; her work changes how teachers treat her; their treatment in turn shapes her belief. Bandura rejected both one-way explanations, environment alone (the strict behaviourist view) and inner drives alone. His idea of **self-efficacy** is taught in 2.6.
 ::sub More on Gagné
@@ -605,7 +605,7 @@ Learners do have **preferences**. But they do not have one exclusive channel, an
 **Metacognition** (अधिसंज्ञान) means thinking about one's own thinking: knowing how one learns, and checking whether one has understood. The term is linked with John Flavell.
 A **self-regulated learner** (स्व-नियमित शिक्षार्थी) plans, monitors and evaluates his or her own learning. Barry Zimmerman described self-regulation as a cycle of three phases.
 1. **Forethought**: setting goals and planning, with belief in one's ability.
-2. **Performance** (volitional control): using strategies, managing time and attention, monitoring progress.
+2. **Performance** (performance control): using strategies, managing time and attention, monitoring progress.
 3. **Self-reflection**: judging the result, finding causes, and adjusting for next time.
 Self-regulation matters more in college than in school, because the college student has more free time and less daily supervision. Teachers can build it by sharing objectives, teaching study strategies openly, and asking students to reflect on how they learnt, not only on what they learnt.
 ::box example

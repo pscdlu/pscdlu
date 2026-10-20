@@ -670,9 +670,9 @@ The teacher-student ratio of a whole institution is not the same as class size: 
 ::box check
 Q1. Which of the following is decided at the level of the institution?
 (A) The analogy a teacher uses to explain a concept
-(B) The number of students admitted to each section
+(B) The follow-up question a teacher asks
 (C) The pace of a teacher's speech
-(D) The follow-up question a teacher asks
+(D) The number of students admitted to each section
 Q2. In a university, the syllabus of a subject is usually framed by the:
 (A) Finance Committee
 (B) Selection Committee
@@ -707,8 +707,8 @@ Choose the correct answer from the options given below:
 (C) A-III, B-II, C-I, D-IV
 (D) A-III, B-I, C-IV, D-II
 Q6. When a college judges its teachers only by their students' final examination results, the most likely effect on teaching is:
-(A) wider use of projects and fieldwork
-(B) teaching narrowed to likely examination questions
+(A) teaching narrowed to likely examination questions
+(B) wider use of projects and fieldwork
 (C) smaller classes
 (D) higher salaries for teachers
 Q7. Given below are two statements:
@@ -721,12 +721,12 @@ In the light of the above statements, choose the correct answer:
 (D) Statement I is false but Statement II is true
 ::endbox
 ::answers
-Q1. (B), because admission and sectioning are institutional policy. The analogy, pace and follow-up question are the teacher's choices.
+Q1. (D), because admission and sectioning are institutional policy. The analogy, pace and follow-up question are the teacher's choices.
 Q2. (C), because the Board of Studies frames the syllabus and sends it to the Academic Council for approval; the other committees deal with money, buildings and appointments.
 Q3. (B), because ratio and examination policy are institutional. Such factors operate in all institutions, and subject mastery resides in the teacher.
 Q4. (B), because morale depends on institutional climate; fixing the calendar is a true institutional function but does not explain morale.
 Q5. (B), because the Board of Studies frames syllabi, the Academic Council approves academic matters, the IQAC prepares the AQAR, and the Selection Committee recommends appointments.
-Q6. (B), because exam-driven judgement pushes teachers towards teaching to the test.
+Q6. (A), because exam-driven judgement pushes teachers towards teaching to the test.
 Q7. (C), because a lecture can still be delivered to a large group; what suffers is individual attention and feedback.
 ::endanswers
 ::chapteranswers
