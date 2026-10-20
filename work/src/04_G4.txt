@@ -803,7 +803,7 @@ The main facts about SWAYAM:
 - Courses range from school level through undergraduate and postgraduate levels to skill and teacher-training courses.
 - Anyone may enrol, of any age, anywhere. There is no age bar, and it is not restricted to IIT students or to any group.
 - Learning is **free**. A learner who wants a certificate registers for a **proctored examination** (a supervised examination held at a centre, पर्यवेक्षित परीक्षा), for which a fee is charged, and must pass it.
-- Credits earned can be transferred (credit transfer, क्रेडिट अंतरण) to the learner's own university under UGC regulations (see below).
+- Credits earned can be transferred (credit transfer, क्रेडिट हस्तांतरण) to the learner's own university under UGC regulations (see below).
 - SWAYAM is one of the components of the Ministry of Education's **PM e-Vidya** programme for multi-mode access to digital education, along with DIKSHA, SWAYAM PRABHA, radio and podcasts.
 ::sub The four quadrants of a SWAYAM course
 Every SWAYAM course is built in four parts, called the **four quadrants**:

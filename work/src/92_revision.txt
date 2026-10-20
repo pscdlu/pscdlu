@@ -1,0 +1,100 @@
+::front Revision Sheets
+One sheet per chapter, for the last week. The most-asked points come first; the number in brackets is the section that teaches each point in full. If a point is not clear, go back to that section. The last line of each sheet lists the commonest confusions.
+
+::sub Revision Sheet 1: Teaching: Concept, Objectives, Levels, Characteristics and Basic Requirements
+- **Levels**, lowest to highest: memory (Johann Friedrich **Herbart**), understanding (Henry Clinton **Morrison**), reflective (Maurice P. **Hunt**; also Morris L. Bigge). If Hunt is an option, choose Hunt. Each level includes the one below; they differ in the amount of thinking demanded. (1.5)
+- Herbart's steps: preparation, presentation, comparison/association, generalisation, application. Morrison's: exploration, presentation, assimilation, organisation, recitation. (1.5)
+- Memory: teacher dominant, extrinsic motivation, objective tests. Understanding: essay and objective tests. Reflective: felt problem, teacher a democratic guide, intrinsic motivation, mainly essay tests. (1.5)
+- **Bloom 1956**: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation. **2001** (Anderson and Krathwohl): Remember, Understand, Apply, Analyse, Evaluate, Create; Create is now highest. Knowledge dimension: factual, conceptual, procedural, metacognitive. (1.4)
+- Affective (1964): Receiving, Responding, Valuing, Organisation, Characterisation. Psychomotor: Simpson, Perception to Origination (7); Dave, Imitation to Naturalisation (5); Harrow, Reflex movements to Non-discursive communication (6). (1.4)
+- Teaching is purposeful and triadic (teacher, learner, subject matter). Continuum: conditioning, training, instruction, teaching. Indoctrination differs by manner and aim, not subject. (1.1)
+- Definitions: Morrison, mature and less mature personality; Gage, interpersonal influence on behaviour potential; B. O. Smith, system of actions intended to induce learning; Amidon, interactive process, classroom talk. (1.1)
+- Phases: pre-active (fixing objectives), interactive (sizing up the class, diagnosing), post-active (selecting testing devices, evaluating). Teacher independent, learner dependent, content and methods intervening variables. (1.2)
+- An objective states what the learner will do. Mager: performance, condition, criterion; ABCD adds Audience. (1.3)
+- **Micro-teaching**: Stanford, Dwight W. Allen and colleagues, usually dated 1963; 5 to 10 pupils, 5 to 10 minutes, one skill. Cycle: plan, teach, feedback, re-plan, re-teach, re-feedback. Indian model: 6, 6, 12, 6, 6 = 36 minutes. (1.8)
+- **Flanders**: ten categories; 1 to 4 indirect (4 is asking questions), 5 to 7 direct, 8 and 9 student talk, 10 silence; a tally every 3 seconds; I/D = indirect / direct. (1.8)
+- Set induction opens the lesson; stimulus variation works throughout; probing deepens a partial answer. (1.8)
+- Effective teaching is judged by learning: interactive, feedback-based, flexible, democratic. Lewin, Lippitt and White: democratic groups worked even when the leader was away. (1.7)
+- Maxims run from the easier end: known to unknown, simple to complex, concrete to abstract, particular to general, whole to part. Inductive: particular to general; deductive: general to particular. (1.6)
+- Joyce and Weil: focus, syntax, social system, principles of reaction, support system. Concept attainment (Bruner), advance organiser (Ausubel), inquiry training (Suchman). (1.9)
+- NEP 2020: at least 50 hours of continuous professional development a year. (1.10)
+**Traps:** Herbart (memory) against Hunt (reflective); never "Herbert". Evaluation tops 1956, Create tops 2001. Sizing up the class is interactive, not post-active. Flanders category 4 is indirect. Bruner with concept attainment, Ausubel with advance organisers.
+
+::sub Revision Sheet 2: Learner's Characteristics
+- **Learning theories**: Pavlov, classical conditioning; Thorndike, trial and error, laws of readiness, exercise and effect; Skinner, operant conditioning; Köhler, insight; Tolman, latent learning; Bandura, observational learning (attention, retention, reproduction, motivation). (2.3)
+- Reinforcement increases behaviour; punishment decreases it. Negative reinforcement removes something unpleasant. Ratio schedules count responses; interval schedules count time. (2.3)
+- Gagné's hierarchy ends: discrimination, concept, rule, problem solving. Dewey: learning by doing. (2.3)
+- **Piaget**: sensorimotor (0 to 2), pre-operational (2 to 7), concrete operational (7 to 11), formal operational (11 or 12 onwards). Conservation marks the concrete stage. Order fixed, ages approximate. (2.2)
+- **Vygotsky**: the ZPD is the gap between what the learner does alone and with help. Scaffolding is temporary help (term from Wood, Bruner and Ross, 1976). (2.2)
+- **Bruner**: discovery; enactive, iconic, symbolic; spiral curriculum. **Ausubel**: meaningful reception learning; advance organiser given before the lesson. (2.2)
+- Miller: seven plus or minus two; chunking; distributed practice beats massed. (2.2)
+- **Adolescence**: Hall, storm and stress; Erikson, identity versus role confusion; Havighurst, developmental tasks; Marcia, diffusion, foreclosure, moratorium, achievement; Arnett, emerging adulthood (18 to 25). (2.1)
+- Maslow, from the base: physiological, safety, love and belonging, esteem, self-actualisation; the lower four are deficiency needs. Intrinsic reward lies inside the activity. (2.6)
+- Yerkes-Dodson: inverted U, moderate arousal best. Emotional intelligence: introduced by Salovey and Mayer, popularised by Goleman. (2.6)
+- **Andragogy** (Knowles): adults are self-directing, use experience, are ready when life roles demand, problem-centred, internally motivated. (2.7)
+- IQ = mental age / chronological age x 100. Spearman, g and s; Thurstone, primary mental abilities; Guilford, convergent and divergent; Cattell, fluid and crystallised; Gardner, multiple intelligences (eight, with naturalistic); Sternberg, triarchic. (2.8)
+- VARK (Fleming): Visual, Aural, Read/Write, Kinaesthetic. Kolb's cycle: concrete experience, reflective observation, abstract conceptualisation, active experimentation. (2.4)
+- Kohlberg: pre-conventional, conventional (stage 4, law and order), post-conventional. (2.5)
+- RPwD Act 2016: 21 disabilities; 5 per cent of higher education seats, 4 per cent of government vacancies. Inclusion changes the institution; integration does not. (2.9)
+**Traps:** Negative reinforcement is not punishment. The ZPD is the gap, not the potential level. Identity (adolescence) against intimacy (young adulthood). Readiness (life roles) against orientation (problem-centred). Interpersonal (others) against intrapersonal (oneself).
+
+::sub Revision Sheet 3: Factors Affecting Teaching
+- Six groups: teacher, learner, support material, instructional facilities, learning environment, institution. Place a factor by asking where it lives and who controls it. (3.1)
+- Subject mastery is necessary but not sufficient; no single factor "alone ensures" good teaching. (3.1)
+- Teacher factors: subject mastery, communication, questioning, warmth and enthusiasm, expectations. (3.2)
+- Pygmalion effect (Rosenthal and Jacobson, 1968): high expectations raise performance, a self-fulfilling prophecy. Golem effect: low expectations lower it. (3.2)
+- Learner factors: prior knowledge (entry behaviour), intelligence, interest (affective), anxiety (emotional), health, maturation and readiness. (3.3)
+- Support material is made for a lesson (chart, slides); relevance to the objective comes first, then suitability, accuracy, visibility. (3.4)
+- Facilities are lasting infrastructure (laboratory, library, projector, network); without a laboratory, psychomotor objectives suffer. Facilities enable but do not cause good teaching. (3.5)
+- Environment: physical (light, ventilation, seating, noise) and psychological (respect, freedom from fear). Noise distracts attention; it does not change intelligence. U-shaped seating suits discussion. (3.6)
+- Hawthorne effect: people improve because they know they are observed. John Henry effect: the control group competes. Halo effect: one trait colours other ratings. (3.6)
+- Institution factors: class size, timetable, workload, evaluation policy, leadership, climate (teacher morale). The Board of Studies frames the syllabus; the Academic Council approves it. (3.7)
+**Traps:** Support material against facility. Physical against psychological environment. Hawthorne (students' awareness) against Pygmalion (teacher's expectations). Interest is affective, not cognitive.
+
+::sub Revision Sheet 4: Methods of Teaching in Institutions of Higher Learning
+- Teacher-centred (lecture, demonstration): teacher transmits, learners passive. Learner-centred (project, problem-solving, discussion, case, role play): teacher facilitates; based on constructivism. No single best method. (4.1)
+- Approach is widest, technique smallest. (4.1)
+- **SWAYAM**: Study Webs of Active-Learning for Young Aspiring Minds; launched 9 July 2017; free, fee only for the proctored examination. Quadrants: e-Tutorial, e-Content, discussion forum, assessment. Credit transfer up to 40 per cent (2021 Regulations; 20 per cent in 2016). (4.6)
+- Coordinators: NPTEL engineering; CEC undergraduate non-technical; UGC postgraduate non-technical; IIM Bangalore management; NCERT and NIOS school. (4.6)
+- **SWAYAM PRABHA**: DTH channels, free on DD Free Dish, no internet, one-way, no credits. Began with 32 channels; 2026 sources give 40 or 48, so check before the examination. (4.6)
+- e-PG Pathshala (postgraduate) against ePathshala (NCERT, school); Shodhganga (theses) against Shodhgangotri (synopses). (4.6)
+- MOOC: massive, open, online, course; low completion. cMOOCs connectivist, xMOOCs instructor-led. (4.6)
+- Seminar: one paper in depth, chairperson. Symposium: several talks on different aspects, no conversation. Panel: experts converse, moderator. Workshop: hands-on product. (4.3)
+- Brainstorming (Osborn): defer judgement, aim at quantity. Team teaching: several teachers; peer tutoring: students teach students. (4.3)
+- Lecture: strength economy; weak in feedback and skills. Linear programming (Skinner): small steps, same path. Branching (Crowder): multiple-choice, remedial frames. (4.2)
+- Project method: Kilpatrick, after Dewey; purposing, planning, executing, evaluating. Dalton Plan: Parkhurst. Heuristic: Armstrong. PBL: McMaster, problem first. (4.4)
+- Mastery learning: Bloom. Keller Plan: self-paced units with proctors. (4.4)
+- Synchronous (live) against asynchronous (forum, recording). Flipped classroom: content at home, application in class; it is one model of blended learning. (4.5)
+**Traps:** Seminar, symposium and panel. Linear against branching. SWAYAM against SWAYAM PRABHA. Shodhganga against Shodhgangotri. Blended against flipped.
+
+::sub Revision Sheet 5: Teaching Support System
+- **Dale's Cone** (*Audiovisual Methods in Teaching*, 1946; eleven bands in 1969): base, direct purposeful experiences; then contrived, dramatised, demonstrations, study trips, exhibits, educational television, motion pictures, recordings and still pictures, visual symbols; apex, verbal symbols. (5.1)
+- Study trips lie above demonstrations. The retention percentages often printed on the cone are not Dale's. (5.1)
+- Bruner's modes on the cone: enactive (lowest three bands), iconic (middle), symbolic (visual and verbal symbols). (5.1)
+- Audio (radio, tape recorder); visual (chart, model, silent filmstrip); audio-visual (television, sound film). (5.1)
+- Projected (OHP, slides, epidiascope) against non-projected (chalkboard, chart, model, flash card). Too many aids overload working memory. (5.1)
+- Chalkboard: suits material that unfolds in the lesson; loses eye contact. A model represents; a specimen is real. (5.2)
+- OHP: transparencies, lit room, teacher faces class. Episcope: opaque material. Epidiascope: opaque and transparent. (5.3)
+- Language laboratory: listening and speaking practice. (5.3)
+- An LMS tracks each learner's progress. Moodle is open source; Google Classroom is proprietary. (5.4)
+- Webinar and video conferencing are synchronous; podcast and wiki are asynchronous. OER may be used, adapted and redistributed under an open licence. (5.4)
+**Traps:** The epidiascope is projected. Visual symbols are symbolic, not iconic. Free is not open source. Webinar (live) against podcast (on demand).
+
+::sub Revision Sheet 6: Evaluation Systems
+- Placement before, formative during, diagnostic for causes of persistent difficulty, summative at the end. The use of results decides the label. (6.3)
+- Norm-referenced: compared with others (percentile rank). Criterion-referenced: fixed standard (driving test). Ipsative: own earlier work. (6.3)
+- Scriven (1967): formative and summative. Glaser (1963): norm- and criterion-referenced. (6.3)
+- Test (instrument), measurement (numbers), assessment (evidence), evaluation (adds a value judgement; widest). (6.1)
+- Evaluation triangle: objectives, learning experiences, evaluation. Obtained score = true score + error. (6.1)
+- Validity matters most; reliability, objectivity, usability follow. Concurrent validity: criterion now; predictive: criterion later. Content validity: blueprint. (6.2)
+- Test-retest gives stability; parallel forms, equivalence; split-half and Kuder-Richardson, internal consistency. A test can be reliable without being valid, not valid without being reliable. (6.2)
+- Objective items sample widely; essay items sample narrowly and are scored subjectively. MCQ: stem, key, distractors. (6.4)
+- Facility value = (RU + RL) / 2n; high means easy. Discrimination = (RU - RL) / n. Correction for guessing: R - W / (n - 1). (6.4)
+- Percentile rank: percentage below, not percentage of marks. z = (X - mean) / SD; T = 50 + 10z. About 68 and 95 per cent lie within 1 and 2 SD. (6.5)
+- CCE: continuous (time), comprehensive (scholastic plus co-scholastic). Absolute grading is criterion-referenced; relative grading is norm-referenced. (6.6)
+- CBCS (UGC, 2015): one credit = one hour of lecture or two of practical a week. Core, DSE, GE, AECC, SEC. (6.7)
+- O 10, A+ 9, A 8, B+ 7, B 6, C 5, P 4, F 0, Ab 0; no D. SGPA = sum of (credits x grade points) / total credits. (6.7)
+- One year certificate, two years diploma. ABC stores credits; NAD stores awards. (6.7)
+- NTA, set up November 2017, conducts UGC NET as a computer-based test. Shifts are compared by normalisation. Adaptive tests change items during the test. (6.8)
+- Rubric: criteria, scale, descriptors. Portfolio: selection and reflection. On-demand: choice of timing. (6.9)
+**Traps:** A high difficulty index means an easy item. Percentile rank is not percentage. Relative grading is norm-referenced. Formative against diagnostic. P is 4, not 5.

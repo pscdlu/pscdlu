@@ -1,0 +1,338 @@
+::front Quick-Reference Tables
+These tables gather, in one place, the names, orders, full forms, dated facts and formulae taught in the chapters; the last column gives the section to reread.
+::sub Thinkers and what each is linked with
+The year is given only where the guide gives one. Where the guide says that a link is the one "Indian textbooks" make, the table keeps that caution.
+::table small widths=24,52,12,12
+|Thinker|Linked with|Year|See|
+|Allen, Dwight W. (and colleagues)|Micro-teaching, developed at Stanford University|1963 (the year usually given)|1.8|
+|Amidon, Edmund (with Hunter)|Teaching as "an interactive process, primarily involving classroom talk, between teacher and pupils"||1.1|
+|Anderson, Lorin and Krathwohl, David|Revised cognitive taxonomy: Remember to Create; knowledge dimension|2001|1.4|
+|Armstrong, H. E. (Henry Edward)|Heuristic method in science teaching||4.4|
+|Arnett, Jeffrey Jensen|Emerging adulthood (about 18 to 25)|2000|2.1|
+|Ausubel, David|Meaningful reception learning; advance organiser; subsumption; "what the learner already knows"|1968 (*Educational Psychology: A Cognitive View*)|2.2, 3.3|
+|Bandura, Albert|Observational learning (Bobo doll); attention, retention, reproduction, motivation; social cognitive theory; self-efficacy|1977 (self-efficacy)|2.3, 2.6, 3.2|
+|Bergmann, Jonathan and Sams, Aaron|Popularised the flipped classroom (*Flip Your Classroom*)|2007 (began recording lectures)|4.5|
+|Bigge, Morris L.|Three levels of teaching; "thoughtless" to "thoughtful"; *Learning Theories for Teachers*; with Hunt, *Psychological Foundations of Education* (1962)|1964|1.5|
+|Binet, Alfred (with Théodore Simon)|First workable intelligence scale; mental age|1905|2.8|
+|Bloom, Benjamin S.|*Taxonomy of Educational Objectives, Handbook I* (cognitive, with others); mastery learning; with Hastings and Madaus, formative and summative applied to student learning (1971)|1956|1.4, 4.4, 6.3|
+|Bourdieu, Pierre|Cultural capital: embodied, objectified, institutionalised ("The Forms of Capital")|1986|3.3|
+|Bruner, Jerome|Discovery learning; enactive, iconic, symbolic modes; spiral curriculum (*The Process of Education*, 1960); concept attainment model; scaffolding (with Wood and Ross, 1976)|1960; 1966 (*Toward a Theory of Instruction*)|1.9, 2.2|
+|Cattell, Raymond|Fluid and crystallised intelligence||2.8|
+|Chickering and Gamson|Seven principles for good practice in undergraduate education|1987|1.7|
+|Cronbach, Lee J. and Snow, Richard E.|Aptitude-treatment interaction (*Aptitudes and Instructional Methods*)|1977|3.3|
+|Cross, K. Patricia|Situational, institutional and dispositional barriers to adult learning||2.7|
+|Crowder|Branching programming (intrinsic programming)||4.2|
+|Dale, Edgar|Cone of Experience (*Audiovisual Methods in Teaching*)|1946 (first edition); 1969 (third edition)|5.1|
+|Das, J. P., Naglieri, Jack and Kirby, John|PASS theory of intelligence, drawing on A. R. Luria||2.8|
+|Dave, R. H.|Psychomotor taxonomy: five levels, Imitation to Naturalisation|usually dated 1970|1.4|
+|Deci, Edward and Ryan, Richard|Self-determination theory: autonomy, competence, relatedness||2.6|
+|Dewey, John|Reflective thinking in five steps (*How We Think*); learning by doing; progressive education; basis of project and problem-solving methods|1910 (*How We Think*)|1.5, 2.3, 4.4|
+|Dunkin and Biddle|Presage, context, process and product variables (*The Study of Teaching*)|1974|1.7|
+|Dweck, Carol|Fixed (entity) and growth (incremental) mindsets||2.6|
+|Elkind, David|Adolescent egocentrism: imaginary audience and personal fable|1967|2.1|
+|Erikson, Erik H.|Eight psychosocial stages; identity crisis (*Childhood and Society*)|1950|2.1|
+|Flanders|Interaction Analysis Categories (ten categories, a tally every three seconds); rule of two-thirds|late 1950s (University of Minnesota)|1.8|
+|Fleming, Neil|VARK questionnaire|1987|2.4|
+|Freire, Paulo|Critique of banking education; dialogue (*Pedagogy of the Oppressed*)||2.7|
+|Gage, N. L.|Teaching as "a form of interpersonal influence aimed at changing the behaviour potential of another person"; *The Scientific Basis of the Art of Teaching*|1978 (the book)|1.1|
+|Gagné, Robert M.|*The Conditions of Learning*; eight types of learning; nine events of instruction; five learned capabilities|1965|1.9, 2.3|
+|Gardner, Howard|Multiple intelligences (*Frames of Mind*): seven, later eight with naturalistic|1983|2.8|
+|Gilligan, Carol|Ethic of care, against Kohlberg's ethic of justice (*In a Different Voice*)|1982|2.5|
+|Glaser, Robert|Basic Teaching Model (1962); norm-referenced and criterion-referenced measurement (1963)|1962; 1963|1.9, 6.3|
+|Goleman, Daniel|Popularised emotional intelligence (*Emotional Intelligence*)|1995|2.6|
+|Gordon, William J. J.|Synectics (personal family)|1961|1.9|
+|Green, Thomas F.|Map (topology) of activities related to teaching, as Indian textbooks credit it (*The Activities of Teaching*)|1971 (the book)|1.1|
+|Gronlund, Norman E.|General objectives clarified by specific learning outcomes; evaluation formula that Indian textbooks attribute to him; "first aid" picture of formative evaluation, as Indian B.Ed. texts quote him||1.3, 6.1, 6.3|
+|Guilford, J. P.|Structure-of-intellect model; convergent and divergent production||2.8|
+|Hall, G. Stanley|Storm and stress (*Adolescence*)|1904|2.1|
+|Harrow, A. J.|Psychomotor taxonomy: six levels, Reflex movements to Non-discursive communication|1972|1.4|
+|Havighurst, Robert J.|Developmental tasks (*Developmental Tasks and Education*)|1948 (first edition)|2.1|
+|Herbart, Johann Friedrich|Memory level; apperception and apperceptive mass; four stages, later the five formal steps|1776--1841|1.5, 1.6|
+|Herzberg, Frederick|Two-factor theory: hygiene factors and motivators||2.6|
+|Hunt, Maurice P.|Reflective level (the name the examination and most Indian textbooks use); with Lawrence E. Metcalf, *Teaching High School Social Studies*|1955|1.5|
+|Jackson, Philip W.|Pre-active and interactive teaching (*Life in Classrooms*); the three phases are linked with him|1968|1.2|
+|Joyce, Bruce and Weil, Marsha|*Models of Teaching*; four families of models; focus, syntax, social system, principles of reaction, support system|1972|1.9|
+|Keller, Fred S.|Personalised System of Instruction (Keller Plan); "Good-bye, Teacher..."|1968|4.4|
+|Kilpatrick, William Heard|Project method: "a wholehearted purposeful activity proceeding in a social environment"|1918|4.4|
+|Knowles, Malcolm|Andragogy (popularised it); six assumptions about adult learners; self-directed learning; learning contract||2.7|
+|Kohlberg, Lawrence|Three levels and six stages of moral reasoning; Heinz dilemma||2.5|
+|Köhler, Wolfgang|Insight (the chimpanzee Sultan); Gestalt psychology||2.3|
+|Kolb, David A.|Experiential learning cycle; diverging, assimilating, converging, accommodating styles (*Experiential Learning*)|1984|2.4|
+|Kounin, Jacob|Withitness, overlapping, momentum, smoothness (*Discipline and Group Management in Classrooms*)|1970|1.7|
+|Krathwohl, Bloom and Masia|Affective taxonomy, *Handbook II*: Receiving to Characterisation|1964|1.4|
+|Kuder, G. F. and Richardson, M. W.|KR-20 and KR-21 reliability formulas|1937|6.2|
+|Lewin, Kurt|Leadership styles (with Lippitt and White, 1939); field theory, B = f(P, E); action research|1939 (leadership studies)|1.7, 2.3, 4.4|
+|Mager, Robert F.|Three-part objective: performance, condition, criterion (*Preparing Objectives for Programmed Instruction*)|1962|1.3|
+|Marcia, James|Identity statuses: diffusion, foreclosure, moratorium, achievement|1966|2.1|
+|Maslow, Abraham|Hierarchy of needs; deficiency and growth needs||2.6|
+|McClelland, David|Need for achievement (n-Ach); needs for achievement, affiliation and power||2.6|
+|Mezirow, Jack|Transformative learning; disorienting dilemma; perspective transformation||2.7|
+|Mishra and Koehler|TPACK (Technological Pedagogical Content Knowledge)|2006|1.8|
+|Morrison, Henry Clinton|Understanding level; unit plan and mastery formula (*The Practice of Teaching in the Secondary School*); teaching as contact of "a more mature personality and a less mature one"|1926 (the book); 1934 (the definition)|1.1, 1.5|
+|Osborn, Alex F.|Brainstorming (*Applied Imagination*)||4.3|
+|Parkhurst, Helen|Dalton Plan||4.4|
+|Pashler, McDaniel, Rohrer and Bjork|Review finding little sound evidence for the meshing hypothesis of learning styles|2008|2.4|
+|Passi, B. K.|Indian model of micro-teaching (with NCERT)||1.8|
+|Pavlov, Ivan|Classical conditioning||2.3|
+|Piaget, Jean|Four stages; schema, assimilation, accommodation, equilibration; cognitive constructivism; heteronomous and autonomous morality||2.2, 2.5|
+|Puentedura, Ruben|SAMR model of technology use||1.8, 5.4|
+|Rogers, Carl|Non-directive teaching (personal family); teacher as facilitator||1.9, 2.6|
+|Rosenthal and Jacobson|Pygmalion effect (*Pygmalion in the Classroom*, "Oak School")|1968|3.2|
+|Salovey, Peter and Mayer, John|Introduced the term emotional intelligence|1990|2.6|
+|Scriven, Michael|Introduced formative and summative evaluation, for curricula and programmes ("The methodology of evaluation")|1967|6.3|
+|Shulman, Lee|Pedagogical content knowledge (PCK)|1986|1.8|
+|Siemens, George and Downes, Stephen|Connectivism; the first cMOOC, CCK08|2008 (CCK08)|2.3, 4.6|
+|Simpson, E. J.|Psychomotor taxonomy: seven levels, Perception to Origination|1972|1.4|
+|Skinner, B. F.|Operant conditioning; schedules of reinforcement; programmed instruction; linear programming||2.3, 4.2|
+|Slavin, Robert|STAD; group goals with individual accountability||4.3|
+|Smith, B. O.|Teaching as "a system of actions intended to induce learning"||1.1|
+|Spearman, Charles|Two-factor theory (g and s); Spearman-Brown formula (with William Brown, in separate papers)|1910 (Spearman-Brown)|2.8, 6.2|
+|Sternberg, Robert|Triarchic theory: analytical, creative, practical||2.8|
+|Suchman|Inquiry training model||1.9|
+|Terman, Lewis (and William Stern)|Stern divided mental age by chronological age; Terman multiplied by 100 in the Stanford-Binet (IQ)||2.8|
+|Thorndike, E. L. (Edward Lee)|Trial and error; connectionism; laws of readiness, exercise and effect; named the halo effect (1920)|1920 (halo effect)|2.3, 3.6|
+|Thurstone, L. L.|Seven primary mental abilities||2.8|
+|Tolman, Edward C.|Latent learning; cognitive map||2.3|
+|Tomlinson, Carol Ann|Differentiated instruction: content, process, product, learning environment||2.9|
+|Tyler, Ralph W.|*Basic Principles of Curriculum and Instruction*; objectives-based evaluation; basis of the evaluation triangle|1949|1.3, 6.1|
+|Vroom, Victor|Expectancy theory: expectancy, instrumentality, valence||2.6|
+|Vygotsky, Lev|Zone of proximal development; social constructivism; private and inner speech (*Mind in Society*)|1978 (in English)|2.2|
+|Wechsler, David|Deviation IQ (mean 100, SD 15)||2.8|
+|Yerkes and Dodson|Inverted-U law of arousal and performance|1908|2.6|
+|Zimmerman, Barry|Self-regulation cycle: forethought, performance, self-reflection||2.4|
+::sub Levels, stages and sequences to learn in order
+Each order runs from first to last, or from lowest to highest, as the guide teaches it.
+::table small widths=26,62,12
+|Sequence|Order|See|
+|Teaching continuum (least to most use of understanding)|Conditioning, Training, Instruction, Teaching|1.1|
+|Phases of teaching (Jackson)|Pre-active, Interactive, Post-active (no "reactive" phase)|1.2|
+|Functions of teaching|Diagnostic, Prescriptive, Evaluative|1.2|
+|Aims to objectives (broad to narrow)|Aim, Goal, Instructional objective, Learning outcome|1.3|
+|Bloom's cognitive domain, 1956 (lowest to highest)|Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation|1.4|
+|Revised cognitive domain, 2001 (lowest to highest)|Remember, Understand, Apply, Analyse, Evaluate, Create|1.4|
+|Affective domain, Krathwohl, Bloom and Masia, 1964 (lowest to highest)|Receiving, Responding, Valuing, Organisation, Characterisation by a value or value complex|1.4|
+|Psychomotor domain, Dave (5 levels)|Imitation, Manipulation, Precision, Articulation, Naturalisation|1.4|
+|Psychomotor domain, Simpson (7 levels)|Perception, Set, Guided response, Mechanism, Complex overt response, Adaptation, Origination|1.4|
+|Psychomotor domain, Harrow (6 levels)|Reflex movements, Basic fundamental movements, Perceptual abilities, Physical abilities, Skilled movements, Non-discursive communication|1.4|
+|Levels of teaching (lowest to highest)|Memory (Herbart), Understanding (Morrison), Reflective (Hunt)|1.5|
+|Herbart's own four stages|Clearness, Association, System, Method|1.5|
+|Herbartian five formal steps|Preparation (ending with statement of aim), Presentation, Comparison and association, Generalisation, Application|1.5|
+|Morrison's mastery formula|Pre-test, teach, test the result, adapt procedure, teach and test again to the point of actual learning|1.5|
+|Morrison's five steps (E-P-A-O-R)|Exploration, Presentation, Assimilation, Organisation, Recitation|1.5|
+|Reflective-level teaching|Recognising and defining the problem, Formulating hypotheses, Testing the hypotheses, Drawing conclusions|1.5|
+|Dewey's five steps of reflective thinking (*How We Think*)|Felt difficulty, Location and definition, Suggestion of a possible solution, Development by reasoning of its bearings, Further observation and experiment|1.5, 4.4|
+|Micro-teaching cycle|Plan, Teach, Feedback, Re-plan, Re-teach, Re-feedback|1.8|
+|Indian model of micro-teaching, minutes|Teach 6, Feedback 6, Re-plan 12, Re-teach 6, Re-feedback 6; total 36 (initial planning not counted)|1.8|
+|Phases of a micro-teaching programme|Knowledge acquisition, Skill acquisition, Transfer|1.8|
+|Glaser's Basic Teaching Model|Instructional objectives, Entering behaviour, Instructional procedures, Performance assessment|1.9|
+|Concept attainment model|Presentation of data and identification of the concept, Testing attainment of the concept, Analysis of thinking strategies|1.9|
+|Gagné's nine events of instruction|Gaining attention, Informing learners of the objective, Stimulating recall of prior learning, Presenting the stimulus, Providing learning guidance, Eliciting performance, Providing feedback, Assessing performance, Enhancing retention and transfer|1.9, 2.3|
+|Erikson's stages around the college years|4 Industry versus inferiority (school age), 5 Identity versus role confusion (adolescence), 6 Intimacy versus isolation (young adulthood), 7 Generativity versus stagnation (middle adulthood)|2.1|
+|Piaget's stages|Sensorimotor (birth to 2), Pre-operational (2 to 7), Concrete operational (7 to 11), Formal operational (11 or 12 onwards)|2.2|
+|Vygotsky's development of speech|Social speech, Private speech, Inner speech|2.2|
+|Bruner's modes of representation|Enactive, Iconic, Symbolic|2.2|
+|Multi-store model of memory (Atkinson and Shiffrin)|Sensory register, Short-term (working) memory, Long-term memory|2.2|
+|Gagné's eight types of learning (simplest to most complex)|Signal learning, Stimulus-response learning, Chaining, Verbal association, Discrimination learning, Concept learning, Rule (principle) learning, Problem solving|2.3|
+|Bandura's processes of observational learning|Attention, Retention, Reproduction, Motivation|2.3|
+|Kolb's experiential learning cycle|Concrete experience, Reflective observation, Abstract conceptualisation, Active experimentation|2.4|
+|SQ3R (Robinson)|Survey, Question, Read, Recite, Review|2.4|
+|Zimmerman's self-regulation cycle|Forethought, Performance, Self-reflection|2.4|
+|Kohlberg's moral reasoning|Pre-conventional (1 punishment and obedience; 2 self-interest), Conventional (3 approval of others; 4 law and order), Post-conventional (5 social contract; 6 universal ethical principles)|2.5|
+|Maslow's hierarchy (base to top)|Physiological, Safety, Love and belonging, Esteem, Self-actualisation|2.6|
+|Learner autonomy (increasing)|Pedagogy, Andragogy, Heutagogy|2.7|
+|Mezirow's transformative learning|Disorienting dilemma, Critical reflection, Perspective transformation|2.7|
+|Seminar session|Chairperson introduces theme and speaker, Paper presented, Discussion (often a discussant first), Chairperson sums up|4.3|
+|Kilpatrick's project method|Purposing, Planning, Executing, Evaluating|4.4|
+|Problem-solving method|Recognising and defining the problem, Collecting data, Forming hypotheses, Testing hypotheses, Drawing a conclusion|4.4|
+|Polya's problem solving|Understand the problem, Devise a plan, Carry out the plan, Look back|4.4|
+|Action research (Lewin)|Plan, Act, Observe, Reflect, then plan again|4.4|
+|Dale's Cone of Experience, 1969 (bottom, most concrete, to top, most abstract)|Direct purposeful experiences, Contrived experiences, Dramatised experiences, Demonstrations, Study trips, Exhibits, Educational television, Motion pictures, Recordings radio and still pictures, Visual symbols, Verbal symbols|5.1|
+|Using a film in class|Preview, Prepare the class, Show, Follow up|5.1|
+|SAMR (Puentedura)|Substitution, Augmentation, Modification, Redefinition|5.4|
+|Narrow to broad|Measurement, Assessment, Evaluation (and Test, Measurement, Evaluation: instrument, process, judgement)|6.1|
+|Steps of evaluation|Formulating objectives, Providing learning experiences, Applying tools of evaluation, Interpreting results|6.1|
+|CIPP model (Stufflebeam)|Context, Input, Process, Product|6.1|
+|Constructing an achievement test|Planning (blueprint), Writing items, Try-out, Item analysis, Assembling the final form|6.4|
+|Steps of diagnosis|Identify students in difficulty, Locate the areas, Find the causes, Plan remedial instruction|6.3|
+|Scales of measurement (Stevens)|Nominal, Ordinal, Interval, Ratio|6.5|
+|Multiple exit in the four-year undergraduate programme|One year: certificate; two years: diploma; three years: bachelor's degree; four years: bachelor's (honours or honours with research)|6.7|
+|NHEQF levels|4.5 certificate, 5 diploma, 5.5 bachelor's (three years), 6 bachelor's honours (four years) and postgraduate diploma, 6.5 master's, 7 master's such as M.Tech. after a four-year bachelor's, 8 doctorate|6.7|
+::sub Acronyms and full forms
+::table small widths=18,70,12
+|Acronym|Full form|See|
+|ABC|Academic Bank of Credits|4.6, 6.7|
+|ABCD|Audience, Behaviour, Condition, Degree (format for objectives)|1.3|
+|AEC|Ability Enhancement Course (CCFUP 2022)|6.7|
+|AECC|Ability Enhancement Compulsory Course (CBCS 2015)|6.7|
+|AICTE|All India Council for Technical Education|4.6|
+|AQAR|Annual Quality Assurance Report|3.7|
+|ARCS|Attention, Relevance, Confidence, Satisfaction (Keller)|2.6|
+|ATI|Aptitude-treatment interaction|3.3|
+|CA / MA|Chronological age / Mental age|2.8|
+|CAI|Computer-assisted instruction|5.4|
+|CAS|Cognitive Assessment System|2.8|
+|CAT|Computerised adaptive test|6.8|
+|CBCS|Choice Based Credit System|6.7|
+|CBSE|Central Board of Secondary Education|6.6, 6.8|
+|CBT|Computer Based Test|6.8|
+|CC (BY, SA, NC, ND)|Creative Commons (Attribution, ShareAlike, NonCommercial, NoDerivatives)|5.4|
+|CCE|Continuous and Comprehensive Evaluation|6.6|
+|CCFUP|Curriculum and Credit Framework for Undergraduate Programmes|6.7|
+|CEC|Consortium for Educational Communication|4.6|
+|CGPA|Cumulative Grade Point Average|6.7|
+|CIET|Central Institute of Educational Technology (NCERT)|4.6|
+|CIPP|Context, Input, Process, Product|6.1|
+|cMOOC / xMOOC|Connectivist MOOC / structured, instructor-led MOOC|4.6|
+|COs, POs, PSOs, PEOs|Course outcomes, Programme outcomes, Programme-specific outcomes, Programme educational objectives|1.3|
+|CPD|Continuous professional development|1.10|
+|CRT / NRT|Criterion-referenced test / Norm-referenced test|6.3|
+|DIKSHA|Digital Infrastructure for Knowledge Sharing|4.6|
+|DSE / GE|Discipline Specific Elective / Generic Elective|6.7|
+|DTH|Direct-to-home (television)|4.6|
+|ERG|Existence, Relatedness, Growth (Alderfer)|2.6|
+|FIAC (FIACS)|Flanders' Interaction Analysis Categories (FIACS when the category system is meant)|1.8|
+|ICT|Information and Communication Technology|5.4|
+|IGNOU|Indira Gandhi National Open University|4.6|
+|IIMB|IIM Bangalore|4.6|
+|INFLIBNET|Information and Library Network (Centre, Gandhinagar)|4.6|
+|INI|Institutions of National Importance|4.6|
+|IQ|Intelligence quotient|2.8|
+|IQAC|Internal Quality Assurance Cell|3.7|
+|IRINS|Indian Research Information Network System|4.6|
+|IRT|Item response theory|6.8|
+|KR-20, KR-21|Kuder-Richardson formulas 20 and 21|6.2|
+|LMS|Learning management system|5.4|
+|LOCF|Learning Outcomes-based Curriculum Framework|6.9|
+|LOFT|Linear-on-the-fly testing|6.8|
+|MDC|Multidisciplinary courses (CCFUP 2022)|6.7|
+|MHRD|Ministry of Human Resource Development (now Ministry of Education)|4.6|
+|MIL|Modern Indian Language|6.7|
+|MKO|More knowledgeable other|2.2|
+|MOOC|Massive open online course|4.6|
+|Moodle|Modular Object-Oriented Dynamic Learning Environment|5.4|
+|n-Ach|Need for achievement (McClelland)|2.6|
+|NAAC|National Assessment and Accreditation Council|3.7|
+|NAD|National Academic Depository|4.6, 6.7|
+|NCERT|National Council of Educational Research and Training|4.6|
+|NCrF|National Credit Framework|6.7|
+|NDLI|National Digital Library of India|4.6|
+|NEP 2020|National Education Policy 2020|4.1, 6.9|
+|NETF|National Educational Technology Forum|4.6|
+|NHEQF|National Higher Education Qualifications Framework|6.7|
+|NIOS|National Institute of Open Schooling|4.6, 6.9|
+|NIRF|National Institutional Ranking Framework|4.6|
+|NITTTR|National Institute of Technical Teachers Training and Research|4.6|
+|NME-ICT|National Mission on Education through ICT|4.6|
+|NPTEL|National Programme on Technology Enhanced Learning|4.6|
+|NTA|National Testing Agency|6.8|
+|OBE|Outcome-based education|1.3|
+|OER|Open educational resources|5.4|
+|OMR|Optical mark recognition|6.8|
+|ONOS|One Nation One Subscription|4.6|
+|PASS|Planning, Attention-arousal, Simultaneous processing, Successive processing|2.8|
+|PBL|Problem-based learning|4.4|
+|PCK|Pedagogical content knowledge|1.8|
+|PR|Percentile rank|6.5|
+|PSI|Personalised System of Instruction (Keller Plan)|4.4|
+|RCEM|Regional College of Education, Mysore (approach to objectives)|1.3|
+|RPwD Act|Rights of Persons with Disabilities Act, 2016|2.9|
+|RTE Act|Right of Children to Free and Compulsory Education Act, 2009|2.9, 6.6|
+|SAMR|Substitution, Augmentation, Modification, Redefinition|5.4|
+|SD|Standard deviation|6.5|
+|SEC|Skill Enhancement Course|6.7|
+|SEM|Standard error of measurement|6.2|
+|SGPA|Semester Grade Point Average|6.7|
+|SLM|Self-learning material|5.4|
+|SPOC|Small private online course|4.6|
+|SQ3R|Survey, Question, Read, Recite, Review|2.4|
+|STAD|Student Teams-Achievement Divisions|4.3|
+|SWAYAM|Study Webs of Active-Learning for Young Aspiring Minds|4.6|
+|TPACK|Technological Pedagogical Content Knowledge|1.8|
+|UCS, UCR, CS, CR|Unconditioned stimulus, Unconditioned response, Conditioned stimulus, Conditioned response|2.3|
+|UDL|Universal Design for Learning|2.9|
+|UGC|University Grants Commission|4.6, 6.7|
+|VAC|Value-Added Courses (CCFUP 2022)|6.7|
+|VARK|Visual, Aural, Read/Write, Kinaesthetic|2.4|
+|ZPD|Zone of proximal development|2.2|
+::sub Dates and official facts
+These are the positions printed in the guide, checked in October 2026. Facts that can change are listed again, with where to check them, in "Facts to Recheck before Your Examination".
+::table small widths=32,56,12
+|Fact|Position as given in the guide|See|
+|Bloom's taxonomy in current use|Revised taxonomy of Anderson and Krathwohl (2001), Create at the top; cognitive handbook 1956, affective handbook 1964|1.4|
+|NEP 2020: teachers' professional development|At least 50 hours of continuous professional development a year for every teacher; school principals and school complex leaders 50 hours or more|1.10|
+|NEP 2020: school teacher qualification|By 2030 the minimum degree qualification for school teaching will be a four-year integrated B.Ed. (a target date)|1.10|
+|UGC Code of Professional Ethics|The one in the UGC Regulations of 2018; older books may quote an earlier version|1.10|
+|RPwD Act, 2016|21 specified disabilities; benchmark disability not less than 40 per cent; not less than 5 per cent of seats in government and government-aided higher education, with 5 years' upper age relaxation (Section 32); not less than 4 per cent of vacancies in government employment (Section 34); assent December 2016, in force April 2017. The 1995 Act: 7 disabilities and 3 per cent|2.9|
+|RTE Act, 2009|Section 29(2)(h): "comprehensive and continuous evaluation"; free and compulsory education for children aged 6 to 14|2.9, 6.6|
+|Hawthorne effect|Named after studies of 1924 to 1932 at the Western Electric Company's Hawthorne Works; John Henry effect named by Gary Saretsky in 1972; halo effect named by Edward Thorndike in 1920|3.6|
+|IQAC and NAAC|NAAC asks every accredited institution to set up an IQAC, which submits an AQAR each year; NAAC's framework has been under revision, so do not rely on older grading scales|3.7|
+|SWAYAM launch|9 July 2017, by the President of India, at the National Convention on Digital Initiatives, with 32 SWAYAM PRABHA channels and the National Academic Depository|4.6|
+|SWAYAM National Coordinators|Ten (NPTEL, UGC, AICTE, CEC, IGNOU, IIMB, NITTTR, INI, NCERT, NIOS), per the PIB backgrounder of March 2026; older sources list nine, without INI; Banaras Hindu University designated for INI in 2025|4.6|
+|SWAYAM PRABHA channels|Began with 32 (2017); later 34, then 40. In 2026 official sources disagree: 48 in the PIB backgrounder of 10 March 2026 and a PIB document of June 2026; 40 on the SWAYAM PRABHA website and in a PIB factsheet of August 2026|4.6|
+|SWAYAM PRABHA delivery|24 hours a day, 7 days a week; GSAT-15; uplinked from BISAG-N, Gandhinagar; free on DD Free Dish; at least four hours of new content daily, repeated five more times|4.6|
+|SWAYAM credit transfer|Up to 40 per cent of the total courses in a programme in a semester (UGC Regulations, 2021, Gazette 25 March 2021); the 2016 Regulations (19 July 2016) allowed 20 per cent; a Lok Sabha reply of July 2026 still gave 40 per cent|4.6|
+|SWAYAM four quadrants|e-Tutorial, e-Content, Discussion forum, Assessment; revised SWAYAM Guidelines approved in 2024 (circulated May 2024)|4.6|
+|SWAYAM certificate fee|Charged for the proctored examination; usually Rs 1,000 per course on NPTEL pages, set course by course|4.6|
+|SWAYAM Plus|Separate platform for industry-relevant and skill courses, launched February 2024, operated by IIT Madras|4.6|
+|NPTEL|Started 2003 by seven IITs and IISc Bangalore; National Coordinator for engineering|4.6|
+|DIKSHA|Launched 5 September 2017; led by NCERT|4.6|
+|ShodhShuddhi|Began 2019 with Urkund (later Ouriginal) until 30 September 2023; DrillBit since 1 November 2023|4.6|
+|One Nation One Subscription|Approved by the Union Cabinet 25 November 2024; operational from 1 January 2025; INFLIBNET the implementing agency; about 13,000 e-journals of 30 publishers; builds on e-ShodhSindhu (December 2015)|4.6|
+|NDLI|Pilot from 2015; nationally launched 19 June 2018; developed at IIT Kharagpur|4.6|
+|Dale's cone editions|1946: ten bands; 1954: "dramatised experiences" and television; 1969: eleven bands, related to Bruner's modes; the retention percentages are not Dale's (traced by Subramony and others, 2014)|5.1|
+|Moodle and Creative Commons|Moodle: free, open-source, GNU General Public License version 3; Creative Commons current version 4.0|5.4|
+|CBSE and CCE|Grading with CCE in Classes IX and X from 2009--10; board examination for Class X restored from 2017--18|6.6|
+|UGC CBCS grading (2015)|O 10, A+ 9, A 8, B+ 7, B 6, C 5, P 4, F 0, Ab 0; no D grade; SGPA and CGPA to two decimal places|6.7|
+|Definition of a credit|2015: one hour of lecture or tutorial, or two hours of practical, per week; CCFUP (December 2022): 15 hours theory or 30 hours practical per semester; NCrF: 30 notional learning hours, 1,200 hours a year = 40 credits|6.7|
+|Course categories|CBCS 2015: core, DSE, GE, AECC, SEC; CCFUP 2022: major, minor, MDC, AEC, SEC, VAC, internship|6.7|
+|Academic Bank of Credits|UGC Regulations, 2021|6.7|
+|NHEQF|Higher education qualifications on levels 4.5 to 8; doctorate at level 8|6.7|
+|National Testing Agency|Set up November 2017; first conducted UGC NET in 2018, as a computer-based test; the mode is fixed by the NTA information bulletin|6.8|
+|NEP 2020, paragraph 4.34|Assessment to shift from summative, rote-memory testing to regular, formative, competency-based assessment of higher-order skills|6.9|
+|UGC Evaluation Reforms|Evaluation Reforms in Higher Educational Institutions (2019)|6.9|
+::sub Formulae
+Work every formula as the guide's worked examples do, with the steps written out.
+::table small widths=40,48,12
+|Formula|Meaning of symbols|See|
+|Higher-order share = (items at higher-order levels / total items) x 100|Higher-order usually Analyse, Evaluate, Create, unless the question says otherwise|1.4|
+|One micro-teaching cycle = 6 + 6 + 12 + 6 + 6 = 36 minutes; complete cycles = session minutes / 36 (whole number only)|Teach, feedback, re-plan, re-teach, re-feedback (Indian model)|1.8|
+|Teacher talk % = (categories 1 to 7) / total x 100; Student talk % = (8 + 9) / total x 100; Silence % = 10 / total x 100|Flanders tallies; total includes all ten categories|1.8|
+|I/D ratio = (tallies in 1 to 4) / (tallies in 5 to 7)|Indirect over direct; below 1 means more direct|1.8|
+|Time observed (minutes) = total tallies x 3 / 60 = total / 20|One tally every 3 seconds|1.8|
+|Rule of two-thirds: teacher talk share of class time = 2/3 x 2/3 = 4/9 (about 44 per cent); direct teacher talk = 8/27 (about 30 per cent)|Flanders|1.8|
+|B = f(P, E)|Behaviour is a function of the person and the psychological environment (Lewin)|2.3|
+|Motivation = expectancy of success x value of the goal|Expectancy-value theory|2.6|
+|Motivational force = expectancy x instrumentality x valence|Vroom; multiplied, so one zero makes the force zero|2.6|
+|IQ = (MA / CA) x 100; MA = IQ x CA / 100; CA = MA x 100 / IQ|MA mental age, CA chronological age, in the same units (months if needed)|2.8|
+|Deviation IQ = 100 + 15 x z|z = (person's score - mean of age group) / SD of age group|2.8|
+|Completion rate = completers / base|Base is enrolments or starters; say which|4.6|
+|Evaluation = measurement + value judgement; fuller form that Indian textbooks attribute to Gronlund: quantitative description + qualitative description + value judgements|Measurement is the quantitative description|6.1|
+|Obtained score = true score + error|Classical test theory|6.1|
+|Full-test reliability = 2r / (1 + r)|Spearman-Brown; r = correlation between the two halves|6.2|
+|Reliability of a test n times as long = n r / (1 + (n - 1) r)|r = present reliability|6.2|
+|KR-20 = [k / (k - 1)] x [1 - (sum of pq) / s²]|k items; p proportion right on an item; q = 1 - p; s² variance of total scores|6.2|
+|KR-21 = [k / (k - 1)] x [1 - M (k - M) / (k s²)]|M mean of total scores; assumes equal item difficulty|6.2|
+|SEM = SD x square root of (1 - r)|r reliability; obtained score plus or minus 1 SEM about 68 per cent, plus or minus 1.96 SEM about 95 per cent|6.2|
+|Highest possible validity = square root of reliability|The index of reliability|6.2|
+|Reliability = 1 - (error variance / total variance)|Explains restriction of range|6.2|
+|Attainment of an outcome = students reaching the level / students in class x 100|Compare with the target|6.3|
+|Facility value FV = (RU + RL) / (2n)|RU, RL right in upper and lower groups; n size of one group; groups usually 27 per cent each|6.4|
+|Discrimination index DI = (RU - RL) / n|Divide by one group only; runs from -1 to +1|6.4|
+|Highest possible DI = 2 x the smaller of FV and (1 - FV)|Equal groups|6.4|
+|Corrected score S = R - W / (n - 1)|R right, W wrong, n options per item; omitted items not counted|6.4|
+|Chance score = number of items x 1 / number of options|Expected score by blind guessing|6.4|
+|Mean = sum of scores / number of scores|Median is the middle score after ordering; mode the most frequent|6.5|
+|Variance = sum of squared deviations from the mean / N; SD = square root of variance|Some books divide by N - 1 for a sample|6.5|
+|PR = number scoring below / number in group x 100|Percentile rank as defined in 6.5 (6.8 notes the "at or below" convention used for shift percentiles)|6.5, 6.8|
+|z = (X - mean) / SD; T = 50 + 10z|X raw score|6.5|
+|r = (sum of dx dy) / square root of [(sum of dx²) x (sum of dy²)]|dx, dy deviations from the means of X and Y|6.5|
+|Shared variance = r²|r = 0.60 gives 0.36|6.5|
+|Normal curve|Mean to 1 SD: 34.13 per cent; within 1 SD: 68.27; within 2 SD: 95.45; within 3 SD: 99.73|6.5|
+|Indicative percentage = grade point average x 9.5|CBSE school CCE scheme only; not a CBCS rule|6.6|
+|Credits per week = lecture and tutorial hours + practical hours / 2|2015 UGC definition|6.7|
+|Credit points = credits x grade point|For one course|6.7|
+|SGPA = sum of (Ci x Gi) / sum of Ci|Ci credits of the ith course, Gi grade point; F and Ab stay in the denominator|6.7|
+|CGPA = sum of (semester credits x SGPA) / total credits|Weight each semester by its credits|6.7|
+|Required SGPA = [(credits so far + next credits) x target CGPA - credits so far x present CGPA] / next credits|Target-grade problems|6.7|
+|Weighted rubric score = sum of (weight x criterion score)|Weights as fractions|6.9|
+|Member's mark = group mark x member's average peer rating / group's average rating|Group-work contribution factor|6.9|
